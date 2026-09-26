@@ -466,13 +466,43 @@ body {
 
             <div class="side-card">
 
-                <strong>
-                    Hyderabad Pharma
-                </strong>
+                <div class="side-card">
 
-                <span>
-                    Latest local industry development
-                </span>
+    <strong>
+        📍 Hyderabad Pharma
+    </strong>
+
+    <span id="hyderabadNews">
+        Loading...
+    </span>
+
+</div>
+
+
+<div class="side-card">
+
+    <strong>
+        ⚓ Vizag / AP
+    </strong>
+
+    <span id="vizagNews">
+        Loading...
+    </span>
+
+</div>
+
+
+<div class="side-card">
+
+    <strong>
+        🇮🇳 India Pharma
+    </strong>
+
+    <span id="indiaNews">
+        Loading...
+    </span>
+
+</div>
 
             </div>
 
@@ -665,45 +695,180 @@ body {
 </div>
 <script>
 
+<script>
+
 async function loadNews() {
 
     try {
 
-        const response = await fetch("data.json");
+        const response = await fetch(
+            "data.json?time=" + Date.now()
+        );
 
         const data = await response.json();
 
-        console.log("News loaded:", data);
-
         const articles = data.articles || [];
 
-        /*
-        We will connect the real articles
-        to the dashboard in the next step.
-        */
-
         console.log(
-            "Total articles:",
+            "Live articles:",
             articles.length
         );
 
+
+        /*
+        -----------------------------
+        FIND ARTICLES BY REGION
+        -----------------------------
+        */
+
+        const hyderabad =
+            articles.filter(
+                a => a.category === "Hyderabad"
+            );
+
+        const vizag =
+            articles.filter(
+                a => a.category === "Vizag / AP"
+            );
+
+        const india =
+            articles.filter(
+                a => a.category === "India"
+            );
+
+        const global =
+            articles.filter(
+                a => a.category === "Global"
+            );
+
+
+        /*
+        -----------------------------
+        TOP STORY
+        -----------------------------
+        */
+
+        if (articles.length > 0) {
+
+            const top = articles[0];
+
+            document.getElementById(
+                "topTitle"
+            ).innerHTML =
+                `<a href="${top.link}"
+                target="_blank"
+                style="color:inherit;text-decoration:none;">
+                ${top.title}
+                </a>`;
+
+
+            document.getElementById(
+                "topDescription"
+            ).textContent =
+                top.description ||
+                "Latest pharma and chemical industry development.";
+
+
+            document.getElementById(
+                "topMeta"
+            ).textContent =
+                `${top.category} · ${top.source}`;
+
+        }
+
+
+        /*
+        -----------------------------
+        REGIONAL CARDS
+        -----------------------------
+        */
+
+        function showLatest(
+            list,
+            elementId
+        ) {
+
+            const element =
+                document.getElementById(
+                    elementId
+                );
+
+            if (!element)
+                return;
+
+
+            if (list.length === 0) {
+
+                element.textContent =
+                    "No major development detected.";
+
+                return;
+
+            }
+
+
+            const article =
+                list[0];
+
+
+            element.innerHTML =
+                `<a href="${article.link}"
+                target="_blank"
+                style="color:inherit;text-decoration:none;">
+                ${article.title}
+                </a>`;
+
+        }
+
+
+        showLatest(
+            hyderabad,
+            "hyderabadNews"
+        );
+
+
+        showLatest(
+            vizag,
+            "vizagNews"
+        );
+
+
+        showLatest(
+            india,
+            "indiaNews"
+        );
+
+
+        /*
+        -----------------------------
+        LAST UPDATED
+        -----------------------------
+        */
+
         if (data.updated) {
 
-            const date = new Date(data.updated);
+            const date =
+                new Date(data.updated);
+
 
             document.querySelector(
                 ".footer span:last-child"
             ).textContent =
                 "Last updated: " +
-                date.toLocaleString("en-IN") +
+                date.toLocaleString(
+                    "en-IN"
+                ) +
                 " · Auto refresh: 60 min";
 
         }
 
-    } catch (error) {
+
+    }
+
+    catch (error) {
 
         console.error(
-            "Unable to load news:",
+            "News loading error:",
             error
         );
 
@@ -711,7 +876,25 @@ async function loadNews() {
 
 }
 
+
+/*
+LOAD NEWS
+*/
+
 loadNews();
+
+
+/*
+REFRESH PAGE DATA
+EVERY 5 MINUTES
+*/
+
+setInterval(
+    loadNews,
+    5 * 60 * 1000
+);
+
+</script>
 
 </script>
 </body>
