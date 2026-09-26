@@ -9,145 +9,161 @@ import time
 
 
 # ============================================================
-# SRI ADITYA PHARMACHEM - MD INTELLIGENCE
+# SRI ADITYA PHARMACHEM - MD INTELLIGENCE ENGINE
 # ============================================================
 
 FEEDS = {
     "Hyderabad": [
         "https://news.google.com/rss/search?q=Hyderabad+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Hyderabad+pharmaceutical&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Hyderabad+pharmaceutical+API+CDMO&hl=en-IN&gl=IN&ceid=IN:en",
         "https://news.google.com/rss/search?q=Telangana+pharma+API+CDMO&hl=en-IN&gl=IN&ceid=IN:en"
     ],
 
     "Vizag / AP": [
         "https://news.google.com/rss/search?q=Visakhapatnam+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+API+bulk+drug&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+API+CDMO&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+bulk+drug+API+pharma&hl=en-IN&gl=IN&ceid=IN:en"
     ],
 
     "India": [
-        "https://news.google.com/rss/search?q=India+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+API+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+CDMO+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+bulk+drug+investment&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=India+pharma+API+CDMO&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+API+bulk+drug+investment&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+pharma+manufacturing+expansion&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+pharma+regulatory+FDA+CDSCO&hl=en-IN&gl=IN&ceid=IN:en"
     ],
 
     "Global": [
-        "https://news.google.com/rss/search?q=global+pharma&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=FDA+pharma&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=global+API+CDMO&hl=en-US&gl=US&ceid=US:en"
+        "https://news.google.com/rss/search?q=global+pharma+API+CDMO&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=FDA+pharma+API+manufacturing&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=global+pharma+supply+chain&hl=en-US&gl=US&ceid=US:en"
     ]
 }
 
 
 # ============================================================
-# GENERAL PHARMA KEYWORDS
+# CORE RELEVANCE KEYWORDS
 # ============================================================
 
-KEYWORDS = [
+CORE_KEYWORDS = [
     "pharma",
     "pharmaceutical",
     "api",
     "active pharmaceutical ingredient",
     "intermediate",
-    "chemical",
-    "cdmo",
-    "drug",
-    "biologics",
-    "biosimilar",
-    "manufacturing",
-    "plant",
-    "investment",
-    "fda",
-    "ema",
-    "cdsco",
     "bulk drug",
-    "supply chain",
-    "export",
-    "import",
-    "capacity",
-    "facility",
-    "production",
-    "approval",
-    "inspection",
-    "recall",
-    "shortage"
-]
-
-
-# ============================================================
-# BUSINESS OPPORTUNITY KEYWORDS
-# ============================================================
-
-OPPORTUNITY_KEYWORDS = [
-    "investment",
-    "investments",
-    "invest",
-    "expansion",
-    "expand",
-    "new plant",
-    "new facility",
-    "facility",
-    "manufacturing",
-    "capacity expansion",
-    "capacity",
+    "bulk drugs",
     "cdmo",
     "contract manufacturing",
     "contract development",
-    "outsourcing",
-    "partnership",
-    "collaboration",
-    "joint venture",
-    "supply agreement",
-    "long term supply",
-    "order",
-    "production",
-    "project",
-    "api",
-    "intermediate",
-    "bulk drug",
-    "new market",
-    "market entry",
-    "export",
-    "exports",
-    "customer",
-    "supplier"
+    "pharmaceutical manufacturing",
+    "drug manufacturing",
+    "specialty chemicals",
+    "fine chemicals",
+    "pharma plant"
 ]
 
 
 # ============================================================
-# RISK KEYWORDS
+# STRONG OPPORTUNITY SIGNALS
+# ============================================================
+
+STRONG_OPPORTUNITY = [
+    "new plant",
+    "new facility",
+    "new manufacturing facility",
+    "greenfield",
+    "brownfield",
+    "capacity expansion",
+    "expansion project",
+    "manufacturing expansion",
+    "new production line",
+    "new production facility",
+    "investment",
+    "investments",
+    "major investment",
+    "crore investment",
+    "million investment",
+    "billion investment",
+    "joint venture",
+    "strategic partnership",
+    "partnership",
+    "collaboration",
+    "contract manufacturing",
+    "contract development",
+    "cdmo",
+    "outsourcing",
+    "supply agreement",
+    "long term supply",
+    "commercial supply",
+    "customer agreement",
+    "new customer",
+    "market entry",
+    "new market",
+    "export opportunity",
+    "exports",
+    "bulk drug park",
+    "bulk drugs park",
+    "api manufacturing"
+]
+
+
+# ============================================================
+# WEAKER BUSINESS TERMS
+# ============================================================
+
+WEAK_BUSINESS_TERMS = [
+    "manufacturing",
+    "production",
+    "capacity",
+    "facility",
+    "plant",
+    "api",
+    "intermediate",
+    "chemical",
+    "supplier",
+    "customer",
+    "export"
+]
+
+
+# ============================================================
+# RISK SIGNALS
 # ============================================================
 
 RISK_KEYWORDS = [
-    "warning",
     "warning letter",
+    "import alert",
     "recall",
-    "shortage",
-    "sanction",
-    "restriction",
-    "ban",
+    "product recall",
     "contamination",
     "failed inspection",
     "inspection failure",
     "regulatory action",
     "regulatory warning",
-    "import alert",
-    "export restriction",
+    "non-compliance",
+    "noncompliance",
+    "quality failure",
+    "quality issue",
+    "manufacturing violation",
+    "plant closure",
+    "plant shutdown",
+    "shutdown",
     "supply disruption",
     "supply chain disruption",
+    "shortage",
+    "critical shortage",
+    "export restriction",
+    "export ban",
+    "import restriction",
+    "sanction",
+    "ban",
     "price pressure",
-    "pricing pressure",
-    "compliance issue",
-    "non-compliance",
-    "quality issue",
-    "plant closure",
-    "shutdown"
+    "pricing pressure"
 ]
 
 
 # ============================================================
-# REGULATORY / WATCH KEYWORDS
+# REGULATORY / WATCH
 # ============================================================
 
 REGULATORY_KEYWORDS = [
@@ -155,17 +171,16 @@ REGULATORY_KEYWORDS = [
     "ema",
     "cdsco",
     "regulatory",
+    "regulator",
     "approval",
     "approved",
     "inspection",
-    "warning letter",
-    "import alert",
-    "compliance",
     "clinical trial",
     "drug approval",
+    "guideline",
+    "policy change",
     "regulatory change",
-    "new guideline",
-    "policy change"
+    "compliance"
 ]
 
 
@@ -183,30 +198,31 @@ BUSINESS_AREAS = {
         "bulk drugs"
     ],
 
-    "CDMO": [
+    "CDMO / Contract Manufacturing": [
         "cdmo",
         "contract manufacturing",
         "contract development",
+        "cro",
         "outsourcing"
     ],
 
-    "Manufacturing": [
+    "Manufacturing / Plants": [
         "manufacturing",
         "production",
         "plant",
         "facility",
-        "capacity",
-        "expansion"
+        "capacity expansion",
+        "production line"
     ],
 
-    "Investment": [
+    "Investment / Expansion": [
         "investment",
         "investments",
-        "invest",
-        "project",
-        "funding",
-        "capital",
-        "expansion"
+        "greenfield",
+        "brownfield",
+        "expansion project",
+        "capacity expansion",
+        "new facility"
     ],
 
     "Regulatory": [
@@ -223,10 +239,10 @@ BUSINESS_AREAS = {
     "Exports / Markets": [
         "export",
         "exports",
-        "import",
-        "market",
         "market entry",
+        "new market",
         "global market",
+        "international market",
         "trade"
     ],
 
@@ -234,17 +250,16 @@ BUSINESS_AREAS = {
         "supply chain",
         "shortage",
         "raw material",
-        "logistics",
         "supplier",
-        "supply disruption"
+        "supply disruption",
+        "logistics"
     ],
 
     "Specialty Chemicals": [
         "specialty chemical",
         "specialty chemicals",
-        "chemical industry",
-        "chemicals",
-        "fine chemicals"
+        "fine chemicals",
+        "chemical industry"
     ]
 }
 
@@ -325,64 +340,109 @@ def clean_text(text):
 # DATE
 # ============================================================
 
-def get_date(entry):
+def get_date(item):
 
-    date_text = entry.findtext("pubDate")
+    date_text = item.findtext("pubDate")
 
     if not date_text:
         return None
 
     try:
-
-        return parsedate_to_datetime(
-            date_text
-        )
-
+        return parsedate_to_datetime(date_text)
     except Exception:
-
         return None
 
 
 # ============================================================
-# KEYWORD MATCH
+# MATCHING
 # ============================================================
 
-def contains_keyword(text, keywords):
+def matching_terms(text, keywords):
 
     text = text.lower()
 
-    return any(
-        keyword.lower() in text
+    return [
+        keyword
         for keyword in keywords
+        if keyword.lower() in text
+    ]
+
+
+def contains_keyword(text, keywords):
+
+    return len(
+        matching_terms(
+            text,
+            keywords
+        )
+    ) > 0
+
+
+# ============================================================
+# SIGNAL CLASSIFICATION
+# ============================================================
+
+def determine_signal(
+    text,
+    category
+):
+
+    risk_matches = matching_terms(
+        text,
+        RISK_KEYWORDS
+    )
+
+    strong_opportunity_matches = matching_terms(
+        text,
+        STRONG_OPPORTUNITY
+    )
+
+    regulatory_matches = matching_terms(
+        text,
+        REGULATORY_KEYWORDS
+    )
+
+    weak_business_matches = matching_terms(
+        text,
+        WEAK_BUSINESS_TERMS
     )
 
 
-# ============================================================
-# SIGNAL
-# ============================================================
+    # Risk gets highest priority.
 
-def determine_signal(text):
-
-    if contains_keyword(
-        text,
-        RISK_KEYWORDS
-    ):
+    if len(risk_matches) >= 1:
 
         return "Risk"
 
-    if contains_keyword(
-        text,
-        OPPORTUNITY_KEYWORDS
-    ):
+
+    # Strong business signals are required
+    # before calling something an Opportunity.
+
+    if len(strong_opportunity_matches) >= 1:
 
         return "Opportunity"
 
-    if contains_keyword(
-        text,
-        REGULATORY_KEYWORDS
-    ):
+
+    # Local Hyderabad / AP stories with
+    # multiple business terms are useful,
+    # but are not automatically opportunities.
+
+    if category in [
+        "Hyderabad",
+        "Vizag / AP"
+    ]:
+
+        if len(weak_business_matches) >= 3:
+
+            return "Opportunity"
+
+
+    # Regulatory developments are Watch.
+
+    if len(regulatory_matches) >= 1:
 
         return "Watch"
+
 
     return "General"
 
@@ -393,58 +453,96 @@ def determine_signal(text):
 
 def determine_business_area(text):
 
+    scores = {}
+
     for area, keywords in BUSINESS_AREAS.items():
 
-        if contains_keyword(
-            text,
-            keywords
-        ):
+        score = len(
+            matching_terms(
+                text,
+                keywords
+            )
+        )
 
-            return area
+        if score > 0:
+            scores[area] = score
 
-    return "Pharma Industry"
+
+    if not scores:
+        return "Pharma Industry"
+
+
+    return max(
+        scores,
+        key=scores.get
+    )
 
 
 # ============================================================
 # PRIORITY
 # ============================================================
 
-def determine_priority(text, signal):
+def determine_priority(
+    text,
+    signal,
+    category
+):
 
-    high_priority_keywords = [
-        "fda",
-        "ema",
-        "cdsco",
-        "recall",
+    very_high = [
         "warning letter",
         "import alert",
-        "new plant",
-        "major expansion",
+        "recall",
+        "plant closure",
+        "plant shutdown",
+        "supply disruption",
+        "major investment",
+        "bulk drug park",
+        "new manufacturing facility",
         "capacity expansion",
-        "shortage",
-        "sanction",
-        "ban",
-        "investment",
-        "joint venture"
+        "joint venture",
+        "long term supply"
     ]
 
-    if signal in [
-        "Risk",
-        "Opportunity"
-    ]:
 
-        if contains_keyword(
-            text,
-            high_priority_keywords
-        ):
+    high = [
+        "investment",
+        "new plant",
+        "new facility",
+        "expansion",
+        "contract manufacturing",
+        "cdmo",
+        "partnership",
+        "export",
+        "shortage",
+        "fda",
+        "cdsco",
+        "ema"
+    ]
 
-            return "High"
+
+    if contains_keyword(
+        text,
+        very_high
+    ):
+
+        return "High"
+
+
+    if contains_keyword(
+        text,
+        high
+    ):
 
         return "Medium"
 
-    if signal == "Watch":
+
+    if category in [
+        "Hyderabad",
+        "Vizag / AP"
+    ] and signal == "Opportunity":
 
         return "Medium"
+
 
     return "Low"
 
@@ -456,7 +554,8 @@ def determine_priority(text, signal):
 def generate_relevance(
     category,
     signal,
-    business_area
+    business_area,
+    text
 ):
 
     if signal == "Opportunity":
@@ -464,46 +563,45 @@ def generate_relevance(
         if category == "Hyderabad":
 
             return (
-                "Potential Hyderabad/Telangana business "
-                "opportunity involving pharma, API, CDMO, "
-                "manufacturing, customers or suppliers."
+                "Local Telangana development that may create "
+                "customer, supplier, manufacturing, API, CDMO "
+                "or partnership opportunities."
             )
 
         if category == "Vizag / AP":
 
             return (
-                "Potential Andhra Pradesh opportunity involving "
-                "API, bulk drugs, chemicals, manufacturing, "
-                "customers, suppliers or partnerships."
+                "Andhra Pradesh development that may create "
+                "API, bulk-drug, chemical, manufacturing, "
+                "customer or supplier opportunities."
             )
 
         if business_area == "API / Intermediates":
 
             return (
-                "May indicate API or intermediate demand, "
-                "new manufacturing requirements or potential "
-                "customer/supplier opportunities."
+                "Potential API/intermediate demand, manufacturing "
+                "requirement or supply opportunity."
             )
 
-        if business_area == "CDMO":
+        if business_area == "CDMO / Contract Manufacturing":
 
             return (
-                "May indicate contract manufacturing, development "
-                "or outsourcing opportunities."
+                "Potential contract manufacturing, development "
+                "or outsourcing opportunity."
             )
 
-        if business_area == "Investment":
+        if business_area == "Investment / Expansion":
 
             return (
                 "New investment or expansion may create potential "
-                "supplier, customer, manufacturing or partnership opportunities."
+                "supplier, customer or partnership opportunities."
             )
 
         if business_area == "Exports / Markets":
 
             return (
                 "Market or export development may create potential "
-                "new customer or geographic market opportunities."
+                "customer or geographic market opportunities."
             )
 
         return (
@@ -517,15 +615,15 @@ def generate_relevance(
         if business_area == "Regulatory":
 
             return (
-                "Regulatory development may affect approvals, "
-                "compliance, manufacturing or exports."
+                "Regulatory development may affect compliance, "
+                "manufacturing, approvals or exports."
             )
 
         if business_area == "Supply Chain":
 
             return (
-                "Potential supply-chain impact involving raw "
-                "materials, suppliers, logistics or availability."
+                "Potential impact on raw materials, suppliers, "
+                "logistics, pricing or product availability."
             )
 
         if business_area == "API / Intermediates":
@@ -536,16 +634,16 @@ def generate_relevance(
             )
 
         return (
-            "Potential business or operational risk requiring "
-            "management attention."
+            "Potential operational, regulatory or commercial "
+            "risk requiring management attention."
         )
 
 
     if signal == "Watch":
 
         return (
-            "Industry or regulatory development to monitor "
-            "for possible business impact."
+            "Industry, regulatory or market development to "
+            "monitor for possible business impact."
         )
 
 
@@ -560,18 +658,13 @@ def generate_relevance(
 
 def collect_news():
 
-    now = datetime.now(
-        timezone.utc
-    )
+    now = datetime.now(timezone.utc)
 
-    cutoff = now - timedelta(
-        hours=24
-    )
+    cutoff = now - timedelta(hours=24)
 
     articles = []
 
     successful_feeds = 0
-
     failed_feeds = 0
 
 
@@ -589,17 +682,15 @@ def collect_news():
             if not data:
 
                 failed_feeds += 1
-
                 continue
+
 
             successful_feeds += 1
 
 
             try:
 
-                root = ET.fromstring(
-                    data
-                )
+                root = ET.fromstring(data)
 
             except Exception as e:
 
@@ -611,9 +702,7 @@ def collect_news():
                 continue
 
 
-            items = root.findall(
-                ".//item"
-            )
+            items = root.findall(".//item")
 
             print(
                 "Items found:",
@@ -624,28 +713,19 @@ def collect_news():
             for item in items:
 
                 title = clean_text(
-                    item.findtext(
-                        "title"
-                    )
+                    item.findtext("title")
                 )
 
-                link = item.findtext(
-                    "link"
-                )
+                link = item.findtext("link")
 
                 description = clean_text(
-                    item.findtext(
-                        "description"
-                    )
+                    item.findtext("description")
                 )
 
-                published = get_date(
-                    item
-                )
+                published = get_date(item)
 
 
                 if not title or not link:
-
                     continue
 
 
@@ -664,17 +744,17 @@ def collect_news():
                 ).lower()
 
 
-                if not any(
-                    keyword.lower()
-                    in combined
-                    for keyword in KEYWORDS
+                if not contains_keyword(
+                    combined,
+                    CORE_KEYWORDS
                 ):
 
                     continue
 
 
                 signal = determine_signal(
-                    combined
+                    combined,
+                    category
                 )
 
 
@@ -685,14 +765,16 @@ def collect_news():
 
                 priority = determine_priority(
                     combined,
-                    signal
+                    signal,
+                    category
                 )
 
 
                 relevance = generate_relevance(
                     category,
                     signal,
-                    business_area
+                    business_area,
+                    combined
                 )
 
 
@@ -751,28 +833,35 @@ def collect_news():
 
     for article in articles:
 
-        key = (
-            article["title"]
-            .lower()
-            .strip()
-        )
+        key = article["title"].lower().strip()
 
         if key not in unique:
 
             unique[key] = article
 
 
-    articles = list(
-        unique.values()
-    )
+    articles = list(unique.values())
 
 
     # ========================================================
     # SORT
     # ========================================================
 
+    priority_order = {
+        "High": 3,
+        "Medium": 2,
+        "Low": 1
+    }
+
+
     articles.sort(
-        key=lambda x: x["published"],
+        key=lambda x: (
+            priority_order.get(
+                x["priority"],
+                0
+            ),
+            x["published"]
+        ),
         reverse=True
     )
 
@@ -789,9 +878,7 @@ def collect_news():
 
 def main():
 
-    articles, successful_feeds = (
-        collect_news()
-    )
+    articles, successful_feeds = collect_news()
 
 
     # Protect existing data if all feeds fail.
@@ -815,24 +902,28 @@ def main():
     opportunities = sum(
         1
         for article in articles
-        if article["signal"]
-        == "Opportunity"
+        if article["signal"] == "Opportunity"
     )
 
 
     risks = sum(
         1
         for article in articles
-        if article["signal"]
-        == "Risk"
+        if article["signal"] == "Risk"
     )
 
 
     watch = sum(
         1
         for article in articles
-        if article["signal"]
-        == "Watch"
+        if article["signal"] == "Watch"
+    )
+
+
+    high_priority = sum(
+        1
+        for article in articles
+        if article["priority"] == "High"
     )
 
 
@@ -854,6 +945,9 @@ def main():
 
         "watch_count":
             watch,
+
+        "high_priority_count":
+            high_priority,
 
         "articles":
             articles
@@ -895,7 +989,11 @@ def main():
         watch
     )
 
+    print(
+        "High priority:",
+        high_priority
+    )
+
 
 if __name__ == "__main__":
-
     main()
