@@ -658,6 +658,56 @@ body {
     </div>
 
 </div>
+<script>
 
+async function loadNews() {
+
+    try {
+
+        const response = await fetch("data.json");
+
+        const data = await response.json();
+
+        console.log("News loaded:", data);
+
+        const articles = data.articles || [];
+
+        /*
+        We will connect the real articles
+        to the dashboard in the next step.
+        */
+
+        console.log(
+            "Total articles:",
+            articles.length
+        );
+
+        if (data.updated) {
+
+            const date = new Date(data.updated);
+
+            document.querySelector(
+                ".footer span:last-child"
+            ).textContent =
+                "Last updated: " +
+                date.toLocaleString("en-IN") +
+                " · Auto refresh: 60 min";
+
+        }
+
+    } catch (error) {
+
+        console.error(
+            "Unable to load news:",
+            error
+        );
+
+    }
+
+}
+
+loadNews();
+
+</script>
 </body>
 </html>
