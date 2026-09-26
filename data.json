@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-26T17:34:19.637603+00:00",
-  "article_count": 2,
+  "updated": "2026-09-26T18:37:49.571886+00:00",
+  "article_count": 1,
   "opportunity_count": 1,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
@@ -21,26 +21,6 @@
       "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
       "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA Approves Welireg Plus Lenvima | PharmExec - Pharmaceutical Executive",
-      "description": "FDA Approves Welireg Plus Lenvima | PharmExec Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUGVTeFpMbEhwLWhPZFBPTzRYSTJRWUdSekFhQ3dqR1h4RVlrTFdPdzJYTC01emM3Ym9hbVR1dWV5MW5SUVQtM1lLaVZmUXJzNDEzcTlDUXdTblQzcTl5TWUyaEVSckQ2ZnlLNDV0S0FIejA?oc=5",
-      "published": "2026-09-25T18:30:15+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "PharmExec - Pharmaceutical",
-        "PharmExec Pharmaceutical"
-      ],
       "project_signals": [],
       "numbers": []
     }
@@ -70,26 +50,6 @@
       "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
       "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA Approves Welireg Plus Lenvima | PharmExec - Pharmaceutical Executive",
-      "description": "FDA Approves Welireg Plus Lenvima | PharmExec Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUGVTeFpMbEhwLWhPZFBPTzRYSTJRWUdSekFhQ3dqR1h4RVlrTFdPdzJYTC01emM3Ym9hbVR1dWV5MW5SUVQtM1lLaVZmUXJzNDEzcTlDUXdTblQzcTl5TWUyaEVSckQ2ZnlLNDV0S0FIejA?oc=5",
-      "published": "2026-09-25T18:30:15+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "PharmExec - Pharmaceutical",
-        "PharmExec Pharmaceutical"
-      ],
       "project_signals": [],
       "numbers": []
     }
