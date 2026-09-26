@@ -1,4 +1,3 @@
-```python
 import json
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -9,29 +8,38 @@ import re
 import time
 
 
+# ============================================================
+# NEWS SOURCES
+# ============================================================
+
 FEEDS = {
     "Hyderabad": [
-        "https://news.google.com/rss/search?q=Hyderabad+pharma+OR+Hyderabad+pharmaceutical&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Hyderabad+API+OR+Hyderabad+chemical+industry&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=Hyderabad+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Hyderabad+pharmaceutical&hl=en-IN&gl=IN&ceid=IN:en"
     ],
 
     "Vizag / AP": [
-        "https://news.google.com/rss/search?q=Visakhapatnam+pharma+OR+Vizag+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+API+OR+bulk+drug+park&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=Visakhapatnam+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma&hl=en-IN&gl=IN&ceid=IN:en"
     ],
 
     "India": [
-        "https://news.google.com/rss/search?q=India+pharma+OR+Indian+pharmaceutical+industry&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+API+OR+pharma+investment+OR+CDMO&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=India+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+API+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+CDMO+pharma&hl=en-IN&gl=IN&ceid=IN:en"
     ],
 
     "Global": [
-        "https://news.google.com/rss/search?q=global+pharma+industry&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=FDA+pharmaceutical+OR+EMA+pharma&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=global+API+OR+CDMO+pharma&hl=en-US&gl=US&ceid=US:en"
+        "https://news.google.com/rss/search?q=global+pharma&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=FDA+pharma&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=global+API+CDMO&hl=en-US&gl=US&ceid=US:en"
     ]
 }
 
+
+# ============================================================
+# KEYWORDS
+# ============================================================
 
 KEYWORDS = [
     "pharma",
@@ -53,7 +61,13 @@ KEYWORDS = [
     "supply chain",
     "export",
     "import",
-    "capacity"
+    "capacity",
+    "facility",
+    "production",
+    "approval",
+    "inspection",
+    "recall",
+    "shortage"
 ]
 
 
@@ -196,6 +210,10 @@ BUSINESS_AREAS = {
 }
 
 
+# ============================================================
+# DOWNLOAD RSS FEED
+# ============================================================
+
 def get_feed(url):
 
     for attempt in range(3):
@@ -205,17 +223,20 @@ def get_feed(url):
             request = urllib.request.Request(
                 url,
                 headers={
-                    "User-Agent": (
+                    "User-Agent":
                         "Mozilla/5.0 "
                         "(Windows NT 10.0; Win64; x64) "
                         "AppleWebKit/537.36 "
-                        "Chrome/154.0 Safari/537.36"
-                    ),
-                    "Accept": (
+                        "Chrome/154.0 Safari/537.36",
+
+                    "Accept":
                         "application/rss+xml, "
-                        "application/xml, text/xml, */*"
-                    ),
-                    "Accept-Language": "en-US,en;q=0.9"
+                        "application/xml, "
+                        "text/xml, "
+                        "*/*",
+
+                    "Accept-Language":
+                        "en-US,en;q=0.9"
                 }
             )
 
@@ -241,6 +262,10 @@ def get_feed(url):
     return None
 
 
+# ============================================================
+# CLEAN TEXT
+# ============================================================
+
 def clean_text(text):
 
     if not text:
@@ -257,6 +282,10 @@ def clean_text(text):
     return " ".join(text.split())
 
 
+# ============================================================
+# DATE
+# ============================================================
+
 def get_date(entry):
 
     date_text = entry.findtext("pubDate")
@@ -265,13 +294,24 @@ def get_date(entry):
         return None
 
     try:
-        return parsedate_to_datetime(date_text)
+
+        return parsedate_to_datetime(
+            date_text
+        )
 
     except Exception:
+
         return None
 
 
-def contains_keyword(text, keywords):
+# ============================================================
+# KEYWORD CHECK
+# ============================================================
+
+def contains_keyword(
+    text,
+    keywords
+):
 
     text = text.lower()
 
@@ -281,49 +321,62 @@ def contains_keyword(text, keywords):
     )
 
 
+# ============================================================
+# SIGNAL
+# ============================================================
+
 def determine_signal(text):
 
-    lower_text = text.lower()
-
     if contains_keyword(
-        lower_text,
+        text,
         RISK_KEYWORDS
     ):
+
         return "Risk"
 
     if contains_keyword(
-        lower_text,
+        text,
         REGULATORY_KEYWORDS
     ):
+
         return "Watch"
 
     if contains_keyword(
-        lower_text,
+        text,
         OPPORTUNITY_KEYWORDS
     ):
+
         return "Opportunity"
 
     return "General"
 
 
-def determine_business_area(text):
+# ============================================================
+# BUSINESS AREA
+# ============================================================
 
-    lower_text = text.lower()
+def determine_business_area(text):
 
     for area, keywords in BUSINESS_AREAS.items():
 
         if contains_keyword(
-            lower_text,
+            text,
             keywords
         ):
+
             return area
 
     return "Pharma Industry"
 
 
-def determine_priority(text, signal):
+# ============================================================
+# PRIORITY
+# ============================================================
 
-    lower_text = text.lower()
+def determine_priority(
+    text,
+    signal
+):
 
     high_priority_keywords = [
         "fda",
@@ -347,24 +400,29 @@ def determine_priority(text, signal):
     ]:
 
         if contains_keyword(
-            lower_text,
+            text,
             high_priority_keywords
         ):
+
             return "High"
 
         return "Medium"
 
     if signal == "Watch":
+
         return "Medium"
 
     return "Low"
 
 
+# ============================================================
+# RELEVANCE
+# ============================================================
+
 def generate_relevance(
     category,
     signal,
-    business_area,
-    title
+    business_area
 ):
 
     if signal == "Opportunity":
@@ -372,29 +430,31 @@ def generate_relevance(
         if category == "Vizag / AP":
 
             return (
-                "Potential relevance to Andhra Pradesh pharma, "
-                "API, manufacturing, supplier or partnership activity."
+                "Potential relevance to Andhra Pradesh "
+                "pharma, API, manufacturing, supplier "
+                "or partnership activity."
             )
 
         if category == "Hyderabad":
 
             return (
-                "Potential relevance to Hyderabad pharma, API, "
-                "CDMO, customer or supplier opportunities."
+                "Potential relevance to Hyderabad pharma, "
+                "API, CDMO, customer or supplier opportunities."
             )
 
         if business_area == "Investment":
 
             return (
                 "Investment activity may create potential "
-                "supplier, customer, manufacturing or partnership opportunities."
+                "supplier, customer, manufacturing or "
+                "partnership opportunities."
             )
 
         if business_area == "CDMO":
 
             return (
-                "Potential opportunity related to contract development, "
-                "manufacturing or pharma outsourcing."
+                "Potential opportunity related to contract "
+                "development, manufacturing or pharma outsourcing."
             )
 
         if business_area == "API / Intermediates":
@@ -405,7 +465,8 @@ def generate_relevance(
             )
 
         return (
-            "Potential business opportunity requiring management review."
+            "Potential business opportunity requiring "
+            "management review."
         )
 
 
@@ -414,40 +475,50 @@ def generate_relevance(
         if business_area == "Regulatory":
 
             return (
-                "Regulatory development may affect product approvals, "
-                "compliance, manufacturing or exports."
+                "Regulatory development may affect product "
+                "approvals, compliance, manufacturing or exports."
             )
 
         if business_area == "Supply Chain":
 
             return (
-                "Potential supply-chain impact requiring monitoring "
-                "of raw materials, suppliers or logistics."
+                "Potential supply-chain impact requiring "
+                "monitoring of raw materials, suppliers or logistics."
             )
 
         return (
-            "Potential business or operational risk requiring review."
+            "Potential business or operational risk "
+            "requiring review."
         )
 
 
     if signal == "Watch":
 
         return (
-            "Regulatory or industry development that should be "
-            "monitored for potential business impact."
+            "Regulatory or industry development that should "
+            "be monitored for potential business impact."
         )
 
 
     return (
-        "Relevant pharma industry development for ongoing monitoring."
+        "Relevant pharma industry development for "
+        "ongoing monitoring."
     )
 
 
+# ============================================================
+# COLLECT NEWS
+# ============================================================
+
 def collect_news():
 
-    now = datetime.now(timezone.utc)
+    now = datetime.now(
+        timezone.utc
+    )
 
-    cutoff = now - timedelta(hours=24)
+    cutoff = now - timedelta(
+        hours=24
+    )
 
     articles = []
 
@@ -475,9 +546,12 @@ def collect_news():
 
             successful_feeds += 1
 
+
             try:
 
-                root = ET.fromstring(data)
+                root = ET.fromstring(
+                    data
+                )
 
             except Exception as e:
 
@@ -489,7 +563,9 @@ def collect_news():
                 continue
 
 
-            items = root.findall(".//item")
+            items = root.findall(
+                ".//item"
+            )
 
             print(
                 "Items found:",
@@ -500,23 +576,36 @@ def collect_news():
             for item in items:
 
                 title = clean_text(
-                    item.findtext("title")
+                    item.findtext(
+                        "title"
+                    )
                 )
 
-                link = item.findtext("link")
+                link = item.findtext(
+                    "link"
+                )
 
                 description = clean_text(
-                    item.findtext("description")
+                    item.findtext(
+                        "description"
+                    )
                 )
 
-                published = get_date(item)
+                published = get_date(
+                    item
+                )
 
 
                 if not title or not link:
+
                     continue
 
 
-                if published and published < cutoff:
+                if (
+                    published
+                    and published < cutoff
+                ):
+
                     continue
 
 
@@ -528,12 +617,14 @@ def collect_news():
 
 
                 relevant = any(
-                    keyword in combined
+                    keyword.lower()
+                    in combined
                     for keyword in KEYWORDS
                 )
 
 
                 if not relevant:
+
                     continue
 
 
@@ -556,8 +647,7 @@ def collect_news():
                 relevance = generate_relevance(
                     category,
                     signal,
-                    business_area,
-                    title
+                    business_area
                 )
 
 
@@ -608,8 +698,11 @@ def collect_news():
     )
 
 
-    unique = {}
+    # ========================================================
+    # REMOVE DUPLICATES
+    # ========================================================
 
+    unique = {}
 
     for article in articles:
 
@@ -629,42 +722,39 @@ def collect_news():
     )
 
 
+    # ========================================================
+    # SORT NEWEST FIRST
+    # ========================================================
+
     articles.sort(
         key=lambda x: x["published"],
         reverse=True
     )
 
 
-    return articles[:100], successful_feeds
+    return (
+        articles[:100],
+        successful_feeds
+    )
 
 
-def load_existing_data():
-
-    try:
-
-        with open(
-            "data.json",
-            "r",
-            encoding="utf-8"
-        ) as file:
-
-            return json.load(file)
-
-    except Exception:
-
-        return None
-
+# ============================================================
+# MAIN
+# ============================================================
 
 def main():
 
-    articles, successful_feeds = collect_news()
+    articles, successful_feeds = (
+        collect_news()
+    )
 
 
-    # Safety protection:
-    # Never replace good existing data with an empty dataset
-    # when all feeds have failed.
+    # Never destroy existing data if ALL feeds fail.
 
-    if len(articles) == 0 and successful_feeds == 0:
+    if (
+        len(articles) == 0
+        and successful_feeds == 0
+    ):
 
         print(
             "WARNING: All news feeds failed."
@@ -680,21 +770,24 @@ def main():
     opportunities = sum(
         1
         for article in articles
-        if article["signal"] == "Opportunity"
+        if article["signal"]
+        == "Opportunity"
     )
 
 
     risks = sum(
         1
         for article in articles
-        if article["signal"] == "Risk"
+        if article["signal"]
+        == "Risk"
     )
 
 
     watch = sum(
         1
         for article in articles
-        if article["signal"] == "Watch"
+        if article["signal"]
+        == "Watch"
     )
 
 
@@ -761,4 +854,3 @@ def main():
 if __name__ == "__main__":
 
     main()
-```
