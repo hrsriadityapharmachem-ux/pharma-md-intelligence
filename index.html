@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
 
 <title>MD Pharma Intelligence | Sri Aditya Pharmachem</title>
 
@@ -15,10 +19,9 @@
 }
 
 body {
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    background: #0a0d12;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #080b10;
     color: #f5f7fa;
-    line-height: 1.5;
 }
 
 .container {
@@ -26,8 +29,6 @@ body {
     margin: auto;
     padding: 28px;
 }
-
-/* HEADER */
 
 .header {
     display: flex;
@@ -37,9 +38,9 @@ body {
 }
 
 .brand {
-    font-size: 13px;
+    font-size: 12px;
     letter-spacing: 2px;
-    color: #9ca3af;
+    color: #8c96a5;
     text-transform: uppercase;
 }
 
@@ -50,17 +51,17 @@ body {
 }
 
 .subtitle {
-    color: #8b93a1;
-    margin-top: 5px;
-    font-size: 14px;
+    color: #7d8795;
+    margin-top: 6px;
+    font-size: 13px;
 }
 
 .live {
     display: flex;
     align-items: center;
     gap: 8px;
-    color: #8ee6a7;
-    font-size: 13px;
+    color: #70e59a;
+    font-size: 12px;
 }
 
 .live-dot {
@@ -71,8 +72,6 @@ body {
     box-shadow: 0 0 12px #35d06f;
 }
 
-/* TOP METRICS */
-
 .metrics {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -81,15 +80,15 @@ body {
 }
 
 .metric {
-    background: #11161d;
-    border: 1px solid #1e2631;
+    background: #10151c;
+    border: 1px solid #1c2530;
     border-radius: 16px;
     padding: 20px;
 }
 
 .metric-label {
-    color: #8993a3;
-    font-size: 12px;
+    color: #7f8998;
+    font-size: 11px;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -101,33 +100,29 @@ body {
 }
 
 .metric-small {
-    font-size: 12px;
-    color: #707987;
+    font-size: 11px;
+    color: #697381;
 }
 
 .green {
-    color: #62df91;
+    color: #63df91;
 }
 
 .red {
-    color: #ff6b6b;
+    color: #ff6c6c;
 }
 
 .orange {
-    color: #ffb45c;
+    color: #ffb65e;
 }
 
-/* SECTION */
-
 .section-title {
-    font-size: 13px;
+    font-size: 12px;
     letter-spacing: 1.5px;
-    color: #8b93a1;
+    color: #7f8998;
     text-transform: uppercase;
     margin-bottom: 14px;
 }
-
-/* TOP STORIES */
 
 .top-grid {
     display: grid;
@@ -137,8 +132,13 @@ body {
 }
 
 .hero {
-    background: linear-gradient(135deg, #151b24, #0e1218);
-    border: 1px solid #26303d;
+    background: linear-gradient(
+        135deg,
+        #151b24,
+        #0d1117
+    );
+
+    border: 1px solid #25303d;
     border-radius: 18px;
     padding: 25px;
 }
@@ -150,29 +150,32 @@ body {
     font-size: 10px;
     font-weight: 700;
     letter-spacing: 1px;
-    background: #2a1518;
-    color: #ff7777;
+    background: #17291e;
+    color: #63df91;
     margin-bottom: 15px;
 }
 
 .hero h2 {
-    font-size: 24px;
-    line-height: 1.25;
+    font-size: 23px;
+    line-height: 1.3;
     margin-bottom: 12px;
 }
 
+.hero h2 a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .hero p {
-    color: #9ba4b2;
-    font-size: 14px;
+    color: #98a2af;
+    font-size: 13px;
 }
 
 .meta {
     margin-top: 18px;
-    color: #687280;
+    color: #687381;
     font-size: 11px;
 }
-
-/* OPPORTUNITIES */
 
 .side {
     display: flex;
@@ -181,16 +184,16 @@ body {
 }
 
 .side-card {
-    background: #11161d;
-    border: 1px solid #1e2631;
+    background: #10151c;
+    border: 1px solid #1c2530;
     border-radius: 15px;
     padding: 17px;
 }
 
 .side-card strong {
     display: block;
-    font-size: 14px;
-    margin-bottom: 5px;
+    font-size: 13px;
+    margin-bottom: 7px;
 }
 
 .side-card span {
@@ -198,7 +201,53 @@ body {
     color: #7f8997;
 }
 
-/* REGIONS */
+.news-section {
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+}
+
+.news-card {
+    background: #10151c;
+    border: 1px solid #1c2530;
+    border-radius: 15px;
+    padding: 18px;
+    transition: 0.2s;
+}
+
+.news-card:hover {
+    border-color: #3a4655;
+    transform: translateY(-2px);
+}
+
+.news-card .category {
+    color: #63df91;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 9px;
+}
+
+.news-card h3 {
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
+
+.news-card h3 a {
+    color: #f5f7fa;
+    text-decoration: none;
+}
+
+.news-card p {
+    font-size: 11px;
+    color: #77818f;
+}
 
 .regions {
     display: grid;
@@ -209,23 +258,20 @@ body {
 
 .region {
     background: #10151c;
-    border: 1px solid #1e2631;
+    border: 1px solid #1c2530;
     border-radius: 15px;
     padding: 20px;
-    min-height: 130px;
 }
 
 .region h3 {
-    font-size: 16px;
-    margin-bottom: 10px;
+    font-size: 15px;
+    margin-bottom: 9px;
 }
 
 .region p {
-    font-size: 12px;
-    color: #818b99;
+    font-size: 11px;
+    color: #7f8997;
 }
-
-/* INDUSTRY */
 
 .industry {
     display: grid;
@@ -236,7 +282,7 @@ body {
 
 .panel {
     background: #10151c;
-    border: 1px solid #1e2631;
+    border: 1px solid #1c2530;
     border-radius: 16px;
     padding: 22px;
 }
@@ -245,7 +291,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 13px 0;
-    border-bottom: 1px solid #1d242e;
+    border-bottom: 1px solid #1c2530;
     font-size: 13px;
 }
 
@@ -253,19 +299,15 @@ body {
     border-bottom: none;
 }
 
-/* FOOTER */
-
 .footer {
-    border-top: 1px solid #1e2631;
+    border-top: 1px solid #1c2530;
     padding-top: 20px;
     margin-top: 30px;
     color: #606a78;
-    font-size: 11px;
+    font-size: 10px;
     display: flex;
     justify-content: space-between;
 }
-
-/* MOBILE */
 
 @media(max-width: 900px) {
 
@@ -282,8 +324,8 @@ body {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .title {
-        font-size: 25px;
+    .news-grid {
+        grid-template-columns: 1fr;
     }
 }
 
@@ -305,12 +347,8 @@ body {
         grid-template-columns: 1fr;
     }
 
-    .metric-number {
-        font-size: 27px;
-    }
-
-    .hero h2 {
-        font-size: 20px;
+    .title {
+        font-size: 25px;
     }
 
     .footer {
@@ -320,582 +358,745 @@ body {
 }
 
 </style>
+
 </head>
+
 
 <body>
 
 <div class="container">
 
-    <!-- HEADER -->
 
-    <div class="header">
+<!-- HEADER -->
 
-        <div>
+<div class="header">
 
-            <div class="brand">
-                Sri Aditya Pharmachem
-            </div>
+<div>
 
-            <div class="title">
-                MD Pharma Intelligence
-            </div>
-
-            <div class="subtitle">
-                Daily industry intelligence · Last 24 hours
-            </div>
-
-        </div>
-
-        <div class="live">
-            <span class="live-dot"></span>
-            LIVE
-        </div>
-
-    </div>
-
-
-    <!-- METRICS -->
-
-    <div class="metrics">
-
-        <div class="metric">
-            <div class="metric-label">
-                Critical
-            </div>
-
-            <div class="metric-number red">
-                5
-            </div>
-
-            <div class="metric-small">
-                Must know today
-            </div>
-        </div>
-
-
-        <div class="metric">
-
-            <div class="metric-label">
-                Opportunities
-            </div>
-
-            <div class="metric-number green">
-                7
-            </div>
-
-            <div class="metric-small">
-                Potential business signals
-            </div>
-
-        </div>
-
-
-        <div class="metric">
-
-            <div class="metric-label">
-                Risks
-            </div>
-
-            <div class="metric-number orange">
-                3
-            </div>
-
-            <div class="metric-small">
-                Industry alerts
-            </div>
-
-        </div>
-
-
-        <div class="metric">
-
-            <div class="metric-label">
-                Reading time
-            </div>
-
-            <div class="metric-number">
-                8
-            </div>
-
-            <div class="metric-small">
-                minutes
-            </div>
-
-        </div>
-
-    </div>
-
-
-    <!-- TOP STORIES -->
-
-    <div class="section-title">
-        🔴 Must know
-    </div>
-
-
-    <div class="top-grid">
-
-        <div class="hero">
-
-            <div class="tag">
-                TOP STORY
-            </div>
-
-           <div id="topStory">
-    <div class="tag">
-        LIVE INTELLIGENCE
-    </div>
-
-    <h2 id="topTitle">
-        Loading latest intelligence...
-    </h2>
-
-    <p id="topDescription">
-        Collecting the latest pharma and chemical industry developments.
-    </p>
-
-    <div class="meta" id="topMeta">
-        Updating...
-    </div>
+<div class="brand">
+Sri Aditya Pharmachem
 </div>
 
-        </div>
+<div class="title">
+MD Pharma Intelligence
+</div>
+
+<div class="subtitle">
+Daily industry intelligence · Last 24 hours
+</div>
+
+</div>
+
+<div class="live">
+
+<span class="live-dot"></span>
+
+LIVE
+
+</div>
+
+</div>
 
 
-        <div class="side">
+<!-- METRICS -->
 
-            <div class="side-card">
+<div class="metrics">
 
-                <div class="side-card">
+<div class="metric">
 
-    <strong>
-        📍 Hyderabad Pharma
-    </strong>
+<div class="metric-label">
+News detected
+</div>
 
-    <span id="hyderabadNews">
-        Loading...
-    </span>
+<div
+id="newsCount"
+class="metric-number">
+--
+</div>
+
+<div class="metric-small">
+Last 24 hours
+</div>
+
+</div>
+
+
+<div class="metric">
+
+<div class="metric-label">
+Opportunities
+</div>
+
+<div
+id="opportunityCount"
+class="metric-number green">
+--
+</div>
+
+<div class="metric-small">
+Potential business signals
+</div>
+
+</div>
+
+
+<div class="metric">
+
+<div class="metric-label">
+Risks
+</div>
+
+<div
+id="riskCount"
+class="metric-number orange">
+--
+</div>
+
+<div class="metric-small">
+Signals requiring attention
+</div>
+
+</div>
+
+
+<div class="metric">
+
+<div class="metric-label">
+Reading time
+</div>
+
+<div class="metric-number">
+8
+</div>
+
+<div class="metric-small">
+minutes
+</div>
+
+</div>
+
+</div>
+
+
+<!-- TOP STORY -->
+
+<div class="section-title">
+🔴 Must know
+</div>
+
+
+<div class="top-grid">
+
+
+<div class="hero">
+
+<div class="tag">
+LIVE INTELLIGENCE
+</div>
+
+<h2 id="topTitle">
+Loading latest intelligence...
+</h2>
+
+<p id="topDescription">
+Connecting to the latest pharma and chemical industry news.
+</p>
+
+<div
+id="topMeta"
+class="meta">
+Updating...
+</div>
+
+</div>
+
+
+<div class="side">
+
+
+<div class="side-card">
+
+<strong>
+📍 Hyderabad Pharma
+</strong>
+
+<span id="hyderabadNews">
+Loading...
+</span>
 
 </div>
 
 
 <div class="side-card">
 
-    <strong>
-        ⚓ Vizag / AP
-    </strong>
+<strong>
+⚓ Vizag / AP
+</strong>
 
-    <span id="vizagNews">
-        Loading...
-    </span>
+<span id="vizagNews">
+Loading...
+</span>
 
 </div>
 
 
 <div class="side-card">
 
-    <strong>
-        🇮🇳 India Pharma
-    </strong>
+<strong>
+🇮🇳 India Pharma
+</strong>
 
-    <span id="indiaNews">
-        Loading...
-    </span>
+<span id="indiaNews">
+Loading...
+</span>
 
 </div>
 
-            </div>
-
-
-            <div class="side-card">
-
-                <strong>
-                    Vizag / AP
-                </strong>
-
-                <span>
-                    Pharma, chemicals & investment activity
-                </span>
-
-            </div>
-
-
-            <div class="side-card">
-
-                <strong>
-                    India
-                </strong>
-
-                <span>
-                    Regulatory, manufacturing & market activity
-                </span>
-
-            </div>
-
-        </div>
-
-    </div>
-
-
-    <!-- REGIONS -->
-
-    <div class="section-title">
-        🌎 Intelligence map
-    </div>
-
-
-    <div class="regions">
-
-        <div class="region">
-
-            <h3>📍 Hyderabad</h3>
-
-            <p>
-                Pharma · APIs · CDMO · Investments · Regulation
-            </p>
-
-        </div>
-
-
-        <div class="region">
-
-            <h3>⚓ Vizag / AP</h3>
-
-            <p>
-                Bulk drugs · Chemicals · Plants · Infrastructure
-            </p>
-
-        </div>
-
-
-        <div class="region">
-
-            <h3>🇮🇳 India</h3>
-
-            <p>
-                CDSCO · APIs · Exports · Policy · Investments
-            </p>
-
-        </div>
-
-
-        <div class="region">
-
-            <h3>🌎 Global</h3>
-
-            <p>
-                FDA · EMA · China · Supply chain · Global markets
-            </p>
-
-        </div>
-
-    </div>
-
-
-    <!-- INDUSTRY -->
-
-    <div class="section-title">
-        📈 Industry signals
-    </div>
-
-
-    <div class="industry">
-
-
-        <div class="panel">
-
-            <div class="trend">
-
-                <span>API / Intermediates</span>
-
-                <strong class="green">
-                    ↑
-                </strong>
-
-            </div>
-
-
-            <div class="trend">
-
-                <span>CDMO</span>
-
-                <strong class="green">
-                    ↑↑
-                </strong>
-
-            </div>
-
-
-            <div class="trend">
-
-                <span>Specialty Chemicals</span>
-
-                <strong class="green">
-                    ↑
-                </strong>
-
-            </div>
-
-
-            <div class="trend">
-
-                <span>Global Supply Chain</span>
-
-                <strong class="orange">
-                    WATCH
-                </strong>
-
-            </div>
-
-
-            <div class="trend">
-
-                <span>Regulatory Environment</span>
-
-                <strong class="orange">
-                    WATCH
-                </strong>
-
-            </div>
-
-        </div>
-
-
-        <div class="panel">
-
-            <div class="section-title">
-                🧠 For Sri Aditya
-            </div>
-
-            <p style="color:#9ba4b2;font-size:14px;">
-                The system will identify potential products,
-                customers, markets, partnerships and risks
-                relevant to Sri Aditya Pharmachem.
-            </p>
-
-        </div>
-
-    </div>
-
-
-    <!-- FOOTER -->
-
-    <div class="footer">
-
-        <span>
-            MD Intelligence · Sri Aditya Pharmachem
-        </span>
-
-        <span>
-            Last updated: — · Auto refresh: 5 min
-        </span>
-
-    </div>
 
 </div>
-<script>
+
+</div>
+
+
+<!-- LATEST NEWS -->
+
+<div class="news-section">
+
+<div class="section-title">
+⚡ Latest intelligence
+</div>
+
+<div
+id="newsGrid"
+class="news-grid">
+
+</div>
+
+</div>
+
+
+<!-- REGIONS -->
+
+<div class="section-title">
+🌎 Intelligence map
+</div>
+
+
+<div class="regions">
+
+
+<div class="region">
+
+<h3>
+📍 Hyderabad
+</h3>
+
+<p>
+Pharma · APIs · CDMO · Investments · Regulation
+</p>
+
+</div>
+
+
+<div class="region">
+
+<h3>
+⚓ Vizag / AP
+</h3>
+
+<p>
+Bulk drugs · Chemicals · Plants · Infrastructure
+</p>
+
+</div>
+
+
+<div class="region">
+
+<h3>
+🇮🇳 India
+</h3>
+
+<p>
+CDSCO · APIs · Exports · Policy · Investments
+</p>
+
+</div>
+
+
+<div class="region">
+
+<h3>
+🌎 Global
+</h3>
+
+<p>
+FDA · EMA · Supply chain · Global pharma
+</p>
+
+</div>
+
+
+</div>
+
+
+<!-- INDUSTRY -->
+
+<div class="section-title">
+📈 Industry signals
+</div>
+
+
+<div class="industry">
+
+
+<div class="panel">
+
+<div class="trend">
+
+<span>
+API / Intermediates
+</span>
+
+<strong class="green">
+↑
+</strong>
+
+</div>
+
+
+<div class="trend">
+
+<span>
+CDMO
+</span>
+
+<strong class="green">
+↑↑
+</strong>
+
+</div>
+
+
+<div class="trend">
+
+<span>
+Specialty Chemicals
+</span>
+
+<strong class="green">
+↑
+</strong>
+
+</div>
+
+
+<div class="trend">
+
+<span>
+Global Supply Chain
+</span>
+
+<strong class="orange">
+WATCH
+</strong>
+
+</div>
+
+
+<div class="trend">
+
+<span>
+Regulatory Environment
+</span>
+
+<strong class="orange">
+WATCH
+</strong>
+
+</div>
+
+</div>
+
+
+<div class="panel">
+
+<div class="section-title">
+🧠 For Sri Aditya
+</div>
+
+<p
+style="color:#9ba4b2;font-size:13px;line-height:1.7;">
+
+The system will identify potential
+products, customers, markets,
+partnerships and risks relevant
+to Sri Aditya Pharmachem.
+
+</p>
+
+</div>
+
+
+</div>
+
+
+<!-- FOOTER -->
+
+<div class="footer">
+
+<span>
+MD Intelligence · Sri Aditya Pharmachem
+</span>
+
+<span id="lastUpdated">
+Last updated: --
+</span>
+
+</div>
+
+
+</div>
+
 
 <script>
+
 
 async function loadNews() {
 
-    try {
-
-        const response = await fetch(
-            "data.json?time=" + Date.now()
-        );
-
-        const data = await response.json();
-
-        const articles = data.articles || [];
-
-        console.log(
-            "Live articles:",
-            articles.length
-        );
+try {
 
 
-        /*
-        -----------------------------
-        FIND ARTICLES BY REGION
-        -----------------------------
-        */
-
-        const hyderabad =
-            articles.filter(
-                a => a.category === "Hyderabad"
-            );
-
-        const vizag =
-            articles.filter(
-                a => a.category === "Vizag / AP"
-            );
-
-        const india =
-            articles.filter(
-                a => a.category === "India"
-            );
-
-        const global =
-            articles.filter(
-                a => a.category === "Global"
-            );
+const response =
+await fetch(
+"data.json?time=" +
+Date.now()
+);
 
 
-        /*
-        -----------------------------
-        TOP STORY
-        -----------------------------
-        */
+if (!response.ok) {
 
-        if (articles.length > 0) {
-
-            const top = articles[0];
-
-            document.getElementById(
-                "topTitle"
-            ).innerHTML =
-                `<a href="${top.link}"
-                target="_blank"
-                style="color:inherit;text-decoration:none;">
-                ${top.title}
-                </a>`;
-
-
-            document.getElementById(
-                "topDescription"
-            ).textContent =
-                top.description ||
-                "Latest pharma and chemical industry development.";
-
-
-            document.getElementById(
-                "topMeta"
-            ).textContent =
-                `${top.category} · ${top.source}`;
-
-        }
-
-
-        /*
-        -----------------------------
-        REGIONAL CARDS
-        -----------------------------
-        */
-
-        function showLatest(
-            list,
-            elementId
-        ) {
-
-            const element =
-                document.getElementById(
-                    elementId
-                );
-
-            if (!element)
-                return;
-
-
-            if (list.length === 0) {
-
-                element.textContent =
-                    "No major development detected.";
-
-                return;
-
-            }
-
-
-            const article =
-                list[0];
-
-
-            element.innerHTML =
-                `<a href="${article.link}"
-                target="_blank"
-                style="color:inherit;text-decoration:none;">
-                ${article.title}
-                </a>`;
-
-        }
-
-
-        showLatest(
-            hyderabad,
-            "hyderabadNews"
-        );
-
-
-        showLatest(
-            vizag,
-            "vizagNews"
-        );
-
-
-        showLatest(
-            india,
-            "indiaNews"
-        );
-
-
-        /*
-        -----------------------------
-        LAST UPDATED
-        -----------------------------
-        */
-
-        if (data.updated) {
-
-            const date =
-                new Date(data.updated);
-
-
-            document.querySelector(
-                ".footer span:last-child"
-            ).textContent =
-                "Last updated: " +
-                date.toLocaleString(
-                    "en-IN"
-                ) +
-                " · Auto refresh: 60 min";
-
-        }
-
-
-    }
-
-    catch (error) {
-
-        console.error(
-            "News loading error:",
-            error
-        );
-
-    }
+throw new Error(
+"Could not load data.json"
+);
 
 }
 
 
-/*
-LOAD NEWS
-*/
+const data =
+await response.json();
+
+
+const articles =
+data.articles || [];
+
+
+console.log(
+"Articles loaded:",
+articles.length
+);
+
+
+/* NEWS COUNT */
+
+document.getElementById(
+"newsCount"
+).textContent =
+articles.length;
+
+
+/* OPPORTUNITIES */
+
+const opportunityKeywords = [
+
+"investment",
+"investments",
+"capacity",
+"plant",
+"expansion",
+"cdmo",
+"partnership",
+"export",
+"manufacturing",
+"facility"
+
+];
+
+
+const opportunities =
+articles.filter(article => {
+
+const text =
+article.title.toLowerCase();
+
+return opportunityKeywords.some(
+word => text.includes(word)
+);
+
+});
+
+
+document.getElementById(
+"opportunityCount"
+).textContent =
+opportunities.length;
+
+
+/* RISKS */
+
+const riskKeywords = [
+
+"warning",
+"recall",
+"shortage",
+"sanction",
+"restriction",
+"ban",
+"contamination",
+"inspection",
+"regulatory"
+
+];
+
+
+const risks =
+articles.filter(article => {
+
+const text =
+article.title.toLowerCase();
+
+return riskKeywords.some(
+word => text.includes(word)
+);
+
+});
+
+
+document.getElementById(
+"riskCount"
+).textContent =
+risks.length;
+
+
+/* TOP STORY */
+
+if (articles.length > 0) {
+
+const top =
+articles[0];
+
+
+document.getElementById(
+"topTitle"
+).innerHTML =
+
+`<a href="${top.link}"
+target="_blank">
+${top.title}
+</a>`;
+
+
+document.getElementById(
+"topDescription"
+).textContent =
+
+top.description
+.replace(/<[^>]*>/g, "")
+.substring(0,300);
+
+
+document.getElementById(
+"topMeta"
+).textContent =
+
+`${top.category} · ${top.source}`;
+
+}
+
+
+/* REGIONAL NEWS */
+
+function regionalNews(
+category,
+elementId
+) {
+
+const found =
+articles.filter(
+article =>
+article.category === category
+);
+
+
+const element =
+document.getElementById(
+elementId
+);
+
+
+if (found.length > 0) {
+
+element.innerHTML =
+
+`<a href="${found[0].link}"
+target="_blank"
+style="color:inherit;text-decoration:none;">
+${found[0].title}
+</a>`;
+
+}
+
+else {
+
+element.textContent =
+"No major development detected.";
+
+}
+
+}
+
+
+regionalNews(
+"Hyderabad",
+"hyderabadNews"
+);
+
+
+regionalNews(
+"Vizag / AP",
+"vizagNews"
+);
+
+
+regionalNews(
+"India",
+"indiaNews"
+);
+
+
+/* LATEST NEWS GRID */
+
+const grid =
+document.getElementById(
+"newsGrid"
+);
+
+
+grid.innerHTML = "";
+
+
+articles
+.slice(0,9)
+.forEach(article => {
+
+
+const card =
+document.createElement(
+"div"
+);
+
+
+card.className =
+"news-card";
+
+
+card.innerHTML = `
+
+<div class="category">
+${article.category}
+</div>
+
+<h3>
+
+<a href="${article.link}"
+target="_blank">
+
+${article.title}
+
+</a>
+
+</h3>
+
+<p>
+
+${article.source}
+
+</p>
+
+`;
+
+
+grid.appendChild(
+card
+);
+
+});
+
+
+/* LAST UPDATED */
+
+if (data.updated) {
+
+const date =
+new Date(data.updated);
+
+
+document.getElementById(
+"lastUpdated"
+).textContent =
+
+"Last updated: " +
+
+date.toLocaleString(
+"en-IN"
+) +
+
+" · Refresh: 5 min";
+
+}
+
+
+}
+
+catch(error) {
+
+
+console.error(error);
+
+
+document.getElementById(
+"topTitle"
+).textContent =
+"Unable to load latest intelligence";
+
+
+document.getElementById(
+"topDescription"
+).textContent =
+"Please refresh the dashboard.";
+
+
+}
+
+}
+
+
+/* INITIAL LOAD */
 
 loadNews();
 
 
-/*
-REFRESH PAGE DATA
-EVERY 5 MINUTES
-*/
+/* REFRESH EVERY 5 MINUTES */
 
 setInterval(
-    loadNews,
-    5 * 60 * 1000
+loadNews,
+5 * 60 * 1000
 );
 
-</script>
 
 </script>
+
+
 </body>
+
 </html>
