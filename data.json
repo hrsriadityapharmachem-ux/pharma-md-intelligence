@@ -1,100 +1,304 @@
 /*
-  Sri Aditya Pharmachem - MD Intelligence frontend
-  Reads data.json (written by news.py via GitHub Actions) and fills the page.
+ Sri Aditya Pharmachem
+ MD Pharma Intelligence Dashboard
 
-  Add to index.html, just before </body>:
-      <script src="app.js"></script>
-
-  Add data-field="..." attributes to the elements you want filled in.
-  See the list of names below - each matches one piece of data.json.
+ This file reads data.json and updates the dashboard.
 */
 
 async function loadDashboard() {
   try {
-    const res = await fetch('data.json?_=' + Date.now()); // cache-bust, never show stale data
-    if (!res.ok) throw new Error('data.json not found');
-    const data = await res.json();
+    const response = await fetch("data.json?_=" + Date.now());
 
-    // ---- KPI counts (top of page) ----
-    setText('news_detected', data.article_count);
-    setText('opportunities', data.opportunity_count);
-    setText('risks', data.risk_count);
-    setText('high_priority', data.high_priority_count);
+    if (!response.ok) {
+      throw new Error("data.json could not be loaded");
+    }
 
-    // ---- Last updated time ----
-    setText('updated_at', formatTime(data.updated));
+    const data = await response.json();
 
-    // ---- Must Know (top priority items) ----
-    renderCards('must_know', data.must_know);
+    // KPI COUNTS
+    setText("news_detected", data.article_count || 0);
+    setText("opportunities", data.opportunity_count || 0);
+    setText("risks", data.risk_count || 0);
+    setText("high_priority", data.high_priority_count || 0);
 
-    // ---- Regional sections, filtered from the full articles list ----
-    const regions = groupByRegion(data.articles);
-    renderCards('region_hyderabad', regions.hyderabad);
-    renderCards('region_vizag', regions.vizag);
-    renderCards('region_india', regions.india);
-    renderCards('region_global', regions.global);
+    // LAST UPDATED
+    setText("updated_at", formatTime(data.updated));
 
-    // ---- Business signals (API/Intermediates, CDMO, etc.) ----
-    renderSignals('business_signals', data.business_signals);
+    // MUST KNOW
+    renderCards("must_know", data.must_know || []);
 
-  } catch (err) {
-    console.error('Dashboard load failed:', err);
+    // REGIONAL NEWS
+    const regions = groupByRegion(data.articles || []);
+
+    renderCards("region_hyderabad", regions.hyderabad);
+    renderCards("region_vizag", regions.vizag);
+    renderCards("region_india", regions.india);
+    renderCards("region_global", regions.global);
+
+    // BUSINESS SIGNALS
+    renderSignals("business_signals", data.business_signals || {});
+
+  } catch (error) {
+    console.error("Dashboard load failed:", error);
   }
 }
 
-// Sorts every article into one of the four region buckets based on its
-// "category" field (works even if news.py's exact wording shifts slightly).
+
+// --------------------------------------------------
+// GROUP NEWS BY REGION
+// --------------------------------------------------
+
 function groupByRegion(articles) {
-  const out = { hyderabad: [], vizag: [], india: [], global: [] };
-  (articles || []).forEach(item => {
-    const c = (item.category || '').toLowerCase();
-    if (c.includes('hyderabad')) out.hyderabad.push(item);
-    else if (c.includes('vizag') || c.includes('ap')) out.vizag.push(item);
-    else if (c.includes('india')) out.india.push(item);
-    else if (c.includes('global')) out.global.push(item);
+
+  const regions = {
+    hyderabad: [],
+    vizag: [],
+    india: [],
+    global: []
+  };
+
+  articles.forEach(function(item) {
+
+    const category =
+      String(item.category || "").toLowerCase();
+
+    if (category.includes("hyderabad")) {
+
+      regions.hyderabad.push(item);
+
+    } else if (
+      category.includes("vizag") ||
+      category.includes("andhra") ||
+      category.includes("ap")
+    ) {
+
+      regions.vizag.push(item);
+
+    } else if (category.includes("india")) {
+
+      regions.india.push(item);
+
+    } else {
+
+      regions.global.push(item);
+
+    }
+
   });
-  return out;
+
+  return regions;
 }
+
+
+// --------------------------------------------------
+// RENDER NEWS CARDS
+// --------------------------------------------------
 
 function renderCards(fieldName, items) {
-  const el = document.querySelector(`[data-field="${fieldName}"]`);
-  if (!el) return;
-  if (!items || items.length === 0) {
-    el.innerHTML = '<p class="empty">No items in the last 24 hours.</p>';
+
+  const element =
+    document.querySelector(`[data-field="${fieldName}"]`);
+
+  if (!element) {
     return;
   }
-  el.innerHTML = items.map(item => `
-    <div class="card">
-      <span class="tag tag-${(item.signal || '').toLowerCase()}">${item.signal || ''}</span>
-      <a href="${item.link}" target="_blank" rel="noopener"><strong>${item.title}</strong></a>
-      ${item.why_it_matters ? `<div class="why"><b>Why it matters:</b> ${item.why_it_matters}</div>` : ''}
-      ${item.md_action ? `<div class="action"><b>Action:</b> ${item.md_action}</div>` : ''}
-    </div>
-  `).join('');
+
+  if (!items || items.length === 0) {
+
+    element.innerHTML =
+      '<p class="empty">No items in the last 24 hours.</p>';
+
+    return;
+  }
+
+  element.innerHTML = items.map(function(item) {
+
+    const signal =
+      String(item.signal || "Watch").toLowerCase();
+
+    const title =
+      escapeHTML(item.title || "Untitled");
+
+    const link =
+      item.link || "#";
+
+    const why =
+      escapeHTML(item.why_it_matters || "");
+
+    const action =
+      escapeHTML(item.md_action || "");
+
+    return `
+      <div class="card">
+
+        <span class="tag tag-${signal}">
+          ${escapeHTML(item.signal || "Watch")}
+        </span>
+
+        <a
+          href="${link}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <strong>${title}</strong>
+        </a>
+
+        ${
+          why
+            ? `<div class="why">
+                 <b>Why it matters:</b> ${why}
+               </div>`
+            : ""
+        }
+
+        ${
+          action
+            ? `<div class="action">
+                 <b>MD Action:</b> ${action}
+               </div>`
+            : ""
+        }
+
+      </div>
+    `;
+
+  }).join("");
 }
+
+
+// --------------------------------------------------
+// BUSINESS SIGNALS
+// --------------------------------------------------
 
 function renderSignals(fieldName, signals) {
-  const el = document.querySelector(`[data-field="${fieldName}"]`);
-  if (!el || !signals) return;
-  const max = Math.max(1, ...Object.values(signals));
-  el.innerHTML = Object.entries(signals).map(([label, count]) => `
-    <div class="signal-row">
-      <span class="signal-label">${label}</span>
-      <div class="signal-track"><div class="signal-fill" style="width:${(count / max) * 100}%"></div></div>
-      <span class="signal-count">${count}</span>
-    </div>
-  `).join('');
+
+  const element =
+    document.querySelector(`[data-field="${fieldName}"]`);
+
+  if (!element) {
+    return;
+  }
+
+  const entries =
+    Object.entries(signals || {});
+
+  if (entries.length === 0) {
+
+    element.innerHTML =
+      '<p class="empty">No business signals available.</p>';
+
+    return;
+  }
+
+  const max =
+    Math.max(
+      1,
+      ...entries.map(function(entry) {
+        return Number(entry[1]) || 0;
+      })
+    );
+
+  element.innerHTML = entries.map(function(entry) {
+
+    const label = entry[0];
+    const count = Number(entry[1]) || 0;
+
+    const percentage =
+      (count / max) * 100;
+
+    return `
+      <div class="signal-row">
+
+        <span class="signal-label">
+          ${escapeHTML(label)}
+        </span>
+
+        <div class="signal-track">
+          <div
+            class="signal-fill"
+            style="width:${percentage}%"
+          ></div>
+        </div>
+
+        <span class="signal-count">
+          ${count}
+        </span>
+
+      </div>
+    `;
+
+  }).join("");
 }
+
+
+// --------------------------------------------------
+// SET TEXT
+// --------------------------------------------------
 
 function setText(fieldName, value) {
-  const el = document.querySelector(`[data-field="${fieldName}"]`);
-  if (el) el.textContent = value;
+
+  const element =
+    document.querySelector(`[data-field="${fieldName}"]`);
+
+  if (element) {
+    element.textContent = value;
+  }
 }
+
+
+// --------------------------------------------------
+// FORMAT TIME
+// --------------------------------------------------
 
 function formatTime(isoString) {
-  if (!isoString) return '';
-  return new Date(isoString).toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' });
+
+  if (!isoString) {
+    return "";
+  }
+
+  const date = new Date(isoString);
+
+  if (isNaN(date.getTime())) {
+    return isoString;
+  }
+
+  return date.toLocaleString("en-IN", {
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit"
+  });
 }
 
+
+// --------------------------------------------------
+// BASIC HTML SAFETY
+// --------------------------------------------------
+
+function escapeHTML(value) {
+
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+
+// --------------------------------------------------
+// LOAD DASHBOARD
+// --------------------------------------------------
+
 loadDashboard();
-setInterval(loadDashboard, 5 * 60 * 1000); // re-check data.json every 5 minutes
+
+
+// --------------------------------------------------
+// REFRESH EVERY 5 MINUTES
+// --------------------------------------------------
+
+setInterval(
+  loadDashboard,
+  5 * 60 * 1000
+);
