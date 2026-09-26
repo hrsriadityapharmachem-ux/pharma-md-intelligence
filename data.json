@@ -1,201 +1,100 @@
-{
-  "updated": "2026-09-26T11:33:35.732802+00:00",
-  "article_count": 6,
-  "opportunity_count": 4,
-  "risk_count": 0,
-  "watch_count": 2,
-  "high_priority_count": 2,
-  "successful_feeds": 13,
-  "must_know": [
-    {
-      "category": "Vizag / AP",
-      "title": "Nara Lokesh invites investments in clean energy, pharma, data centres - The Times of India",
-      "description": "Nara Lokesh invites investments in clean energy, pharma, data centres The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEd4U2Q4WXVMS3NTcjdQNzBmLUFSNDdVWno4RDdsa1JESVdsb0VvZmpmc3ZpSHBUX1ZWcGZXVkpTQzhOUklBLW5GRGtsSWo0LUZhZjByNDEwQ1NVTWVIQmRFd1JuYWc3UTBjd1hHdWl1Q3RBaEVudG00MEF1MWdZd2hKa1lIUFNQLTNfdFRRazdHUjhVazlVT1dYS3hIRHRhcDNpZi1SbHVBY1NCRXBaM3UybHhqVllsY2U2Mm5JTmlHaWlWNDFDTUdiVXYtR1R3VFFsdk9VUmlaYjNLNGfSAeMBQVVfeXFMUEhoZ2ZoSzMzYnpINWtVUk1ULXkyTkhzZl9nMWxQUFI3dTFMSU4zdjNKRjc1VzVPaUFsd2V1c2RBSHVOaTAydGtndHZESXFoTDlydjdVeHlDV1NFeTR1SV9QMUdnNGFqenp3S0hfSU5QOGVTU3JYNW45S3VMY2pTRE9UYlE3djlIS1E4RVlmN3VpLWpqd1ROWlFJc2pKS0Q5dE9JZy1xY1IxMUhaVjg4V21wUnVHdlpaaGhuakpKakNwSGdnbWdVRVc0SXhrekFmREVNUmtkdkZmVkV1MkwyOHZ0WE0?oc=5",
-      "published": "2026-09-25T16:24:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Andhra Pradesh development that may create API, bulk-drug, chemical, manufacturing, customer or supplier opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the Andhra Pradesh project and identify possible API, chemical, manufacturing, supplier or customer opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "PLI Scheme Drives Rs 5,210 Cr Bulk Drug Investment by 2026 - Rediff MoneyWiz",
-      "description": "PLI Scheme Drives Rs 5,210 Cr Bulk Drug Investment by 2026 Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3lXRGc5UVdybUZBS043eV9mNUx0NHh3aFVrU21KTVdkcF90cHUyMnI2VmtvRUJXU2sxLTZEcjZ1QXdBdk1MWThadDdKb19tRTg5dUFYcHh6YllJeXpnUnlJYmFyelhibVIxbDRfdW0zWWJoelRrWGJWYjJCS0k5Mjlnd1RxYU9la0RHbXBsc1c2NV9UVENYWDI3a1E1MGVRYTFnYUNUWktOMmFjdGtZ0gG0AUFVX3lxTFBnWHNxbjBYV3BTYUZFQ1l5Q3o3UU5IRlZ2Vm1uVDN0bUpmeUNxQ3JhLXZCeHJCN2VfUnE0N2wtNW5Ma1F6dlRObTVaTVV6Sy1yTXZ5V0xDYVF1dmRkQVNZVWFSTnNzb09RTHhhdXNraDV4c0FpZFFBTXhrZVRlbzhyNnlsNjBSVXR5c0JVWGl6TjEtNFc1bFg0QmpLRkxMRC04Z0FkUmkwVE5DU3RlTW9GWlZsQw?oc=5",
-      "published": "2026-09-25T12:55:48+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "rs 5,210 cr",
-        "5,210 cr"
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - The Economic Times",
-      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXUzQ2Q2T2FZOFpGeXlRXzRJUXNoMkdqQVlua2ZqamFqWlRSWUEyQnRxQmEyWUxBdUd3OUlvWUJ6bkE5U3dsVmdrd0FVcUpoWkJyTURCa0FMb01POTM2LUJLTGZROW1ESWxlR2thYy04eG43cnpuWE8yVU1SNWxaNFRxMEdYNFFZOUs5ajBTdnhpR3pDaTNDRTRkVGE2MDZhb3JYLVNwczBpNVR6enZLaDBDQ254akxicWR5V0FrNmVrNW4zT0NsejBQWWJHNlBmYTZ3N1liX0IyTm9LRVQtQkxESndCazBkSk5Z0gHrAUFVX3lxTE9BdTNDZDZPYVk4WkZ5eVFfNElRc2gyR2pBWW5rZmpqYWpaVFJZQTJCdHFCYTJZTEF1R3c5SW9ZQnpuQTlTd2xWZ2t3QVVxSmhaQnJNREJrQUxvTU85MzYtQktMZlE5bURJbGVHa2FjLTh4bjdyem5YTzJVTVI1bFo0VHEwR1g0UVk5SzlqMFN2eGlHekNpM0NFNGRUYTYwNmFvclgtU3BzMGk1VHp6dktoMENDbnhqTGJxZHlXQWs2ZWs1bjNPQ2x6MFBZYkc2UGZhNnc3WWJfQjJOb0tFVC1CTERKd0JrMGRKTlk?oc=5",
-      "published": "2026-09-25T19:19:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    }
-  ],
-  "business_signals": {
-    "API / Intermediates": 1,
-    "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 2,
-    "Manufacturing / Plants": 1,
-    "Supply Chain": 0,
-    "Regulatory": 0,
-    "Exports / Markets": 0,
-    "Specialty Chemicals": 0
-  },
-  "articles": [
-    {
-      "category": "India",
-      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - The Economic Times",
-      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXUzQ2Q2T2FZOFpGeXlRXzRJUXNoMkdqQVlua2ZqamFqWlRSWUEyQnRxQmEyWUxBdUd3OUlvWUJ6bkE5U3dsVmdrd0FVcUpoWkJyTURCa0FMb01POTM2LUJLTGZROW1ESWxlR2thYy04eG43cnpuWE8yVU1SNWxaNFRxMEdYNFFZOUs5ajBTdnhpR3pDaTNDRTRkVGE2MDZhb3JYLVNwczBpNVR6enZLaDBDQ254akxicWR5V0FrNmVrNW4zT0NsejBQWWJHNlBmYTZ3N1liX0IyTm9LRVQtQkxESndCazBkSk5Z0gHrAUFVX3lxTE9BdTNDZDZPYVk4WkZ5eVFfNElRc2gyR2pBWW5rZmpqYWpaVFJZQTJCdHFCYTJZTEF1R3c5SW9ZQnpuQTlTd2xWZ2t3QVVxSmhaQnJNREJrQUxvTU85MzYtQktMZlE5bURJbGVHa2FjLTh4bjdyem5YTzJVTVI1bFo0VHEwR1g0UVk5SzlqMFN2eGlHekNpM0NFNGRUYTYwNmFvclgtU3BzMGk1VHp6dktoMENDbnhqTGJxZHlXQWs2ZWs1bjNPQ2x6MFBZYkc2UGZhNnc3WWJfQjJOb0tFVC1CTERKd0JrMGRKTlk?oc=5",
-      "published": "2026-09-25T19:19:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA Approves Welireg Plus Lenvima | PharmExec - Pharmaceutical Executive",
-      "description": "FDA Approves Welireg Plus Lenvima | PharmExec Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUGVTeFpMbEhwLWhPZFBPTzRYSTJRWUdSekFhQ3dqR1h4RVlrTFdPdzJYTC01emM3Ym9hbVR1dWV5MW5SUVQtM1lLaVZmUXJzNDEzcTlDUXdTblQzcTl5TWUyaEVSckQ2ZnlLNDV0S0FIejA?oc=5",
-      "published": "2026-09-25T18:30:15+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "PharmExec - Pharmaceutical",
-        "PharmExec Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "Nara Lokesh invites investments in clean energy, pharma, data centres - The Times of India",
-      "description": "Nara Lokesh invites investments in clean energy, pharma, data centres The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEd4U2Q4WXVMS3NTcjdQNzBmLUFSNDdVWno4RDdsa1JESVdsb0VvZmpmc3ZpSHBUX1ZWcGZXVkpTQzhOUklBLW5GRGtsSWo0LUZhZjByNDEwQ1NVTWVIQmRFd1JuYWc3UTBjd1hHdWl1Q3RBaEVudG00MEF1MWdZd2hKa1lIUFNQLTNfdFRRazdHUjhVazlVT1dYS3hIRHRhcDNpZi1SbHVBY1NCRXBaM3UybHhqVllsY2U2Mm5JTmlHaWlWNDFDTUdiVXYtR1R3VFFsdk9VUmlaYjNLNGfSAeMBQVVfeXFMUEhoZ2ZoSzMzYnpINWtVUk1ULXkyTkhzZl9nMWxQUFI3dTFMSU4zdjNKRjc1VzVPaUFsd2V1c2RBSHVOaTAydGtndHZESXFoTDlydjdVeHlDV1NFeTR1SV9QMUdnNGFqenp3S0hfSU5QOGVTU3JYNW45S3VMY2pTRE9UYlE3djlIS1E4RVlmN3VpLWpqd1ROWlFJc2pKS0Q5dE9JZy1xY1IxMUhaVjg4V21wUnVHdlpaaGhuakpKakNwSGdnbWdVRVc0SXhrekFmREVNUmtkdkZmVkV1MkwyOHZ0WE0?oc=5",
-      "published": "2026-09-25T16:24:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Andhra Pradesh development that may create API, bulk-drug, chemical, manufacturing, customer or supplier opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the Andhra Pradesh project and identify possible API, chemical, manufacturing, supplier or customer opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA approves Welireg and Lenvima combo for advanced kidney cancer - The Pharma Letter",
-      "description": "FDA approves Welireg and Lenvima combo for advanced kidney cancer The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU5IOEw2bnNRaEJweFRxQmhaU0Q4Q2E3QmllZUx4MTNndU9qdG1rclliX0xnVGUwWVBDZ0dLYW03U0lmekEzRFdKVGV2Mkp3RGQ1bmFFenhua0YzZENwZTJnLXViUTcwQXFmQ2RmaS1lWVBtckxpeUxSN2VVMHBTVHpyeGc1Z1ExdUhxNzFpbHJvVjhvc01CdE5pYWR2WUNTc0VlbXBTTzFLQXdIWkE?oc=5",
-      "published": "2026-09-25T14:20:23+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Lenvima combo for advanced kidney cancer - The Pharma",
-        "Lenvima combo for advanced kidney cancer The Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "PLI Scheme Drives Rs 5,210 Cr Bulk Drug Investment by 2026 - Rediff MoneyWiz",
-      "description": "PLI Scheme Drives Rs 5,210 Cr Bulk Drug Investment by 2026 Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3lXRGc5UVdybUZBS043eV9mNUx0NHh3aFVrU21KTVdkcF90cHUyMnI2VmtvRUJXU2sxLTZEcjZ1QXdBdk1MWThadDdKb19tRTg5dUFYcHh6YllJeXpnUnlJYmFyelhibVIxbDRfdW0zWWJoelRrWGJWYjJCS0k5Mjlnd1RxYU9la0RHbXBsc1c2NV9UVENYWDI3a1E1MGVRYTFnYUNUWktOMmFjdGtZ0gG0AUFVX3lxTFBnWHNxbjBYV3BTYUZFQ1l5Q3o3UU5IRlZ2Vm1uVDN0bUpmeUNxQ3JhLXZCeHJCN2VfUnE0N2wtNW5Ma1F6dlRObTVaTVV6Sy1yTXZ5V0xDYVF1dmRkQVNZVWFSTnNzb09RTHhhdXNraDV4c0FpZFFBTXhrZVRlbzhyNnlsNjBSVXR5c0JVWGl6TjEtNFc1bFg0QmpLRkxMRC04Z0FkUmkwVE5DU3RlTW9GWlZsQw?oc=5",
-      "published": "2026-09-25T12:55:48+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "rs 5,210 cr",
-        "5,210 cr"
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Indian CDMOs must build capability and trust, not just capacity, to win global innovation mandates: Experts - ETPharma.com",
-      "description": "Indian CDMOs must build capability and trust, not just capacity, to win global innovation mandates: Experts ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRi14TU1aV3FGWnIzcFlELVBCTWZKSmlURUlacms2Z2FWbzZBdElUa3dOVW8yQkZuRkpkUU0ybTNERUtza1pTSGhtRU11TVdzMkpSc2R5TWlyRi1oUzVsSnJTVGVoMmxLN0U3akxuTDRNNlgxNEtWZngtZUZMMnFGVkttRHNFNTA3RHR4MzJHU2FyVWdwUjFLUlNxdFJ4NG9saDZQNVV5SFFQbXh4UTFnR2J6S295SkgtZnJNZzhHbW5CS2NyQjJFNkotaTExT2N0STluMzdGREZYOW5pbHczbFp4SVNKMXNqT29RMXJvRVFuSnZMZ01iYXRCVFA4TzZiQWNteF8tbmNZbmVFdTIwWEZPQ1BlYjlLWGtrcVh1b9IBnwJBVV95cUxQRi14TU1aV3FGWnIzcFlELVBCTWZKSmlURUlacms2Z2FWbzZBdElUa3dOVW8yQkZuRkpkUU0ybTNERUtza1pTSGhtRU11TVdzMkpSc2R5TWlyRi1oUzVsSnJTVGVoMmxLN0U3akxuTDRNNlgxNEtWZngtZUZMMnFGVkttRHNFNTA3RHR4MzJHU2FyVWdwUjFLUlNxdFJ4NG9saDZQNVV5SFFQbXh4UTFnR2J6S295SkgtZnJNZzhHbW5CS2NyQjJFNkotaTExT2N0STluMzdGREZYOW5pbHczbFp4SVNKMXNqT29RMXJvRVFuSnZMZ01iYXRCVFA4TzZiQWNteF8tbmNZbmVFdTIwWEZPQ1BlYjlLWGtrcVh1bw?oc=5",
-      "published": "2026-09-25T12:00:50+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "Experts - ETPharma",
-        "Experts ETPharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    }
-  ]
+/*
+  Sri Aditya Pharmachem - MD Intelligence frontend
+  Reads data.json (written by news.py via GitHub Actions) and fills the page.
+
+  Add to index.html, just before </body>:
+      <script src="app.js"></script>
+
+  Add data-field="..." attributes to the elements you want filled in.
+  See the list of names below - each matches one piece of data.json.
+*/
+
+async function loadDashboard() {
+  try {
+    const res = await fetch('data.json?_=' + Date.now()); // cache-bust, never show stale data
+    if (!res.ok) throw new Error('data.json not found');
+    const data = await res.json();
+
+    // ---- KPI counts (top of page) ----
+    setText('news_detected', data.article_count);
+    setText('opportunities', data.opportunity_count);
+    setText('risks', data.risk_count);
+    setText('high_priority', data.high_priority_count);
+
+    // ---- Last updated time ----
+    setText('updated_at', formatTime(data.updated));
+
+    // ---- Must Know (top priority items) ----
+    renderCards('must_know', data.must_know);
+
+    // ---- Regional sections, filtered from the full articles list ----
+    const regions = groupByRegion(data.articles);
+    renderCards('region_hyderabad', regions.hyderabad);
+    renderCards('region_vizag', regions.vizag);
+    renderCards('region_india', regions.india);
+    renderCards('region_global', regions.global);
+
+    // ---- Business signals (API/Intermediates, CDMO, etc.) ----
+    renderSignals('business_signals', data.business_signals);
+
+  } catch (err) {
+    console.error('Dashboard load failed:', err);
+  }
 }
+
+// Sorts every article into one of the four region buckets based on its
+// "category" field (works even if news.py's exact wording shifts slightly).
+function groupByRegion(articles) {
+  const out = { hyderabad: [], vizag: [], india: [], global: [] };
+  (articles || []).forEach(item => {
+    const c = (item.category || '').toLowerCase();
+    if (c.includes('hyderabad')) out.hyderabad.push(item);
+    else if (c.includes('vizag') || c.includes('ap')) out.vizag.push(item);
+    else if (c.includes('india')) out.india.push(item);
+    else if (c.includes('global')) out.global.push(item);
+  });
+  return out;
+}
+
+function renderCards(fieldName, items) {
+  const el = document.querySelector(`[data-field="${fieldName}"]`);
+  if (!el) return;
+  if (!items || items.length === 0) {
+    el.innerHTML = '<p class="empty">No items in the last 24 hours.</p>';
+    return;
+  }
+  el.innerHTML = items.map(item => `
+    <div class="card">
+      <span class="tag tag-${(item.signal || '').toLowerCase()}">${item.signal || ''}</span>
+      <a href="${item.link}" target="_blank" rel="noopener"><strong>${item.title}</strong></a>
+      ${item.why_it_matters ? `<div class="why"><b>Why it matters:</b> ${item.why_it_matters}</div>` : ''}
+      ${item.md_action ? `<div class="action"><b>Action:</b> ${item.md_action}</div>` : ''}
+    </div>
+  `).join('');
+}
+
+function renderSignals(fieldName, signals) {
+  const el = document.querySelector(`[data-field="${fieldName}"]`);
+  if (!el || !signals) return;
+  const max = Math.max(1, ...Object.values(signals));
+  el.innerHTML = Object.entries(signals).map(([label, count]) => `
+    <div class="signal-row">
+      <span class="signal-label">${label}</span>
+      <div class="signal-track"><div class="signal-fill" style="width:${(count / max) * 100}%"></div></div>
+      <span class="signal-count">${count}</span>
+    </div>
+  `).join('');
+}
+
+function setText(fieldName, value) {
+  const el = document.querySelector(`[data-field="${fieldName}"]`);
+  if (el) el.textContent = value;
+}
+
+function formatTime(isoString) {
+  if (!isoString) return '';
+  return new Date(isoString).toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' });
+}
+
+loadDashboard();
+setInterval(loadDashboard, 5 * 60 * 1000); // re-check data.json every 5 minutes
