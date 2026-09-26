@@ -1,32 +1,12 @@
 {
-  "updated": "2026-09-26T15:35:31.109003+00:00",
-  "article_count": 3,
-  "opportunity_count": 2,
+  "updated": "2026-09-26T16:35:47.946471+00:00",
+  "article_count": 2,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
-  "high_priority_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "Vizag / AP",
-      "title": "Nara Lokesh invites investments in clean energy, pharma, data centres - The Times of India",
-      "description": "Nara Lokesh invites investments in clean energy, pharma, data centres The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEd4U2Q4WXVMS3NTcjdQNzBmLUFSNDdVWno4RDdsa1JESVdsb0VvZmpmc3ZpSHBUX1ZWcGZXVkpTQzhOUklBLW5GRGtsSWo0LUZhZjByNDEwQ1NVTWVIQmRFd1JuYWc3UTBjd1hHdWl1Q3RBaEVudG00MEF1MWdZd2hKa1lIUFNQLTNfdFRRazdHUjhVazlVT1dYS3hIRHRhcDNpZi1SbHVBY1NCRXBaM3UybHhqVllsY2U2Mm5JTmlHaWlWNDFDTUdiVXYtR1R3VFFsdk9VUmlaYjNLNGfSAeMBQVVfeXFMUEhoZ2ZoSzMzYnpINWtVUk1ULXkyTkhzZl9nMWxQUFI3dTFMSU4zdjNKRjc1VzVPaUFsd2V1c2RBSHVOaTAydGtndHZESXFoTDlydjdVeHlDV1NFeTR1SV9QMUdnNGFqenp3S0hfSU5QOGVTU3JYNW45S3VMY2pTRE9UYlE3djlIS1E4RVlmN3VpLWpqd1ROWlFJc2pKS0Q5dE9JZy1xY1IxMUhaVjg4V21wUnVHdlpaaGhuakpKakNwSGdnbWdVRVc0SXhrekFmREVNUmtkdkZmVkV1MkwyOHZ0WE0?oc=5",
-      "published": "2026-09-25T16:24:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Andhra Pradesh development that may create API, bulk-drug, chemical, manufacturing, customer or supplier opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the Andhra Pradesh project and identify possible API, chemical, manufacturing, supplier or customer opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": []
-    },
     {
       "category": "India",
       "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - The Economic Times",
@@ -68,7 +48,7 @@
   "business_signals": {
     "API / Intermediates": 1,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 1,
+    "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -111,26 +91,6 @@
         "PharmExec Pharmaceutical"
       ],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "Nara Lokesh invites investments in clean energy, pharma, data centres - The Times of India",
-      "description": "Nara Lokesh invites investments in clean energy, pharma, data centres The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEd4U2Q4WXVMS3NTcjdQNzBmLUFSNDdVWno4RDdsa1JESVdsb0VvZmpmc3ZpSHBUX1ZWcGZXVkpTQzhOUklBLW5GRGtsSWo0LUZhZjByNDEwQ1NVTWVIQmRFd1JuYWc3UTBjd1hHdWl1Q3RBaEVudG00MEF1MWdZd2hKa1lIUFNQLTNfdFRRazdHUjhVazlVT1dYS3hIRHRhcDNpZi1SbHVBY1NCRXBaM3UybHhqVllsY2U2Mm5JTmlHaWlWNDFDTUdiVXYtR1R3VFFsdk9VUmlaYjNLNGfSAeMBQVVfeXFMUEhoZ2ZoSzMzYnpINWtVUk1ULXkyTkhzZl9nMWxQUFI3dTFMSU4zdjNKRjc1VzVPaUFsd2V1c2RBSHVOaTAydGtndHZESXFoTDlydjdVeHlDV1NFeTR1SV9QMUdnNGFqenp3S0hfSU5QOGVTU3JYNW45S3VMY2pTRE9UYlE3djlIS1E4RVlmN3VpLWpqd1ROWlFJc2pKS0Q5dE9JZy1xY1IxMUhaVjg4V21wUnVHdlpaaGhuakpKakNwSGdnbWdVRVc0SXhrekFmREVNUmtkdkZmVkV1MkwyOHZ0WE0?oc=5",
-      "published": "2026-09-25T16:24:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Andhra Pradesh development that may create API, bulk-drug, chemical, manufacturing, customer or supplier opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the Andhra Pradesh project and identify possible API, chemical, manufacturing, supplier or customer opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
       "numbers": []
     }
   ]
