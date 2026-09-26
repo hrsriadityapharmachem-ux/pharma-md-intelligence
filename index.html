@@ -1,54 +1,663 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Sri Aditya Pharmachem - MD Intelligence</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>MD Pharma Intelligence | Sri Aditya Pharmachem</title>
+
+<style>
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    background: #0a0d12;
+    color: #f5f7fa;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 1450px;
+    margin: auto;
+    padding: 28px;
+}
+
+/* HEADER */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+.brand {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #9ca3af;
+    text-transform: uppercase;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+.subtitle {
+    color: #8b93a1;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.live {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #8ee6a7;
+    font-size: 13px;
+}
+
+.live-dot {
+    width: 8px;
+    height: 8px;
+    background: #35d06f;
+    border-radius: 50%;
+    box-shadow: 0 0 12px #35d06f;
+}
+
+/* TOP METRICS */
+
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+    margin-bottom: 35px;
+}
+
+.metric {
+    background: #11161d;
+    border: 1px solid #1e2631;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+.metric-label {
+    color: #8993a3;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.metric-number {
+    font-size: 34px;
+    font-weight: 700;
+    margin-top: 8px;
+}
+
+.metric-small {
+    font-size: 12px;
+    color: #707987;
+}
+
+.green {
+    color: #62df91;
+}
+
+.red {
+    color: #ff6b6b;
+}
+
+.orange {
+    color: #ffb45c;
+}
+
+/* SECTION */
+
+.section-title {
+    font-size: 13px;
+    letter-spacing: 1.5px;
+    color: #8b93a1;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+}
+
+/* TOP STORIES */
+
+.top-grid {
+    display: grid;
+    grid-template-columns: 1.7fr 1fr;
+    gap: 18px;
+    margin-bottom: 35px;
+}
+
+.hero {
+    background: linear-gradient(135deg, #151b24, #0e1218);
+    border: 1px solid #26303d;
+    border-radius: 18px;
+    padding: 25px;
+}
+
+.tag {
+    display: inline-block;
+    padding: 5px 9px;
+    border-radius: 6px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background: #2a1518;
+    color: #ff7777;
+    margin-bottom: 15px;
+}
+
+.hero h2 {
+    font-size: 24px;
+    line-height: 1.25;
+    margin-bottom: 12px;
+}
+
+.hero p {
+    color: #9ba4b2;
+    font-size: 14px;
+}
+
+.meta {
+    margin-top: 18px;
+    color: #687280;
+    font-size: 11px;
+}
+
+/* OPPORTUNITIES */
+
+.side {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.side-card {
+    background: #11161d;
+    border: 1px solid #1e2631;
+    border-radius: 15px;
+    padding: 17px;
+}
+
+.side-card strong {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.side-card span {
+    font-size: 12px;
+    color: #7f8997;
+}
+
+/* REGIONS */
+
+.regions {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+    margin-bottom: 35px;
+}
+
+.region {
+    background: #10151c;
+    border: 1px solid #1e2631;
+    border-radius: 15px;
+    padding: 20px;
+    min-height: 130px;
+}
+
+.region h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.region p {
+    font-size: 12px;
+    color: #818b99;
+}
+
+/* INDUSTRY */
+
+.industry {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 18px;
+    margin-bottom: 35px;
+}
+
+.panel {
+    background: #10151c;
+    border: 1px solid #1e2631;
+    border-radius: 16px;
+    padding: 22px;
+}
+
+.trend {
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 0;
+    border-bottom: 1px solid #1d242e;
+    font-size: 13px;
+}
+
+.trend:last-child {
+    border-bottom: none;
+}
+
+/* FOOTER */
+
+.footer {
+    border-top: 1px solid #1e2631;
+    padding-top: 20px;
+    margin-top: 30px;
+    color: #606a78;
+    font-size: 11px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* MOBILE */
+
+@media(max-width: 900px) {
+
+    .metrics {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .top-grid,
+    .industry {
+        grid-template-columns: 1fr;
+    }
+
+    .regions {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .title {
+        font-size: 25px;
+    }
+}
+
+@media(max-width: 550px) {
+
+    .container {
+        padding: 18px;
+    }
+
+    .header {
+        align-items: flex-start;
+    }
+
+    .metrics {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .regions {
+        grid-template-columns: 1fr;
+    }
+
+    .metric-number {
+        font-size: 27px;
+    }
+
+    .hero h2 {
+        font-size: 20px;
+    }
+
+    .footer {
+        flex-direction: column;
+        gap: 8px;
+    }
+}
+
+</style>
 </head>
 
 <body>
 
-<h1>🔴 Sri Aditya Pharmachem</h1>
+<div class="container">
 
-<h2>MD Daily Pharma Intelligence</h2>
+    <!-- HEADER -->
 
-<p>26 September 2026 | 07:00 AM</p>
+    <div class="header">
 
-<hr>
+        <div>
 
-<h2>🔴 TOP 5 — MUST KNOW</h2>
+            <div class="brand">
+                Sri Aditya Pharmachem
+            </div>
 
-<p>Dashboard is being configured...</p>
+            <div class="title">
+                MD Pharma Intelligence
+            </div>
 
-<h2>🟢 BUSINESS OPPORTUNITIES</h2>
+            <div class="subtitle">
+                Daily industry intelligence · Last 24 hours
+            </div>
 
-<p>Dashboard is being configured...</p>
+        </div>
 
-<h2>🔴 RISKS</h2>
+        <div class="live">
+            <span class="live-dot"></span>
+            LIVE
+        </div>
 
-<p>Dashboard is being configured...</p>
+    </div>
 
-<h2>📍 HYDERABAD</h2>
 
-<p>Dashboard is being configured...</p>
+    <!-- METRICS -->
 
-<h2>⚓ VIZAG / ANDHRA PRADESH</h2>
+    <div class="metrics">
 
-<p>Dashboard is being configured...</p>
+        <div class="metric">
+            <div class="metric-label">
+                Critical
+            </div>
 
-<h2>🇮🇳 INDIA</h2>
+            <div class="metric-number red">
+                5
+            </div>
 
-<p>Dashboard is being configured...</p>
+            <div class="metric-small">
+                Must know today
+            </div>
+        </div>
 
-<h2>🌎 GLOBAL</h2>
 
-<p>Dashboard is being configured...</p>
+        <div class="metric">
 
-<h2>📈 PHARMA & CHEMICAL INDUSTRY GROWTH</h2>
+            <div class="metric-label">
+                Opportunities
+            </div>
 
-<p>Dashboard is being configured...</p>
+            <div class="metric-number green">
+                7
+            </div>
 
-<h2>🧠 WHAT THIS MEANS FOR SRI ADITYA</h2>
+            <div class="metric-small">
+                Potential business signals
+            </div>
 
-<p>Dashboard is being configured...</p>
+        </div>
+
+
+        <div class="metric">
+
+            <div class="metric-label">
+                Risks
+            </div>
+
+            <div class="metric-number orange">
+                3
+            </div>
+
+            <div class="metric-small">
+                Industry alerts
+            </div>
+
+        </div>
+
+
+        <div class="metric">
+
+            <div class="metric-label">
+                Reading time
+            </div>
+
+            <div class="metric-number">
+                8
+            </div>
+
+            <div class="metric-small">
+                minutes
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- TOP STORIES -->
+
+    <div class="section-title">
+        🔴 Must know
+    </div>
+
+
+    <div class="top-grid">
+
+        <div class="hero">
+
+            <div class="tag">
+                TOP STORY
+            </div>
+
+            <h2>
+                Pharma & Chemical industry intelligence will appear here
+            </h2>
+
+            <p>
+                The system will automatically identify the most important
+                developments from Hyderabad, Vizag, India and global markets.
+            </p>
+
+            <div class="meta">
+                Source · Time · Category
+            </div>
+
+        </div>
+
+
+        <div class="side">
+
+            <div class="side-card">
+
+                <strong>
+                    Hyderabad Pharma
+                </strong>
+
+                <span>
+                    Latest local industry development
+                </span>
+
+            </div>
+
+
+            <div class="side-card">
+
+                <strong>
+                    Vizag / AP
+                </strong>
+
+                <span>
+                    Pharma, chemicals & investment activity
+                </span>
+
+            </div>
+
+
+            <div class="side-card">
+
+                <strong>
+                    India
+                </strong>
+
+                <span>
+                    Regulatory, manufacturing & market activity
+                </span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- REGIONS -->
+
+    <div class="section-title">
+        🌎 Intelligence map
+    </div>
+
+
+    <div class="regions">
+
+        <div class="region">
+
+            <h3>📍 Hyderabad</h3>
+
+            <p>
+                Pharma · APIs · CDMO · Investments · Regulation
+            </p>
+
+        </div>
+
+
+        <div class="region">
+
+            <h3>⚓ Vizag / AP</h3>
+
+            <p>
+                Bulk drugs · Chemicals · Plants · Infrastructure
+            </p>
+
+        </div>
+
+
+        <div class="region">
+
+            <h3>🇮🇳 India</h3>
+
+            <p>
+                CDSCO · APIs · Exports · Policy · Investments
+            </p>
+
+        </div>
+
+
+        <div class="region">
+
+            <h3>🌎 Global</h3>
+
+            <p>
+                FDA · EMA · China · Supply chain · Global markets
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <!-- INDUSTRY -->
+
+    <div class="section-title">
+        📈 Industry signals
+    </div>
+
+
+    <div class="industry">
+
+
+        <div class="panel">
+
+            <div class="trend">
+
+                <span>API / Intermediates</span>
+
+                <strong class="green">
+                    ↑
+                </strong>
+
+            </div>
+
+
+            <div class="trend">
+
+                <span>CDMO</span>
+
+                <strong class="green">
+                    ↑↑
+                </strong>
+
+            </div>
+
+
+            <div class="trend">
+
+                <span>Specialty Chemicals</span>
+
+                <strong class="green">
+                    ↑
+                </strong>
+
+            </div>
+
+
+            <div class="trend">
+
+                <span>Global Supply Chain</span>
+
+                <strong class="orange">
+                    WATCH
+                </strong>
+
+            </div>
+
+
+            <div class="trend">
+
+                <span>Regulatory Environment</span>
+
+                <strong class="orange">
+                    WATCH
+                </strong>
+
+            </div>
+
+        </div>
+
+
+        <div class="panel">
+
+            <div class="section-title">
+                🧠 For Sri Aditya
+            </div>
+
+            <p style="color:#9ba4b2;font-size:14px;">
+                The system will identify potential products,
+                customers, markets, partnerships and risks
+                relevant to Sri Aditya Pharmachem.
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <!-- FOOTER -->
+
+    <div class="footer">
+
+        <span>
+            MD Intelligence · Sri Aditya Pharmachem
+        </span>
+
+        <span>
+            Last updated: — · Auto refresh: 5 min
+        </span>
+
+    </div>
+
+</div>
 
 </body>
 </html>
