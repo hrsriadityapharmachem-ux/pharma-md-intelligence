@@ -1,1102 +1,988 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
 <meta charset="UTF-8">
-
-<meta name="viewport"
-      content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>MD Pharma Intelligence | Sri Aditya Pharmachem</title>
 
 <style>
-
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 
 body {
+    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: #080b10;
-    color: #f5f7fa;
+    background: #f4f6f8;
+    color: #1f2937;
 }
 
 .container {
-    max-width: 1450px;
+    max-width: 1250px;
     margin: auto;
-    padding: 28px;
+    padding: 24px;
 }
 
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 35px;
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
 
-.brand {
-    font-size: 12px;
-    letter-spacing: 2px;
-    color: #8c96a5;
-    text-transform: uppercase;
+.company {
+    font-size: 15px;
+    font-weight: bold;
+    color: #475569;
+    margin-bottom: 6px;
 }
 
-.title {
-    font-size: 32px;
-    font-weight: 700;
-    margin-top: 5px;
+h1 {
+    margin: 0;
+    font-size: 30px;
+    color: #111827;
 }
 
 .subtitle {
-    color: #7d8795;
-    margin-top: 6px;
-    font-size: 13px;
+    margin-top: 8px;
+    color: #64748b;
+    font-size: 14px;
 }
 
 .live {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    color: #70e59a;
+    display: inline-block;
+    margin-top: 12px;
+    background: #dcfce7;
+    color: #166534;
+    padding: 5px 10px;
+    border-radius: 20px;
     font-size: 12px;
+    font-weight: bold;
 }
 
-.live-dot {
-    width: 8px;
-    height: 8px;
-    background: #35d06f;
-    border-radius: 50%;
-    box-shadow: 0 0 12px #35d06f;
-}
-
-.metrics {
+.cards {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 14px;
-    margin-bottom: 35px;
+    margin-bottom: 20px;
 }
 
-.metric {
-    background: #10151c;
-    border: 1px solid #1c2530;
-    border-radius: 16px;
+.card {
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+    box-shadow: 0 2px 7px rgba(0,0,0,0.05);
+}
+
+.card-title {
+    font-size: 13px;
+    color: #64748b;
+    margin-bottom: 8px;
+}
+
+.card-number {
+    font-size: 30px;
+    font-weight: bold;
+    color: #111827;
+}
+
+.card-note {
+    font-size: 12px;
+    color: #94a3b8;
+    margin-top: 5px;
+}
+
+.section {
+    background: white;
+    border-radius: 14px;
     padding: 20px;
-}
-
-.metric-label {
-    color: #7f8998;
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.metric-number {
-    font-size: 34px;
-    font-weight: 700;
-    margin-top: 8px;
-}
-
-.metric-small {
-    font-size: 11px;
-    color: #697381;
-}
-
-.green {
-    color: #63df91;
-}
-
-.red {
-    color: #ff6c6c;
-}
-
-.orange {
-    color: #ffb65e;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
 .section-title {
-    font-size: 12px;
-    letter-spacing: 1.5px;
-    color: #7f8998;
-    text-transform: uppercase;
-    margin-bottom: 14px;
-}
-
-.top-grid {
-    display: grid;
-    grid-template-columns: 1.7fr 1fr;
-    gap: 18px;
-    margin-bottom: 35px;
-}
-
-.hero {
-    background: linear-gradient(
-        135deg,
-        #151b24,
-        #0d1117
-    );
-
-    border: 1px solid #25303d;
-    border-radius: 18px;
-    padding: 25px;
-}
-
-.tag {
-    display: inline-block;
-    padding: 5px 9px;
-    border-radius: 6px;
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    background: #17291e;
-    color: #63df91;
+    font-size: 19px;
+    font-weight: bold;
     margin-bottom: 15px;
 }
 
-.hero h2 {
-    font-size: 23px;
-    line-height: 1.3;
-    margin-bottom: 12px;
+.must-know {
+    border-left: 5px solid #dc2626;
 }
 
-.hero h2 a {
-    color: inherit;
+.must-title {
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.article {
+    border-top: 1px solid #e5e7eb;
+    padding: 15px 0;
+}
+
+.article:first-child {
+    border-top: none;
+}
+
+.article-title {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+.article-title a {
+    color: #1d4ed8;
     text-decoration: none;
 }
 
-.hero p {
-    color: #98a2af;
-    font-size: 13px;
+.article-title a:hover {
+    text-decoration: underline;
 }
 
-.meta {
-    margin-top: 18px;
-    color: #687381;
+.article-meta {
+    margin-top: 7px;
+    font-size: 12px;
+    color: #64748b;
+}
+
+.badges {
+    margin-top: 9px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 12px;
     font-size: 11px;
+    font-weight: bold;
+    margin-right: 5px;
 }
 
-.side {
-    display: flex;
-    flex-direction: column;
+.badge-opportunity {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.badge-risk {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.badge-watch {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.badge-high {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.badge-medium {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.badge-area {
+    background: #e0f2fe;
+    color: #075985;
+}
+
+.relevance {
+    margin-top: 8px;
+    font-size: 13px;
+    color: #475569;
+    line-height: 1.5;
+}
+
+.map-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     gap: 12px;
 }
 
-.side-card {
-    background: #10151c;
-    border: 1px solid #1c2530;
-    border-radius: 15px;
-    padding: 17px;
+.map-card {
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 15px;
 }
 
-.side-card strong {
-    display: block;
-    font-size: 13px;
-    margin-bottom: 7px;
+.map-title {
+    font-weight: bold;
+    margin-bottom: 8px;
 }
 
-.side-card span {
+.map-text {
     font-size: 12px;
-    color: #7f8997;
+    color: #64748b;
+    line-height: 1.5;
 }
 
-.news-section {
-    margin-top: 30px;
-    margin-bottom: 35px;
-}
-
-.news-grid {
+.signal-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 14px;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
 }
 
-.news-card {
-    background: #10151c;
-    border: 1px solid #1c2530;
-    border-radius: 15px;
-    padding: 18px;
-    transition: 0.2s;
+.signal {
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 14px;
+    text-align: center;
 }
 
-.news-card:hover {
-    border-color: #3a4655;
-    transform: translateY(-2px);
+.signal-name {
+    font-size: 12px;
+    color: #64748b;
 }
 
-.news-card .category {
-    color: #63df91;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 9px;
-}
-
-.news-card h3 {
-    font-size: 14px;
-    line-height: 1.4;
-    margin-bottom: 10px;
-}
-
-.news-card h3 a {
-    color: #f5f7fa;
-    text-decoration: none;
-}
-
-.news-card p {
-    font-size: 11px;
-    color: #77818f;
-}
-
-.regions {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 14px;
-    margin-bottom: 35px;
-}
-
-.region {
-    background: #10151c;
-    border: 1px solid #1c2530;
-    border-radius: 15px;
-    padding: 20px;
-}
-
-.region h3 {
-    font-size: 15px;
-    margin-bottom: 9px;
-}
-
-.region p {
-    font-size: 11px;
-    color: #7f8997;
-}
-
-.industry {
-    display: grid;
-    grid-template-columns: 1.5fr 1fr;
-    gap: 18px;
-    margin-bottom: 35px;
-}
-
-.panel {
-    background: #10151c;
-    border: 1px solid #1c2530;
-    border-radius: 16px;
-    padding: 22px;
-}
-
-.trend {
-    display: flex;
-    justify-content: space-between;
-    padding: 13px 0;
-    border-bottom: 1px solid #1c2530;
-    font-size: 13px;
-}
-
-.trend:last-child {
-    border-bottom: none;
+.signal-value {
+    margin-top: 6px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .footer {
-    border-top: 1px solid #1c2530;
-    padding-top: 20px;
-    margin-top: 30px;
-    color: #606a78;
-    font-size: 10px;
-    display: flex;
-    justify-content: space-between;
+    text-align: center;
+    color: #94a3b8;
+    font-size: 12px;
+    padding: 15px;
 }
 
-@media(max-width: 900px) {
+.empty {
+    color: #94a3b8;
+    font-size: 14px;
+}
 
-    .metrics {
+@media (max-width: 900px) {
+    .cards,
+    .map-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .top-grid,
-    .industry {
-        grid-template-columns: 1fr;
-    }
-
-    .regions {
+    .signal-grid {
         grid-template-columns: repeat(2, 1fr);
-    }
-
-    .news-grid {
-        grid-template-columns: 1fr;
     }
 }
 
-@media(max-width: 550px) {
-
+@media (max-width: 600px) {
     .container {
-        padding: 18px;
+        padding: 12px;
     }
 
-    .header {
-        align-items: flex-start;
-    }
-
-    .metrics {
-        grid-template-columns: 1fr 1fr;
-    }
-
-    .regions {
+    .cards,
+    .map-grid,
+    .signal-grid {
         grid-template-columns: 1fr;
     }
 
-    .title {
-        font-size: 25px;
-    }
-
-    .footer {
-        flex-direction: column;
-        gap: 8px;
+    h1 {
+        font-size: 24px;
     }
 }
-
 </style>
-
 </head>
-
 
 <body>
 
 <div class="container">
 
+    <div class="header">
+        <div class="company">Sri Aditya Pharmachem</div>
+        <h1>MD Pharma Intelligence</h1>
+        <div class="subtitle">
+            Daily industry intelligence · Last 24 hours
+        </div>
+        <div class="live">● LIVE INTELLIGENCE</div>
+    </div>
 
-<!-- HEADER -->
 
-<div class="header">
+    <div class="cards">
 
-<div>
+        <div class="card">
+            <div class="card-title">News detected</div>
+            <div class="card-number" id="newsCount">-</div>
+            <div class="card-note">Last 24 hours</div>
+        </div>
 
-<div class="brand">
-Sri Aditya Pharmachem
-</div>
+        <div class="card">
+            <div class="card-title">Opportunities</div>
+            <div class="card-number" id="opportunityCount">-</div>
+            <div class="card-note">Potential business signals</div>
+        </div>
 
-<div class="title">
-MD Pharma Intelligence
-</div>
+        <div class="card">
+            <div class="card-title">Risks</div>
+            <div class="card-number" id="riskCount">-</div>
+            <div class="card-note">Signals requiring attention</div>
+        </div>
 
-<div class="subtitle">
-Daily industry intelligence · Last 24 hours
-</div>
+        <div class="card">
+            <div class="card-title">High Priority</div>
+            <div class="card-number" id="highPriorityCount">-</div>
+            <div class="card-note">Management attention</div>
+        </div>
 
-</div>
+    </div>
 
-<div class="live">
 
-<span class="live-dot"></span>
+    <div class="section must-know">
 
-LIVE
+        <div class="section-title">
+            🔴 Must Know
+        </div>
 
-</div>
+        <div id="mustKnow">
+            Loading intelligence...
+        </div>
 
-</div>
+    </div>
 
 
-<!-- METRICS -->
+    <div class="section">
 
-<div class="metrics">
+        <div class="section-title">
+            ⚡ Latest Intelligence
+        </div>
 
-<div class="metric">
+        <div id="latest">
+            Loading...
+        </div>
 
-<div class="metric-label">
-News detected
-</div>
+    </div>
 
-<div
-id="newsCount"
-class="metric-number">
---
-</div>
 
-<div class="metric-small">
-Last 24 hours
-</div>
+    <div class="section">
 
-</div>
+        <div class="section-title">
+            🌎 Intelligence Map
+        </div>
 
+        <div class="map-grid">
 
-<div class="metric">
+            <div class="map-card">
+                <div class="map-title">📍 Hyderabad</div>
+                <div class="map-text">
+                    Pharma · APIs · CDMO · Investments · Regulation
+                </div>
+            </div>
 
-<div class="metric-label">
-Opportunities
-</div>
+            <div class="map-card">
+                <div class="map-title">⚓ Vizag / AP</div>
+                <div class="map-text">
+                    Bulk drugs · Chemicals · Plants · Infrastructure
+                </div>
+            </div>
 
-<div
-id="opportunityCount"
-class="metric-number green">
---
-</div>
+            <div class="map-card">
+                <div class="map-title">🇮🇳 India</div>
+                <div class="map-text">
+                    CDSCO · APIs · Exports · Policy · Investments
+                </div>
+            </div>
 
-<div class="metric-small">
-Potential business signals
-</div>
+            <div class="map-card">
+                <div class="map-title">🌎 Global</div>
+                <div class="map-text">
+                    FDA · EMA · Supply chain · Global pharma
+                </div>
+            </div>
 
-</div>
+        </div>
 
+    </div>
 
-<div class="metric">
 
-<div class="metric-label">
-Risks
-</div>
+    <div class="section">
 
-<div
-id="riskCount"
-class="metric-number orange">
---
-</div>
+        <div class="section-title">
+            📈 Business Signals
+        </div>
 
-<div class="metric-small">
-Signals requiring attention
-</div>
+        <div class="signal-grid">
 
-</div>
+            <div class="signal">
+                <div class="signal-name">API / Intermediates</div>
+                <div class="signal-value" id="apiSignal">—</div>
+            </div>
 
+            <div class="signal">
+                <div class="signal-name">CDMO</div>
+                <div class="signal-value" id="cdmoSignal">—</div>
+            </div>
 
-<div class="metric">
+            <div class="signal">
+                <div class="signal-name">Manufacturing</div>
+                <div class="signal-value" id="manufacturingSignal">—</div>
+            </div>
 
-<div class="metric-label">
-Reading time
-</div>
+            <div class="signal">
+                <div class="signal-name">Supply Chain</div>
+                <div class="signal-value" id="supplySignal">—</div>
+            </div>
 
-<div class="metric-number">
-8
-</div>
+            <div class="signal">
+                <div class="signal-name">Regulatory</div>
+                <div class="signal-value" id="regulatorySignal">—</div>
+            </div>
 
-<div class="metric-small">
-minutes
-</div>
+        </div>
 
-</div>
+    </div>
 
-</div>
 
+    <div class="section">
 
-<!-- TOP STORY -->
+        <div class="section-title">
+            🧠 For Sri Aditya
+        </div>
 
-<div class="section-title">
-🔴 Must know
-</div>
+        <div id="forSriAditya" class="relevance">
+            The system identifies potential products, customers,
+            markets, partnerships, investments and risks relevant
+            to Sri Aditya Pharmachem.
+        </div>
 
+    </div>
 
-<div class="top-grid">
 
+    <div class="footer">
 
-<div class="hero">
+        MD Intelligence · Sri Aditya Pharmachem<br>
 
-<div class="tag">
-LIVE INTELLIGENCE
-</div>
+        Last updated:
+        <span id="updated">Loading...</span>
 
-<h2 id="topTitle">
-Loading latest intelligence...
-</h2>
+        · Refresh: 5 min
 
-<p id="topDescription">
-Connecting to the latest pharma and chemical industry news.
-</p>
-
-<div
-id="topMeta"
-class="meta">
-Updating...
-</div>
-
-</div>
-
-
-<div class="side">
-
-
-<div class="side-card">
-
-<strong>
-📍 Hyderabad Pharma
-</strong>
-
-<span id="hyderabadNews">
-Loading...
-</span>
-
-</div>
-
-
-<div class="side-card">
-
-<strong>
-⚓ Vizag / AP
-</strong>
-
-<span id="vizagNews">
-Loading...
-</span>
-
-</div>
-
-
-<div class="side-card">
-
-<strong>
-🇮🇳 India Pharma
-</strong>
-
-<span id="indiaNews">
-Loading...
-</span>
-
-</div>
-
-
-</div>
-
-</div>
-
-
-<!-- LATEST NEWS -->
-
-<div class="news-section">
-
-<div class="section-title">
-⚡ Latest intelligence
-</div>
-
-<div
-id="newsGrid"
-class="news-grid">
-
-</div>
-
-</div>
-
-
-<!-- REGIONS -->
-
-<div class="section-title">
-🌎 Intelligence map
-</div>
-
-
-<div class="regions">
-
-
-<div class="region">
-
-<h3>
-📍 Hyderabad
-</h3>
-
-<p>
-Pharma · APIs · CDMO · Investments · Regulation
-</p>
-
-</div>
-
-
-<div class="region">
-
-<h3>
-⚓ Vizag / AP
-</h3>
-
-<p>
-Bulk drugs · Chemicals · Plants · Infrastructure
-</p>
-
-</div>
-
-
-<div class="region">
-
-<h3>
-🇮🇳 India
-</h3>
-
-<p>
-CDSCO · APIs · Exports · Policy · Investments
-</p>
-
-</div>
-
-
-<div class="region">
-
-<h3>
-🌎 Global
-</h3>
-
-<p>
-FDA · EMA · Supply chain · Global pharma
-</p>
-
-</div>
-
-
-</div>
-
-
-<!-- INDUSTRY -->
-
-<div class="section-title">
-📈 Industry signals
-</div>
-
-
-<div class="industry">
-
-
-<div class="panel">
-
-<div class="trend">
-
-<span>
-API / Intermediates
-</span>
-
-<strong class="green">
-↑
-</strong>
-
-</div>
-
-
-<div class="trend">
-
-<span>
-CDMO
-</span>
-
-<strong class="green">
-↑↑
-</strong>
-
-</div>
-
-
-<div class="trend">
-
-<span>
-Specialty Chemicals
-</span>
-
-<strong class="green">
-↑
-</strong>
-
-</div>
-
-
-<div class="trend">
-
-<span>
-Global Supply Chain
-</span>
-
-<strong class="orange">
-WATCH
-</strong>
-
-</div>
-
-
-<div class="trend">
-
-<span>
-Regulatory Environment
-</span>
-
-<strong class="orange">
-WATCH
-</strong>
-
-</div>
-
-</div>
-
-
-<div class="panel">
-
-<div class="section-title">
-🧠 For Sri Aditya
-</div>
-
-<p
-style="color:#9ba4b2;font-size:13px;line-height:1.7;">
-
-The system will identify potential
-products, customers, markets,
-partnerships and risks relevant
-to Sri Aditya Pharmachem.
-
-</p>
-
-</div>
-
-
-</div>
-
-
-<!-- FOOTER -->
-
-<div class="footer">
-
-<span>
-MD Intelligence · Sri Aditya Pharmachem
-</span>
-
-<span id="lastUpdated">
-Last updated: --
-</span>
-
-</div>
-
+    </div>
 
 </div>
 
 
 <script>
 
-
-async function loadNews() {
-
-try {
+let articles = [];
 
 
-const response =
-await fetch(
-"data.json?time=" +
-Date.now()
-);
+/* =========================================================
+   LOAD DATA
+========================================================= */
+
+async function loadData() {
+
+    try {
+
+        const response = await fetch(
+            "data.json?t=" + Date.now()
+        );
+
+        const data = await response.json();
+
+        articles = data.articles || [];
 
 
-if (!response.ok) {
+        /* =================================================
+           COUNTS
+        ================================================= */
 
-throw new Error(
-"Could not load data.json"
-);
-
-}
-
-
-const data =
-await response.json();
+        const opportunities = articles.filter(
+            a => a.signal === "Opportunity"
+        ).length;
 
 
-const articles =
-data.articles || [];
+        const risks = articles.filter(
+            a => a.signal === "Risk"
+        ).length;
 
 
-console.log(
-"Articles loaded:",
-articles.length
-);
+        const highPriority = articles.filter(
+            a => a.priority === "High"
+        ).length;
 
 
-/* NEWS COUNT */
-
-document.getElementById(
-"newsCount"
-).textContent =
-articles.length;
+        document.getElementById(
+            "newsCount"
+        ).textContent = articles.length;
 
 
-/* OPPORTUNITIES */
-
-const opportunityKeywords = [
-
-"investment",
-"investments",
-"capacity",
-"plant",
-"expansion",
-"cdmo",
-"partnership",
-"export",
-"manufacturing",
-"facility"
-
-];
+        document.getElementById(
+            "opportunityCount"
+        ).textContent = opportunities;
 
 
-const opportunities =
-articles.filter(article => {
-
-const text =
-article.title.toLowerCase();
-
-return opportunityKeywords.some(
-word => text.includes(word)
-);
-
-});
+        document.getElementById(
+            "riskCount"
+        ).textContent = risks;
 
 
-document.getElementById(
-"opportunityCount"
-).textContent =
-opportunities.length;
+        document.getElementById(
+            "highPriorityCount"
+        ).textContent = highPriority;
 
 
-/* RISKS */
+        renderMustKnow();
 
-const riskKeywords = [
+        renderLatest();
 
-"warning",
-"recall",
-"shortage",
-"sanction",
-"restriction",
-"ban",
-"contamination",
-"inspection",
-"regulatory"
+        renderSignals();
 
-];
+        renderUpdated(
+            data.updated
+        );
 
+    }
 
-const risks =
-articles.filter(article => {
+    catch (error) {
 
-const text =
-article.title.toLowerCase();
+        console.error(error);
 
-return riskKeywords.some(
-word => text.includes(word)
-);
+        document.getElementById(
+            "latest"
+        ).innerHTML =
+            "<div class='empty'>Unable to load intelligence data.</div>";
 
-});
-
-
-document.getElementById(
-"riskCount"
-).textContent =
-risks.length;
-
-
-/* TOP STORY */
-
-if (articles.length > 0) {
-
-const top =
-articles[0];
-
-
-document.getElementById(
-"topTitle"
-).innerHTML =
-
-`<a href="${top.link}"
-target="_blank">
-${top.title}
-</a>`;
-
-
-document.getElementById(
-"topDescription"
-).textContent =
-
-top.description
-.replace(/<[^>]*>/g, "")
-.substring(0,300);
-
-
-document.getElementById(
-"topMeta"
-).textContent =
-
-`${top.category} · ${top.source}`;
+    }
 
 }
 
 
-/* REGIONAL NEWS */
+/* =========================================================
+   MUST KNOW
+========================================================= */
 
-function regionalNews(
-category,
-elementId
+function renderMustKnow() {
+
+    const container =
+        document.getElementById(
+            "mustKnow"
+        );
+
+
+    if (!articles.length) {
+
+        container.innerHTML =
+            "<div class='empty'>No intelligence available.</div>";
+
+        return;
+    }
+
+
+    const regionWeight = {
+
+        "Hyderabad": 4,
+
+        "Vizag / AP": 3,
+
+        "India": 2,
+
+        "Global": 1
+
+    };
+
+
+    const priorityWeight = {
+
+        "High": 4,
+
+        "Medium": 2,
+
+        "Low": 1
+
+    };
+
+
+    const signalWeight = {
+
+        "Risk": 5,
+
+        "Opportunity": 4,
+
+        "Watch": 3,
+
+        "General": 1
+
+    };
+
+
+    const ranked = [...articles].sort(
+        (a, b) => {
+
+            const scoreA =
+                (regionWeight[a.category] || 0)
+                +
+                (priorityWeight[a.priority] || 0)
+                +
+                (signalWeight[a.signal] || 0);
+
+            const scoreB =
+                (regionWeight[b.category] || 0)
+                +
+                (priorityWeight[b.priority] || 0)
+                +
+                (signalWeight[b.signal] || 0);
+
+            return scoreB - scoreA;
+
+        }
+    );
+
+
+    const item = ranked[0];
+
+
+    container.innerHTML =
+        articleHTML(
+            item,
+            true
+        );
+
+}
+
+
+/* =========================================================
+   LATEST
+========================================================= */
+
+function renderLatest() {
+
+    const container =
+        document.getElementById(
+            "latest"
+        );
+
+
+    if (!articles.length) {
+
+        container.innerHTML =
+            "<div class='empty'>No recent intelligence.</div>";
+
+        return;
+
+    }
+
+
+    const sorted =
+        [...articles].sort(
+            (a, b) => {
+
+                return new Date(
+                    b.published || 0
+                )
+                -
+                new Date(
+                    a.published || 0
+                );
+
+            }
+        );
+
+
+    container.innerHTML =
+        sorted
+        .slice(0, 12)
+        .map(
+            article =>
+                articleHTML(
+                    article,
+                    false
+                )
+        )
+        .join("");
+
+}
+
+
+/* =========================================================
+   ARTICLE HTML
+========================================================= */
+
+function articleHTML(
+    article,
+    mustKnow
 ) {
 
-const found =
-articles.filter(
-article =>
-article.category === category
-);
+    let badges = "";
 
 
-const element =
-document.getElementById(
-elementId
-);
+    if (article.signal === "Opportunity") {
+
+        badges +=
+            "<span class='badge badge-opportunity'>Opportunity</span>";
+
+    }
 
 
-if (found.length > 0) {
+    if (article.signal === "Risk") {
 
-element.innerHTML =
+        badges +=
+            "<span class='badge badge-risk'>Risk</span>";
 
-`<a href="${found[0].link}"
-target="_blank"
-style="color:inherit;text-decoration:none;">
-${found[0].title}
-</a>`;
-
-}
-
-else {
-
-element.textContent =
-"No major development detected.";
-
-}
-
-}
+    }
 
 
-regionalNews(
-"Hyderabad",
-"hyderabadNews"
-);
+    if (article.signal === "Watch") {
+
+        badges +=
+            "<span class='badge badge-watch'>Watch</span>";
+
+    }
 
 
-regionalNews(
-"Vizag / AP",
-"vizagNews"
-);
+    if (
+        article.priority === "High"
+        ||
+        article.priority === "Medium"
+    ) {
+
+        badges +=
+            "<span class='badge badge-" +
+            article.priority.toLowerCase() +
+            "'>" +
+            article.priority +
+            " Priority</span>";
+
+    }
 
 
-regionalNews(
-"India",
-"indiaNews"
-);
+    if (article.business_area) {
+
+        badges +=
+            "<span class='badge badge-area'>" +
+            escapeHTML(
+                article.business_area
+            ) +
+            "</span>";
+
+    }
 
 
-/* LATEST NEWS GRID */
+    return `
 
-const grid =
-document.getElementById(
-"newsGrid"
-);
+        <div class="article">
 
+            <div class="article-title">
 
-grid.innerHTML = "";
+                <a
+                    href="${article.link}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    ${escapeHTML(article.title)}
+                </a>
 
-
-articles
-.slice(0,9)
-.forEach(article => {
-
-
-const card =
-document.createElement(
-"div"
-);
+            </div>
 
 
-card.className =
-"news-card";
+            <div class="article-meta">
+
+                ${escapeHTML(article.category || "")}
+
+                ·
+
+                ${escapeHTML(article.source || "")}
+
+            </div>
 
 
-card.innerHTML = `
+            <div class="badges">
 
-<div class="category">
-${article.category}
-</div>
+                ${badges}
 
-<h3>
-
-<a href="${article.link}"
-target="_blank">
-
-${article.title}
-
-</a>
-
-</h3>
-
-<p>
-
-${article.source}
-
-</p>
-
-`;
+            </div>
 
 
-grid.appendChild(
-card
-);
+            <div class="relevance">
 
-});
+                ${escapeHTML(
+                    article.relevance || ""
+                )}
 
+            </div>
 
-/* LAST UPDATED */
+        </div>
 
-if (data.updated) {
-
-const date =
-new Date(data.updated);
-
-
-document.getElementById(
-"lastUpdated"
-).textContent =
-
-"Last updated: " +
-
-date.toLocaleString(
-"en-IN"
-) +
-
-" · Refresh: 5 min";
+    `;
 
 }
 
 
+/* =========================================================
+   BUSINESS SIGNALS
+========================================================= */
+
+function renderSignals() {
+
+    const areaCounts = {};
+
+
+    articles.forEach(
+        article => {
+
+            const area =
+                article.business_area;
+
+            if (!area) return;
+
+            areaCounts[area] =
+                (areaCounts[area] || 0)
+                + 1;
+
+        }
+    );
+
+
+    document.getElementById(
+        "apiSignal"
+    ).textContent =
+        signalValue(
+            areaCounts[
+                "API / Intermediates"
+            ]
+        );
+
+
+    document.getElementById(
+        "cdmoSignal"
+    ).textContent =
+        signalValue(
+            areaCounts[
+                "CDMO / Contract Manufacturing"
+            ]
+        );
+
+
+    document.getElementById(
+        "manufacturingSignal"
+    ).textContent =
+        signalValue(
+            areaCounts[
+                "Manufacturing / Plants"
+            ]
+        );
+
+
+    document.getElementById(
+        "supplySignal"
+    ).textContent =
+        signalValue(
+            areaCounts[
+                "Supply Chain"
+            ]
+        );
+
+
+    document.getElementById(
+        "regulatorySignal"
+    ).textContent =
+        signalValue(
+            areaCounts[
+                "Regulatory"
+            ]
+        );
+
 }
 
-catch(error) {
 
+function signalValue(count) {
 
-console.error(error);
+    if (!count) return "—";
 
+    if (count >= 4) return "↑↑";
 
-document.getElementById(
-"topTitle"
-).textContent =
-"Unable to load latest intelligence";
+    if (count >= 2) return "↑";
 
-
-document.getElementById(
-"topDescription"
-).textContent =
-"Please refresh the dashboard.";
-
-
-}
+    return "WATCH";
 
 }
 
 
-/* INITIAL LOAD */
+/* =========================================================
+   UPDATED TIME
+========================================================= */
 
-loadNews();
+function renderUpdated(
+    value
+) {
+
+    if (!value) return;
 
 
-/* REFRESH EVERY 5 MINUTES */
+    const date =
+        new Date(value);
+
+
+    document.getElementById(
+        "updated"
+    ).textContent =
+        date.toLocaleString(
+            "en-IN",
+            {
+                day: "2-digit",
+                month: "2-digit",
+                year: "numeric",
+                hour: "2-digit",
+                minute: "2-digit",
+                second: "2-digit"
+            }
+        );
+
+}
+
+
+/* =========================================================
+   HTML ESCAPE
+========================================================= */
+
+function escapeHTML(
+    value
+) {
+
+    return String(
+        value || ""
+    )
+    .replace(
+        /&/g,
+        "&amp;"
+    )
+    .replace(
+        /</g,
+        "&lt;"
+    )
+    .replace(
+        />/g,
+        "&gt;"
+    )
+    .replace(
+        /"/g,
+        "&quot;"
+    )
+    .replace(
+        /'/g,
+        "&#039;"
+    );
+
+}
+
+
+/* =========================================================
+   START
+========================================================= */
+
+loadData();
+
+
+/* Refresh every 5 minutes */
 
 setInterval(
-loadNews,
-5 * 60 * 1000
+    loadData,
+    300000
 );
-
 
 </script>
 
-
 </body>
-
 </html>
