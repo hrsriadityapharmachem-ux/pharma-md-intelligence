@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-26T09:58:05.574648+00:00",
-  "article_count": 33,
-  "opportunity_count": 7,
+  "updated": "2026-09-26T10:04:41.353219+00:00",
+  "article_count": 38,
+  "opportunity_count": 16,
   "risk_count": 0,
-  "watch_count": 19,
+  "watch_count": 15,
   "articles": [
     {
       "category": "Global",
@@ -12,10 +12,22 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWHRIUlhLSWJfOFRJVnlQQnllNUxZYUdTanJTSUVJLWNNWlhoZHQzbjlCbUMwTFR1M2lwYmdUSWdVQkFOUzFQTDZXNkF5d0lRQy1VVW54ajIyN1NVYW04Rm9hay0yWVlEbmVpSzhnSjVSQXRxSkktbVFQM0QyRVNybjdfSTQzOWRNRUVfdTFqdlZ1VHJ2YWpRbzZZbExsRDdGRXZVUGpHRm8zZm94ZU1VWmVWd1NNZDFCOW1mcUZyOWdWNG1iaXhHSkVMdWFDbWNkbm9nZQ?oc=5",
       "published": "2026-09-26T07:09:23+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
+      "signal": "Opportunity",
       "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "priority": "High",
+      "relevance": "Potential business development signal requiring management review."
+    },
+    {
+      "category": "India",
+      "title": "India records ₹5,210 crore investment under bulk drugs PLI scheme - newstodaynet.com",
+      "description": "India records ₹5,210 crore investment under bulk drugs PLI scheme newstodaynet.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlBYSjAxWUgzb1ltVXhHamRNMXZwbURyb2ZCZldhS2k0d2RiVVlyYXZjRGVzb3Z4alFvMzJFTEZWcTlwY1JHOHczYkxOLS0yVTJZQ0p5S25sRUowT09CRUM4cm5CeVFCUjZCcFNTV3ZJbnZPcVVzSk0taDNLNGZyUzF2NTNvakVYdm8xY1o1bWl1UTU5a2xVOU1venR4WVdIRW9JWXU2aTRiQ0x2bHc?oc=5",
+      "published": "2026-09-26T06:05:03+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "High",
+      "relevance": "May indicate API or intermediate demand, new manufacturing requirements or potential customer/supplier opportunities."
     },
     {
       "category": "India",
@@ -27,7 +39,7 @@
       "signal": "General",
       "business_area": "Pharma Industry",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring."
+      "relevance": "Relevant pharma industry development for monitoring."
     },
     {
       "category": "Global",
@@ -39,7 +51,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -51,7 +63,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -63,7 +75,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -75,7 +87,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -84,10 +96,10 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeENIQzBSd0xUdXdfRDdGNXlKOHFpRlMxOU01cnZPVkpoVGpHeFdTcUxud0hsbzdyajRJazVKZGlwZUNHbkY1Q0JNUHE2azVxekZaRXVKVmxHMmdKSHV2allRdW8xNVE5X2FyRzZzM3lKSlhFcHpvdng3bm9adkZLbDEzZTRPSWNPUWZIOXVUX0Jla1N1Y1FxVlVKTmhoX0ZNWVNtWFdXUko1SDRqM1RVT1dVX1BaTkxZV1o5QlRIM3lobDBSa1E?oc=5",
       "published": "2026-09-25T20:10:20+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
+      "signal": "Opportunity",
       "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "priority": "High",
+      "relevance": "Potential business development signal requiring management review."
     },
     {
       "category": "Global",
@@ -99,7 +111,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "India",
@@ -111,19 +123,19 @@
       "signal": "Opportunity",
       "business_area": "API / Intermediates",
       "priority": "High",
-      "relevance": "Potential relevance to API/intermediate demand, manufacturing or customer opportunities."
+      "relevance": "May indicate API or intermediate demand, new manufacturing requirements or potential customer/supplier opportunities."
     },
     {
       "category": "Vizag / AP",
-      "title": "Nara Lokesh invites investments in clean energy, pharma, data centres - The Times of India",
-      "description": "Nara Lokesh invites investments in clean energy, pharma, data centres The Times of India",
+      "title": "Nara Lokesh invites investments in clean energy, pharma, data centres - timesofindia.indiatimes.com",
+      "description": "Nara Lokesh invites investments in clean energy, pharma, data centres timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEd4U2Q4WXVMS3NTcjdQNzBmLUFSNDdVWno4RDdsa1JESVdsb0VvZmpmc3ZpSHBUX1ZWcGZXVkpTQzhOUklBLW5GRGtsSWo0LUZhZjByNDEwQ1NVTWVIQmRFd1JuYWc3UTBjd1hHdWl1Q3RBaEVudG00MEF1MWdZd2hKa1lIUFNQLTNfdFRRazdHUjhVazlVT1dYS3hIRHRhcDNpZi1SbHVBY1NCRXBaM3UybHhqVllsY2U2Mm5JTmlHaWlWNDFDTUdiVXYtR1R3VFFsdk9VUmlaYjNLNGfSAeMBQVVfeXFMUEhoZ2ZoSzMzYnpINWtVUk1ULXkyTkhzZl9nMWxQUFI3dTFMSU4zdjNKRjc1VzVPaUFsd2V1c2RBSHVOaTAydGtndHZESXFoTDlydjdVeHlDV1NFeTR1SV9QMUdnNGFqenp3S0hfSU5QOGVTU3JYNW45S3VMY2pTRE9UYlE3djlIS1E4RVlmN3VpLWpqd1ROWlFJc2pKS0Q5dE9JZy1xY1IxMUhaVjg4V21wUnVHdlpaaGhuakpKakNwSGdnbWdVRVc0SXhrekFmREVNUmtkdkZmVkV1MkwyOHZ0WE0?oc=5",
       "published": "2026-09-25T16:24:00+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "Investment",
       "priority": "High",
-      "relevance": "Potential relevance to Andhra Pradesh pharma, API, manufacturing, supplier or partnership activity."
+      "relevance": "Potential Andhra Pradesh opportunity involving API, bulk drugs, chemicals, manufacturing, customers, suppliers or partnerships."
     },
     {
       "category": "Hyderabad",
@@ -135,7 +147,7 @@
       "signal": "Opportunity",
       "business_area": "Manufacturing",
       "priority": "Medium",
-      "relevance": "Potential relevance to Hyderabad pharma, API, CDMO, customer or supplier opportunities."
+      "relevance": "Potential Hyderabad/Telangana business opportunity involving pharma, API, CDMO, manufacturing, customers or suppliers."
     },
     {
       "category": "Global",
@@ -147,7 +159,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -159,7 +171,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -171,7 +183,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -183,7 +195,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -192,10 +204,22 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHl3ZHd2ejMtcEN6bjlSX29TN2FzNVVsX3ZTc2NwVlBDYm9ab2NDa1lwRTFnS0ZSUFhYMzBkY2E5OTluUFZNaEhwY2dEaUdGWDgtc1hOSm5heGIxMFNjS2NiV0JhQzZRdXVZNWdXN1ZBVi1lMnFDWEVfWVZlR2VZdTdIR2lIS1VpZUpSdmttQlBqVWxmZnZsNkNnTDRGQWhBbzY0bTF3?oc=5",
       "published": "2026-09-25T14:08:21+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
+      "signal": "Opportunity",
       "business_area": "Manufacturing",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "priority": "High",
+      "relevance": "Potential business development signal requiring management review."
+    },
+    {
+      "category": "India",
+      "title": "Pharma PLI attracts over Rs 46,700 crore investments, but China still dominates API imports - financialexpress.com",
+      "description": "Pharma PLI attracts over Rs 46,700 crore investments, but China still dominates API imports financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd3NjRzFZaW9BZmk5WXBFVzRyNUhwRFJPRGxPQVZQb0FfQktweTd3QWJvS2lIaG1ra0loanJUNy1wMmxFVVloeENJWlZhUTJlSHc1QS1Ea0ZLeUJLbDd6aEVFUUh0VXlGWFotaW1nR1ZpQkl5YzRLRnA1eUwwdWJocEpKWUFreFpPbUh5R01GZEYzMFVjTEREWmdBVGpKdy1VSUUwQm1RU2Y5LW5hSVJWbEZ1TE1lejZCcE5Jc2J1SW9Bejd4ZnJFSi1jd09tMXRac0VYaTd6ZUZYc1pfLUVuV3ZQbktlQdIB7AFBVV95cUxQM29nZnFTNlRUWGdfd1kzTXJMeEcydVJQOUM2ZFVWNWJMdzFXVGc0a1FycG5DTFoxd3h1MHRBczlOVFBMNmY2TW5MRWtjZFd5eDdDdXhDVHpXdlFWOTBTWjVtN1BnR2xBR2lncXBjeF9aUkZacDhrU3pqUVJYck9xck53SURFblVWU1N6TlJSUEJnZ1EzMkN2bkxoYUIzYk5Pb3Azbk5HQ29oSXBfVHE0eGtaeU9kMlhTVkFscnhpT2YwUkdTT1FjVVg2TWVlTTBGbklfY3dSWktBSTlBakJQeWRFQm10aUdLd0xaaQ?oc=5",
+      "published": "2026-09-25T14:02:43+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "High",
+      "relevance": "May indicate API or intermediate demand, new manufacturing requirements or potential customer/supplier opportunities."
     },
     {
       "category": "India",
@@ -207,7 +231,7 @@
       "signal": "General",
       "business_area": "Pharma Industry",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring."
+      "relevance": "Relevant pharma industry development for monitoring."
     },
     {
       "category": "Global",
@@ -219,7 +243,7 @@
       "signal": "General",
       "business_area": "Pharma Industry",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring."
+      "relevance": "Relevant pharma industry development for monitoring."
     },
     {
       "category": "Global",
@@ -231,7 +255,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -243,7 +267,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "Global",
@@ -252,10 +276,10 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2JvVGExZFlFRHd4dC1scUl1eWx1cTdfNFVTSVo2WTk3VzZWb3RWeFBfNDhfUUtyZHhqLUx1QnhyTXZ1cDZXT25DZk96VklYTHUzZ3FWV3FIYWdvZ1VHeTJSZHAxanpmSFdVUC1xLTZUbGVnU3VpMGUwZmpnMGphYVJ4UnEydDBFckM5cGpTcGdUcnNfWFNNdlVDREtoNjN4cmxMd2lHWGRJbV8wZXdSVzhVRERFdUZYZ2Z5NHVxdw?oc=5",
       "published": "2026-09-25T13:26:31+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
+      "signal": "Opportunity",
       "business_area": "Investment",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer, manufacturing or partnership opportunities."
     },
     {
       "category": "Global",
@@ -267,19 +291,31 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
+    },
+    {
+      "category": "Vizag / AP",
+      "title": "PLI Schemes Strengthen India Pharma and Medical Device Sector - Dainik Jagran MP CG",
+      "description": "PLI Schemes Strengthen India Pharma and Medical Device Sector Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkJiOVExWUx6WVhUTEtDLXlpRkJ6SW5pRlVtUW5yQ0EwR1JMQzNjclFMNXFvWFpRNm5lazJScjBsUHRGZ0xGN09NeDQwVU52dGdISzRBbWprZmh1Qy13bmFBd2xja0hXQUNOUm0xUGl0S0N3dGYtbHV0bnpubTZkUFVEdjhMRE5YYlUyb1FsdnJSLXBodEZmNnNhU2c2TXNsVHJ5RF9qNHl2RFdaYk9lSGFzSFlVemF6RzdCd3BB?oc=5",
+      "published": "2026-09-25T12:49:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for monitoring."
     },
     {
       "category": "India",
-      "title": "PLI Schemes Strengthen India’s Pharmaceutical, Bulk Drug and Medical Device Manufacturing - KNN India",
-      "description": "PLI Schemes Strengthen India’s Pharmaceutical, Bulk Drug and Medical Device Manufacturing KNN India",
+      "title": "PLI Schemes Strengthen India’s Pharmaceutical, Bulk Drug and Medical Device Manufacturing - knnindia.co.in",
+      "description": "PLI Schemes Strengthen India’s Pharmaceutical, Bulk Drug and Medical Device Manufacturing knnindia.co.in",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU3JxTG5aaS1BVkZpcktLYWtGNndKQTl2cUZhXzc0eE1rUEw1WHFybWdnblpEY0k3Y0hILWRRME5taDM4ZW1xOU81M3M1TnpReEp4bXRGbkNOTU9nWUtfNGhGeFhKQmFEQlhvelI1RmppTTdta3VtUDdCdzJmS01hdTNIU0NxbVFGYUlUM1dYODFKcnRKZ3UzMWV3MDdaUGZOTmpuNVVMZVU3MmpyeGNvYkFOYVpxWWpDY21ZRVZHVUV6N2JpMy1rbVJJcFYzcjBa?oc=5",
       "published": "2026-09-25T12:43:32+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "API / Intermediates",
       "priority": "Medium",
-      "relevance": "Potential relevance to API/intermediate demand, manufacturing or customer opportunities."
+      "relevance": "May indicate API or intermediate demand, new manufacturing requirements or potential customer/supplier opportunities."
     },
     {
       "category": "India",
@@ -291,7 +327,19 @@
       "signal": "Opportunity",
       "business_area": "CDMO",
       "priority": "Medium",
-      "relevance": "Potential opportunity related to contract development, manufacturing or pharma outsourcing."
+      "relevance": "May indicate contract manufacturing, development or outsourcing opportunities."
+    },
+    {
+      "category": "India",
+      "title": "Bulk drug PLI investment crosses ₹5,200 crore, beats government target - CNBC TV18 - linkedin.com",
+      "description": "Bulk drug PLI investment crosses ₹5,200 crore, beats government target - CNBC TV18 linkedin.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUt3Z21zNnJIVzFFbUI3TVJxa05HclY4ZGJmWDNva2VvMzM5ZlFYOWk3SDh5TG50Sk43MDZrQ1ExOUxXTTdRa0FhY1MtYk10RmRyeGMwUjQ2QlA3dHNtWlhDcUxyRVZzQV85SFVISFZiQ3Z6MEhKNlV3WUZMWlVORlRKWm5tT2ppajZGOGRyNHdRVl9ELThLRDAyQTktaEwxRmFLZ2hfVjhwVEFJVEh4aThhS25VN3gzVUE?oc=5",
+      "published": "2026-09-25T12:00:11+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "High",
+      "relevance": "May indicate API or intermediate demand, new manufacturing requirements or potential customer/supplier opportunities."
     },
     {
       "category": "India",
@@ -303,10 +351,10 @@
       "signal": "Opportunity",
       "business_area": "Manufacturing",
       "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review."
+      "relevance": "Potential business development signal requiring management review."
     },
     {
-      "category": "India",
+      "category": "Vizag / AP",
       "title": "PLI schemes strengthen India's pharmaceutical, bulk drugs and medical devices manufacturing ecosystem - DD India",
       "description": "PLI schemes strengthen India's pharmaceutical, bulk drugs and medical devices manufacturing ecosystem DD India",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjRUM2daX1NLY1RSbUVnR1FMM3phdkIxdGJMMXZfbXlTb01SZkZ1T1lPZkVTY3ZCd3NDbV9vZnNEQWhQZmM5alBFVlV3Z3M2R1RoX291WVZRM2RjLXFrMzhqV0g0NzFxMnNuSVc5OFlvcEZKNzExemN3MFJ6UVZEdzFkdk82OVZIVTBwcDFMNEhjM2I5MFBQZXNacmJsdUFQSmk4Qm5XSzJ6cFhLQm5ZbjFnd3FZRkRUMmw0RmhPN3kxdHpKMjdEbWln?oc=5",
@@ -315,19 +363,31 @@
       "signal": "Opportunity",
       "business_area": "API / Intermediates",
       "priority": "Medium",
-      "relevance": "Potential relevance to API/intermediate demand, manufacturing or customer opportunities."
+      "relevance": "Potential Andhra Pradesh opportunity involving API, bulk drugs, chemicals, manufacturing, customers, suppliers or partnerships."
     },
     {
       "category": "Global",
-      "title": "FDA starts speedy review of Imfinzi in bladder cancer - pharmaphorum",
-      "description": "FDA starts speedy review of Imfinzi in bladder cancer pharmaphorum",
+      "title": "FDA starts speedy review of Imfinzi in bladder cancer - pharmaphorum.com",
+      "description": "FDA starts speedy review of Imfinzi in bladder cancer pharmaphorum.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3RDdTROcDNKVGx0VUgtQ1BWMndhOF8yVG13TEI0WVdRN2lFdUN5YTVUZjlnb2M1TXZNYVJUNEh0bS10YmZwRUZJc0hkOXVyT3BieHJaUUZhVlJMVDZCYXl2aEpUWWJMeE9xUFNJaGtQS3pDZkFRNm5IS2tjbmlWQWxldw?oc=5",
       "published": "2026-09-25T11:27:10+00:00",
       "source": "Google News RSS",
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
+    },
+    {
+      "category": "India",
+      "title": "Bulk drug PLI investment crosses ₹5,200 crore, beats government target - CNBC TV18",
+      "description": "Bulk drug PLI investment crosses ₹5,200 crore, beats government target CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWhDbDd5WjdBRE44UVZsdlotRWx0bm82eUZPR0p2Z3RNLURUOW10bWN4b2g1RVc0SXpsRG1ZMXA2V2hKZDVjUXpGU05aWFg3a2psMkF1bnY5T3J1b2xMVk9ITkQ5UG9BWkRsMHFjMnY0N21WNV9Ud090RElGSUFNaVV1WXpRYW9mU2pKQ0dCVmNQcExDc1J1RFRiMmFhN0pyWTd2R21fenU5NzFrNHY5NmxQaGstRGQ2Zkg5YXFiaDVYUlZVZEVj0gHMAUFVX3lxTE1LSFI4eTN5STZhY2ZJcXRxb2tuWUZkNS1sWGtlbEtTOU0yR1V6WDQ1aUZHdkowWXp0eWs4dUJLaks0N0Nrb0VmOTRfQVhzcjd6N0NWeFpzWW1LMXV4UnE2c0QxcldNUk5zcHlvZ2tSWGNEVnVIdnpWbEdvcjJYVWE1VXN3M0txeU5jaXlxdU9PWUtKYjlpbEgxT3hwNHk0dVN3dUZBVWN4MUdGTGhDZUtHamVLUnpMUG9ZZ3dSZkVmNWxNWnhIU3dtSXBCaw?oc=5",
+      "published": "2026-09-25T11:22:41+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "High",
+      "relevance": "May indicate API or intermediate demand, new manufacturing requirements or potential customer/supplier opportunities."
     },
     {
       "category": "Hyderabad",
@@ -339,7 +399,7 @@
       "signal": "General",
       "business_area": "Supply Chain",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring."
+      "relevance": "Relevant pharma industry development for monitoring."
     },
     {
       "category": "Vizag / AP",
@@ -348,10 +408,10 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5RlVFcllwRWU0d0tXRWtjZ2hWc2FwblV6MUlNaExaQnJfVWZkTi0tQ2pLVnRhNkQ4RzZmNExya3g1UnI4eUd3QUJnSlpMWk1NYXdmTlM1RlNxTEdnSHdSREJaNWVfcVN4?oc=5",
       "published": "2026-09-25T11:06:00+00:00",
       "source": "Google News RSS",
-      "signal": "General",
+      "signal": "Opportunity",
       "business_area": "API / Intermediates",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring."
+      "priority": "Medium",
+      "relevance": "Potential Andhra Pradesh opportunity involving API, bulk drugs, chemicals, manufacturing, customers, suppliers or partnerships."
     },
     {
       "category": "Global",
@@ -363,7 +423,7 @@
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "India",
@@ -375,19 +435,19 @@
       "signal": "General",
       "business_area": "Pharma Industry",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring."
+      "relevance": "Relevant pharma industry development for monitoring."
     },
     {
       "category": "Global",
-      "title": "FDA nominee Overton dodges questions on Trump influence - pharmaphorum",
-      "description": "FDA nominee Overton dodges questions on Trump influence pharmaphorum",
+      "title": "FDA nominee Overton dodges questions on Trump influence - pharmaphorum.com",
+      "description": "FDA nominee Overton dodges questions on Trump influence pharmaphorum.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcW9jMFItYkVKemVPOVJTVExHTWtrTlJxSjhXSk1XeEk1MlBVbi1UTW9ybmZKMFNwUmZsNVVWR0swVGRUTEFzRVhMakgzMGllc2dCZjlwMUNVMEVKa3VJRWR5VGZiYVhQcDFyLUpmWGNNTkR2d0pfazJ5NVZDQ1NJQ2xVM0x6Sll3SXc?oc=5",
       "published": "2026-09-25T10:30:10+00:00",
       "source": "Google News RSS",
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact."
+      "relevance": "Industry or regulatory development to monitor for possible business impact."
     },
     {
       "category": "India",
@@ -399,7 +459,7 @@
       "signal": "General",
       "business_area": "Exports / Markets",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring."
+      "relevance": "Relevant pharma industry development for monitoring."
     }
   ]
 }
