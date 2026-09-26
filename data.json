@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26T11:57:37.050547+00:00",
-  "article_count": 6,
-  "opportunity_count": 4,
+  "updated": "2026-09-26T12:38:16.006181+00:00",
+  "article_count": 5,
+  "opportunity_count": 3,
   "risk_count": 0,
   "watch_count": 2,
   "high_priority_count": 2,
@@ -71,7 +71,7 @@
     "API / Intermediates": 1,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 2,
-    "Manufacturing / Plants": 1,
+    "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -176,26 +176,6 @@
         "rs 5,210 cr",
         "5,210 cr"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "Indian CDMOs must build capability and trust, not just capacity, to win global innovation mandates: Experts - ETPharma.com",
-      "description": "Indian CDMOs must build capability and trust, not just capacity, to win global innovation mandates: Experts ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRi14TU1aV3FGWnIzcFlELVBCTWZKSmlURUlacms2Z2FWbzZBdElUa3dOVW8yQkZuRkpkUU0ybTNERUtza1pTSGhtRU11TVdzMkpSc2R5TWlyRi1oUzVsSnJTVGVoMmxLN0U3akxuTDRNNlgxNEtWZngtZUZMMnFGVkttRHNFNTA3RHR4MzJHU2FyVWdwUjFLUlNxdFJ4NG9saDZQNVV5SFFQbXh4UTFnR2J6S295SkgtZnJNZzhHbW5CS2NyQjJFNkotaTExT2N0STluMzdGREZYOW5pbHczbFp4SVNKMXNqT29RMXJvRVFuSnZMZ01iYXRCVFA4TzZiQWNteF8tbmNZbmVFdTIwWEZPQ1BlYjlLWGtrcVh1b9IBnwJBVV95cUxQRi14TU1aV3FGWnIzcFlELVBCTWZKSmlURUlacms2Z2FWbzZBdElUa3dOVW8yQkZuRkpkUU0ybTNERUtza1pTSGhtRU11TVdzMkpSc2R5TWlyRi1oUzVsSnJTVGVoMmxLN0U3akxuTDRNNlgxNEtWZngtZUZMMnFGVkttRHNFNTA3RHR4MzJHU2FyVWdwUjFLUlNxdFJ4NG9saDZQNVV5SFFQbXh4UTFnR2J6S295SkgtZnJNZzhHbW5CS2NyQjJFNkotaTExT2N0STluMzdGREZYOW5pbHczbFp4SVNKMXNqT29RMXJvRVFuSnZMZ01iYXRCVFA4TzZiQWNteF8tbmNZbmVFdTIwWEZPQ1BlYjlLWGtrcVh1bw?oc=5",
-      "published": "2026-09-25T12:00:50+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "Experts - ETPharma",
-        "Experts ETPharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ]
 }
