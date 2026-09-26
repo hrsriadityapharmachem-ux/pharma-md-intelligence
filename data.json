@@ -1,32 +1,14 @@
 {
-  "updated": "2026-09-26T18:37:49.571886+00:00",
-  "article_count": 1,
-  "opportunity_count": 1,
+  "updated": "2026-09-26T19:32:26.281610+00:00",
+  "article_count": 0,
+  "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
-  "must_know": [
-    {
-      "category": "India",
-      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - The Economic Times",
-      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXUzQ2Q2T2FZOFpGeXlRXzRJUXNoMkdqQVlua2ZqamFqWlRSWUEyQnRxQmEyWUxBdUd3OUlvWUJ6bkE5U3dsVmdrd0FVcUpoWkJyTURCa0FMb01POTM2LUJLTGZROW1ESWxlR2thYy04eG43cnpuWE8yVU1SNWxaNFRxMEdYNFFZOUs5ajBTdnhpR3pDaTNDRTRkVGE2MDZhb3JYLVNwczBpNVR6enZLaDBDQ254akxicWR5V0FrNmVrNW4zT0NsejBQWWJHNlBmYTZ3N1liX0IyTm9LRVQtQkxESndCazBkSk5Z0gHrAUFVX3lxTE9BdTNDZDZPYVk4WkZ5eVFfNElRc2gyR2pBWW5rZmpqYWpaVFJZQTJCdHFCYTJZTEF1R3c5SW9ZQnpuQTlTd2xWZ2t3QVVxSmhaQnJNREJrQUxvTU85MzYtQktMZlE5bURJbGVHa2FjLTh4bjdyem5YTzJVTVI1bFo0VHEwR1g0UVk5SzlqMFN2eGlHekNpM0NFNGRUYTYwNmFvclgtU3BzMGk1VHp6dktoMENDbnhqTGJxZHlXQWs2ZWs1bjNPQ2x6MFBZYkc2UGZhNnc3WWJfQjJOb0tFVC1CTERKd0JrMGRKTlk?oc=5",
-      "published": "2026-09-25T19:19:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    }
-  ],
+  "must_know": [],
   "business_signals": {
-    "API / Intermediates": 1,
+    "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -35,23 +17,5 @@
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
-  "articles": [
-    {
-      "category": "India",
-      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - The Economic Times",
-      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXUzQ2Q2T2FZOFpGeXlRXzRJUXNoMkdqQVlua2ZqamFqWlRSWUEyQnRxQmEyWUxBdUd3OUlvWUJ6bkE5U3dsVmdrd0FVcUpoWkJyTURCa0FMb01POTM2LUJLTGZROW1ESWxlR2thYy04eG43cnpuWE8yVU1SNWxaNFRxMEdYNFFZOUs5ajBTdnhpR3pDaTNDRTRkVGE2MDZhb3JYLVNwczBpNVR6enZLaDBDQ254akxicWR5V0FrNmVrNW4zT0NsejBQWWJHNlBmYTZ3N1liX0IyTm9LRVQtQkxESndCazBkSk5Z0gHrAUFVX3lxTE9BdTNDZDZPYVk4WkZ5eVFfNElRc2gyR2pBWW5rZmpqYWpaVFJZQTJCdHFCYTJZTEF1R3c5SW9ZQnpuQTlTd2xWZ2t3QVVxSmhaQnJNREJrQUxvTU85MzYtQktMZlE5bURJbGVHa2FjLTh4bjdyem5YTzJVTVI1bFo0VHEwR1g0UVk5SzlqMFN2eGlHekNpM0NFNGRUYTYwNmFvclgtU3BzMGk1VHp6dktoMENDbnhqTGJxZHlXQWs2ZWs1bjNPQ2x6MFBZYkc2UGZhNnc3WWJfQjJOb0tFVC1CTERKd0JrMGRKTlk?oc=5",
-      "published": "2026-09-25T19:19:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    }
-  ]
+  "articles": []
 }
