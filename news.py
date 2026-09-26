@@ -1,3 +1,4 @@
+```python
 import json
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -5,6 +6,7 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from html import unescape
 import re
+import time
 
 
 FEEDS = {
@@ -195,21 +197,52 @@ BUSINESS_AREAS = {
 
 
 def get_feed(url):
-    try:
-        request = urllib.request.Request(
-            url,
-            headers={"User-Agent": "Mozilla/5.0"}
-        )
 
-        with urllib.request.urlopen(request, timeout=20) as response:
-            return response.read()
+    for attempt in range(3):
 
-    except Exception as e:
-        print("Feed error:", e)
-        return None
+        try:
+
+            request = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 "
+                        "(Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 "
+                        "Chrome/154.0 Safari/537.36"
+                    ),
+                    "Accept": (
+                        "application/rss+xml, "
+                        "application/xml, text/xml, */*"
+                    ),
+                    "Accept-Language": "en-US,en;q=0.9"
+                }
+            )
+
+            with urllib.request.urlopen(
+                request,
+                timeout=30
+            ) as response:
+
+                return response.read()
+
+        except Exception as e:
+
+            print(
+                "Feed attempt",
+                attempt + 1,
+                "failed:",
+                e
+            )
+
+            if attempt < 2:
+                time.sleep(5)
+
+    return None
 
 
 def clean_text(text):
+
     if not text:
         return ""
 
@@ -225,6 +258,7 @@ def clean_text(text):
 
 
 def get_date(entry):
+
     date_text = entry.findtext("pubDate")
 
     if not date_text:
@@ -232,6 +266,7 @@ def get_date(entry):
 
     try:
         return parsedate_to_datetime(date_text)
+
     except Exception:
         return None
 
@@ -250,30 +285,22 @@ def determine_signal(text):
 
     lower_text = text.lower()
 
-    has_risk = contains_keyword(
+    if contains_keyword(
         lower_text,
         RISK_KEYWORDS
-    )
-
-    has_opportunity = contains_keyword(
-        lower_text,
-        OPPORTUNITY_KEYWORDS
-    )
-
-    has_regulatory = contains_keyword(
-        lower_text,
-        REGULATORY_KEYWORDS
-    )
-
-    # Risk takes priority when a clear risk term exists
-    if has_risk:
+    ):
         return "Risk"
 
-    # Regulatory developments should be watched
-    if has_regulatory:
+    if contains_keyword(
+        lower_text,
+        REGULATORY_KEYWORDS
+    ):
         return "Watch"
 
-    if has_opportunity:
+    if contains_keyword(
+        lower_text,
+        OPPORTUNITY_KEYWORDS
+    ):
         return "Opportunity"
 
     return "General"
@@ -283,20 +310,15 @@ def determine_business_area(text):
 
     lower_text = text.lower()
 
-    matched_areas = []
-
     for area, keywords in BUSINESS_AREAS.items():
 
         if contains_keyword(
             lower_text,
             keywords
         ):
-            matched_areas.append(area)
+            return area
 
-    if not matched_areas:
-        return "Pharma Industry"
-
-    return matched_areas[0]
+    return "Pharma Industry"
 
 
 def determine_priority(text, signal):
@@ -319,7 +341,10 @@ def determine_priority(text, signal):
         "ban"
     ]
 
-    if signal in ["Risk", "Opportunity"]:
+    if signal in [
+        "Risk",
+        "Opportunity"
+    ]:
 
         if contains_keyword(
             lower_text,
@@ -345,30 +370,35 @@ def generate_relevance(
     if signal == "Opportunity":
 
         if category == "Vizag / AP":
+
             return (
                 "Potential relevance to Andhra Pradesh pharma, "
                 "API, manufacturing, supplier or partnership activity."
             )
 
         if category == "Hyderabad":
+
             return (
                 "Potential relevance to Hyderabad pharma, API, "
                 "CDMO, customer or supplier opportunities."
             )
 
         if business_area == "Investment":
+
             return (
                 "Investment activity may create potential "
                 "supplier, customer, manufacturing or partnership opportunities."
             )
 
         if business_area == "CDMO":
+
             return (
                 "Potential opportunity related to contract development, "
                 "manufacturing or pharma outsourcing."
             )
 
         if business_area == "API / Intermediates":
+
             return (
                 "Potential relevance to API/intermediate demand, "
                 "manufacturing or customer opportunities."
@@ -382,12 +412,14 @@ def generate_relevance(
     if signal == "Risk":
 
         if business_area == "Regulatory":
+
             return (
                 "Regulatory development may affect product approvals, "
                 "compliance, manufacturing or exports."
             )
 
         if business_area == "Supply Chain":
+
             return (
                 "Potential supply-chain impact requiring monitoring "
                 "of raw materials, suppliers or logistics."
@@ -419,22 +451,53 @@ def collect_news():
 
     articles = []
 
+    successful_feeds = 0
+
+    failed_feeds = 0
+
+
     for category, urls in FEEDS.items():
 
         for url in urls:
 
+            print(
+                "Checking feed:",
+                category
+            )
+
             data = get_feed(url)
 
             if not data:
+
+                failed_feeds += 1
+
                 continue
+
+            successful_feeds += 1
 
             try:
+
                 root = ET.fromstring(data)
 
-            except Exception:
+            except Exception as e:
+
+                print(
+                    "XML parsing error:",
+                    e
+                )
+
                 continue
 
-            for item in root.findall(".//item"):
+
+            items = root.findall(".//item")
+
+            print(
+                "Items found:",
+                len(items)
+            )
+
+
+            for item in items:
 
                 title = clean_text(
                     item.findtext("title")
@@ -448,11 +511,14 @@ def collect_news():
 
                 published = get_date(item)
 
+
                 if not title or not link:
                     continue
 
+
                 if published and published < cutoff:
                     continue
+
 
                 combined = (
                     title
@@ -460,26 +526,32 @@ def collect_news():
                     + description
                 ).lower()
 
+
                 relevant = any(
                     keyword in combined
                     for keyword in KEYWORDS
                 )
 
+
                 if not relevant:
                     continue
+
 
                 signal = determine_signal(
                     combined
                 )
 
+
                 business_area = determine_business_area(
                     combined
                 )
+
 
                 priority = determine_priority(
                     combined,
                     signal
                 )
+
 
                 relevance = generate_relevance(
                     category,
@@ -488,24 +560,31 @@ def collect_news():
                     title
                 )
 
+
                 articles.append({
 
-                    "category": category,
+                    "category":
+                        category,
 
-                    "title": title,
+                    "title":
+                        title,
 
-                    "description": description[:500],
+                    "description":
+                        description[:500],
 
-                    "link": link,
+                    "link":
+                        link,
 
                     "published":
                         published.isoformat()
                         if published
                         else "",
 
-                    "source": "Google News RSS",
+                    "source":
+                        "Google News RSS",
 
-                    "signal": signal,
+                    "signal":
+                        signal,
 
                     "business_area":
                         business_area,
@@ -518,9 +597,19 @@ def collect_news():
                 })
 
 
-    # Remove duplicate titles
+    print(
+        "Successful feeds:",
+        successful_feeds
+    )
+
+    print(
+        "Failed feeds:",
+        failed_feeds
+    )
+
 
     unique = {}
+
 
     for article in articles:
 
@@ -531,14 +620,14 @@ def collect_news():
         )
 
         if key not in unique:
+
             unique[key] = article
+
 
     articles = list(
         unique.values()
     )
 
-
-    # Sort newest first
 
     articles.sort(
         key=lambda x: x["published"],
@@ -546,12 +635,47 @@ def collect_news():
     )
 
 
-    return articles[:100]
+    return articles[:100], successful_feeds
+
+
+def load_existing_data():
+
+    try:
+
+        with open(
+            "data.json",
+            "r",
+            encoding="utf-8"
+        ) as file:
+
+            return json.load(file)
+
+    except Exception:
+
+        return None
 
 
 def main():
 
-    articles = collect_news()
+    articles, successful_feeds = collect_news()
+
+
+    # Safety protection:
+    # Never replace good existing data with an empty dataset
+    # when all feeds have failed.
+
+    if len(articles) == 0 and successful_feeds == 0:
+
+        print(
+            "WARNING: All news feeds failed."
+        )
+
+        print(
+            "Keeping existing data.json unchanged."
+        )
+
+        return
+
 
     opportunities = sum(
         1
@@ -559,11 +683,13 @@ def main():
         if article["signal"] == "Opportunity"
     )
 
+
     risks = sum(
         1
         for article in articles
         if article["signal"] == "Risk"
     )
+
 
     watch = sum(
         1
@@ -633,4 +759,6 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
+```
