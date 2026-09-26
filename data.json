@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-26T13:33:12.606418+00:00",
-  "article_count": 5,
-  "opportunity_count": 3,
+  "updated": "2026-09-26T14:34:25.747550+00:00",
+  "article_count": 3,
+  "opportunity_count": 2,
   "risk_count": 0,
-  "watch_count": 2,
-  "high_priority_count": 2,
+  "watch_count": 1,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
     {
@@ -29,31 +29,6 @@
     },
     {
       "category": "India",
-      "title": "Pharma PLI attracts over Rs 46,700 crore investments, but China still dominates API imports - financialexpress.com",
-      "description": "Pharma PLI attracts over Rs 46,700 crore investments, but China still dominates API imports financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd3NjRzFZaW9BZmk5WXBFVzRyNUhwRFJPRGxPQVZQb0FfQktweTd3QWJvS2lIaG1ra0loanJUNy1wMmxFVVloeENJWlZhUTJlSHc1QS1Ea0ZLeUJLbDd6aEVFUUh0VXlGWFotaW1nR1ZpQkl5YzRLRnA1eUwwdWJocEpKWUFreFpPbUh5R01GZEYzMFVjTEREWmdBVGpKdy1VSUUwQm1RU2Y5LW5hSVJWbEZ1TE1lejZCcE5Jc2J1SW9Bejd4ZnJFSi1jd09tMXRac0VYaTd6ZUZYc1pfLUVuV3ZQbktlQdIB7AFBVV95cUxQM29nZnFTNlRUWGdfd1kzTXJMeEcydVJQOUM2ZFVWNWJMdzFXVGc0a1FycG5DTFoxd3h1MHRBczlOVFBMNmY2TW5MRWtjZFd5eDdDdXhDVHpXdlFWOTBTWjVtN1BnR2xBR2lncXBjeF9aUkZacDhrU3pqUVJYck9xck53SURFblVWU1N6TlJSUEJnZ1EzMkN2bkxoYUIzYk5Pb3Azbk5HQ29oSXBfVHE0eGtaeU9kMlhTVkFscnhpT2YwUkdTT1FjVVg2TWVlTTBGbklfY3dSWktBSTlBakJQeWRFQm10aUdLd0xaaQ?oc=5",
-      "published": "2026-09-25T14:02:43+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "API imports - financialexpress.com Pharma"
-      ],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [
-        "rs 46,700 crore",
-        "46,700 crore"
-      ]
-    },
-    {
-      "category": "India",
       "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - The Economic Times",
       "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXUzQ2Q2T2FZOFpGeXlRXzRJUXNoMkdqQVlua2ZqamFqWlRSWUEyQnRxQmEyWUxBdUd3OUlvWUJ6bkE5U3dsVmdrd0FVcUpoWkJyTURCa0FMb01POTM2LUJLTGZROW1ESWxlR2thYy04eG43cnpuWE8yVU1SNWxaNFRxMEdYNFFZOUs5ajBTdnhpR3pDaTNDRTRkVGE2MDZhb3JYLVNwczBpNVR6enZLaDBDQ254akxicWR5V0FrNmVrNW4zT0NsejBQWWJHNlBmYTZ3N1liX0IyTm9LRVQtQkxESndCazBkSk5Z0gHrAUFVX3lxTE9BdTNDZDZPYVk4WkZ5eVFfNElRc2gyR2pBWW5rZmpqYWpaVFJZQTJCdHFCYTJZTEF1R3c5SW9ZQnpuQTlTd2xWZ2t3QVVxSmhaQnJNREJrQUxvTU85MzYtQktMZlE5bURJbGVHa2FjLTh4bjdyem5YTzJVTVI1bFo0VHEwR1g0UVk5SzlqMFN2eGlHekNpM0NFNGRUYTYwNmFvclgtU3BzMGk1VHp6dktoMENDbnhqTGJxZHlXQWs2ZWs1bjNPQ2x6MFBZYkc2UGZhNnc3WWJfQjJOb0tFVC1CTERKd0JrMGRKTlk?oc=5",
@@ -68,12 +43,32 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "FDA Approves Welireg Plus Lenvima | PharmExec - Pharmaceutical Executive",
+      "description": "FDA Approves Welireg Plus Lenvima | PharmExec Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUGVTeFpMbEhwLWhPZFBPTzRYSTJRWUdSekFhQ3dqR1h4RVlrTFdPdzJYTC01emM3Ym9hbVR1dWV5MW5SUVQtM1lLaVZmUXJzNDEzcTlDUXdTblQzcTl5TWUyaEVSckQ2ZnlLNDV0S0FIejA?oc=5",
+      "published": "2026-09-25T18:30:15+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "PharmExec - Pharmaceutical",
+        "PharmExec Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 1,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 2,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -137,51 +132,6 @@
         "investments"
       ],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA approves Welireg and Lenvima combo for advanced kidney cancer - The Pharma Letter",
-      "description": "FDA approves Welireg and Lenvima combo for advanced kidney cancer The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU5IOEw2bnNRaEJweFRxQmhaU0Q4Q2E3QmllZUx4MTNndU9qdG1rclliX0xnVGUwWVBDZ0dLYW03U0lmekEzRFdKVGV2Mkp3RGQ1bmFFenhua0YzZENwZTJnLXViUTcwQXFmQ2RmaS1lWVBtckxpeUxSN2VVMHBTVHpyeGc1Z1ExdUhxNzFpbHJvVjhvc01CdE5pYWR2WUNTc0VlbXBTTzFLQXdIWkE?oc=5",
-      "published": "2026-09-25T14:20:23+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Lenvima combo for advanced kidney cancer - The Pharma",
-        "Lenvima combo for advanced kidney cancer The Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Pharma PLI attracts over Rs 46,700 crore investments, but China still dominates API imports - financialexpress.com",
-      "description": "Pharma PLI attracts over Rs 46,700 crore investments, but China still dominates API imports financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd3NjRzFZaW9BZmk5WXBFVzRyNUhwRFJPRGxPQVZQb0FfQktweTd3QWJvS2lIaG1ra0loanJUNy1wMmxFVVloeENJWlZhUTJlSHc1QS1Ea0ZLeUJLbDd6aEVFUUh0VXlGWFotaW1nR1ZpQkl5YzRLRnA1eUwwdWJocEpKWUFreFpPbUh5R01GZEYzMFVjTEREWmdBVGpKdy1VSUUwQm1RU2Y5LW5hSVJWbEZ1TE1lejZCcE5Jc2J1SW9Bejd4ZnJFSi1jd09tMXRac0VYaTd6ZUZYc1pfLUVuV3ZQbktlQdIB7AFBVV95cUxQM29nZnFTNlRUWGdfd1kzTXJMeEcydVJQOUM2ZFVWNWJMdzFXVGc0a1FycG5DTFoxd3h1MHRBczlOVFBMNmY2TW5MRWtjZFd5eDdDdXhDVHpXdlFWOTBTWjVtN1BnR2xBR2lncXBjeF9aUkZacDhrU3pqUVJYck9xck53SURFblVWU1N6TlJSUEJnZ1EzMkN2bkxoYUIzYk5Pb3Azbk5HQ29oSXBfVHE0eGtaeU9kMlhTVkFscnhpT2YwUkdTT1FjVVg2TWVlTTBGbklfY3dSWktBSTlBakJQeWRFQm10aUdLd0xaaQ?oc=5",
-      "published": "2026-09-25T14:02:43+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "API imports - financialexpress.com Pharma"
-      ],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [
-        "rs 46,700 crore",
-        "46,700 crore"
-      ]
     }
   ]
 }
