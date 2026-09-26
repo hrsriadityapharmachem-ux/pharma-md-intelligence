@@ -1,304 +1,779 @@
-/*
- Sri Aditya Pharmachem
- MD Pharma Intelligence Dashboard
+import json
+import re
+import hashlib
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
+from urllib.parse import quote
 
- This file reads data.json and updates the dashboard.
-*/
+import feedparser
 
-async function loadDashboard() {
-  try {
-    const response = await fetch("data.json?_=" + Date.now());
 
-    if (!response.ok) {
-      throw new Error("data.json could not be loaded");
+# ============================================================
+# SRI ADITYA PHARMACHEM
+# MD PHARMA INTELLIGENCE
+# ============================================================
+
+OUTPUT_FILE = "data.json"
+
+HOURS_BACK = 24
+
+NEWS_QUERIES = [
+
+    # Hyderabad
+    "pharma Hyderabad API manufacturing",
+    "pharma Hyderabad CDMO investment",
+    "pharmaceutical Hyderabad plant expansion",
+
+    # Andhra Pradesh / Vizag
+    "pharma Vizag Andhra Pradesh API",
+    "bulk drugs Andhra Pradesh investment",
+    "pharmaceutical manufacturing Vizag",
+
+    # India
+    "India API pharmaceutical investment",
+    "India bulk drug manufacturing",
+    "India CDMO pharmaceutical",
+    "India pharma manufacturing expansion",
+    "India pharmaceutical exports",
+
+    # Global
+    "global pharmaceutical manufacturing",
+    "FDA pharmaceutical manufacturing",
+    "global CDMO pharma",
+    "pharmaceutical supply chain",
+
+    # Regulatory
+    "India CDSCO pharmaceutical",
+    "US FDA pharmaceutical approval manufacturing",
+    "EMA pharmaceutical manufacturing",
+]
+
+
+# ============================================================
+# KEYWORDS
+# ============================================================
+
+API_KEYWORDS = [
+    "api",
+    "active pharmaceutical ingredient",
+    "intermediate",
+    "intermediates",
+    "bulk drug",
+    "bulk drugs",
+    "kilo lab",
+    "chemical",
+    "pharma chemical",
+]
+
+CDMO_KEYWORDS = [
+    "cdmo",
+    "contract development",
+    "contract manufacturing",
+    "outsourcing",
+    "development partner",
+    "manufacturing partner",
+]
+
+INVESTMENT_KEYWORDS = [
+    "investment",
+    "investments",
+    "invested",
+    "expansion",
+    "expand",
+    "new plant",
+    "new facility",
+    "manufacturing facility",
+    "project",
+    "capacity",
+    "greenfield",
+    "brownfield",
+]
+
+MANUFACTURING_KEYWORDS = [
+    "manufacturing",
+    "manufacture",
+    "plant",
+    "factory",
+    "production",
+    "capacity",
+    "facility",
+]
+
+REGULATORY_KEYWORDS = [
+    "fda",
+    "us fda",
+    "cdsco",
+    "ema",
+    "regulatory",
+    "approval",
+    "approved",
+    "warning letter",
+    "inspection",
+    "compliance",
+]
+
+SUPPLY_CHAIN_KEYWORDS = [
+    "supply chain",
+    "logistics",
+    "pharma cargo",
+    "shipping",
+    "exports",
+    "import",
+    "imports",
+    "shortage",
+    "sourcing",
+]
+
+OPPORTUNITY_KEYWORDS = [
+    "investment",
+    "expansion",
+    "new plant",
+    "new facility",
+    "capacity",
+    "cdmo",
+    "contract manufacturing",
+    "outsourcing",
+    "bulk drug",
+    "api",
+    "intermediate",
+    "partnership",
+    "supply",
+    "supplier",
+    "customer",
+]
+
+RISK_KEYWORDS = [
+    "warning letter",
+    "recall",
+    "shortage",
+    "shutdown",
+    "ban",
+    "penalty",
+    "non-compliance",
+    "noncompliance",
+    "contamination",
+    "import restriction",
+]
+
+
+# ============================================================
+# GOOGLE NEWS RSS
+# ============================================================
+
+def google_news_url(query):
+
+    encoded = quote(query)
+
+    return (
+        "https://news.google.com/rss/search?"
+        f"q={encoded}"
+        "&hl=en-IN"
+        "&gl=IN"
+        "&ceid=IN:en"
+    )
+
+
+# ============================================================
+# TEXT HELPERS
+# ============================================================
+
+def clean_text(text):
+
+    if not text:
+        return ""
+
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
+
+
+def contains_keyword(text, keywords):
+
+    text = text.lower()
+
+    return any(
+        keyword.lower() in text
+        for keyword in keywords
+    )
+
+
+# ============================================================
+# REGION
+# ============================================================
+
+def detect_region(text):
+
+    text = text.lower()
+
+    if (
+        "hyderabad" in text
+        or "telangana" in text
+    ):
+        return "Hyderabad"
+
+    if (
+        "vizag" in text
+        or "visakhapatnam" in text
+        or "andhra pradesh" in text
+        or "andhra" in text
+    ):
+        return "Vizag / AP"
+
+    india_terms = [
+        "india",
+        "indian",
+        "new delhi",
+        "mumbai",
+        "ahmedabad",
+        "chennai",
+        "bengaluru",
+        "bangalore",
+        "pune",
+    ]
+
+    if any(term in text for term in india_terms):
+        return "India"
+
+    return "Global"
+
+
+# ============================================================
+# CATEGORY
+# ============================================================
+
+def detect_category(text):
+
+    if contains_keyword(text, API_KEYWORDS):
+        return "API / Intermediates"
+
+    if contains_keyword(text, CDMO_KEYWORDS):
+        return "CDMO / Contract Manufacturing"
+
+    if contains_keyword(text, INVESTMENT_KEYWORDS):
+        return "Investment / Expansion"
+
+    if contains_keyword(text, MANUFACTURING_KEYWORDS):
+        return "Manufacturing / Plants"
+
+    if contains_keyword(text, REGULATORY_KEYWORDS):
+        return "Regulatory"
+
+    if contains_keyword(text, SUPPLY_CHAIN_KEYWORDS):
+        return "Supply Chain"
+
+    return "Pharma Industry"
+
+
+# ============================================================
+# SIGNAL
+# ============================================================
+
+def detect_signal(text):
+
+    if contains_keyword(text, RISK_KEYWORDS):
+
+        return "Risk"
+
+    if contains_keyword(text, OPPORTUNITY_KEYWORDS):
+
+        return "Opportunity"
+
+    return "Watch"
+
+
+# ============================================================
+# WHY IT MATTERS
+# ============================================================
+
+def why_it_matters(category, signal):
+
+    if category == "API / Intermediates":
+
+        return (
+            "Relevant to API/intermediate demand, "
+            "manufacturing capacity, sourcing and "
+            "potential customer or supplier opportunities."
+        )
+
+    if category == "CDMO / Contract Manufacturing":
+
+        return (
+            "May indicate outsourcing, contract "
+            "manufacturing or development demand "
+            "that could create potential commercial opportunities."
+        )
+
+    if category == "Investment / Expansion":
+
+        return (
+            "New investment or expansion can create "
+            "opportunities around manufacturing, chemicals, "
+            "APIs, suppliers, customers or partnerships."
+        )
+
+    if category == "Manufacturing / Plants":
+
+        return (
+            "Manufacturing expansion or technology "
+            "developments may influence capacity, competition, "
+            "equipment requirements and supply opportunities."
+        )
+
+    if category == "Regulatory":
+
+        return (
+            "Regulatory developments may affect compliance "
+            "requirements, market access, customer expectations "
+            "or manufacturing practices."
+        )
+
+    if category == "Supply Chain":
+
+        return (
+            "Supply-chain changes may affect sourcing, logistics, "
+            "exports, delivery reliability or customer requirements."
+        )
+
+    return (
+        "Relevant pharmaceutical industry development "
+        "for management monitoring."
+    )
+
+
+# ============================================================
+# MD ACTION
+# ============================================================
+
+def md_action(category, signal):
+
+    if signal == "Risk":
+
+        return (
+            "Review the development for possible operational, "
+            "regulatory, supply or commercial impact."
+        )
+
+    if category == "API / Intermediates":
+
+        return (
+            "Evaluate whether the development creates a "
+            "product, customer, sourcing or capacity opportunity."
+        )
+
+    if category == "CDMO / Contract Manufacturing":
+
+        return (
+            "Monitor potential CDMO/customer requirements "
+            "and identify relevant commercial contacts."
+        )
+
+    if category == "Investment / Expansion":
+
+        return (
+            "Track the project and evaluate possible supplier, "
+            "customer or partnership opportunities."
+        )
+
+    if category == "Manufacturing / Plants":
+
+        return (
+            "Evaluate for possible commercial follow-up."
+        )
+
+    if category == "Regulatory":
+
+        return (
+            "Monitor. No immediate action indicated "
+            "from the available information."
+        )
+
+    if category == "Supply Chain":
+
+        return (
+            "Monitor for potential sourcing, logistics "
+            "or customer-impact opportunities."
+        )
+
+    return "Monitor for further developments."
+
+
+# ============================================================
+# DATE PARSING
+# ============================================================
+
+def get_entry_datetime(entry):
+
+    try:
+
+        if entry.get("published_parsed"):
+
+            return datetime(
+                *entry.published_parsed[:6],
+                tzinfo=timezone.utc
+            )
+
+        if entry.get("updated_parsed"):
+
+            return datetime(
+                *entry.updated_parsed[:6],
+                tzinfo=timezone.utc
+            )
+
+    except Exception:
+        pass
+
+    for field in ["published", "updated"]:
+
+        value = entry.get(field)
+
+        if value:
+
+            try:
+
+                dt = parsedate_to_datetime(value)
+
+                if dt.tzinfo is None:
+
+                    dt = dt.replace(
+                        tzinfo=timezone.utc
+                    )
+
+                return dt.astimezone(timezone.utc)
+
+            except Exception:
+                pass
+
+    return datetime.now(timezone.utc)
+
+
+# ============================================================
+# FETCH NEWS
+# ============================================================
+
+def fetch_news():
+
+    now = datetime.now(timezone.utc)
+
+    cutoff = now - timedelta(
+        hours=HOURS_BACK
+    )
+
+    articles = []
+
+    seen = set()
+
+    for query in NEWS_QUERIES:
+
+        try:
+
+            feed = feedparser.parse(
+                google_news_url(query)
+            )
+
+        except Exception as error:
+
+            print(
+                "Feed error:",
+                query,
+                error
+            )
+
+            continue
+
+        for entry in feed.entries:
+
+            title = clean_text(
+                entry.get("title", "")
+            )
+
+            summary = clean_text(
+                entry.get("summary", "")
+            )
+
+            link = entry.get(
+                "link",
+                ""
+            )
+
+            if not title or not link:
+                continue
+
+            published = get_entry_datetime(entry)
+
+            if published < cutoff:
+                continue
+
+            source_text = (
+                title
+                + " "
+                + summary
+            )
+
+            article_hash = hashlib.sha256(
+                (
+                    title
+                    + link
+                ).encode("utf-8")
+            ).hexdigest()
+
+            if article_hash in seen:
+                continue
+
+            seen.add(article_hash)
+
+            region = detect_region(
+                source_text
+            )
+
+            category = detect_category(
+                source_text
+            )
+
+            signal = detect_signal(
+                source_text
+            )
+
+            article = {
+
+                "title": title,
+
+                "link": link,
+
+                "published": published.isoformat(),
+
+                "category": region,
+
+                "region": region,
+
+                "topic": category,
+
+                "signal": signal,
+
+                "why_it_matters":
+                    why_it_matters(
+                        category,
+                        signal
+                    ),
+
+                "md_action":
+                    md_action(
+                        category,
+                        signal
+                    )
+
+            }
+
+            articles.append(article)
+
+    articles.sort(
+        key=lambda x: x["published"],
+        reverse=True
+    )
+
+    return articles
+
+
+# ============================================================
+# BUSINESS SIGNALS
+# ============================================================
+
+def calculate_business_signals(articles):
+
+    signals = {
+
+        "API / Intermediates": 0,
+
+        "CDMO": 0,
+
+        "Manufacturing": 0,
+
+        "Supply Chain": 0,
+
+        "Regulatory": 0
+
     }
 
-    const data = await response.json();
+    for article in articles:
 
-    // KPI COUNTS
-    setText("news_detected", data.article_count || 0);
-    setText("opportunities", data.opportunity_count || 0);
-    setText("risks", data.risk_count || 0);
-    setText("high_priority", data.high_priority_count || 0);
+        topic = article.get(
+            "topic",
+            ""
+        )
 
-    // LAST UPDATED
-    setText("updated_at", formatTime(data.updated));
+        if topic == "API / Intermediates":
 
-    // MUST KNOW
-    renderCards("must_know", data.must_know || []);
+            signals[
+                "API / Intermediates"
+            ] += 1
 
-    // REGIONAL NEWS
-    const regions = groupByRegion(data.articles || []);
+        elif topic == "CDMO / Contract Manufacturing":
 
-    renderCards("region_hyderabad", regions.hyderabad);
-    renderCards("region_vizag", regions.vizag);
-    renderCards("region_india", regions.india);
-    renderCards("region_global", regions.global);
+            signals[
+                "CDMO"
+            ] += 1
 
-    // BUSINESS SIGNALS
-    renderSignals("business_signals", data.business_signals || {});
+        elif topic == "Manufacturing / Plants":
 
-  } catch (error) {
-    console.error("Dashboard load failed:", error);
-  }
-}
+            signals[
+                "Manufacturing"
+            ] += 1
+
+        elif topic == "Supply Chain":
+
+            signals[
+                "Supply Chain"
+            ] += 1
+
+        elif topic == "Regulatory":
+
+            signals[
+                "Regulatory"
+            ] += 1
+
+    return signals
 
 
-// --------------------------------------------------
-// GROUP NEWS BY REGION
-// --------------------------------------------------
+# ============================================================
+# BUILD DASHBOARD DATA
+# ============================================================
 
-function groupByRegion(articles) {
+def build_dashboard_data(articles):
 
-  const regions = {
-    hyderabad: [],
-    vizag: [],
-    india: [],
-    global: []
-  };
+    opportunities = [
+        article
+        for article in articles
+        if article["signal"] == "Opportunity"
+    ]
 
-  articles.forEach(function(item) {
+    risks = [
+        article
+        for article in articles
+        if article["signal"] == "Risk"
+    ]
 
-    const category =
-      String(item.category || "").toLowerCase();
+    high_priority = [
+        article
+        for article in articles
+        if (
+            article["signal"] == "Risk"
+            or (
+                article["signal"] == "Opportunity"
+                and article["topic"]
+                in [
+                    "Investment / Expansion",
+                    "API / Intermediates",
+                    "CDMO / Contract Manufacturing"
+                ]
+            )
+        )
+    ]
 
-    if (category.includes("hyderabad")) {
+    must_know = high_priority[:5]
 
-      regions.hyderabad.push(item);
+    return {
 
-    } else if (
-      category.includes("vizag") ||
-      category.includes("andhra") ||
-      category.includes("ap")
-    ) {
+        "company":
+            "Sri Aditya Pharmachem",
 
-      regions.vizag.push(item);
+        "dashboard":
+            "MD Pharma Intelligence",
 
-    } else if (category.includes("india")) {
+        "updated":
+            datetime.now(
+                timezone.utc
+            ).isoformat(),
 
-      regions.india.push(item);
+        "article_count":
+            len(articles),
 
-    } else {
+        "opportunity_count":
+            len(opportunities),
 
-      regions.global.push(item);
+        "risk_count":
+            len(risks),
+
+        "high_priority_count":
+            len(high_priority),
+
+        "must_know":
+            must_know,
+
+        "articles":
+            articles,
+
+        "business_signals":
+            calculate_business_signals(
+                articles
+            )
 
     }
 
-  });
 
-  return regions;
-}
+# ============================================================
+# SAVE JSON
+# ============================================================
 
+def save_json(data):
 
-// --------------------------------------------------
-// RENDER NEWS CARDS
-// --------------------------------------------------
+    with open(
+        OUTPUT_FILE,
+        "w",
+        encoding="utf-8"
+    ) as file:
 
-function renderCards(fieldName, items) {
-
-  const element =
-    document.querySelector(`[data-field="${fieldName}"]`);
-
-  if (!element) {
-    return;
-  }
-
-  if (!items || items.length === 0) {
-
-    element.innerHTML =
-      '<p class="empty">No items in the last 24 hours.</p>';
-
-    return;
-  }
-
-  element.innerHTML = items.map(function(item) {
-
-    const signal =
-      String(item.signal || "Watch").toLowerCase();
-
-    const title =
-      escapeHTML(item.title || "Untitled");
-
-    const link =
-      item.link || "#";
-
-    const why =
-      escapeHTML(item.why_it_matters || "");
-
-    const action =
-      escapeHTML(item.md_action || "");
-
-    return `
-      <div class="card">
-
-        <span class="tag tag-${signal}">
-          ${escapeHTML(item.signal || "Watch")}
-        </span>
-
-        <a
-          href="${link}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <strong>${title}</strong>
-        </a>
-
-        ${
-          why
-            ? `<div class="why">
-                 <b>Why it matters:</b> ${why}
-               </div>`
-            : ""
-        }
-
-        ${
-          action
-            ? `<div class="action">
-                 <b>MD Action:</b> ${action}
-               </div>`
-            : ""
-        }
-
-      </div>
-    `;
-
-  }).join("");
-}
+        json.dump(
+            data,
+            file,
+            indent=2,
+            ensure_ascii=False
+        )
 
 
-// --------------------------------------------------
-// BUSINESS SIGNALS
-// --------------------------------------------------
+# ============================================================
+# MAIN
+# ============================================================
 
-function renderSignals(fieldName, signals) {
+def main():
 
-  const element =
-    document.querySelector(`[data-field="${fieldName}"]`);
+    print(
+        "Sri Aditya Pharmachem "
+        "MD Intelligence starting..."
+    )
 
-  if (!element) {
-    return;
-  }
+    articles = fetch_news()
 
-  const entries =
-    Object.entries(signals || {});
+    print(
+        "Articles found:",
+        len(articles)
+    )
 
-  if (entries.length === 0) {
+    data = build_dashboard_data(
+        articles
+    )
 
-    element.innerHTML =
-      '<p class="empty">No business signals available.</p>';
+    save_json(data)
 
-    return;
-  }
+    print(
+        "data.json updated successfully."
+    )
 
-  const max =
-    Math.max(
-      1,
-      ...entries.map(function(entry) {
-        return Number(entry[1]) || 0;
-      })
-    );
+    print(
+        "Opportunities:",
+        data["opportunity_count"]
+    )
 
-  element.innerHTML = entries.map(function(entry) {
+    print(
+        "Risks:",
+        data["risk_count"]
+    )
 
-    const label = entry[0];
-    const count = Number(entry[1]) || 0;
-
-    const percentage =
-      (count / max) * 100;
-
-    return `
-      <div class="signal-row">
-
-        <span class="signal-label">
-          ${escapeHTML(label)}
-        </span>
-
-        <div class="signal-track">
-          <div
-            class="signal-fill"
-            style="width:${percentage}%"
-          ></div>
-        </div>
-
-        <span class="signal-count">
-          ${count}
-        </span>
-
-      </div>
-    `;
-
-  }).join("");
-}
+    print(
+        "High priority:",
+        data["high_priority_count"]
+    )
 
 
-// --------------------------------------------------
-// SET TEXT
-// --------------------------------------------------
+if __name__ == "__main__":
 
-function setText(fieldName, value) {
-
-  const element =
-    document.querySelector(`[data-field="${fieldName}"]`);
-
-  if (element) {
-    element.textContent = value;
-  }
-}
-
-
-// --------------------------------------------------
-// FORMAT TIME
-// --------------------------------------------------
-
-function formatTime(isoString) {
-
-  if (!isoString) {
-    return "";
-  }
-
-  const date = new Date(isoString);
-
-  if (isNaN(date.getTime())) {
-    return isoString;
-  }
-
-  return date.toLocaleString("en-IN", {
-    day: "2-digit",
-    month: "short",
-    year: "numeric",
-    hour: "2-digit",
-    minute: "2-digit"
-  });
-}
-
-
-// --------------------------------------------------
-// BASIC HTML SAFETY
-// --------------------------------------------------
-
-function escapeHTML(value) {
-
-  return String(value)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#039;");
-}
-
-
-// --------------------------------------------------
-// LOAD DASHBOARD
-// --------------------------------------------------
-
-loadDashboard();
-
-
-// --------------------------------------------------
-// REFRESH EVERY 5 MINUTES
-// --------------------------------------------------
-
-setInterval(
-  loadDashboard,
-  5 * 60 * 1000
-);
+    main()
