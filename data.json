@@ -1,12 +1,49 @@
 {
-  "updated": "2026-09-28T06:44:39.809549+00:00",
-  "article_count": 1,
-  "opportunity_count": 0,
+  "updated": "2026-09-28T07:37:24.690044+00:00",
+  "article_count": 3,
+  "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
+      "description": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing organiser.org",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY29WYkxodUFQNUkwdWxkdGNsSnhSTWhiZmJQcjBpbnhZZzB0ZzJCeFBKVW9lSDY0eWlId3lRYjRldXMwc3NVNUx2dFRWMEloN3liS016dTk1bkZPcXV0WkU3dFg4UHhlNll1bGxLTVZEeXdjMWpMd3l0X0NmcWViVy1rZXpoZ0UxSjU1NlJsc1lmQTBVRmNSOVJ5dk5OMHBfRFpMSFY5aTZkcF9tUnZQMEJiMFN1U3pXa0pSVkc2VWFQUdIBxwFBVV95cUxOamZ5ME1xQTZVX01hZUVya3pCZ2ZMVTZvTFhnYURSNF82V2loMXM5M1dhOTRFaHdGUXRpUmtzMkhndDlZamMycnJpQmlBcUpNOTBQSEFEVGtpNHd4MGxvQW05RDMzVmdLbTVRcmVkZTZCMWtDME9BcDRrY185US1mbm9LSmZEcVoyMEpZZTZwdmx6QmhhcnVlaGdUa0ladHFWclY5OVBYTjl5TFREemNFUV84bS1HeUFQZTV2bV9TclRiV1B1RDBj?oc=5",
+      "published": "2026-09-28T07:04:05+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - ETPharma.com",
+      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeXhhSDBkN2xmZnZ3OTVsZEpwbzUyNWZNZGZHZ0RCREhRUGNNbXVvWkxIYXZnTDhhQk9jUnNfY3JieE5yb2YwaFhFUWdSNjRDdVhlMEJMUDBmd203UWRsMFhFdUVnOFpSdnI2ZzF1ejRFampvYlg1WVhicVhORUlZVldoNTRuOC0wa0VlV2Q5T0FldG9hMlh3OU9pYzE0aGVBY0NURU9keU1FSUtScnpVVVJ2RFhhQ0h5ZUk4QnNZVXg5a3VIZXBPUDJNTWotTjdpZmlmb01JLXE5Ni1ydmlaWktIelUtV28wS0HSAe8BQVVfeXFMUEtOdXROWFdmb0h2ckswREhBZ0ZaU2hFM3d2c3BhYlNDT2dYbl82THpob3ZMT0d4Z1dIS0UxUDNsTWRYb1Z0TnhwSmtvM19nSFhia0g2ZTB2dkVnb2g0eGo0dTdNRVRxTzB1ZjJYZ3g4V3JGSGhIcVpsUmwtcTZ5Yk45NjRscWtSRFVYNjhSeXY1S1BoSXU4NjNxZEEtSktrdUVGSWFtOWZDbEx4X0ZIcU5mdlNqdmdfazZKM19vdVdWSkxsZHZQY0JiN205Q0lZUzUxdmdRbDdjVl9ySWlyOU5nelZ0RmpXaGp0ajk0c1k?oc=5",
+      "published": "2026-09-28T02:01:03+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [
+        "Sources - ETPharma",
+        "Sources ETPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "CDSCO steps up scrutiny of pharma drugs containing narcotic substances - The Economic Times",
@@ -26,7 +63,7 @@
     }
   ],
   "business_signals": {
-    "API / Intermediates": 0,
+    "API / Intermediates": 2,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -36,6 +73,43 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
+      "description": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing organiser.org",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY29WYkxodUFQNUkwdWxkdGNsSnhSTWhiZmJQcjBpbnhZZzB0ZzJCeFBKVW9lSDY0eWlId3lRYjRldXMwc3NVNUx2dFRWMEloN3liS016dTk1bkZPcXV0WkU3dFg4UHhlNll1bGxLTVZEeXdjMWpMd3l0X0NmcWViVy1rZXpoZ0UxSjU1NlJsc1lmQTBVRmNSOVJ5dk5OMHBfRFpMSFY5aTZkcF9tUnZQMEJiMFN1U3pXa0pSVkc2VWFQUdIBxwFBVV95cUxOamZ5ME1xQTZVX01hZUVya3pCZ2ZMVTZvTFhnYURSNF82V2loMXM5M1dhOTRFaHdGUXRpUmtzMkhndDlZamMycnJpQmlBcUpNOTBQSEFEVGtpNHd4MGxvQW05RDMzVmdLbTVRcmVkZTZCMWtDME9BcDRrY185US1mbm9LSmZEcVoyMEpZZTZwdmx6QmhhcnVlaGdUa0ladHFWclY5OVBYTjl5TFREemNFUV84bS1HeUFQZTV2bV9TclRiV1B1RDBj?oc=5",
+      "published": "2026-09-28T07:04:05+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - ETPharma.com",
+      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeXhhSDBkN2xmZnZ3OTVsZEpwbzUyNWZNZGZHZ0RCREhRUGNNbXVvWkxIYXZnTDhhQk9jUnNfY3JieE5yb2YwaFhFUWdSNjRDdVhlMEJMUDBmd203UWRsMFhFdUVnOFpSdnI2ZzF1ejRFampvYlg1WVhicVhORUlZVldoNTRuOC0wa0VlV2Q5T0FldG9hMlh3OU9pYzE0aGVBY0NURU9keU1FSUtScnpVVVJ2RFhhQ0h5ZUk4QnNZVXg5a3VIZXBPUDJNTWotTjdpZmlmb01JLXE5Ni1ydmlaWktIelUtV28wS0HSAe8BQVVfeXFMUEtOdXROWFdmb0h2ckswREhBZ0ZaU2hFM3d2c3BhYlNDT2dYbl82THpob3ZMT0d4Z1dIS0UxUDNsTWRYb1Z0TnhwSmtvM19nSFhia0g2ZTB2dkVnb2g0eGo0dTdNRVRxTzB1ZjJYZ3g4V3JGSGhIcVpsUmwtcTZ5Yk45NjRscWtSRFVYNjhSeXY1S1BoSXU4NjNxZEEtSktrdUVGSWFtOWZDbEx4X0ZIcU5mdlNqdmdfazZKM19vdVdWSkxsZHZQY0JiN205Q0lZUzUxdmdRbDdjVl9ySWlyOU5nelZ0RmpXaGp0ajk0c1k?oc=5",
+      "published": "2026-09-28T02:01:03+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [
+        "Sources - ETPharma",
+        "Sources ETPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "CDSCO steps up scrutiny of pharma drugs containing narcotic substances - The Economic Times",
