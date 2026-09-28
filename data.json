@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:36:26.769929+00:00",
+  "updated": "2026-09-28T21:34:38.850756+00:00",
   "article_count": 6,
   "opportunity_count": 2,
   "risk_count": 1,
@@ -152,8 +152,8 @@
     },
     {
       "category": "India",
-      "title": "India’s pharma industry is entering AI execution phase: What comes after the pilot? - Express Pharma",
-      "description": "India’s pharma industry is entering AI execution phase: What comes after the pilot? Express Pharma",
+      "title": "India’s pharma industry is entering AI execution phase: What comes after the pilot? - expresspharma.in",
+      "description": "India’s pharma industry is entering AI execution phase: What comes after the pilot? expresspharma.in",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWFmSUk0TmNKVmh3N3JzWVRKQ0NyNk50eHVNTU92TWVDaW05QUNRazhBNlJwRHVfRjZoRXhWc2FEczlUVVpucUZGZnBXTHktcm1vMlVCTDVCWmVKZUFZVGtJMGhTNmo3NG1talFUSjBQOE03Ui1icFRCdTJ1S3dhSm81UUJidVhQNVM2Qlg3ZXdETU5XUlhiMThtbXZpOEJqT3pOVWk3NFJ6eTdVclhz?oc=5",
       "published": "2026-09-28T03:30:23+00:00",
       "source": "Google News RSS",
@@ -163,9 +163,7 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Express Pharma"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
