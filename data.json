@@ -1,12 +1,31 @@
 {
-  "updated": "2026-09-28T13:38:31.911314+00:00",
-  "article_count": 6,
+  "updated": "2026-09-28T14:38:52.060988+00:00",
+  "article_count": 7,
   "opportunity_count": 2,
-  "risk_count": 0,
+  "risk_count": 1,
   "watch_count": 1,
-  "high_priority_count": 0,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain - urbanacres.in",
+      "description": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain urbanacres.in",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX2V1VU9XQm5KbnBnclBmSEFxeDliZkVyRktQY2xjd2YxMlNtWDJtS1l3cVFDdU1Qa0lZYmdTNWFzcWQ3Zk44VUpmVmpyTUpkRi12RXRraDM0UG4yaEViOUtoWVBua0RnNjJEZi0wNUNwTFlRRmppN2hmY3Nodm1yT0lkMjhtYnFBM1haVDhBQQ?oc=5",
+      "published": "2026-09-28T07:06:31+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Supply Chain",
+      "priority": "High",
+      "relevance": "Potential supply-chain impact requiring monitoring of raw materials, suppliers or logistics.",
+      "why_it_matters": "Supply-chain developments may affect raw materials, suppliers, logistics or delivery reliability.",
+      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
+      "companies": [
+        "Fragile Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
@@ -43,23 +62,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "CDSCO steps up scrutiny of pharma drugs containing narcotic substances - The Economic Times",
-      "description": "CDSCO steps up scrutiny of pharma drugs containing narcotic substances The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVmgzZVE4YUlmSGZXeWF1amt3bHJkdGJ4c3NHSmpCYVZBUHNWNnJLdG55bFVyVVdfLWZxYzl0Q3VXX29mZERqdUdQSjRqSDI4VkZ5eVdoSFQzejBTMkpqM3FVcmVxSHNnR1pROWZhNE5majgzQW1zUGZDTUplbXpMbXFsb3dsZ0dxRV9vMU9rallYRGs1YzlIQjNFdmF4WmJrbDlvLXQ5TFNBQ1BmZV9GcXVJQ3ZuTk5KY0t3STlla1pkcld5U3Z4RkhpUFNZa2VRdHhaZXhhM0V1UU52clJLdmVOTWdWWjdaMWhDbnR0ZGk0QXd6TU05WFVLZlh1Nk1lVGfSAYICQVVfeXFMUFZoM2VROGFJZkhmV3lhdWprd2xyZHRieHNzR0pqQmFWQVBzVjZyS3RueWxVclVXXy1mcWM5dEN1V19vZmREanVHUEo0akgyOFZGeXlXaEhUM3owUzJKajNxVXJlcUhzZ0daUTlmYTROZmo4M0Ftc1BmQ01KZW16TG1xbG93bGdHcUVfbzFPa2pZWERrNWM5SEIzRXZheFpia2w5by10OUxTQUNQZmVfRnF1SUN2bk5OSmNLd0k5ZWtaZHJXeVN2eEZIaVBTWWtlUXR4WmV4YTNFdVFOdnJSS3ZlTk1nVlo3WjFoQ250dGRpNEF3ek1NOVhVS2ZYdTZNZVRn?oc=5",
-      "published": "2026-09-27T19:11:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -67,7 +69,7 @@
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
-    "Supply Chain": 0,
+    "Supply Chain": 1,
     "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
@@ -89,6 +91,25 @@
       "companies": [
         "Sun Pharma",
         "China - Medical Dialogues Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain - urbanacres.in",
+      "description": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain urbanacres.in",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX2V1VU9XQm5KbnBnclBmSEFxeDliZkVyRktQY2xjd2YxMlNtWDJtS1l3cVFDdU1Qa0lZYmdTNWFzcWQ3Zk44VUpmVmpyTUpkRi12RXRraDM0UG4yaEViOUtoWVBua0RnNjJEZi0wNUNwTFlRRmppN2hmY3Nodm1yT0lkMjhtYnFBM1haVDhBQQ?oc=5",
+      "published": "2026-09-28T07:06:31+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Supply Chain",
+      "priority": "High",
+      "relevance": "Potential supply-chain impact requiring monitoring of raw materials, suppliers or logistics.",
+      "why_it_matters": "Supply-chain developments may affect raw materials, suppliers, logistics or delivery reliability.",
+      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
+      "companies": [
+        "Fragile Pharma"
       ],
       "project_signals": [],
       "numbers": []
