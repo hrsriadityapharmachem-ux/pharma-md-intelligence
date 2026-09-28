@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-28T22:34:26.850844+00:00",
-  "article_count": 7,
+  "updated": "2026-09-28T23:35:10.945265+00:00",
+  "article_count": 9,
   "opportunity_count": 2,
   "risk_count": 1,
-  "watch_count": 1,
+  "watch_count": 2,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -47,7 +47,7 @@
       "category": "India",
       "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - ETPharma.com",
       "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeXhhSDBkN2xmZnZ3OTVsZEpwbzUyNWZNZGZHZ0RCREhRUGNNbXVvWkxIYXZnTDhhQk9jUnNfY3JieE5yb2YwaFhFUWdSNjRDdVhlMEJMUDBmd203UWRsMFhFdUVnOFpSdnI2ZzF1ejRFampvYlg1WVhicVhORUlZVldoNTRuOC0wa0VlV2Q5T0FldG9hMlh3OU9pYzE0aGVBY0NURU9keU1FSUtScnpVVVJ2RFhhQ0h5ZUk4QnNZVXg5a3VIZXBPUDJNTWotTjdpZmlmb01JLXE5Ni1ydmlaWktIelUtV28wS0HSAe8BQVVfeXFMUEtOdXROWFdmb0h2ckswREhBZ0ZaU2hFM3d2c3BhYlNDT2dYbl82THpob3ZMT0d4Z1dIS0UxUDNsTWRYb1Z0TnhwSmtvM19nSFhia0g2ZTB2dkVnb2g0eGo0dTdNRVRxTzB1ZjJYZ3g4V3JGSGhIcVpsUmwtcTZ5Yk45NjRscWtSRFVYNjhSeXY1S1BoSXU4NjNxZEEtSktrdUVGSWFtOWZDbEx4X0ZIcU5mdlNqdmdfazZKM19vdVdWSkxsZHZQY0JiN205Q0lZUzUxdmdRbDdjVl9ySWlyOU5nelZ0RmpXaGp0ajk0c1k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWdIB7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWQ?oc=5",
       "published": "2026-09-28T02:01:03+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
@@ -75,6 +75,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth - Singapore Economic Development Board (EDB)",
+      "description": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXNyQzFKMjIwWmxfUFFQOW11UXBUeElKTnpVWHFubjhpVE8xRzEwLWh6ZURjaUlKeG5BaFZLcE14N0VaY004SDhYR1hDN2x6aG1ZS0F3bE4xak1nLTc0OTVRTVJ5Y0ExaFhkNGZhdzRGbHdtQWNSRGpORWNNRFU2ak5TMVRhN1h4N2hZSHd0UTNjSk8zQWZsbUR1Y2dnNGRWZmZfOWhZMm9EQ0lkTDc3cUM3S3VzTTlCbFQ1QXpkU0RhQTJ4NVE?oc=5",
+      "published": "2026-09-28T20:07:46+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "India Diamino Sulfanilide Prices Rise 2.23% as Pharma Demand and Aniline Costs Strengthen - ChemAnalyst",
@@ -108,6 +125,26 @@
       "companies": [
         "Sun Pharma",
         "China - Medical Dialogues Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
+      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
+      "published": "2026-09-28T12:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "LIB Therapeutics and Sun Pharma",
+        "EU - Business Wire LIB Therapeutics and Sun Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -190,7 +227,7 @@
       "category": "India",
       "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - ETPharma.com",
       "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeXhhSDBkN2xmZnZ3OTVsZEpwbzUyNWZNZGZHZ0RCREhRUGNNbXVvWkxIYXZnTDhhQk9jUnNfY3JieE5yb2YwaFhFUWdSNjRDdVhlMEJMUDBmd203UWRsMFhFdUVnOFpSdnI2ZzF1ejRFampvYlg1WVhicVhORUlZVldoNTRuOC0wa0VlV2Q5T0FldG9hMlh3OU9pYzE0aGVBY0NURU9keU1FSUtScnpVVVJ2RFhhQ0h5ZUk4QnNZVXg5a3VIZXBPUDJNTWotTjdpZmlmb01JLXE5Ni1ydmlaWktIelUtV28wS0HSAe8BQVVfeXFMUEtOdXROWFdmb0h2ckswREhBZ0ZaU2hFM3d2c3BhYlNDT2dYbl82THpob3ZMT0d4Z1dIS0UxUDNsTWRYb1Z0TnhwSmtvM19nSFhia0g2ZTB2dkVnb2g0eGo0dTdNRVRxTzB1ZjJYZ3g4V3JGSGhIcVpsUmwtcTZ5Yk45NjRscWtSRFVYNjhSeXY1S1BoSXU4NjNxZEEtSktrdUVGSWFtOWZDbEx4X0ZIcU5mdlNqdmdfazZKM19vdVdWSkxsZHZQY0JiN205Q0lZUzUxdmdRbDdjVl9ySWlyOU5nelZ0RmpXaGp0ajk0c1k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWdIB7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWQ?oc=5",
       "published": "2026-09-28T02:01:03+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
