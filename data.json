@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T12:43:43.377858+00:00",
-  "article_count": 4,
+  "updated": "2026-09-28T13:38:31.911314+00:00",
+  "article_count": 6,
   "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
@@ -74,6 +74,26 @@
   },
   "articles": [
     {
+      "category": "Global",
+      "title": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China - Medical Dialogues",
+      "description": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2ZVQkw4c1lTTmY1eTMtT2pYSTNTTW9KUGRRazcySVVHS2J0MzhHSTZYeGd0d21DMjRuRHMyRkxUV21Ic0tDcVJfV1FfRjFsUXlERHJnbGpmbVg5MnlTWXpkNFY2cXJNUWVkVk14WHFkOUdYdGt0WFV6VE1wTXBuWjk4dnZqZFFjc0djVzZaMlA0WWJQM2s4ZDc5Ym5MeGFSV1dqZHpNWTMyQmJjZGRIZWoxUE9FUUhPT29hbnhKZmJONlnSAcgBQVVfeXFMTmFXcHV4UWhnMjNIQXZsTXE4bDM3LVJTTVVwYVFZbXhYVkg1UnhmSk9tM28zNVByRFh5NUZxNHhZVUFDdmF1M01yZVFKQzdpYWNXQV9XbGtCV3RRUHRHQmlnMFFpVGVSVTNCdHRVWjJ0bU1kdTNpNzBqNHE5d3h5SnoxeUtvSl9GYms4dlVTakZFUTZHd1BzeDhyZUZIUkM2ZlpnSm03N3VjUXdEeVdNSHd3dTlqeG42dkJwQXBNZWVIRWlId3JEUU8?oc=5",
+      "published": "2026-09-28T13:15:03+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Sun Pharma",
+        "China - Medical Dialogues Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
       "description": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing organiser.org",
@@ -87,6 +107,25 @@
       "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
       "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India Among Countries Getting Zero US Tariffs on Select Specialty Pharma Products - Medical Dialogues",
+      "description": "India Among Countries Getting Zero US Tariffs on Select Specialty Pharma Products Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajZCWDVtQ29QT09ibGgtZGhtVWlyaGRWWUMzM1JMMS1ybWZKTHBMVTF2Si03c0NyTlg3TEdsZjdjLXVqNk01MkgtUTQ4bzJ2QnZDWXlTa1hnSWdHXzdvUjkwd0wwMUNSOTVIa3FDVjdyLXJoaERzeWJWMHI5S0dUSEtodHl5M1ZxT2NKTlBuNlJDRFB1WFZPM3dHOVZtVUtQSmJYQWtuOGlwUUl0N2ZTbjdIdHJOYTcxMlVnUHJOcV9HSnA4bU9ZQXVKd194VkFLQ2Rz0gHYAUFVX3lxTFBJa2ZncDRTTE52dG5PUHE4VWh1UzMzNGs2LXZpSVZacUFWZWxjZlE4YV81Z0M1Q0NvajFwV2k2US1WTnJvRHR1SzhCbFc1cFFldUt6c1pKY2hHX250cm9FRFN1ZjJvRFpVbHR6andwbnlpSUU0amd5OFVKUXNJLTZBM0FzaUFGa0RDclJ1SHBNVFpyVkU4LTZITDVOay1kUi1acC1xV2xjakdpRFlvSmVNTHU0WmRBLVJ4cktiMjBXSWhSRmVaUU9jeWJoaWMwQWluQWlaeHJ5Qw?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Getting Zero US Tariffs on Select Specialty Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
