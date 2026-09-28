@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-28T21:34:38.850756+00:00",
-  "article_count": 6,
+  "updated": "2026-09-28T22:34:26.850844+00:00",
+  "article_count": 7,
   "opportunity_count": 2,
   "risk_count": 1,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -75,6 +75,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "India Diamino Sulfanilide Prices Rise 2.23% as Pharma Demand and Aniline Costs Strengthen - ChemAnalyst",
+      "description": "India Diamino Sulfanilide Prices Rise 2.23% as Pharma Demand and Aniline Costs Strengthen ChemAnalyst",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmJLbTZwRFRtNVZtbjBJZE1hMlRaNHp6Qm5DVlhxLWxsR3lLYTFraktFdkxqQzJ1WmdqVEQxWjU5TEd0UjRXRE5SQ3lBNTVzUjFaYmp1bkNxdTh4QTRNNnNMTk9IZUphMmQ5N1pHT2xEVW9ianZZM0ZhZHd2U3RsV0NYUkNSdkNLTUZSZ2pmdUhFelgybThtZDNhVHpyd0hBUVZDVUhwSDFzdmdIMW84Q1NUU2tuWjkxdGc?oc=5",
+      "published": "2026-09-28T16:06:45+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China - Medical Dialogues",
@@ -152,8 +169,8 @@
     },
     {
       "category": "India",
-      "title": "India’s pharma industry is entering AI execution phase: What comes after the pilot? - expresspharma.in",
-      "description": "India’s pharma industry is entering AI execution phase: What comes after the pilot? expresspharma.in",
+      "title": "India’s pharma industry is entering AI execution phase: What comes after the pilot? - Express Pharma",
+      "description": "India’s pharma industry is entering AI execution phase: What comes after the pilot? Express Pharma",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWFmSUk0TmNKVmh3N3JzWVRKQ0NyNk50eHVNTU92TWVDaW05QUNRazhBNlJwRHVfRjZoRXhWc2FEczlUVVpucUZGZnBXTHktcm1vMlVCTDVCWmVKZUFZVGtJMGhTNmo3NG1talFUSjBQOE03Ui1icFRCdTJ1S3dhSm81UUJidVhQNVM2Qlg3ZXdETU5XUlhiMThtbXZpOEJqT3pOVWk3NFJ6eTdVclhz?oc=5",
       "published": "2026-09-28T03:30:23+00:00",
       "source": "Google News RSS",
@@ -163,7 +180,9 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
+      "companies": [
+        "Express Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
