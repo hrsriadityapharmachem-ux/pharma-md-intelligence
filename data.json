@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T10:37:06.993799+00:00",
-  "article_count": 3,
+  "updated": "2026-09-28T11:38:26.221133+00:00",
+  "article_count": 4,
   "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
@@ -9,8 +9,8 @@
   "must_know": [
     {
       "category": "India",
-      "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - Organiser",
-      "description": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing Organiser",
+      "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
+      "description": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing organiser.org",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY29WYkxodUFQNUkwdWxkdGNsSnhSTWhiZmJQcjBpbnhZZzB0ZzJCeFBKVW9lSDY0eWlId3lRYjRldXMwc3NVNUx2dFRWMEloN3liS016dTk1bkZPcXV0WkU3dFg4UHhlNll1bGxLTVZEeXdjMWpMd3l0X0NmcWViVy1rZXpoZ0UxSjU1NlJsc1lmQTBVRmNSOVJ5dk5OMHBfRFpMSFY5aTZkcF9tUnZQMEJiMFN1U3pXa0pSVkc2VWFQUdIBxwFBVV95cUxOamZ5ME1xQTZVX01hZUVya3pCZ2ZMVTZvTFhnYURSNF82V2loMXM5M1dhOTRFaHdGUXRpUmtzMkhndDlZamMycnJpQmlBcUpNOTBQSEFEVGtpNHd4MGxvQW05RDMzVmdLbTVRcmVkZTZCMWtDME9BcDRrY185US1mbm9LSmZEcVoyMEpZZTZwdmx6QmhhcnVlaGdUa0ladHFWclY5OVBYTjl5TFREemNFUV84bS1HeUFQZTV2bV9TclRiV1B1RDBj?oc=5",
       "published": "2026-09-28T07:04:05+00:00",
       "source": "Google News RSS",
@@ -75,8 +75,8 @@
   "articles": [
     {
       "category": "India",
-      "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - Organiser",
-      "description": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing Organiser",
+      "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
+      "description": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing organiser.org",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY29WYkxodUFQNUkwdWxkdGNsSnhSTWhiZmJQcjBpbnhZZzB0ZzJCeFBKVW9lSDY0eWlId3lRYjRldXMwc3NVNUx2dFRWMEloN3liS016dTk1bkZPcXV0WkU3dFg4UHhlNll1bGxLTVZEeXdjMWpMd3l0X0NmcWViVy1rZXpoZ0UxSjU1NlJsc1lmQTBVRmNSOVJ5dk5OMHBfRFpMSFY5aTZkcF9tUnZQMEJiMFN1U3pXa0pSVkc2VWFQUdIBxwFBVV95cUxOamZ5ME1xQTZVX01hZUVya3pCZ2ZMVTZvTFhnYURSNF82V2loMXM5M1dhOTRFaHdGUXRpUmtzMkhndDlZamMycnJpQmlBcUpNOTBQSEFEVGtpNHd4MGxvQW05RDMzVmdLbTVRcmVkZTZCMWtDME9BcDRrY185US1mbm9LSmZEcVoyMEpZZTZwdmx6QmhhcnVlaGdUa0ladHFWclY5OVBYTjl5TFREemNFUV84bS1HeUFQZTV2bV9TclRiV1B1RDBj?oc=5",
       "published": "2026-09-28T07:04:05+00:00",
       "source": "Google News RSS",
@@ -87,6 +87,25 @@
       "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
       "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India’s pharma industry is entering AI execution phase: What comes after the pilot? - Express Pharma",
+      "description": "India’s pharma industry is entering AI execution phase: What comes after the pilot? Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWFmSUk0TmNKVmh3N3JzWVRKQ0NyNk50eHVNTU92TWVDaW05QUNRazhBNlJwRHVfRjZoRXhWc2FEczlUVVpucUZGZnBXTHktcm1vMlVCTDVCWmVKZUFZVGtJMGhTNmo3NG1talFUSjBQOE03Ui1icFRCdTJ1S3dhSm81UUJidVhQNVM2Qlg3ZXdETU5XUlhiMThtbXZpOEJqT3pOVWk3NFJ6eTdVclhz?oc=5",
+      "published": "2026-09-28T03:30:23+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Express Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
