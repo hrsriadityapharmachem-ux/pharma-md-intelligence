@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T02:35:22.888608+00:00",
-  "article_count": 9,
+  "updated": "2026-09-29T03:37:53.756379+00:00",
+  "article_count": 11,
   "opportunity_count": 1,
   "risk_count": 1,
   "watch_count": 2,
@@ -75,6 +75,60 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Why rare-disease drugs could become India’s next pharma frontier - thehindu.com",
+      "description": "Why rare-disease drugs could become India’s next pharma frontier thehindu.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn0gHEAUFVX3lxTE1NYnI2MzJiNGFSb2xoYWZVdzVOR081Wnl3S3k1bDg2eEoxOF9BTm5RalNDdFA5NzktQWpiT2VIZDVVN1hIcV9Lak54R2dKekctaVU3OTlNQWhmRzdPWUdjdnZmcmVVUGxkQmRxcE5YRHRHQWtoQ1pIemQ3Ui1kT2ZscC1WMXhxbVZPVGVBLUlGSUs3MmxRTnNZR21fYUF1bU1OVjJSZ2NVR2Q2SEZVUEtmaU1RcUZMS3hzV2YzbndWMTdFYzQ?oc=5",
+      "published": "2026-09-29T03:30:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci - economictimes.com",
+      "description": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmd9IBnAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmdw?oc=5",
+      "published": "2026-09-29T03:26:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Sun Pharma",
+        "Aurobindo Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Trump's 100% pharma tariff kicks in today, select Indian drugs get relief - Business Standard",
+      "description": "Trump's 100% pharma tariff kicks in today, select Indian drugs get relief Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0lSUHM4dFgwZ2FzSUVmbzFtWkZ5MnBMUjVvTjFhUjdBcURENnJJUVpacmVWek1IRENqcEYxTWlzbFFNUEpzSW1QaWJpZGpGNTFhUEdqSVFSWkFhT2lVdXlDaTBkMUM2RHAtWktvSjRWRWstRTBSOWlJZVBPbTNvZllQbVYwQXVaWG1jMVpUUG1YcFlNNENWeE1IeXJIbDlqYnJhaUUySDlGcGxnSUJUSExNS1BYQmFid1I5cGczS1RMdXE0dFBvadIByAFBVV95cUxQa0lSUHM4dFgwZ2FzSUVmbzFtWkZ5MnBMUjVvTjFhUjdBcURENnJJUVpacmVWek1IRENqcEYxTWlzbFFNUEpzSW1QaWJpZGpGNTFhUEdqSVFSWkFhT2lVdXlDaTBkMUM2RHAtWktvSjRWRWstRTBSOWlJZVBPbTNvZllQbVYwQXVaWG1jMVpUUG1YcFlNNENWeE1IeXJIbDlqYnJhaUUySDlGcGxnSUJUSExNS1BYQmFid1I5cGczS1RMdXE0dFBvaQ?oc=5",
+      "published": "2026-09-29T03:21:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "India among 20 jurisdictions exempted from US tariff on speciality drugs - Firstpost",
@@ -217,25 +271,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Getting Zero US Tariffs on Select Specialty Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India’s pharma industry is entering AI execution phase: What comes after the pilot? - Express Pharma",
-      "description": "India’s pharma industry is entering AI execution phase: What comes after the pilot? Express Pharma",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWFmSUk0TmNKVmh3N3JzWVRKQ0NyNk50eHVNTU92TWVDaW05QUNRazhBNlJwRHVfRjZoRXhWc2FEczlUVVpucUZGZnBXTHktcm1vMlVCTDVCWmVKZUFZVGtJMGhTNmo3NG1talFUSjBQOE03Ui1icFRCdTJ1S3dhSm81UUJidVhQNVM2Qlg3ZXdETU5XUlhiMThtbXZpOEJqT3pOVWk3NFJ6eTdVclhz?oc=5",
-      "published": "2026-09-28T03:30:23+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Express Pharma"
       ],
       "project_signals": [],
       "numbers": []
