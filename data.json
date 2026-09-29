@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T05:36:34.645269+00:00",
-  "article_count": 10,
+  "updated": "2026-09-29T06:42:35.271290+00:00",
+  "article_count": 11,
   "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
@@ -9,8 +9,8 @@
   "must_know": [
     {
       "category": "Global",
-      "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
-      "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan The Korea Times",
+      "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - koreatimes.co.kr",
+      "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan koreatimes.co.kr",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBSYlp5UmZvNmNqVmd2YVA0a3JlVGhjZk9jTlhBUmZuRi1JWEVqUk5Rc3dudEJYb1FXVTlyYU8wcDN2VVV6akxWNEVsbWJyQmx1QW1NV2U5a2QwX2dnZ2ZXcGRmN0lNb29JOWVsRkU3MHYzSWF3Q0J2b19Temhwb1h4Mi1jcThJVWtmLXpRbE01TTh5SHJMY2NjNW9MWEs0T3ZqeFlyVkRidG41V2tRekJfNUthbk5kMmhsMENGck9wUmJISVEya0J0OFVIbzhsZE5pMW1hQdIB3AFBVV95cUxPN0xzVFYtUUdScVYyd3ZwYUZmUDVsdFhaNEVnTEdIaDJUaGJXTHpxU0RXVFczRVlyTHNOeDc3OTFBR0prbl9MMnBlME81ckRCdExMOFFKZ0o0OU9WYlNDZjFZV2FhUTY5Y1YwQTJZMGI2Q1BsUUR6ek5xdjRmLXI1SHh2TmZyZHVTMWZnemg1MWg1Y1p2NF9TUFd0WTBQeXIycVkzYTZIY0llV0s0M09lTkQ1Vndtck9wVmczSG8xOENueU5UcGVCdS1fNThsRklyYzBqdldzbXpLYzFa?oc=5",
       "published": "2026-09-29T04:01:03+00:00",
       "source": "Google News RSS",
@@ -74,9 +74,29 @@
   },
   "articles": [
     {
+      "category": "India",
+      "title": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs - Business Standard",
+      "description": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnE0Q1JBanpUaEJ2RVVZdUkxXzF5SE1hckE1Y1NoUFA0OGFYRVJXMUtBOUs2bFVKc0ZwTUdHM0RqY1BEcVRicEc4d3RudFp0LU9JckVMOTRjbWw2V2xscGJoN1gzOEJLbEdLUTNXUThibzRzZUliWVBURU51U280NHBQT01kU0kxNkt0VGdQSTNCaWtuX0RjR0tPWjJuMnZNclc0aFNIOTRDenFUN25fTGdzYVM4QWhUQ3doeEdvOTdPZEFtdFBZSGZJdkpydGM2RHlSbFFn0gHbAUFVX3lxTE81OU82b2dGa2Q4aEN0dTB4UDlYV1FTcV9tTXZSVjdUZTF3UUZTenM4MDVJYWRaRzFpWUJ4d19QNVNCS0pKR29jdmNlbHFwdjhId1gwbXhtcGk1WTljeUlzcVFoN0ZzZjNwYjdwbktNbGpHSmYwWElzeGZJXzZrdUxFVTQ0THRNOEFjTkZTOERNWnVhZXNwVkVkWDJURkt1R1FVVTFsTHBlaHh1ZXNsUmtyWXlIdzFWM0VieE5NcWlQbERaajRQUWpvVWRzaVRSVnpyUzJ0WjIyQUx4MA?oc=5",
+      "published": "2026-09-29T04:09:27+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Nifty Pharma",
+        "US tariffs - Business Standard Nifty Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
-      "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
-      "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan The Korea Times",
+      "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - koreatimes.co.kr",
+      "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan koreatimes.co.kr",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBSYlp5UmZvNmNqVmd2YVA0a3JlVGhjZk9jTlhBUmZuRi1JWEVqUk5Rc3dudEJYb1FXVTlyYU8wcDN2VVV6akxWNEVsbWJyQmx1QW1NV2U5a2QwX2dnZ2ZXcGRmN0lNb29JOWVsRkU3MHYzSWF3Q0J2b19Temhwb1h4Mi1jcThJVWtmLXpRbE01TTh5SHJMY2NjNW9MWEs0T3ZqeFlyVkRidG41V2tRekJfNUthbk5kMmhsMENGck9wUmJISVEya0J0OFVIbzhsZE5pMW1hQdIB3AFBVV95cUxPN0xzVFYtUUdScVYyd3ZwYUZmUDVsdFhaNEVnTEdIaDJUaGJXTHpxU0RXVFczRVlyTHNOeDc3OTFBR0prbl9MMnBlME81ckRCdExMOFFKZ0o0OU9WYlNDZjFZV2FhUTY5Y1YwQTJZMGI2Q1BsUUR6ek5xdjRmLXI1SHh2TmZyZHVTMWZnemg1MWg1Y1p2NF9TUFd0WTBQeXIycVkzYTZIY0llV0s0M09lTkQ1Vndtck9wVmczSG8xOENueU5UcGVCdS1fNThsRklyYzBqdldzbXpLYzFa?oc=5",
       "published": "2026-09-29T04:01:03+00:00",
       "source": "Google News RSS",
@@ -164,8 +184,8 @@
     },
     {
       "category": "Global",
-      "title": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth - Singapore Economic Development Board (EDB)",
-      "description": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth Singapore Economic Development Board (EDB)",
+      "title": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth - edb.gov.sg",
+      "description": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth edb.gov.sg",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXNyQzFKMjIwWmxfUFFQOW11UXBUeElKTnpVWHFubjhpVE8xRzEwLWh6ZURjaUlKeG5BaFZLcE14N0VaY004SDhYR1hDN2x6aG1ZS0F3bE4xak1nLTc0OTVRTVJ5Y0ExaFhkNGZhdzRGbHdtQWNSRGpORWNNRFU2ak5TMVRhN1h4N2hZSHd0UTNjSk8zQWZsbUR1Y2dnNGRWZmZfOWhZMm9EQ0lkTDc3cUM3S3VzTTlCbFQ1QXpkU0RhQTJ4NVE?oc=5",
       "published": "2026-09-28T20:07:46+00:00",
       "source": "Google News RSS",
