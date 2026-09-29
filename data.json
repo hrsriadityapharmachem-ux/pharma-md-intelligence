@@ -1,31 +1,12 @@
 {
-  "updated": "2026-09-29T03:37:53.756379+00:00",
-  "article_count": 11,
+  "updated": "2026-09-29T04:37:11.161372+00:00",
+  "article_count": 9,
   "opportunity_count": 1,
-  "risk_count": 1,
-  "watch_count": 2,
-  "high_priority_count": 1,
+  "risk_count": 0,
+  "watch_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain - urbanacres.in",
-      "description": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain urbanacres.in",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX2V1VU9XQm5KbnBnclBmSEFxeDliZkVyRktQY2xjd2YxMlNtWDJtS1l3cVFDdU1Qa0lZYmdTNWFzcWQ3Zk44VUpmVmpyTUpkRi12RXRraDM0UG4yaEViOUtoWVBua0RnNjJEZi0wNUNwTFlRRmppN2hmY3Nodm1yT0lkMjhtYnFBM1haVDhBQQ?oc=5",
-      "published": "2026-09-28T07:06:31+00:00",
-      "source": "Google News RSS",
-      "signal": "Risk",
-      "business_area": "Supply Chain",
-      "priority": "High",
-      "relevance": "Potential supply-chain impact requiring monitoring of raw materials, suppliers or logistics.",
-      "why_it_matters": "Supply-chain developments may affect raw materials, suppliers, logistics or delivery reliability.",
-      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
-      "companies": [
-        "Fragile Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
     {
       "category": "India",
       "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
@@ -62,6 +43,23 @@
       ],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Why rare-disease drugs could become India’s next pharma frontier - The Hindu",
+      "description": "Why rare-disease drugs could become India’s next pharma frontier The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn?oc=5",
+      "published": "2026-09-29T03:30:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
@@ -69,7 +67,7 @@
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
-    "Supply Chain": 1,
+    "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
@@ -77,9 +75,9 @@
   "articles": [
     {
       "category": "India",
-      "title": "Why rare-disease drugs could become India’s next pharma frontier - thehindu.com",
-      "description": "Why rare-disease drugs could become India’s next pharma frontier thehindu.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn0gHEAUFVX3lxTE1NYnI2MzJiNGFSb2xoYWZVdzVOR081Wnl3S3k1bDg2eEoxOF9BTm5RalNDdFA5NzktQWpiT2VIZDVVN1hIcV9Lak54R2dKekctaVU3OTlNQWhmRzdPWUdjdnZmcmVVUGxkQmRxcE5YRHRHQWtoQ1pIemQ3Ui1kT2ZscC1WMXhxbVZPVGVBLUlGSUs3MmxRTnNZR21fYUF1bU1OVjJSZ2NVR2Q2SEZVUEtmaU1RcUZMS3hzV2YzbndWMTdFYzQ?oc=5",
+      "title": "Why rare-disease drugs could become India’s next pharma frontier - The Hindu",
+      "description": "Why rare-disease drugs could become India’s next pharma frontier The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn?oc=5",
       "published": "2026-09-29T03:30:00+00:00",
       "source": "Google News RSS",
       "signal": "General",
@@ -94,10 +92,10 @@
     },
     {
       "category": "India",
-      "title": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci - economictimes.com",
-      "description": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmd9IBnAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmdw?oc=5",
-      "published": "2026-09-29T03:26:00+00:00",
+      "title": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci - The Economic Times",
+      "description": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVWlXelVob0FaYkpwcmRjbUgzNDd0Tm85aW9xV1BDd2RYUS01a2t3QUVWel8wbjlfaWdoYS1DRWxnbFF3STg1bTZmSlE0bE1DNVJNZzZvWFVoOWxPZTNkSS1nby1yZXpfZVJOdW9IZmc0RUxXLTkwRDZFRElXX05CUEtOSjlLdFowdjJQQlljMmNxaFg3OTlHMnh4N2JpQlJlRkZHRnNkeU5SQUUzOUliMWFZV3d6ZHdXTDFyLWFyUDJPMDJjNk1IS2J1MTYwaHJPQ1o2TlhQVWZPbGk1NW5VUG9fODhfWml1RVlCOWlhQ2k2Um14ZTdPSzJtRUxiR0U2RXN1V185U2JWbFRRSG1NWU5TVEt4Mjh5VDVXTXRVamI4SWfSAZwCQVVfeXFMTnFXMldVak1BVkFldU9wdzVnX0MyWWU0XzQzdVI5ZTY0OWFYVTBDb3FkbkUyRm5BdFZ6V0FLVVI1SWc5SGRMbVBVSmkxMEo0M3AycThscXVkdTlHMWxxaU9XSHVXc0ZqaHJrWklYOWE5OW1OY0ZlMV84MFFXNWduUEtYdmYzRVhEb3RWbWpER2tyUUY4cUJ3aE5QV0JrbG9DY29ZakJ5Nm9rclJWVkRzblhTeGNsUUJXRVVicVlsZnhtaXlTd3JuSlkyN1BBbU5XMXdNcnI2VFNsWlk3STRmSk5fTzBGVC12NzV2ekRpUUtRWXMwN181czZpWUpRRXhEd0JJSk5aRkVIcTZ0T3A1Yl8yVTdfMEktYTlrZnc?oc=5",
+      "published": "2026-09-29T03:26:22+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -107,7 +105,8 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Sun Pharma",
-        "Aurobindo Pharma"
+        "Aurobindo Pharma",
+        "The Economic Times Sun Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -164,23 +163,6 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "India Diamino Sulfanilide Prices Rise 2.23% as Pharma Demand and Aniline Costs Strengthen - ChemAnalyst",
-      "description": "India Diamino Sulfanilide Prices Rise 2.23% as Pharma Demand and Aniline Costs Strengthen ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmJLbTZwRFRtNVZtbjBJZE1hMlRaNHp6Qm5DVlhxLWxsR3lLYTFraktFdkxqQzJ1WmdqVEQxWjU5TEd0UjRXRE5SQ3lBNTVzUjFaYmp1bkNxdTh4QTRNNnNMTk9IZUphMmQ5N1pHT2xEVW9ianZZM0ZhZHd2U3RsV0NYUkNSdkNLTUZSZ2pmdUhFelgybThtZDNhVHpyd0hBUVZDVUhwSDFzdmdIMW84Q1NUU2tuWjkxdGc?oc=5",
-      "published": "2026-09-28T16:06:45+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
       "category": "Global",
       "title": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China - Medical Dialogues",
       "description": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China Medical Dialogues",
@@ -216,25 +198,6 @@
       "companies": [
         "LIB Therapeutics and Sun Pharma",
         "EU - Business Wire LIB Therapeutics and Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain - urbanacres.in",
-      "description": "Gujarat API Shortage Exposes India’s Fragile Pharma Supply Chain urbanacres.in",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX2V1VU9XQm5KbnBnclBmSEFxeDliZkVyRktQY2xjd2YxMlNtWDJtS1l3cVFDdU1Qa0lZYmdTNWFzcWQ3Zk44VUpmVmpyTUpkRi12RXRraDM0UG4yaEViOUtoWVBua0RnNjJEZi0wNUNwTFlRRmppN2hmY3Nodm1yT0lkMjhtYnFBM1haVDhBQQ?oc=5",
-      "published": "2026-09-28T07:06:31+00:00",
-      "source": "Google News RSS",
-      "signal": "Risk",
-      "business_area": "Supply Chain",
-      "priority": "High",
-      "relevance": "Potential supply-chain impact requiring monitoring of raw materials, suppliers or logistics.",
-      "why_it_matters": "Supply-chain developments may affect raw materials, suppliers, logistics or delivery reliability.",
-      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
-      "companies": [
-        "Fragile Pharma"
       ],
       "project_signals": [],
       "numbers": []
