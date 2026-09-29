@@ -1,31 +1,33 @@
 {
-  "updated": "2026-09-29T10:38:06.441879+00:00",
-  "article_count": 12,
+  "updated": "2026-09-29T11:35:50.494493+00:00",
+  "article_count": 14,
   "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
-  "high_priority_count": 0,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "Global",
-      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - Korea Biomedical Review",
-      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
-      "published": "2026-09-29T05:18:56+00:00",
+      "category": "India",
+      "title": "Anupam Rasayan to build Rs. 4,000+ crore integrated life sciences and CDMO platform - Indian Pharma Post",
+      "description": "Anupam Rasayan to build Rs. 4,000+ crore integrated life sciences and CDMO platform Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjk5Sm1KejMwX1dySnNfUXZqTjJOX1ctX2J4eVE1WWhZWlhrZ0NPQmx5N0FpemU4cmRoZ1FfYVE4bm9GMTZNZVZSNUR6WmpMeWRCNjRYbl9pV3M1dHVmejFJUnB0ZS0weWtsQVdVNGRHQmUxMUNVZUYtZ2lVWUUzTmJ0Z1o3WjRpLVJ2ZTd2TnFzWU9UcGhaUnd6WTFhQkxLVnAzdDdtSW5ndFUxTk01UEJ4M2o3a0tLZ1pIN2NmUGthb3JJMUthU9IByAFBVV95cUxNdjk5Sm1KejMwX1dySnNfUXZqTjJOX1ctX2J4eVE1WWhZWlhrZ0NPQmx5N0FpemU4cmRoZ1FfYVE4bm9GMTZNZVZSNUR6WmpMeWRCNjRYbl9pV3M1dHVmejFJUnB0ZS0weWtsQVdVNGRHQmUxMUNVZUYtZ2lVWUUzTmJ0Z1o3WjRpLVJ2ZTd2TnFzWU9UcGhaUnd6WTFhQkxLVnAzdDdtSW5ndFUxTk01UEJ4M2o3a0tLZ1pIN2NmUGthb3JJMUthUw?oc=5",
+      "published": "2026-09-28T13:00:00+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
+      "priority": "High",
       "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
       "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
       "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
       "companies": [
-        "Celltrion targets CDMO",
-        "Korea Biomedical Review Celltrion targets CDMO"
+        "CDMO platform - Indian Pharma",
+        "CDMO platform Indian Pharma"
       ],
       "project_signals": [],
-      "numbers": []
+      "numbers": [
+        "rs. 4,000"
+      ]
     },
     {
       "category": "Global",
@@ -46,8 +48,8 @@
     },
     {
       "category": "Global",
-      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - businesswire.com",
-      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU businesswire.com",
+      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
+      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
       "published": "2026-09-28T12:00:00+00:00",
       "source": "Google News RSS",
@@ -59,7 +61,7 @@
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
         "LIB Therapeutics and Sun Pharma",
-        "EU - businesswire.com LIB Therapeutics and Sun Pharma"
+        "EU - Business Wire LIB Therapeutics and Sun Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -78,8 +80,25 @@
   "articles": [
     {
       "category": "India",
-      "title": "US waives 100 pc tariff on select Indian speciality drugs: What it means for pharma industry - thefederal.com",
-      "description": "US waives 100 pc tariff on select Indian speciality drugs: What it means for pharma industry thefederal.com",
+      "title": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients - Livemint",
+      "description": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVEo4RGpBOXJhXzB1UU5UQlo3RExJZFA3WVJuMFIwMTJXT2pjMmxVR1Y4T1VRVXV0UXRfTS0weF9aMXUtQjZCd3FteWtoZ2dHOGZQNWROejM0TjlQM2JqZ0VheDBVaG5jaUVNaEkyOG5rY014NHdRZ1FFUDVESzJtLUg5MU5FNHk5WDhUZVNhU2tLOXlQdXNsYTQyRXVxendLOU56NW9jR0IwZ2hkYlRMN3RmY3IzSzhrZHptR1RnVG9STm5hdXRBVVVjS01YUkNDYXFqTVFNbzdybDFiUnFoVnFiX21UakRRd25ubnBwZ25XZ204Z2hHemNENTFoYzA0T2o2QldOWnJjZ9IBjwJBVV95cUxOUHNxVDNsWTBrMzk0VW1rNF9fMFRCeHBUSHVsRERQbnk0cGZGZURBclZvX2NFNXIzS2d1d3ZYX2E3Ni0tRmxsQnJ4LUZnalpnVGJTeGNtRE40YXBNd3FhM05LTlE0VFo5QnN4SUl4bHphOE9sazNSdWxWVU5mUzQ4UERSUDRpTFZzRzBuTTJva2sxaEI5Q3FJRmlHZHZmck1FYVE1cTZIMTJFTU9vS3NXQkVFTUt1VHA3NFAwYUd5X3lmTW1OUUJ2OTdtT0x2RU1STUg5TkhTVXNUV2pTZFFaUnpBMkpoVmJEWHJfNnVYREpmR0NxeVM0SE5ja2F3RlpKWkJYdWJQeWFMMW5mQWxN?oc=5",
+      "published": "2026-09-29T11:21:09+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "US waives 100 pc tariff on select Indian speciality drugs: What it means for pharma industry - The Federal",
+      "description": "US waives 100 pc tariff on select Indian speciality drugs: What it means for pharma industry The Federal",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMURiMWswSFB3X1pwX3VvaFZ6STJQM1BkSjFTUW1zSV9DRjJ5LTFUSVFuV09PWE5GR29lWnl5WmZ6UXhkaGE0ekNfNUN1NWtqZllYVUllTG81VzM5MWJiX0Y1VS0tTy1FZ2tIbnFGalU5VEFGWno1N3NvSFU1aG9xdkdJbjJZWVpUX29wNUl6Tk9TUHlqXzF4RnZ4U0dJeEoxaUl6cQ?oc=5",
       "published": "2026-09-29T10:30:00+00:00",
       "source": "Google News RSS",
@@ -116,8 +135,28 @@
     },
     {
       "category": "India",
-      "title": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? - healthandme.com",
-      "description": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? healthandme.com",
+      "title": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead - Fortune India",
+      "description": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3BzazdicTdtTll0UmVIMkVEeTZ2UVNTQnJLRTFHc1JESjhNb2dpLXdXM2VqQzdieGV0a0FpMWNSd0RqN3lHMllJZ2QxcGVqbWJ2ajU4RWFlX0E3dDlwZXhjLVpyOVFRTGRnaGNCejJpUzVTb3RvbmVhbF9FdXNuMzNyU1NkLUQzanlZclI2T3I4aGVCdUVveWV5VUhyTEFvYi1vbzBESi1CRGlfVnVhZ21uMXVINWxMUHF1bzlxVURCNUdXMFFJZkRLS0NTZmJ1Ym9Gdk9CUS1CR2VCa2czekg1TlhaOUo10gH2AUFVX3lxTE54aHBLa0hzNlpiNGNianJTcnd4UXJEQW5uQXRlUlJIV0pUZUR1c01LQXZMY2dxZXRIX0VXU0tXOGpDSHY1R1dNNkJYY2FqUVQ2UExJMFR2MkIzOGZEUFF2djhLM2YtZUVzRV9NYkhGbFQxeVkyTDJ0SGZGUDJ0X054d1NITlZmWS1qblJkWnY2UjZPTkFtT3ZmR0pJZUdBSi1JUGxSaTJUSndvaVVfY1hMcXdKOWp3aUx5WE5KZUpGdzFFcjF1cnlYajQtXzhaTVpnX2V3WlJhdmlacWdmV3NGUGpWa1RoQlk1MGR1aHZfQ2JfenZzZw?oc=5",
+      "published": "2026-09-29T09:29:09+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Mankind Pharma",
+        "Fortune India Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? - Health and Me",
+      "description": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? Health and Me",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWnpaNWJqclIzb0pFN2Z5OUdYQ3lmN1prS3JxaHJUVWdLZ0YzUjhnNWxBRGFZM1hXVmxfX3FhMlVqMGxuY0txTUstMDZEZm5qQ0xKdDAtN0tYcUpoRHZvSXNzaXVJdjdteUI5aG15MHA1SVc3cDJaYVF0c3E0VFBrOG5iVDE4X2tRN2JHNkoyc080Nnh6dGQ4OWRSMkNOM0Vzazd2YU1NV2NadnJCN1FHa3k2emdxXzM2cm9FamU2WGh1V3FCTlAw?oc=5",
       "published": "2026-09-29T06:09:37+00:00",
       "source": "Google News RSS",
@@ -128,26 +167,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - Korea Biomedical Review",
-      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
-      "published": "2026-09-29T05:18:56+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
-      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
-      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
-      "companies": [
-        "Celltrion targets CDMO",
-        "Korea Biomedical Review Celltrion targets CDMO"
-      ],
       "project_signals": [],
       "numbers": []
     },
@@ -281,9 +300,31 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "Anupam Rasayan to build Rs. 4,000+ crore integrated life sciences and CDMO platform - Indian Pharma Post",
+      "description": "Anupam Rasayan to build Rs. 4,000+ crore integrated life sciences and CDMO platform Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjk5Sm1KejMwX1dySnNfUXZqTjJOX1ctX2J4eVE1WWhZWlhrZ0NPQmx5N0FpemU4cmRoZ1FfYVE4bm9GMTZNZVZSNUR6WmpMeWRCNjRYbl9pV3M1dHVmejFJUnB0ZS0weWtsQVdVNGRHQmUxMUNVZUYtZ2lVWUUzTmJ0Z1o3WjRpLVJ2ZTd2TnFzWU9UcGhaUnd6WTFhQkxLVnAzdDdtSW5ndFUxTk01UEJ4M2o3a0tLZ1pIN2NmUGthb3JJMUthU9IByAFBVV95cUxNdjk5Sm1KejMwX1dySnNfUXZqTjJOX1ctX2J4eVE1WWhZWlhrZ0NPQmx5N0FpemU4cmRoZ1FfYVE4bm9GMTZNZVZSNUR6WmpMeWRCNjRYbl9pV3M1dHVmejFJUnB0ZS0weWtsQVdVNGRHQmUxMUNVZUYtZ2lVWUUzTmJ0Z1o3WjRpLVJ2ZTd2TnFzWU9UcGhaUnd6WTFhQkxLVnAzdDdtSW5ndFUxTk01UEJ4M2o3a0tLZ1pIN2NmUGthb3JJMUthUw?oc=5",
+      "published": "2026-09-28T13:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "High",
+      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
+      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [
+        "CDMO platform - Indian Pharma",
+        "CDMO platform Indian Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "rs. 4,000"
+      ]
+    },
+    {
       "category": "Global",
-      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - businesswire.com",
-      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU businesswire.com",
+      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
+      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
       "published": "2026-09-28T12:00:00+00:00",
       "source": "Google News RSS",
@@ -295,7 +336,7 @@
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
         "LIB Therapeutics and Sun Pharma",
-        "EU - businesswire.com LIB Therapeutics and Sun Pharma"
+        "EU - Business Wire LIB Therapeutics and Sun Pharma"
       ],
       "project_signals": [],
       "numbers": []
