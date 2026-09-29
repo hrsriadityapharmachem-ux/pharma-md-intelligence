@@ -1,12 +1,29 @@
 {
-  "updated": "2026-09-29T04:37:11.161372+00:00",
-  "article_count": 9,
-  "opportunity_count": 1,
+  "updated": "2026-09-29T05:36:34.645269+00:00",
+  "article_count": 10,
+  "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
+      "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBSYlp5UmZvNmNqVmd2YVA0a3JlVGhjZk9jTlhBUmZuRi1JWEVqUk5Rc3dudEJYb1FXVTlyYU8wcDN2VVV6akxWNEVsbWJyQmx1QW1NV2U5a2QwX2dnZ2ZXcGRmN0lNb29JOWVsRkU3MHYzSWF3Q0J2b19Temhwb1h4Mi1jcThJVWtmLXpRbE01TTh5SHJMY2NjNW9MWEs0T3ZqeFlyVkRidG41V2tRekJfNUthbk5kMmhsMENGck9wUmJISVEya0J0OFVIbzhsZE5pMW1hQdIB3AFBVV95cUxPN0xzVFYtUUdScVYyd3ZwYUZmUDVsdFhaNEVnTEdIaDJUaGJXTHpxU0RXVFczRVlyTHNOeDc3OTFBR0prbl9MMnBlME81ckRCdExMOFFKZ0o0OU9WYlNDZjFZV2FhUTY5Y1YwQTJZMGI2Q1BsUUR6ek5xdjRmLXI1SHh2TmZyZHVTMWZnemg1MWg1Y1p2NF9TUFd0WTBQeXIycVkzYTZIY0llV0s0M09lTkQ1Vndtck9wVmczSG8xOENueU5UcGVCdS1fNThsRklyYzBqdldzbXpLYzFa?oc=5",
+      "published": "2026-09-29T04:01:03+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
+      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "PLI schemes boost India’s pharma, bulk drugs and medical devices manufacturing - organiser.org",
@@ -43,28 +60,11 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Why rare-disease drugs could become India’s next pharma frontier - The Hindu",
-      "description": "Why rare-disease drugs could become India’s next pharma frontier The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn?oc=5",
-      "published": "2026-09-29T03:30:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 1,
-    "CDMO / Contract Manufacturing": 0,
+    "CDMO / Contract Manufacturing": 1,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
@@ -73,6 +73,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
+      "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBSYlp5UmZvNmNqVmd2YVA0a3JlVGhjZk9jTlhBUmZuRi1JWEVqUk5Rc3dudEJYb1FXVTlyYU8wcDN2VVV6akxWNEVsbWJyQmx1QW1NV2U5a2QwX2dnZ2ZXcGRmN0lNb29JOWVsRkU3MHYzSWF3Q0J2b19Temhwb1h4Mi1jcThJVWtmLXpRbE01TTh5SHJMY2NjNW9MWEs0T3ZqeFlyVkRidG41V2tRekJfNUthbk5kMmhsMENGck9wUmJISVEya0J0OFVIbzhsZE5pMW1hQdIB3AFBVV95cUxPN0xzVFYtUUdScVYyd3ZwYUZmUDVsdFhaNEVnTEdIaDJUaGJXTHpxU0RXVFczRVlyTHNOeDc3OTFBR0prbl9MMnBlME81ckRCdExMOFFKZ0o0OU9WYlNDZjFZV2FhUTY5Y1YwQTJZMGI2Q1BsUUR6ek5xdjRmLXI1SHh2TmZyZHVTMWZnemg1MWg1Y1p2NF9TUFd0WTBQeXIycVkzYTZIY0llV0s0M09lTkQ1Vndtck9wVmczSG8xOENueU5UcGVCdS1fNThsRklyYzBqdldzbXpLYzFa?oc=5",
+      "published": "2026-09-29T04:01:03+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
+      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Why rare-disease drugs could become India’s next pharma frontier - The Hindu",
@@ -132,7 +149,7 @@
       "category": "India",
       "title": "India among 20 jurisdictions exempted from US tariff on speciality drugs - Firstpost",
       "description": "India among 20 jurisdictions exempted from US tariff on speciality drugs Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVRpam5jOTZXTUx5dWZDZHR5REx3dUJKVi1DTGhib1o5b2ZHcENMX0NqczJCbkVrelRFSXFLX09GYnFjeWpGMFRrN2pxVDJtU25DTXlteWdUdXBGRnZwUVU0bGpBRXh1LVFfTWhVeHhERVB6NG9kLV9wakxiTDNPekJUbEZrWGJO?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVRpam5jOTZXTUx5dWZDZHR5REx3dUJKVi1DTGhib1o5b2ZHcENMX0NqczJCbkVrelRFSXFLX09GYnFjeWpGMFRrN2pxVDJtU25DTXlteWdUdXBGRnZwUVU0bGpBRXh1LVFfTWhVeHhERVB6NG9kLV9wakxiTDNPekJUbEZrWGJO0gGOAUFVX3lxTE9OeklMOFA1c1hyZW05UlFQUnlxTjRyaGtnc29aMlU2WXYtTGEzYXZTRldxamxWM2ZmbjlFQ2NNS2FPMHpTaEJITzhWVFRFTTIzYUUtMW9MdF9YSEQ2bUU5VjRzQ19FSXpEWU5GR0lHYlliVWt0WE9FX09yLTNRR2hfcW9pUWhtbm9aQ01lVGc?oc=5",
       "published": "2026-09-29T01:04:19+00:00",
       "source": "Google News RSS",
       "signal": "General",
