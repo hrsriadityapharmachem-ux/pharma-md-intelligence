@@ -1,12 +1,32 @@
 {
-  "updated": "2026-09-29T09:38:11.237705+00:00",
-  "article_count": 10,
-  "opportunity_count": 1,
+  "updated": "2026-09-29T10:38:06.441879+00:00",
+  "article_count": 12,
+  "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - Korea Biomedical Review",
+      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
+      "published": "2026-09-29T05:18:56+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
+      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [
+        "Celltrion targets CDMO",
+        "Korea Biomedical Review Celltrion targets CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
@@ -26,8 +46,8 @@
     },
     {
       "category": "Global",
-      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
-      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
+      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - businesswire.com",
+      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
       "published": "2026-09-28T12:00:00+00:00",
       "source": "Google News RSS",
@@ -39,32 +59,15 @@
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
         "LIB Therapeutics and Sun Pharma",
-        "EU - Business Wire LIB Therapeutics and Sun Pharma"
+        "EU - businesswire.com LIB Therapeutics and Sun Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? - Health and Me",
-      "description": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? Health and Me",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWnpaNWJqclIzb0pFN2Z5OUdYQ3lmN1prS3JxaHJUVWdLZ0YzUjhnNWxBRGFZM1hXVmxfX3FhMlVqMGxuY0txTUstMDZEZm5qQ0xKdDAtN0tYcUpoRHZvSXNzaXVJdjdteUI5aG15MHA1SVc3cDJaYVF0c3E0VFBrOG5iVDE4X2tRN2JHNkoyc080Nnh6dGQ4OWRSMkNOM0Vzazd2YU1NV2NadnJCN1FHa3k2emdxXzM2cm9FamU2WGh1V3FCTlAw?oc=5",
-      "published": "2026-09-29T06:09:37+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 1,
+    "CDMO / Contract Manufacturing": 2,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
@@ -75,8 +78,46 @@
   "articles": [
     {
       "category": "India",
-      "title": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? - Health and Me",
-      "description": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? Health and Me",
+      "title": "US waives 100 pc tariff on select Indian speciality drugs: What it means for pharma industry - thefederal.com",
+      "description": "US waives 100 pc tariff on select Indian speciality drugs: What it means for pharma industry thefederal.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMURiMWswSFB3X1pwX3VvaFZ6STJQM1BkSjFTUW1zSV9DRjJ5LTFUSVFuV09PWE5GR29lWnl5WmZ6UXhkaGE0ekNfNUN1NWtqZllYVUllTG81VzM5MWJiX0Y1VS0tTy1FZ2tIbnFGalU5VEFGWno1N3NvSFU1aG9xdkdJbjJZWVpUX29wNUl6Tk9TUHlqXzF4RnZ4U0dJeEoxaUl6cQ?oc=5",
+      "published": "2026-09-29T10:30:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say - Reuters",
+      "description": "India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE5sSEU5cVdja2xyUXNzcm9VR1kxc3k2bFhsZm4tb3VXR2wwSEZNbU1KcXNBcEotcFVhYUVRZllOY2tOeVg4ZWMycV9mbXV0TEdxLVJleU40bTNTSGtMTUtkaUFneUw1UkV2SXlGX2ZyOFYzUFBtRHB6TXpCbDBKa0pYbTY2NFVtZU81TGxkeWkwVEVwVmt5TG9tU2s3RnUzdkNENHpvQnJmWjg1bzFXMWdBV3NLY3FqZ1ZwS01ZaXgxT29pejlDRHpETWJyTERNNWtQekxkdFk5aHd0THRJ?oc=5",
+      "published": "2026-09-29T09:57:51+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "1 billion"
+      ]
+    },
+    {
+      "category": "India",
+      "title": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? - healthandme.com",
+      "description": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? healthandme.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWnpaNWJqclIzb0pFN2Z5OUdYQ3lmN1prS3JxaHJUVWdLZ0YzUjhnNWxBRGFZM1hXVmxfX3FhMlVqMGxuY0txTUstMDZEZm5qQ0xKdDAtN0tYcUpoRHZvSXNzaXVJdjdteUI5aG15MHA1SVc3cDJaYVF0c3E0VFBrOG5iVDE4X2tRN2JHNkoyc080Nnh6dGQ4OWRSMkNOM0Vzazd2YU1NV2NadnJCN1FHa3k2emdxXzM2cm9FamU2WGh1V3FCTlAw?oc=5",
       "published": "2026-09-29T06:09:37+00:00",
       "source": "Google News RSS",
@@ -87,6 +128,26 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - Korea Biomedical Review",
+      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
+      "published": "2026-09-29T05:18:56+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
+      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [
+        "Celltrion targets CDMO",
+        "Korea Biomedical Review Celltrion targets CDMO"
+      ],
       "project_signals": [],
       "numbers": []
     },
@@ -201,23 +262,6 @@
     },
     {
       "category": "Global",
-      "title": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth - Singapore Economic Development Board (EDB)",
-      "description": "How Singapore is a hub for global biotech and pharmaceutical companies to access growth Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXNyQzFKMjIwWmxfUFFQOW11UXBUeElKTnpVWHFubjhpVE8xRzEwLWh6ZURjaUlKeG5BaFZLcE14N0VaY004SDhYR1hDN2x6aG1ZS0F3bE4xak1nLTc0OTVRTVJ5Y0ExaFhkNGZhdzRGbHdtQWNSRGpORWNNRFU2ak5TMVRhN1h4N2hZSHd0UTNjSk8zQWZsbUR1Y2dnNGRWZmZfOWhZMm9EQ0lkTDc3cUM3S3VzTTlCbFQ1QXpkU0RhQTJ4NVE?oc=5",
-      "published": "2026-09-28T20:07:46+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
       "title": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China - Medical Dialogues",
       "description": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China Medical Dialogues",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2ZVQkw4c1lTTmY1eTMtT2pYSTNTTW9KUGRRazcySVVHS2J0MzhHSTZYeGd0d21DMjRuRHMyRkxUV21Ic0tDcVJfV1FfRjFsUXlERHJnbGpmbVg5MnlTWXpkNFY2cXJNUWVkVk14WHFkOUdYdGt0WFV6VE1wTXBuWjk4dnZqZFFjc0djVzZaMlA0WWJQM2s4ZDc5Ym5MeGFSV1dqZHpNWTMyQmJjZGRIZWoxUE9FUUhPT29hbnhKZmJONlnSAcgBQVVfeXFMTmFXcHV4UWhnMjNIQXZsTXE4bDM3LVJTTVVwYVFZbXhYVkg1UnhmSk9tM28zNVByRFh5NUZxNHhZVUFDdmF1M01yZVFKQzdpYWNXQV9XbGtCV3RRUHRHQmlnMFFpVGVSVTNCdHRVWjJ0bU1kdTNpNzBqNHE5d3h5SnoxeUtvSl9GYms4dlVTakZFUTZHd1BzeDhyZUZIUkM2ZlpnSm03N3VjUXdEeVdNSHd3dTlqeG42dkJwQXBNZWVIRWlId3JEUU8?oc=5",
@@ -238,8 +282,8 @@
     },
     {
       "category": "Global",
-      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
-      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
+      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - businesswire.com",
+      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
       "published": "2026-09-28T12:00:00+00:00",
       "source": "Google News RSS",
@@ -251,7 +295,7 @@
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
         "LIB Therapeutics and Sun Pharma",
-        "EU - Business Wire LIB Therapeutics and Sun Pharma"
+        "EU - businesswire.com LIB Therapeutics and Sun Pharma"
       ],
       "project_signals": [],
       "numbers": []
