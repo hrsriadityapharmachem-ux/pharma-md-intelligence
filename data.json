@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T07:37:00.321400+00:00",
-  "article_count": 9,
+  "updated": "2026-09-29T08:38:31.883262+00:00",
+  "article_count": 10,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
@@ -46,10 +46,10 @@
     },
     {
       "category": "India",
-      "title": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs - Business Standard",
-      "description": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnE0Q1JBanpUaEJ2RVVZdUkxXzF5SE1hckE1Y1NoUFA0OGFYRVJXMUtBOUs2bFVKc0ZwTUdHM0RqY1BEcVRicEc4d3RudFp0LU9JckVMOTRjbWw2V2xscGJoN1gzOEJLbEdLUTNXUThibzRzZUliWVBURU51U280NHBQT01kU0kxNkt0VGdQSTNCaWtuX0RjR0tPWjJuMnZNclc0aFNIOTRDenFUN25fTGdzYVM4QWhUQ3doeEdvOTdPZEFtdFBZSGZJdkpydGM2RHlSbFFn0gHbAUFVX3lxTE81OU82b2dGa2Q4aEN0dTB4UDlYV1FTcV9tTXZSVjdUZTF3UUZTenM4MDVJYWRaRzFpWUJ4d19QNVNCS0pKR29jdmNlbHFwdjhId1gwbXhtcGk1WTljeUlzcVFoN0ZzZjNwYjdwbktNbGpHSmYwWElzeGZJXzZrdUxFVTQ0THRNOEFjTkZTOERNWnVhZXNwVkVkWDJURkt1R1FVVTFsTHBlaHh1ZXNsUmtyWXlIdzFWM0VieE5NcWlQbERaajRQUWpvVWRzaVRSVnpyUzJ0WjIyQUx4MA?oc=5",
-      "published": "2026-09-29T04:09:27+00:00",
+      "title": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? - Health and Me",
+      "description": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? Health and Me",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWnpaNWJqclIzb0pFN2Z5OUdYQ3lmN1prS3JxaHJUVWdLZ0YzUjhnNWxBRGFZM1hXVmxfX3FhMlVqMGxuY0txTUstMDZEZm5qQ0xKdDAtN0tYcUpoRHZvSXNzaXVJdjdteUI5aG15MHA1SVc3cDJaYVF0c3E0VFBrOG5iVDE4X2tRN2JHNkoyc080Nnh6dGQ4OWRSMkNOM0Vzazd2YU1NV2NadnJCN1FHa3k2emdxXzM2cm9FamU2WGh1V3FCTlAw?oc=5",
+      "published": "2026-09-29T06:09:37+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -57,10 +57,7 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Nifty Pharma",
-        "US tariffs - Business Standard Nifty Pharma"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": []
     }
@@ -76,6 +73,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? - Health and Me",
+      "description": "US Waives 100% Tariff On Indian Specialty Medicines: Which Drugs Qualify? Health and Me",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWnpaNWJqclIzb0pFN2Z5OUdYQ3lmN1prS3JxaHJUVWdLZ0YzUjhnNWxBRGFZM1hXVmxfX3FhMlVqMGxuY0txTUstMDZEZm5qQ0xKdDAtN0tYcUpoRHZvSXNzaXVJdjdteUI5aG15MHA1SVc3cDJaYVF0c3E0VFBrOG5iVDE4X2tRN2JHNkoyc080Nnh6dGQ4OWRSMkNOM0Vzazd2YU1NV2NadnJCN1FHa3k2emdxXzM2cm9FamU2WGh1V3FCTlAw?oc=5",
+      "published": "2026-09-29T06:09:37+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs - Business Standard",
@@ -117,7 +131,7 @@
       "category": "India",
       "title": "Why rare-disease drugs could become India’s next pharma frontier - The Hindu",
       "description": "Why rare-disease drugs could become India’s next pharma frontier The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn0gHEAUFVX3lxTE1NYnI2MzJiNGFSb2xoYWZVdzVOR081Wnl3S3k1bDg2eEoxOF9BTm5RalNDdFA5NzktQWpiT2VIZDVVN1hIcV9Lak54R2dKekctaVU3OTlNQWhmRzdPWUdjdnZmcmVVUGxkQmRxcE5YRHRHQWtoQ1pIemQ3Ui1kT2ZscC1WMXhxbVZPVGVBLUlGSUs3MmxRTnNZR21fYUF1bU1OVjJSZ2NVR2Q2SEZVUEtmaU1RcUZMS3hzV2YzbndWMTdFYzQ?oc=5",
       "published": "2026-09-29T03:30:00+00:00",
       "source": "Google News RSS",
       "signal": "General",
