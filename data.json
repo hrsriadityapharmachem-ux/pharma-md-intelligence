@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-29T15:38:32.359912+00:00",
+  "updated": "2026-09-29T16:38:54.798993+00:00",
   "article_count": 13,
-  "opportunity_count": 3,
+  "opportunity_count": 2,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -31,26 +31,6 @@
     },
     {
       "category": "Global",
-      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - Korea Biomedical Review",
-      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
-      "published": "2026-09-29T05:18:56+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
-      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
-      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
-      "companies": [
-        "Celltrion targets CDMO",
-        "Korea Biomedical Review Celltrion targets CDMO"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
       "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
       "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan The Korea Times",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBSYlp5UmZvNmNqVmd2YVA0a3JlVGhjZk9jTlhBUmZuRi1JWEVqUk5Rc3dudEJYb1FXVTlyYU8wcDN2VVV6akxWNEVsbWJyQmx1QW1NV2U5a2QwX2dnZ2ZXcGRmN0lNb29JOWVsRkU3MHYzSWF3Q0J2b19Temhwb1h4Mi1jcThJVWtmLXpRbE01TTh5SHJMY2NjNW9MWEs0T3ZqeFlyVkRidG41V2tRekJfNUthbk5kMmhsMENGck9wUmJISVEya0J0OFVIbzhsZE5pMW1hQdIB3AFBVV95cUxPN0xzVFYtUUdScVYyd3ZwYUZmUDVsdFhaNEVnTEdIaDJUaGJXTHpxU0RXVFczRVlyTHNOeDc3OTFBR0prbl9MMnBlME81ckRCdExMOFFKZ0o0OU9WYlNDZjFZV2FhUTY5Y1YwQTJZMGI2Q1BsUUR6ek5xdjRmLXI1SHh2TmZyZHVTMWZnemg1MWg1Y1p2NF9TUFd0WTBQeXIycVkzYTZIY0llV0s0M09lTkQ1Vndtck9wVmczSG8xOENueU5UcGVCdS1fNThsRklyYzBqdldzbXpLYzFa?oc=5",
@@ -65,11 +45,31 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets - The New Indian Express",
+      "description": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2pVQ29tQjZpWnBVR2VUblk0WGFiaGZuaURHWHpfbWtwYVNwQV9ITkJBamJRS250U3BYeEh3QlFYT2lYQ3YtRkNBYlRnY1VEREVfZGtEZ0lpMzNKSC13RGp6QW5GVmx0MDRmbXBIZy1RY0MwQnFLaTZTWFZ4OTFUMEhocklXdmR0aXN3bEc4Y0hmbDI2a0p6a2x2V1IyTkl4Vll1TmJFWmRNcHYyYVRjeVQxSmd4RGQ3Q2xNRHZuRmxDbTJJZGlfZWt30gHXAUFVX3lxTE5fS3NQZ3dUcVJablpsQ19pcGlNMk9XdUNjSzlDT2duWTVpeXR2LWZ1aVI0OVdvQnF1c0lHSkd2OGNPYmMxa0dlNl9HS050OVBCS0JPTkNsdWJITnhpLXdaMi0zY0VnZHFpczJmR2kyMlhxenE5aHI1WkJ6VS1yWHRXRFlfTFZlbFQ3eTBWSFRvY2laa2FyTlphd05rT1E2SGxieVFtbUtZa3lNZ0U3NkNMU0k0S1ZPcWoxZHNOQWxHazAtZ2ZxMmpfRlFobzQ1aHFyTEktOG9j?oc=5",
+      "published": "2026-09-29T15:48:10+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Akums Drugs & Pharmaceuticals",
+        "The New Indian Express Akums Drugs & Pharmaceuticals"
+      ],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 3,
+    "CDMO / Contract Manufacturing": 2,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
@@ -78,6 +78,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets - The New Indian Express",
+      "description": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2pVQ29tQjZpWnBVR2VUblk0WGFiaGZuaURHWHpfbWtwYVNwQV9ITkJBamJRS250U3BYeEh3QlFYT2lYQ3YtRkNBYlRnY1VEREVfZGtEZ0lpMzNKSC13RGp6QW5GVmx0MDRmbXBIZy1RY0MwQnFLaTZTWFZ4OTFUMEhocklXdmR0aXN3bEc4Y0hmbDI2a0p6a2x2V1IyTkl4Vll1TmJFWmRNcHYyYVRjeVQxSmd4RGQ3Q2xNRHZuRmxDbTJJZGlfZWt30gHXAUFVX3lxTE5fS3NQZ3dUcVJablpsQ19pcGlNMk9XdUNjSzlDT2duWTVpeXR2LWZ1aVI0OVdvQnF1c0lHSkd2OGNPYmMxa0dlNl9HS050OVBCS0JPTkNsdWJITnhpLXdaMi0zY0VnZHFpczJmR2kyMlhxenE5aHI1WkJ6VS1yWHRXRFlfTFZlbFQ3eTBWSFRvY2laa2FyTlphd05rT1E2SGxieVFtbUtZa3lNZ0U3NkNMU0k0S1ZPcWoxZHNOQWxHazAtZ2ZxMmpfRlFobzQ1aHFyTEktOG9j?oc=5",
+      "published": "2026-09-29T15:48:10+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Akums Drugs & Pharmaceuticals",
+        "The New Indian Express Akums Drugs & Pharmaceuticals"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients - Livemint",
@@ -193,26 +213,6 @@
       "numbers": []
     },
     {
-      "category": "Global",
-      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - Korea Biomedical Review",
-      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
-      "published": "2026-09-29T05:18:56+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
-      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
-      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
-      "companies": [
-        "Celltrion targets CDMO",
-        "Korea Biomedical Review Celltrion targets CDMO"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
       "category": "India",
       "title": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs - Business Standard",
       "description": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs Business Standard",
@@ -251,8 +251,8 @@
     },
     {
       "category": "India",
-      "title": "Why rare-disease drugs could become India’s next pharma frontier - The Hindu",
-      "description": "Why rare-disease drugs could become India’s next pharma frontier The Hindu",
+      "title": "Why rare-disease drugs could become India’s next pharma frontier - thehindu.com",
+      "description": "Why rare-disease drugs could become India’s next pharma frontier thehindu.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWNldnF3dzRBQzhEZS1YdVZSczR0QldoMkU5US1jVUdHeHNqSk5FWms4d1ZLZmxYV1RWUHVjUTZsRmZueVcyaVVRQzhteXdOUlRBdjh1aXotZmUzMW9Gemgyemh5MWNmc0RPdFBpdVFEdUVVVGpVQW1LRVljTTlxVE1xVUYxcUdQbzR1NVZWRmw4MlZnYzNYU2xzcElPaFh6TWJXTzhJdUJkQUszLVd3Q1VVVk9CbTVXYlhqTXhn0gHEAUFVX3lxTE1NYnI2MzJiNGFSb2xoYWZVdzVOR081Wnl3S3k1bDg2eEoxOF9BTm5RalNDdFA5NzktQWpiT2VIZDVVN1hIcV9Lak54R2dKekctaVU3OTlNQWhmRzdPWUdjdnZmcmVVUGxkQmRxcE5YRHRHQWtoQ1pIemQ3Ui1kT2ZscC1WMXhxbVZPVGVBLUlGSUs3MmxRTnNZR21fYUF1bU1OVjJSZ2NVR2Q2SEZVUEtmaU1RcUZMS3hzV2YzbndWMTdFYzQ?oc=5",
       "published": "2026-09-29T03:30:00+00:00",
       "source": "Google News RSS",
