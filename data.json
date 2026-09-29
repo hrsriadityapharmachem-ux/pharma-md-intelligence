@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-29T11:35:50.494493+00:00",
+  "updated": "2026-09-29T12:43:46.328573+00:00",
   "article_count": 14,
-  "opportunity_count": 2,
+  "opportunity_count": 3,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 0,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -31,6 +31,25 @@
     },
     {
       "category": "Global",
+      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - koreabiomed.com",
+      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
+      "published": "2026-09-29T05:18:56+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
+      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [
+        "Celltrion targets CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
       "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
       "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan The Korea Times",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBSYlp5UmZvNmNqVmd2YVA0a3JlVGhjZk9jTlhBUmZuRi1JWEVqUk5Rc3dudEJYb1FXVTlyYU8wcDN2VVV6akxWNEVsbWJyQmx1QW1NV2U5a2QwX2dnZ2ZXcGRmN0lNb29JOWVsRkU3MHYzSWF3Q0J2b19Temhwb1h4Mi1jcThJVWtmLXpRbE01TTh5SHJMY2NjNW9MWEs0T3ZqeFlyVkRidG41V2tRekJfNUthbk5kMmhsMENGck9wUmJISVEya0J0OFVIbzhsZE5pMW1hQdIB3AFBVV95cUxPN0xzVFYtUUdScVYyd3ZwYUZmUDVsdFhaNEVnTEdIaDJUaGJXTHpxU0RXVFczRVlyTHNOeDc3OTFBR0prbl9MMnBlME81ckRCdExMOFFKZ0o0OU9WYlNDZjFZV2FhUTY5Y1YwQTJZMGI2Q1BsUUR6ek5xdjRmLXI1SHh2TmZyZHVTMWZnemg1MWg1Y1p2NF9TUFd0WTBQeXIycVkzYTZIY0llV0s0M09lTkQ1Vndtck9wVmczSG8xOENueU5UcGVCdS1fNThsRklyYzBqdldzbXpLYzFa?oc=5",
@@ -45,31 +64,11 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
-      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
-      "published": "2026-09-28T12:00:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "LIB Therapeutics and Sun Pharma",
-        "EU - Business Wire LIB Therapeutics and Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 2,
+    "CDMO / Contract Manufacturing": 3,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
@@ -167,6 +166,25 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 - koreabiomed.com",
+      "description": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026 koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcldSSTlRM0w1Z2NfcFBrdUJKOHFZUG5wWHlnZWRIeEx3d3I1Q2RpVmJGOHZkZWVTODYzaHNybTVPQ21WRlNBb19oMjU4QnNrd3hUbUw0RVZRYjFaSDk2amtSbzNVZ0Q0OEhNMFR30gFyQVVfeXFMUGtzWWxTbTdBV29HQUJfaWtRWjZCUG1pMEFrYjlNWS1KY3daWEg3T0pmaXNfNFdMcjNtZ3JIbDQ3Zm5mUU05VHNYWGluWDZIN1ZrTmdWWW5sWVdoRC1udWxRcWpLend4UWJRVVdYVWJaTGZn?oc=5",
+      "published": "2026-09-29T05:18:56+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
+      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [
+        "Celltrion targets CDMO"
+      ],
       "project_signals": [],
       "numbers": []
     },
@@ -320,26 +338,6 @@
       "numbers": [
         "rs. 4,000"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
-      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
-      "published": "2026-09-28T12:00:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "LIB Therapeutics and Sun Pharma",
-        "EU - Business Wire LIB Therapeutics and Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ]
 }
