@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29T01:34:52.738283+00:00",
-  "article_count": 10,
-  "opportunity_count": 2,
+  "updated": "2026-09-29T02:35:22.888608+00:00",
+  "article_count": 9,
+  "opportunity_count": 1,
   "risk_count": 1,
   "watch_count": 2,
   "high_priority_count": 1,
@@ -44,28 +44,28 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - ETPharma.com",
-      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWdIB7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWQ?oc=5",
-      "published": "2026-09-28T02:01:03+00:00",
+      "category": "Global",
+      "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU - Business Wire",
+      "description": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
+      "published": "2026-09-28T12:00:00+00:00",
       "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
       "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Sources - ETPharma",
-        "Sources ETPharma"
+        "LIB Therapeutics and Sun Pharma",
+        "EU - Business Wire LIB Therapeutics and Sun Pharma"
       ],
       "project_signals": [],
       "numbers": []
     }
   ],
   "business_signals": {
-    "API / Intermediates": 2,
+    "API / Intermediates": 1,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -236,26 +236,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Express Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources - ETPharma.com",
-      "description": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWdIB7wFBVV95cUxQS051dE5YV2ZvSHZySzBESEFnRlpTaEUzd3ZzcGFiU0NPZ1huXzZMemhvdkxPR3hnV0hLRTFQM2xNZFhvVnROeHBKa28zX2dIWGJrSDZlMHZ2RWdvaDR4ajR1N01FVHFPMHVmMlhneDhXckZIaEhxWmxSbC1xNnliTjk2NGxxa1JEVVg2OFJ5djVLUGhJdTg2M3FkQS1KS2t1RUZJYW05ZkNsTHhfRkhxTmZ2U2p2Z19rNkozX291V1ZKTGxkdlBjQmI3bTlDSVlTNTF2Z1FsN2NWX3JJaXI5Tmd6VnRGaldoanRqOTRzWQ?oc=5",
-      "published": "2026-09-28T02:01:03+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [
-        "Sources - ETPharma",
-        "Sources ETPharma"
       ],
       "project_signals": [],
       "numbers": []
