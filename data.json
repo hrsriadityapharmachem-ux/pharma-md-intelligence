@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T03:37:49.307507+00:00",
-  "article_count": 11,
+  "updated": "2026-09-30T04:38:19.822164+00:00",
+  "article_count": 10,
   "opportunity_count": 3,
   "risk_count": 1,
   "watch_count": 1,
@@ -73,8 +73,8 @@
   ],
   "business_signals": {
     "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 2,
-    "Investment / Expansion": 1,
+    "CDMO / Contract Manufacturing": 1,
+    "Investment / Expansion": 2,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -142,6 +142,23 @@
     },
     {
       "category": "India",
+      "title": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs - The Indian Express",
+      "description": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0lCWi1LMHlkdm1nZHJwVWgzeHd3b0lhMm0tbV9MSXBaOHVfQUNaVU9VZlhCR0JVeEg2UUdqcUNzWkstU1VvQlh0bkdPMTVDby1YUkdGM0dSN1B1eFRzd1I3N3g1Z2ZFLTl4anJKRG01QktWZXV0NWg0NmZQcmo2TkFKeVU3RWE2RmdNbDZ1SDJHRnhvSjZ4Zm9qbnRyc3d0Z3RSdjlzX19HM0pLcjQ5M18xZ2tVS0tVM0U3UXdJR3NsZkt0VWFxVFUyNG9IT09ueHdHY3pR0gHcAUFVX3lxTE9aenlCTkJia1RwS2pSNXRNdk92ZHc2LV9GLW4zRmgzZTFBV3BEYWVZcnBwVkJZLV9LSlBqTUlRWDZpWHVNbDNnS3F1Sl9ZWnB3aXhCTDN2RUxQWkZiZjkxdFlwc0ZNVlFlUXh5RmNrR3VBT2F4XzJJUHZWQ1BuS1dSMVlTdkZnckJkOXh3dDhlVVFmQ1dZTHZJMlJRaFV2alZUX0M2QkxrSXRSbjFQN2FqNDh1aXBOVy16cEhNajlRQ3dDdlhGQmNNNmxhZE5WVWdXS3MtSDdWUlcta28?oc=5",
+      "published": "2026-09-29T12:31:24+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients - Livemint",
       "description": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVEo4RGpBOXJhXzB1UU5UQlo3RExJZFA3WVJuMFIwMTJXT2pjMmxVR1Y4T1VRVXV0UXRfTS0weF9aMXUtQjZCd3FteWtoZ2dHOGZQNWROejM0TjlQM2JqZ0VheDBVaG5jaUVNaEkyOG5rY014NHdRZ1FFUDVESzJtLUg5MU5FNHk5WDhUZVNhU2tLOXlQdXNsYTQyRXVxendLOU56NW9jR0IwZ2hkYlRMN3RmY3IzSzhrZHptR1RnVG9STm5hdXRBVVVjS01YUkNDYXFqTVFNbzdybDFiUnFoVnFiX21UakRRd25ubnBwZ25XZ204Z2hHemNENTFoYzA0T2o2QldOWnJjZ9IBjwJBVV95cUxOUHNxVDNsWTBrMzk0VW1rNF9fMFRCeHBUSHVsRERQbnk0cGZGZURBclZvX2NFNXIzS2d1d3ZYX2E3Ni0tRmxsQnJ4LUZnalpnVGJTeGNtRE40YXBNd3FhM05LTlE0VFo5QnN4SUl4bHphOE9sazNSdWxWVU5mUzQ4UERSUDRpTFZzRzBuTTJva2sxaEI5Q3FJRmlHZHZmck1FYVE1cTZIMTJFTU9vS3NXQkVFTUt1VHA3NFAwYUd5X3lmTW1OUUJ2OTdtT0x2RU1STUg5TkhTVXNUV2pTZFFaUnpBMkpoVmJEWHJfNnVYREpmR0NxeVM0SE5ja2F3RlpKWkJYdWJQeWFMMW5mQWxN?oc=5",
@@ -198,8 +215,8 @@
     },
     {
       "category": "India",
-      "title": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead - Fortune India",
-      "description": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead Fortune India",
+      "title": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead - fortuneindia.com",
+      "description": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead fortuneindia.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3BzazdicTdtTll0UmVIMkVEeTZ2UVNTQnJLRTFHc1JESjhNb2dpLXdXM2VqQzdieGV0a0FpMWNSd0RqN3lHMllJZ2QxcGVqbWJ2ajU4RWFlX0E3dDlwZXhjLVpyOVFRTGRnaGNCejJpUzVTb3RvbmVhbF9FdXNuMzNyU1NkLUQzanlZclI2T3I4aGVCdUVveWV5VUhyTEFvYi1vbzBESi1CRGlfVnVhZ21uMXVINWxMUHF1bzlxVURCNUdXMFFJZkRLS0NTZmJ1Ym9Gdk9CUS1CR2VCa2czekg1TlhaOUo10gH2AUFVX3lxTE54aHBLa0hzNlpiNGNianJTcnd4UXJEQW5uQXRlUlJIV0pUZUR1c01LQXZMY2dxZXRIX0VXU0tXOGpDSHY1R1dNNkJYY2FqUVQ2UExJMFR2MkIzOGZEUFF2djhLM2YtZUVzRV9NYkhGbFQxeVkyTDJ0SGZGUDJ0X054d1NITlZmWS1qblJkWnY2UjZPTkFtT3ZmR0pJZUdBSi1JUGxSaTJUSndvaVVfY1hMcXdKOWp3aUx5WE5KZUpGdzFFcjF1cnlYajQtXzhaTVpnX2V3WlJhdmlacWdmV3NGUGpWa1RoQlk1MGR1aHZfQ2JfenZzZw?oc=5",
       "published": "2026-09-29T09:29:09+00:00",
       "source": "Google News RSS",
@@ -210,8 +227,7 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Mankind Pharma",
-        "Fortune India Pharma"
+        "Mankind Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -253,43 +269,6 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs - business-standard.com",
-      "description": "Nifty Pharma defies mkt slump, up 1% as select drugs exempt from US tariffs business-standard.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnE0Q1JBanpUaEJ2RVVZdUkxXzF5SE1hckE1Y1NoUFA0OGFYRVJXMUtBOUs2bFVKc0ZwTUdHM0RqY1BEcVRicEc4d3RudFp0LU9JckVMOTRjbWw2V2xscGJoN1gzOEJLbEdLUTNXUThibzRzZUliWVBURU51U280NHBQT01kU0kxNkt0VGdQSTNCaWtuX0RjR0tPWjJuMnZNclc0aFNIOTRDenFUN25fTGdzYVM4QWhUQ3doeEdvOTdPZEFtdFBZSGZJdkpydGM2RHlSbFFn0gHbAUFVX3lxTE81OU82b2dGa2Q4aEN0dTB4UDlYV1FTcV9tTXZSVjdUZTF3UUZTenM4MDVJYWRaRzFpWUJ4d19QNVNCS0pKR29jdmNlbHFwdjhId1gwbXhtcGk1WTljeUlzcVFoN0ZzZjNwYjdwbktNbGpHSmYwWElzeGZJXzZrdUxFVTQ0THRNOEFjTkZTOERNWnVhZXNwVkVkWDJURkt1R1FVVTFsTHBlaHh1ZXNsUmtyWXlIdzFWM0VieE5NcWlQbERaajRQUWpvVWRzaVRSVnpyUzJ0WjIyQUx4MA?oc=5",
-      "published": "2026-09-29T04:09:27+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Nifty Pharma",
-        "US tariffs - business-standard.com Nifty Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan - The Korea Times",
-      "description": "Celltrion to seek new drug, CDMO partners at int'l pharmaceutical exhibition in Milan The Korea Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBSYlp5UmZvNmNqVmd2YVA0a3JlVGhjZk9jTlhBUmZuRi1JWEVqUk5Rc3dudEJYb1FXVTlyYU8wcDN2VVV6akxWNEVsbWJyQmx1QW1NV2U5a2QwX2dnZ2ZXcGRmN0lNb29JOWVsRkU3MHYzSWF3Q0J2b19Temhwb1h4Mi1jcThJVWtmLXpRbE01TTh5SHJMY2NjNW9MWEs0T3ZqeFlyVkRidG41V2tRekJfNUthbk5kMmhsMENGck9wUmJISVEya0J0OFVIbzhsZE5pMW1hQdIB3AFBVV95cUxPN0xzVFYtUUdScVYyd3ZwYUZmUDVsdFhaNEVnTEdIaDJUaGJXTHpxU0RXVFczRVlyTHNOeDc3OTFBR0prbl9MMnBlME81ckRCdExMOFFKZ0o0OU9WYlNDZjFZV2FhUTY5Y1YwQTJZMGI2Q1BsUUR6ek5xdjRmLXI1SHh2TmZyZHVTMWZnemg1MWg1Y1p2NF9TUFd0WTBQeXIycVkzYTZIY0llV0s0M09lTkQ1Vndtck9wVmczSG8xOENueU5UcGVCdS1fNThsRklyYzBqdldzbXpLYzFa?oc=5",
-      "published": "2026-09-29T04:01:03+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Potential contract manufacturing, development or outsourcing opportunity.",
-      "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
-      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
       "companies": [],
       "project_signals": [],
       "numbers": []
