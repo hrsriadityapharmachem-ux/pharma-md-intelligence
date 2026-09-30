@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T11:35:57.943971+00:00",
-  "article_count": 7,
-  "opportunity_count": 3,
+  "updated": "2026-09-30T12:46:38.466230+00:00",
+  "article_count": 6,
+  "opportunity_count": 2,
   "risk_count": 1,
   "watch_count": 2,
   "high_priority_count": 1,
@@ -72,7 +72,7 @@
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 3,
+    "Investment / Expansion": 2,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -198,23 +198,6 @@
         "Akums Drugs & Pharmaceuticals",
         "The New Indian Express Akums Drugs & Pharmaceuticals"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs - The Indian Express",
-      "description": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0lCWi1LMHlkdm1nZHJwVWgzeHd3b0lhMm0tbV9MSXBaOHVfQUNaVU9VZlhCR0JVeEg2UUdqcUNzWkstU1VvQlh0bkdPMTVDby1YUkdGM0dSN1B1eFRzd1I3N3g1Z2ZFLTl4anJKRG01QktWZXV0NWg0NmZQcmo2TkFKeVU3RWE2RmdNbDZ1SDJHRnhvSjZ4Zm9qbnRyc3d0Z3RSdjlzX19HM0pLcjQ5M18xZ2tVS0tVM0U3UXdJR3NsZkt0VWFxVFUyNG9IT09ueHdHY3pR0gHcAUFVX3lxTE9aenlCTkJia1RwS2pSNXRNdk92ZHc2LV9GLW4zRmgzZTFBV3BEYWVZcnBwVkJZLV9LSlBqTUlRWDZpWHVNbDNnS3F1Sl9ZWnB3aXhCTDN2RUxQWkZiZjkxdFlwc0ZNVlFlUXh5RmNrR3VBT2F4XzJJUHZWQ1BuS1dSMVlTdkZnckJkOXh3dDhlVVFmQ1dZTHZJMlJRaFV2alZUX0M2QkxrSXRSbjFQN2FqNDh1aXBOVy16cEhNajlRQ3dDdlhGQmNNNmxhZE5WVWdXS3MtSDdWUlcta28?oc=5",
-      "published": "2026-09-29T12:31:24+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
