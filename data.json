@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T10:38:02.107956+00:00",
+  "updated": "2026-09-30T11:35:57.943971+00:00",
   "article_count": 7,
-  "opportunity_count": 2,
+  "opportunity_count": 3,
   "risk_count": 1,
   "watch_count": 2,
   "high_priority_count": 1,
@@ -32,6 +32,27 @@
     },
     {
       "category": "Global",
+      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - Spherical Insights",
+      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights Spherical Insights",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWhROVlQSDk3OGtUdlBna2Yydk1SSjlWbENzOXo3bjBTbzlaN05OcmxHWHBBZ1NlcV9zOUQwV0c3a1FXY1ZSckpibGNSTmp2RVNLU2lkcENiLVhJZjVBcV9hQ1B0RlhxZFQ3dVZ6djhSRDIwX0M0cThOelkzQWxZbnlId1FjNXU5LVlkd192Q2tmS1dSd182bnVBWDRWMUw2bEI0S2tpQ0haN21zQ2tXYWhwZDBFVmRrSm1kNmpLNjVTeXE3Mk9HOE1UeHdhaXg5?oc=5",
+      "published": "2026-09-30T10:52:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Pharma Industry Enters a New Investment Phase as Biotech"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "Global",
       "title": "Where Bangladesh pharma goes next - The Business Standard",
       "description": "Where Bangladesh pharma goes next The Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjBJWTQ2NmY3eDkta3NrR2tueEpDaVJDakpDVWFhMVVlZ0JxVV95dE91S0dIM1lJVi1xZG80YmRFaDA0SWFkZ2ZqSnhUY0VsR29OMDZhYm1feDZucmV3Y2REQWFvOXZVb045YldFQkF5QWl2cEFtaTctV19YcHd6QlVR?oc=5",
@@ -46,29 +67,12 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs - indianexpress.com",
-      "description": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs indianexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0lCWi1LMHlkdm1nZHJwVWgzeHd3b0lhMm0tbV9MSXBaOHVfQUNaVU9VZlhCR0JVeEg2UUdqcUNzWkstU1VvQlh0bkdPMTVDby1YUkdGM0dSN1B1eFRzd1I3N3g1Z2ZFLTl4anJKRG01QktWZXV0NWg0NmZQcmo2TkFKeVU3RWE2RmdNbDZ1SDJHRnhvSjZ4Zm9qbnRyc3d0Z3RSdjlzX19HM0pLcjQ5M18xZ2tVS0tVM0U3UXdJR3NsZkt0VWFxVFUyNG9IT09ueHdHY3pR0gHcAUFVX3lxTE9aenlCTkJia1RwS2pSNXRNdk92ZHc2LV9GLW4zRmgzZTFBV3BEYWVZcnBwVkJZLV9LSlBqTUlRWDZpWHVNbDNnS3F1Sl9ZWnB3aXhCTDN2RUxQWkZiZjkxdFlwc0ZNVlFlUXh5RmNrR3VBT2F4XzJJUHZWQ1BuS1dSMVlTdkZnckJkOXh3dDhlVVFmQ1dZTHZJMlJRaFV2alZUX0M2QkxrSXRSbjFQN2FqNDh1aXBOVy16cEhNajlRQ3dDdlhGQmNNNmxhZE5WVWdXS3MtSDdWUlcta28?oc=5",
-      "published": "2026-09-29T12:31:24+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 2,
+    "Investment / Expansion": 3,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -76,6 +80,27 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - Spherical Insights",
+      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights Spherical Insights",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWhROVlQSDk3OGtUdlBna2Yydk1SSjlWbENzOXo3bjBTbzlaN05OcmxHWHBBZ1NlcV9zOUQwV0c3a1FXY1ZSckpibGNSTmp2RVNLU2lkcENiLVhJZjVBcV9hQ1B0RlhxZFQ3dVZ6djhSRDIwX0M0cThOelkzQWxZbnlId1FjNXU5LVlkd192Q2tmS1dSd182bnVBWDRWMUw2bEI0S2tpQ0haN21zQ2tXYWhwZDBFVmRrSm1kNmpLNjVTeXE3Mk9HOE1UeHdhaXg5?oc=5",
+      "published": "2026-09-30T10:52:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Pharma Industry Enters a New Investment Phase as Biotech"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility - The Tribune",
@@ -158,8 +183,8 @@
     },
     {
       "category": "India",
-      "title": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets - newindianexpress.com",
-      "description": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets newindianexpress.com",
+      "title": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets - The New Indian Express",
+      "description": "Akums Drugs & Pharmaceuticals receives DCGI approval for Colchicine 0.5 mg tablets The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2pVQ29tQjZpWnBVR2VUblk0WGFiaGZuaURHWHpfbWtwYVNwQV9ITkJBamJRS250U3BYeEh3QlFYT2lYQ3YtRkNBYlRnY1VEREVfZGtEZ0lpMzNKSC13RGp6QW5GVmx0MDRmbXBIZy1RY0MwQnFLaTZTWFZ4OTFUMEhocklXdmR0aXN3bEc4Y0hmbDI2a0p6a2x2V1IyTkl4Vll1TmJFWmRNcHYyYVRjeVQxSmd4RGQ3Q2xNRHZuRmxDbTJJZGlfZWt30gHXAUFVX3lxTE5fS3NQZ3dUcVJablpsQ19pcGlNMk9XdUNjSzlDT2duWTVpeXR2LWZ1aVI0OVdvQnF1c0lHSkd2OGNPYmMxa0dlNl9HS050OVBCS0JPTkNsdWJITnhpLXdaMi0zY0VnZHFpczJmR2kyMlhxenE5aHI1WkJ6VS1yWHRXRFlfTFZlbFQ3eTBWSFRvY2laa2FyTlphd05rT1E2SGxieVFtbUtZa3lNZ0U3NkNMU0k0S1ZPcWoxZHNOQWxHazAtZ2ZxMmpfRlFobzQ1aHFyTEktOG9j?oc=5",
       "published": "2026-09-29T15:48:10+00:00",
       "source": "Google News RSS",
@@ -170,15 +195,16 @@
       "why_it_matters": "Industry development that should be monitored for potential business impact.",
       "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
       "companies": [
-        "Akums Drugs & Pharmaceuticals"
+        "Akums Drugs & Pharmaceuticals",
+        "The New Indian Express Akums Drugs & Pharmaceuticals"
       ],
       "project_signals": [],
       "numbers": []
     },
     {
       "category": "India",
-      "title": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs - indianexpress.com",
-      "description": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs indianexpress.com",
+      "title": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs - The Indian Express",
+      "description": "Essar eyes $18-billion US steel plant: Why Indian firms are investing in US amid tariffs The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0lCWi1LMHlkdm1nZHJwVWgzeHd3b0lhMm0tbV9MSXBaOHVfQUNaVU9VZlhCR0JVeEg2UUdqcUNzWkstU1VvQlh0bkdPMTVDby1YUkdGM0dSN1B1eFRzd1I3N3g1Z2ZFLTl4anJKRG01QktWZXV0NWg0NmZQcmo2TkFKeVU3RWE2RmdNbDZ1SDJHRnhvSjZ4Zm9qbnRyc3d0Z3RSdjlzX19HM0pLcjQ5M18xZ2tVS0tVM0U3UXdJR3NsZkt0VWFxVFUyNG9IT09ueHdHY3pR0gHcAUFVX3lxTE9aenlCTkJia1RwS2pSNXRNdk92ZHc2LV9GLW4zRmgzZTFBV3BEYWVZcnBwVkJZLV9LSlBqTUlRWDZpWHVNbDNnS3F1Sl9ZWnB3aXhCTDN2RUxQWkZiZjkxdFlwc0ZNVlFlUXh5RmNrR3VBT2F4XzJJUHZWQ1BuS1dSMVlTdkZnckJkOXh3dDhlVVFmQ1dZTHZJMlJRaFV2alZUX0M2QkxrSXRSbjFQN2FqNDh1aXBOVy16cEhNajlRQ3dDdlhGQmNNNmxhZE5WVWdXS3MtSDdWUlcta28?oc=5",
       "published": "2026-09-29T12:31:24+00:00",
       "source": "Google News RSS",
@@ -188,23 +214,6 @@
       "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
       "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients - Livemint",
-      "description": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVEo4RGpBOXJhXzB1UU5UQlo3RExJZFA3WVJuMFIwMTJXT2pjMmxVR1Y4T1VRVXV0UXRfTS0weF9aMXUtQjZCd3FteWtoZ2dHOGZQNWROejM0TjlQM2JqZ0VheDBVaG5jaUVNaEkyOG5rY014NHdRZ1FFUDVESzJtLUg5MU5FNHk5WDhUZVNhU2tLOXlQdXNsYTQyRXVxendLOU56NW9jR0IwZ2hkYlRMN3RmY3IzSzhrZHptR1RnVG9STm5hdXRBVVVjS01YUkNDYXFqTVFNbzdybDFiUnFoVnFiX21UakRRd25ubnBwZ25XZ204Z2hHemNENTFoYzA0T2o2QldOWnJjZ9IBjwJBVV95cUxOUHNxVDNsWTBrMzk0VW1rNF9fMFRCeHBUSHVsRERQbnk0cGZGZURBclZvX2NFNXIzS2d1d3ZYX2E3Ni0tRmxsQnJ4LUZnalpnVGJTeGNtRE40YXBNd3FhM05LTlE0VFo5QnN4SUl4bHphOE9sazNSdWxWVU5mUzQ4UERSUDRpTFZzRzBuTTJva2sxaEI5Q3FJRmlHZHZmck1FYVE1cTZIMTJFTU9vS3NXQkVFTUt1VHA3NFAwYUd5X3lmTW1OUUJ2OTdtT0x2RU1STUg5TkhTVXNUV2pTZFFaUnpBMkpoVmJEWHJfNnVYREpmR0NxeVM0SE5ja2F3RlpKWkJYdWJQeWFMMW5mQWxN?oc=5",
-      "published": "2026-09-29T11:21:09+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
       "project_signals": [],
       "numbers": []
