@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T22:36:42.376106+00:00",
-  "article_count": 4,
-  "opportunity_count": 3,
+  "updated": "2026-09-30T23:34:49.069390+00:00",
+  "article_count": 5,
+  "opportunity_count": 4,
   "risk_count": 0,
   "watch_count": 1,
   "high_priority_count": 2,
@@ -9,8 +9,8 @@
   "must_know": [
     {
       "category": "India",
-      "title": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility - tribuneindia.com",
-      "description": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility tribuneindia.com",
+      "title": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility - The Tribune",
+      "description": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility The Tribune",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHV1ZUl2bHV0V3ZEOUxjR0o3LUl6UzliRktqVHhMVUtfbDRnUHF1bnJwY21mekR6amZ0SHhOQXMzNHJwaW1tMHJmMk1EVE42SkpWVzY5bjh0RGgteE16NzZ4M1BmckV4TXhkSV9PSThka2pTWEJpQjNFOU9STVVFbWhtYXpMLWtqOVJaUGJ2bGV4ZU1kQUlMMmFBTHpscFA2M0syMGdwYlZKdFQtQlpGd3FJWWhBbTlLclpka1pZM3BoeVFpX1NtVFJ3alJCaEs3MG51M2Itd2JmNXYtUk9vYTJOdkJiZWtiNlo2U0ZfMmpIQzDSAfcBQVVfeXFMTW1tc3BCaHlWMWdFN1RLYVZuZWF0Zl8tejVaUHR5M3NURHg3ZUczTmpFR2lYRzRoYzNoU0dUaXZ4M1JwbGt6Tl9kRGZ2QmVWZkdQTlRKRGlvVDN4LXdOWGxlYklPSkUzZklQZVFJZ2FfOVpYa2cyWTV4WDV2d0tiTEgtcHhrSUVmb1d4NGhoLWFUX3BNNFVwV3NLdHppS2xfVDNHa1phNmZsdUJYWm5DeEg4MUVtUmZYUFJDaXFDV2tjZzdPN09aVm1vUm5kaTJjS0p3SlJXTldKaS1QZFdCSzBFTHlhek1VcGxqQnZRNWlaSVZTS1Z3OA?oc=5",
       "published": "2026-09-30T07:09:16+00:00",
       "source": "Google News RSS",
@@ -81,7 +81,7 @@
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 3,
-    "Manufacturing / Plants": 0,
+    "Manufacturing / Plants": 1,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -111,8 +111,8 @@
     },
     {
       "category": "India",
-      "title": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility - tribuneindia.com",
-      "description": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility tribuneindia.com",
+      "title": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility - The Tribune",
+      "description": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility The Tribune",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHV1ZUl2bHV0V3ZEOUxjR0o3LUl6UzliRktqVHhMVUtfbDRnUHF1bnJwY21mekR6amZ0SHhOQXMzNHJwaW1tMHJmMk1EVE42SkpWVzY5bjh0RGgteE16NzZ4M1BmckV4TXhkSV9PSThka2pTWEJpQjNFOU9STVVFbWhtYXpMLWtqOVJaUGJ2bGV4ZU1kQUlMMmFBTHpscFA2M0syMGdwYlZKdFQtQlpGd3FJWWhBbTlLclpka1pZM3BoeVFpX1NtVFJ3alJCaEs3MG51M2Itd2JmNXYtUk9vYTJOdkJiZWtiNlo2U0ZfMmpIQzDSAfcBQVVfeXFMTW1tc3BCaHlWMWdFN1RLYVZuZWF0Zl8tejVaUHR5M3NURHg3ZUczTmpFR2lYRzRoYzNoU0dUaXZ4M1JwbGt6Tl9kRGZ2QmVWZkdQTlRKRGlvVDN4LXdOWGxlYklPSkUzZklQZVFJZ2FfOVpYa2cyWTV4WDV2d0tiTEgtcHhrSUVmb1d4NGhoLWFUX3BNNFVwV3NLdHppS2xfVDNHa1phNmZsdUJYWm5DeEg4MUVtUmZYUFJDaXFDV2tjZzdPN09aVm1vUm5kaTJjS0p3SlJXTldKaS1QZFdCSzBFTHlhek1VcGxqQnZRNWlaSVZTS1Z3OA?oc=5",
       "published": "2026-09-30T07:09:16+00:00",
       "source": "Google News RSS",
@@ -156,6 +156,23 @@
       "numbers": [
         "70mn"
       ]
+    },
+    {
+      "category": "Global",
+      "title": "Global pharma giants partner Singapore researchers to boost innovation in biologics and vaccines manufacturing - edb.gov.sg",
+      "description": "Global pharma giants partner Singapore researchers to boost innovation in biologics and vaccines manufacturing edb.gov.sg",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdk5CZFpic0Q1TDNra2hHRTFPWVktS3BsOWhvMGQ1Z2RXZjdFUUlOSzJHWlNvV1JOYVlmVU9NWFBBM2NpU3B4UWhZRjlocDNvS2hST1IxWFRkSjhEeUdjZEJZRkwyTHBYQVJDaENuLUM4LW44RjRqaDZDWk9aMVEyNVJpUjN6U1RzNjhWd2RkRWRtUEg1S3hWcFdhOW40dWFxdkZBZGZKZUhOU2FuQkFWcE10ZC1mYzJTN1drRUhGd0JkUWtMd0JwLXRmTUg3NEFTQjAyNXRSV1pyZWdKd002ODNfZlladEhjOVZJakZDbGx4akUzb3JQOG9R?oc=5",
+      "published": "2026-09-30T06:20:29+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     },
     {
       "category": "India",
