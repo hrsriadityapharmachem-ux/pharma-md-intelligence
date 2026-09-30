@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T00:44:54.817078+00:00",
-  "article_count": 13,
+  "updated": "2026-09-30T01:35:47.916827+00:00",
+  "article_count": 12,
   "opportunity_count": 3,
   "risk_count": 0,
   "watch_count": 1,
@@ -182,8 +182,8 @@
     },
     {
       "category": "India",
-      "title": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead - fortuneindia.com",
-      "description": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead fortuneindia.com",
+      "title": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead - Fortune India",
+      "description": "Pharma stocks rise up to 5% as US exempts select specialty drugs from 100% tariff; Mankind Pharma, Dr Reddy’s lead Fortune India",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3BzazdicTdtTll0UmVIMkVEeTZ2UVNTQnJLRTFHc1JESjhNb2dpLXdXM2VqQzdieGV0a0FpMWNSd0RqN3lHMllJZ2QxcGVqbWJ2ajU4RWFlX0E3dDlwZXhjLVpyOVFRTGRnaGNCejJpUzVTb3RvbmVhbF9FdXNuMzNyU1NkLUQzanlZclI2T3I4aGVCdUVveWV5VUhyTEFvYi1vbzBESi1CRGlfVnVhZ21uMXVINWxMUHF1bzlxVURCNUdXMFFJZkRLS0NTZmJ1Ym9Gdk9CUS1CR2VCa2czekg1TlhaOUo10gH2AUFVX3lxTE54aHBLa0hzNlpiNGNianJTcnd4UXJEQW5uQXRlUlJIV0pUZUR1c01LQXZMY2dxZXRIX0VXU0tXOGpDSHY1R1dNNkJYY2FqUVQ2UExJMFR2MkIzOGZEUFF2djhLM2YtZUVzRV9NYkhGbFQxeVkyTDJ0SGZGUDJ0X054d1NITlZmWS1qblJkWnY2UjZPTkFtT3ZmR0pJZUdBSi1JUGxSaTJUSndvaVVfY1hMcXdKOWp3aUx5WE5KZUpGdzFFcjF1cnlYajQtXzhaTVpnX2V3WlJhdmlacWdmV3NGUGpWa1RoQlk1MGR1aHZfQ2JfenZzZw?oc=5",
       "published": "2026-09-29T09:29:09+00:00",
       "source": "Google News RSS",
@@ -194,7 +194,8 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Mankind Pharma"
+        "Mankind Pharma",
+        "Fortune India Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -312,23 +313,6 @@
         "Aurobindo Pharma",
         "The Economic Times Sun Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India among 20 jurisdictions exempted from US tariff on speciality drugs - Firstpost",
-      "description": "India among 20 jurisdictions exempted from US tariff on speciality drugs Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVRpam5jOTZXTUx5dWZDZHR5REx3dUJKVi1DTGhib1o5b2ZHcENMX0NqczJCbkVrelRFSXFLX09GYnFjeWpGMFRrN2pxVDJtU25DTXlteWdUdXBGRnZwUVU0bGpBRXh1LVFfTWhVeHhERVB6NG9kLV9wakxiTDNPekJUbEZrWGJO0gGOAUFVX3lxTE9OeklMOFA1c1hyZW05UlFQUnlxTjRyaGtnc29aMlU2WXYtTGEzYXZTRldxamxWM2ZmbjlFQ2NNS2FPMHpTaEJITzhWVFRFTTIzYUUtMW9MdF9YSEQ2bUU5VjRzQ19FSXpEWU5GR0lHYlliVWt0WE9FX09yLTNRR2hfcW9pUWhtbm9aQ01lVGc?oc=5",
-      "published": "2026-09-29T01:04:19+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
