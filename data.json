@@ -1,39 +1,16 @@
 {
-  "updated": "2026-10-01T06:44:29.975879+00:00",
-  "article_count": 4,
-  "opportunity_count": 3,
+  "updated": "2026-10-01T07:38:34.760074+00:00",
+  "article_count": 3,
+  "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 0,
-  "high_priority_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "India",
-      "title": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility - The Tribune",
-      "description": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility The Tribune",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHV1ZUl2bHV0V3ZEOUxjR0o3LUl6UzliRktqVHhMVUtfbDRnUHF1bnJwY21mekR6amZ0SHhOQXMzNHJwaW1tMHJmMk1EVE42SkpWVzY5bjh0RGgteE16NzZ4M1BmckV4TXhkSV9PSThka2pTWEJpQjNFOU9STVVFbWhtYXpMLWtqOVJaUGJ2bGV4ZU1kQUlMMmFBTHpscFA2M0syMGdwYlZKdFQtQlpGd3FJWWhBbTlLclpka1pZM3BoeVFpX1NtVFJ3alJCaEs3MG51M2Itd2JmNXYtUk9vYTJOdkJiZWtiNlo2U0ZfMmpIQzDSAfcBQVVfeXFMTW1tc3BCaHlWMWdFN1RLYVZuZWF0Zl8tejVaUHR5M3NURHg3ZUczTmpFR2lYRzRoYzNoU0dUaXZ4M1JwbGt6Tl9kRGZ2QmVWZkdQTlRKRGlvVDN4LXdOWGxlYklPSkUzZklQZVFJZ2FfOVpYa2cyWTV4WDV2d0tiTEgtcHhrSUVmb1d4NGhoLWFUX3BNNFVwV3NLdHppS2xfVDNHa1phNmZsdUJYWm5DeEg4MUVtUmZYUFJDaXFDV2tjZzdPN09aVm1vUm5kaTJjS0p3SlJXTldKaS1QZFdCSzBFTHlhek1VcGxqQnZRNWlaSVZTS1Z3OA?oc=5",
-      "published": "2026-09-30T07:09:16+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Million Investment to Advance Life Sciences"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "1.7 million"
-      ]
-    },
-    {
       "category": "Global",
-      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - Chosunbiz",
-      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ Chosunbiz",
+      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - biz.chosun.com",
+      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ biz.chosun.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUhPMjhRZlYwdUU3b2ttLWJVS1BZa2ZYYTJ3aFM3YXVtSWRBbTRXMXI5VVEza3c0dnpmOWxPNjJSZ0ZVMDFudUgxeG5IYTF2djFkbnNzbWVEU3ZDOWRERmsxRkt4QXc0RFlfQm9FeHo1dmhhRjVieHQ2QmJWOVVuetIBlAFBVV95cUxNZE53ZjBYajcxU3lKcVd5TUtDZ0pieGNhWGNsVnEzUUxIQWxOVDJ0T2VhbFFCNGt5a0lZSEh1eGJzQW11aTNwUDJLRC1fb21KdkVreExDY1VmR2ZMWEtMOHhSdTV3WEhFM05NZGM4eUNmVVljODRlODYwNGVka1Y4ZHZxYTI3d09Qdy1JR1pkUm1LZ3Jo?oc=5",
       "published": "2026-10-01T00:06:00+00:00",
       "source": "Google News RSS",
@@ -44,16 +21,15 @@
       "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
       "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
       "companies": [
-        "Samsung Biologics targets global CDMO",
-        "Chosunbiz Samsung Biologics targets global CDMO"
+        "Samsung Biologics targets global CDMO"
       ],
       "project_signals": [],
       "numbers": []
     },
     {
       "category": "Global",
-      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - sphericalinsights.com",
-      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights sphericalinsights.com",
+      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - Spherical Insights",
+      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights Spherical Insights",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWhROVlQSDk3OGtUdlBna2Yydk1SSjlWbENzOXo3bjBTbzlaN05OcmxHWHBBZ1NlcV9zOUQwV0c3a1FXY1ZSckpibGNSTmp2RVNLU2lkcENiLVhJZjVBcV9hQ1B0RlhxZFQ3dVZ6djhSRDIwX0M0cThOelkzQWxZbnlId1FjNXU5LVlkd192Q2tmS1dSd182bnVBWDRWMUw2bEI0S2tpQ0haN21zQ2tXYWhwZDBFVmRrSm1kNmpLNjVTeXE3Mk9HOE1UeHdhaXg5?oc=5",
       "published": "2026-09-30T10:52:44+00:00",
       "source": "Google News RSS",
@@ -70,12 +46,29 @@
         "investment"
       ],
       "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "[Global Pharma Leadership Voices] Why are patients still waiting for innovation? The next challenge in oncology - Korea Biomedical Review",
+      "description": "[Global Pharma Leadership Voices] Why are patients still waiting for innovation? The next challenge in oncology Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YYklzVXBVclJiaE1JTmVGYm5LMDlxTEsycmFzX2w0eUdWV0pnM1RfbTJRekpGOC1JUmdnSVRXaGVaZlhiUDZDY3JxRjVHYVlNRlJEYy1Tai1IRnpnYTVaX3prZFhvSVVFQ1QwVW9B0gFyQVVfeXFMUEtKVm9iYk9zZTU1emowZU55VDZLS0g3cHlYcU4zVFJjSktKSDNaMTFoX05RRU01ZU51dHEtQWp1NHlOcy0tbjBvVFpzUWtxVi1nSEFnTUdoYnNHcWM3dE0zbnNwUWR5aVdaWFFvZFdyOUpn?oc=5",
+      "published": "2026-10-01T01:56:26+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 1,
-    "Investment / Expansion": 2,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -102,8 +95,8 @@
     },
     {
       "category": "Global",
-      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - Chosunbiz",
-      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ Chosunbiz",
+      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - biz.chosun.com",
+      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ biz.chosun.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUhPMjhRZlYwdUU3b2ttLWJVS1BZa2ZYYTJ3aFM3YXVtSWRBbTRXMXI5VVEza3c0dnpmOWxPNjJSZ0ZVMDFudUgxeG5IYTF2djFkbnNzbWVEU3ZDOWRERmsxRkt4QXc0RFlfQm9FeHo1dmhhRjVieHQ2QmJWOVVuetIBlAFBVV95cUxNZE53ZjBYajcxU3lKcVd5TUtDZ0pieGNhWGNsVnEzUUxIQWxOVDJ0T2VhbFFCNGt5a0lZSEh1eGJzQW11aTNwUDJLRC1fb21KdkVreExDY1VmR2ZMWEtMOHhSdTV3WEhFM05NZGM4eUNmVVljODRlODYwNGVka1Y4ZHZxYTI3d09Qdy1JR1pkUm1LZ3Jo?oc=5",
       "published": "2026-10-01T00:06:00+00:00",
       "source": "Google News RSS",
@@ -114,16 +107,15 @@
       "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
       "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
       "companies": [
-        "Samsung Biologics targets global CDMO",
-        "Chosunbiz Samsung Biologics targets global CDMO"
+        "Samsung Biologics targets global CDMO"
       ],
       "project_signals": [],
       "numbers": []
     },
     {
       "category": "Global",
-      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - sphericalinsights.com",
-      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights sphericalinsights.com",
+      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - Spherical Insights",
+      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights Spherical Insights",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWhROVlQSDk3OGtUdlBna2Yydk1SSjlWbENzOXo3bjBTbzlaN05OcmxHWHBBZ1NlcV9zOUQwV0c3a1FXY1ZSckpibGNSTmp2RVNLU2lkcENiLVhJZjVBcV9hQ1B0RlhxZFQ3dVZ6djhSRDIwX0M0cThOelkzQWxZbnlId1FjNXU5LVlkd192Q2tmS1dSd182bnVBWDRWMUw2bEI0S2tpQ0haN21zQ2tXYWhwZDBFVmRrSm1kNmpLNjVTeXE3Mk9HOE1UeHdhaXg5?oc=5",
       "published": "2026-09-30T10:52:44+00:00",
       "source": "Google News RSS",
@@ -140,29 +132,6 @@
         "investment"
       ],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility - The Tribune",
-      "description": "Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharmas Aurora Facility The Tribune",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHV1ZUl2bHV0V3ZEOUxjR0o3LUl6UzliRktqVHhMVUtfbDRnUHF1bnJwY21mekR6amZ0SHhOQXMzNHJwaW1tMHJmMk1EVE42SkpWVzY5bjh0RGgteE16NzZ4M1BmckV4TXhkSV9PSThka2pTWEJpQjNFOU9STVVFbWhtYXpMLWtqOVJaUGJ2bGV4ZU1kQUlMMmFBTHpscFA2M0syMGdwYlZKdFQtQlpGd3FJWWhBbTlLclpka1pZM3BoeVFpX1NtVFJ3alJCaEs3MG51M2Itd2JmNXYtUk9vYTJOdkJiZWtiNlo2U0ZfMmpIQzDSAfcBQVVfeXFMTW1tc3BCaHlWMWdFN1RLYVZuZWF0Zl8tejVaUHR5M3NURHg3ZUczTmpFR2lYRzRoYzNoU0dUaXZ4M1JwbGt6Tl9kRGZ2QmVWZkdQTlRKRGlvVDN4LXdOWGxlYklPSkUzZklQZVFJZ2FfOVpYa2cyWTV4WDV2d0tiTEgtcHhrSUVmb1d4NGhoLWFUX3BNNFVwV3NLdHppS2xfVDNHa1phNmZsdUJYWm5DeEg4MUVtUmZYUFJDaXFDV2tjZzdPN09aVm1vUm5kaTJjS0p3SlJXTldKaS1QZFdCSzBFTHlhek1VcGxqQnZRNWlaSVZTS1Z3OA?oc=5",
-      "published": "2026-09-30T07:09:16+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Million Investment to Advance Life Sciences"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "1.7 million"
-      ]
     }
   ]
 }
