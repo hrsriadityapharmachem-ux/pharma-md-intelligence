@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T12:44:46.038390+00:00",
-  "article_count": 2,
+  "updated": "2026-10-01T13:39:20.997992+00:00",
+  "article_count": 3,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
@@ -23,6 +23,25 @@
       "companies": [
         "Samsung Biologics targets global CDMO",
         "Chosunbiz Samsung Biologics targets global CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Dr. Jean-Luc Herbeaux Joins CordenPharma as Group Chief Executive Officer - hrtoday.in",
+      "description": "Dr. Jean-Luc Herbeaux Joins CordenPharma as Group Chief Executive Officer hrtoday.in",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0w1U2tRbU8wVzFuV08zajRhZUE2enJ0bjFKSFg2QXNfQzd0Tjd1eGtnWjVQMXJaRkhUclVGZGpEQTB2MzVEc3puQ2YzaGVBNHJkUzRXc1U4aGlBNUdROGkwYURpbU9RRmdnODgtWlQ3dkZaaGhDd2V2WUJHWHBsdndwSjJfd0lrM1FuQ3gtNEZlbGZQUHBR?oc=5",
+      "published": "2026-10-01T13:12:48+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Dr. Jean-Luc Herbeaux Joins CordenPharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -56,6 +75,25 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Dr. Jean-Luc Herbeaux Joins CordenPharma as Group Chief Executive Officer - hrtoday.in",
+      "description": "Dr. Jean-Luc Herbeaux Joins CordenPharma as Group Chief Executive Officer hrtoday.in",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0w1U2tRbU8wVzFuV08zajRhZUE2enJ0bjFKSFg2QXNfQzd0Tjd1eGtnWjVQMXJaRkhUclVGZGpEQTB2MzVEc3puQ2YzaGVBNHJkUzRXc1U4aGlBNUdROGkwYURpbU9RRmdnODgtWlQ3dkZaaGhDd2V2WUJHWHBsdndwSjJfd0lrM1FuQ3gtNEZlbGZQUHBR?oc=5",
+      "published": "2026-10-01T13:12:48+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Dr. Jean-Luc Herbeaux Joins CordenPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "[Global Pharma Leadership Voices] Why are patients still waiting for innovation? The next challenge in oncology - Korea Biomedical Review",
