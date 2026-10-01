@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T10:38:01.188659+00:00",
-  "article_count": 3,
-  "opportunity_count": 2,
+  "updated": "2026-10-01T11:37:07.179075+00:00",
+  "article_count": 2,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
@@ -9,9 +9,9 @@
   "must_know": [
     {
       "category": "Global",
-      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - Chosunbiz",
-      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZE53ZjBYajcxU3lKcVd5TUtDZ0pieGNhWGNsVnEzUUxIQWxOVDJ0T2VhbFFCNGt5a0lZSEh1eGJzQW11aTNwUDJLRC1fb21KdkVreExDY1VmR2ZMWEtMOHhSdTV3WEhFM05NZGM4eUNmVVljODRlODYwNGVka1Y4ZHZxYTI3d09Qdy1JR1pkUm1LZ3Jo0gGUAUFVX3lxTE1kTndmMFhqNzFTeUpxV3lNS0NnSmJ4Y2FYY2xWcTNRTEhBbE5UMnRPZWFsUUI0a3lrSVlISHV4YnNBbXVpM3BQMktELV9vbUp2RWt4TENjVWZHZkxYS0w4eFJ1NXdYSEUzTk1kYzh5Q2ZVWWM4NGU4NjA0ZWRrVjhkdnFhMjd3T1B3LUlHWmRSbUtncmg?oc=5",
+      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - biz.chosun.com",
+      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ biz.chosun.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUhPMjhRZlYwdUU3b2ttLWJVS1BZa2ZYYTJ3aFM3YXVtSWRBbTRXMXI5VVEza3c0dnpmOWxPNjJSZ0ZVMDFudUgxeG5IYTF2djFkbnNzbWVEU3ZDOWRERmsxRkt4QXc0RFlfQm9FeHo1dmhhRjVieHQ2QmJWOVVuetIBlAFBVV95cUxNZE53ZjBYajcxU3lKcVd5TUtDZ0pieGNhWGNsVnEzUUxIQWxOVDJ0T2VhbFFCNGt5a0lZSEh1eGJzQW11aTNwUDJLRC1fb21KdkVreExDY1VmR2ZMWEtMOHhSdTV3WEhFM05NZGM4eUNmVVljODRlODYwNGVka1Y4ZHZxYTI3d09Qdy1JR1pkUm1LZ3Jo?oc=5",
       "published": "2026-10-01T00:06:00+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
@@ -21,31 +21,9 @@
       "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
       "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
       "companies": [
-        "Samsung Biologics targets global CDMO",
-        "Chosunbiz Samsung Biologics targets global CDMO"
+        "Samsung Biologics targets global CDMO"
       ],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - Spherical Insights",
-      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights Spherical Insights",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWhROVlQSDk3OGtUdlBna2Yydk1SSjlWbENzOXo3bjBTbzlaN05OcmxHWHBBZ1NlcV9zOUQwV0c3a1FXY1ZSckpibGNSTmp2RVNLU2lkcENiLVhJZjVBcV9hQ1B0RlhxZFQ3dVZ6djhSRDIwX0M0cThOelkzQWxZbnlId1FjNXU5LVlkd192Q2tmS1dSd182bnVBWDRWMUw2bEI0S2tpQ0haN21zQ2tXYWhwZDBFVmRrSm1kNmpLNjVTeXE3Mk9HOE1UeHdhaXg5?oc=5",
-      "published": "2026-09-30T10:52:44+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Pharma Industry Enters a New Investment Phase as Biotech"
-      ],
-      "project_signals": [
-        "investment"
-      ],
       "numbers": []
     },
     {
@@ -69,7 +47,7 @@
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 1,
-    "Investment / Expansion": 1,
+    "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -96,9 +74,9 @@
     },
     {
       "category": "Global",
-      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - Chosunbiz",
-      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZE53ZjBYajcxU3lKcVd5TUtDZ0pieGNhWGNsVnEzUUxIQWxOVDJ0T2VhbFFCNGt5a0lZSEh1eGJzQW11aTNwUDJLRC1fb21KdkVreExDY1VmR2ZMWEtMOHhSdTV3WEhFM05NZGM4eUNmVVljODRlODYwNGVka1Y4ZHZxYTI3d09Qdy1JR1pkUm1LZ3Jo0gGUAUFVX3lxTE1kTndmMFhqNzFTeUpxV3lNS0NnSmJ4Y2FYY2xWcTNRTEhBbE5UMnRPZWFsUUI0a3lrSVlISHV4YnNBbXVpM3BQMktELV9vbUp2RWt4TENjVWZHZkxYS0w4eFJ1NXdYSEUzTk1kYzh5Q2ZVWWM4NGU4NjA0ZWRrVjhkdnFhMjd3T1B3LUlHWmRSbUtncmg?oc=5",
+      "title": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ - biz.chosun.com",
+      "description": "Samsung Biologics targets global CDMO wins across Japan, Europe, US, Korea - CHOSUNBIZ biz.chosun.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUhPMjhRZlYwdUU3b2ttLWJVS1BZa2ZYYTJ3aFM3YXVtSWRBbTRXMXI5VVEza3c0dnpmOWxPNjJSZ0ZVMDFudUgxeG5IYTF2djFkbnNzbWVEU3ZDOWRERmsxRkt4QXc0RFlfQm9FeHo1dmhhRjVieHQ2QmJWOVVuetIBlAFBVV95cUxNZE53ZjBYajcxU3lKcVd5TUtDZ0pieGNhWGNsVnEzUUxIQWxOVDJ0T2VhbFFCNGt5a0lZSEh1eGJzQW11aTNwUDJLRC1fb21KdkVreExDY1VmR2ZMWEtMOHhSdTV3WEhFM05NZGM4eUNmVVljODRlODYwNGVka1Y4ZHZxYTI3d09Qdy1JR1pkUm1LZ3Jo?oc=5",
       "published": "2026-10-01T00:06:00+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
@@ -108,31 +86,9 @@
       "why_it_matters": "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.",
       "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
       "companies": [
-        "Samsung Biologics targets global CDMO",
-        "Chosunbiz Samsung Biologics targets global CDMO"
+        "Samsung Biologics targets global CDMO"
       ],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights - Spherical Insights",
-      "description": "Germany's Pharma Industry Enters a New Investment Phase as Biotech and Innovation Gain Momentum: Expert View by Spherical Insights Spherical Insights",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWhROVlQSDk3OGtUdlBna2Yydk1SSjlWbENzOXo3bjBTbzlaN05OcmxHWHBBZ1NlcV9zOUQwV0c3a1FXY1ZSckpibGNSTmp2RVNLU2lkcENiLVhJZjVBcV9hQ1B0RlhxZFQ3dVZ6djhSRDIwX0M0cThOelkzQWxZbnlId1FjNXU5LVlkd192Q2tmS1dSd182bnVBWDRWMUw2bEI0S2tpQ0haN21zQ2tXYWhwZDBFVmRrSm1kNmpLNjVTeXE3Mk9HOE1UeHdhaXg5?oc=5",
-      "published": "2026-09-30T10:52:44+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Pharma Industry Enters a New Investment Phase as Biotech"
-      ],
-      "project_signals": [
-        "investment"
-      ],
       "numbers": []
     }
   ]
