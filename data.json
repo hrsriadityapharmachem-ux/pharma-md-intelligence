@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T16:36:59.842410+00:00",
-  "article_count": 7,
+  "updated": "2026-10-01T17:37:32.944636+00:00",
+  "article_count": 8,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
@@ -28,6 +28,25 @@
       "numbers": []
     },
     {
+      "category": "Hyderabad",
+      "title": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in",
+      "description": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer hrtoday.in",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjZDSXB6M2pjeGRkZ0p4YXVKNTNuOHREN3FQWldGUEQzRVpXd2oxbHZ6MnNQV0NiMHdSLVBET01TRFctbDRXaF84RE5Lb0hoQWY0RndqTEhwRzV3RFNjc0daLUVlak0ydlBZN1JJYjE4NzVOSHZmUDY0bHFqcnNaREZYNVJXT256anRmeVdB?oc=5",
+      "published": "2026-10-01T11:15:29+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Ganesh Balakrishnan Joins Anthea Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs - Moneycontrol.com",
       "description": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs Moneycontrol.com",
@@ -47,23 +66,6 @@
       "numbers": [
         "rs,"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "CPHI Milan 2026: Global Pharma Showcase Kicks Off, with Taiwan Delegation Rising to New Heights - geneonline.com",
-      "description": "CPHI Milan 2026: Global Pharma Showcase Kicks Off, with Taiwan Delegation Rising to New Heights geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXJlY2xVUldETVhLWHJDc0FkN2ZseXZWMXBsM0lLbXB0enRDYS1ncFYxQi1EbWNFbFUyNHZkek5mSWRZZHBhZlM1eVFGaE1DM0sxWTMyRGQxZnNzaC1RTWZfWTVCck1GZXpGTkpiY1VtYV90Q2lpeGlCQVdxSTQxLWpjX2cwM2MzeDRTNVA3SHJzVjZyU1lwUXFIcmtucGhIMTVIZlRXVm1fZzRvUkZCNUFBcHlIT2duMUs0V2Jn?oc=5",
-      "published": "2026-10-01T13:40:28+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -167,6 +169,25 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Hyderabad",
+      "title": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in",
+      "description": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer hrtoday.in",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjZDSXB6M2pjeGRkZ0p4YXVKNTNuOHREN3FQWldGUEQzRVpXd2oxbHZ6MnNQV0NiMHdSLVBET01TRFctbDRXaF84RE5Lb0hoQWY0RndqTEhwRzV3RFNjc0daLUVlak0ydlBZN1JJYjE4NzVOSHZmUDY0bHFqcnNaREZYNVJXT256anRmeVdB?oc=5",
+      "published": "2026-10-01T11:15:29+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Ganesh Balakrishnan Joins Anthea Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
