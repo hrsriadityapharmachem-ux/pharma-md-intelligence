@@ -442,34 +442,74 @@ def clean_title_for_analysis(title):
 # SIGNAL
 # ============================================================
 
-def determine_signal(text):
+def determine_signal(text, event_type):
 
-    lower_text = text.lower()
+    lower = text.lower()
 
-    if contains_keyword(
-        lower_text,
-        RISK_KEYWORDS
-    ):
+    potential_regulatory_terms = [
+        "may review",
+        "may investigate",
+        "could review",
+        "could investigate",
+        "likely to review",
+        "reportedly considering",
+        "proposed action",
+        "possible action"
+    ]
+
+    if event_type == "Regulatory Action":
+
+        if any(
+            term in lower
+            for term in potential_regulatory_terms
+        ):
+            return "Watch"
+
         return "Risk"
 
-    if contains_keyword(
-        lower_text,
-        REGULATORY_KEYWORDS
-    ):
+    if event_type == "Supply Disruption":
+        return "Risk"
 
-        if contains_keyword(
-            lower_text,
-            RISK_KEYWORDS
+    if event_type in {
+        "Commercial Agreement",
+        "Capacity Expansion",
+        "Market / Export Move"
+    }:
+        return "Opportunity"
+
+    if event_type == "Investment / Acquisition":
+
+        opportunity_terms = [
+            "manufacturing",
+            "capacity",
+            "api",
+            "intermediate",
+            "cdmo",
+            "contract",
+            "supply",
+            "supplier",
+            "partnership",
+            "facility",
+            "plant",
+            "production"
+        ]
+
+        if any(
+            term in lower
+            for term in opportunity_terms
         ):
-            return "Risk"
+            return "Opportunity"
 
         return "Watch"
 
-    if contains_keyword(
-        lower_text,
-        OPPORTUNITY_KEYWORDS
+    if event_type == "Regulatory Approval":
+        return "Watch"
+
+    if any(
+        keyword in lower
+        for keyword in RISK_KEYWORDS
     ):
-        return "Opportunity"
+        return "Risk"
 
     return "General"
 
