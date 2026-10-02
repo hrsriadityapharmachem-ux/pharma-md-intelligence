@@ -43,6 +43,8 @@ FEEDS = {
 }
 
 
+ENGINE_VERSION = "3.1.1"
+
 # ============================================================
 # CORE KEYWORDS
 # ============================================================
@@ -442,9 +444,13 @@ def clean_title_for_analysis(title):
 # SIGNAL
 # ============================================================
 
-def determine_signal(text, event_type):
+def determine_signal(text):
 
     lower = text.lower()
+
+    # Infer the event type from the article text.
+    # This keeps the engine self-contained and avoids requiring
+    # a separate event-classification function.
 
     potential_regulatory_terms = [
         "may review",
@@ -457,28 +463,76 @@ def determine_signal(text, event_type):
         "possible action"
     ]
 
-    if event_type == "Regulatory Action":
-
-        if any(
+    if (
+        any(term in lower for term in potential_regulatory_terms)
+        and any(
             term in lower
-            for term in potential_regulatory_terms
-        ):
-            return "Watch"
+            for term in [
+                "regulator",
+                "regulatory",
+                "fda",
+                "ema",
+                "cdsco",
+                "inspection",
+                "compliance",
+                "warning"
+            ]
+        )
+    ):
+        return "Watch"
 
+    if any(
+        term in lower
+        for term in [
+            "supply disruption",
+            "supply chain disruption",
+            "shortage",
+            "production halt",
+            "plant closure",
+            "recall",
+            "warning letter",
+            "import alert",
+            "export restriction",
+            "failed inspection",
+            "non-compliance",
+            "contamination"
+        ]
+    ):
         return "Risk"
 
-    if event_type == "Supply Disruption":
-        return "Risk"
-
-    if event_type in {
-        "Commercial Agreement",
-        "Capacity Expansion",
-        "Market / Export Move"
-    }:
+    if any(
+        term in lower
+        for term in [
+            "cdmo contract",
+            "contract manufacturing agreement",
+            "supply agreement",
+            "strategic partnership",
+            "commercial agreement",
+            "capacity expansion",
+            "new plant",
+            "new facility",
+            "manufacturing facility",
+            "plant expansion",
+            "facility expansion",
+            "market entry",
+            "new market"
+        ]
+    ):
         return "Opportunity"
 
-    if event_type == "Investment / Acquisition":
-
+    if any(
+        term in lower
+        for term in [
+            "acquisition",
+            "acquires",
+            "acquired",
+            "investment",
+            "invests",
+            "funding",
+            "merger",
+            "stake"
+        ]
+    ):
         opportunity_terms = [
             "manufacturing",
             "capacity",
@@ -494,15 +548,24 @@ def determine_signal(text, event_type):
             "production"
         ]
 
-        if any(
-            term in lower
-            for term in opportunity_terms
-        ):
+        if any(term in lower for term in opportunity_terms):
             return "Opportunity"
 
         return "Watch"
 
-    if event_type == "Regulatory Approval":
+    if any(
+        term in lower
+        for term in [
+            "fda approval",
+            "fda approved",
+            "ema approval",
+            "ema approved",
+            "cdsco approval",
+            "regulatory approval",
+            "drug approval",
+            "approved by"
+        ]
+    ):
         return "Watch"
 
     if any(
