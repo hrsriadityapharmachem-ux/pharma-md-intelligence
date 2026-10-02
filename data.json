@@ -1,12 +1,31 @@
 {
-  "updated": "2026-10-02T14:40:09.912821+00:00",
-  "article_count": 3,
+  "updated": "2026-10-02T15:39:30.194687+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus - Indian Pharma Post",
+      "description": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBTQ1pTNkh6Ync2RkhKSVJPa294ajhYSVlndWtEcVhUM0xNS0RXTTRSVmFmQ2FXT0wxbjdCUWZqdk8yNzZ6Vk1ZQ0NMRndfS1g1bzJtMEppSzdoNHdBaDRHaXEzNkF6ajNrQy14NUY3QzA5S3BtT095OEF3a1pWYXRXMWVTb3JSb0lvOG96M1RGdGdfNlhlQ3RCLW54eFY2WTFmMVBtUjgyY1Bpb3fSAbcBQVVfeXFMUGlBanAxVDVwa1VFMl9tV3pJcDBjOTFqSTV0MkRaWTBfUl9ES2sta3UtWFlXODhraHpiQU9xbndYY1dsM0kyeS1wVXNkUVRNbXhXMG9VcFg3ZU5ucFpnZEZqSE1JYTFVa1JCalozcnZFLW5hNXVqY29xMkt5S0JtMUhGMUp4SmpIbW5FZ1hEc3VwMDlyX0FVQlZRX0RRbWlKN0JQcENSZXdIbzZPZDR3NGY4NkpWbU1Z?oc=5",
+      "published": "2026-10-02T13:45:04+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "TAPI names Serge Rogasik CEO & puts global API & CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India - Alice Blue",
@@ -43,6 +62,37 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
+    }
+  ],
+  "business_signals": {
+    "API / Intermediates": 0,
+    "CDMO / Contract Manufacturing": 0,
+    "Investment / Expansion": 0,
+    "Manufacturing / Plants": 0,
+    "Supply Chain": 0,
+    "Regulatory": 0,
+    "Exports / Markets": 0,
+    "Specialty Chemicals": 0
+  },
+  "articles": [
+    {
+      "category": "India",
+      "title": "FDA cancels wholesale drug sales license of Cipla Pharma & Life sciences Ltd - The Indian Express",
+      "description": "FDA cancels wholesale drug sales license of Cipla Pharma & Life sciences Ltd The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzB1ZXdrSUtrZlMwdDBjWTNfN3BDU0hZb1ROdTNtcUhlTWVoVXQ2Ri1IbjZIZDVrZDVEZzlrWEhzZ3NwYVBLT2IycXY1LW1WZGlZZEhIdmw0V2NodHI3MW5hbDRSYnlPeEUyMm12R2xBQkNxSHpmWDdUZXFTaWRnR2xOYUhENFRQMktkdDhpOEFfVDFhWEU4amloR3RBeFVUMm1JNFJ1clZ1ZURqeWpqWW0wQdIBugFBVV95cUxQRnlQU3Zyc2lPZnNncTJEVnlONjUyOUpDNmtNVlNSOVNscmtFb2k3VmtGdUxfeUpEb3hQU1h2dGxhTUJjb2UxdzBXcHE5MjVEZXVjeWd2RXNROWlXc0JKT0RfRXh4cFBLZkJDaTdJWTdQS2ZubGdkMTJfWDl0VFdOcmpoWFFYYXdwaFdNeko2S3RrZ1FBZC1abHFld1RURVl6X3c0TnhMcWhyaFh5cUdZRGFQLThBSjZPYmc?oc=5",
+      "published": "2026-10-02T15:00:29+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "FDA cancels wholesale drug sales license of Cipla Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
     },
     {
       "category": "India",
@@ -60,33 +110,23 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    }
-  ],
-  "business_signals": {
-    "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 0,
-    "Manufacturing / Plants": 0,
-    "Supply Chain": 0,
-    "Regulatory": 0,
-    "Exports / Markets": 0,
-    "Specialty Chemicals": 0
-  },
-  "articles": [
+    },
     {
       "category": "India",
-      "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. - The New York Times",
-      "description": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcktLSFcwX2E0MGwycFAzUGl0S2JJbTk0NUZBZ3ZMdWpqN3Z3WWNwWV9iR3FsNnZYMk5oZm0zTTVSZHJzaGU0Ml9nekZlX0d3cmYzMkhzMVRjYUNvS0VDR3dpaG56T2N3TVRka004TWhnaFJ0a04zcTVKcjJnY1lRaDhn?oc=5",
-      "published": "2026-10-02T14:11:15+00:00",
+      "title": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus - Indian Pharma Post",
+      "description": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBTQ1pTNkh6Ync2RkhKSVJPa294ajhYSVlndWtEcVhUM0xNS0RXTTRSVmFmQ2FXT0wxbjdCUWZqdk8yNzZ6Vk1ZQ0NMRndfS1g1bzJtMEppSzdoNHdBaDRHaXEzNkF6ajNrQy14NUY3QzA5S3BtT095OEF3a1pWYXRXMWVTb3JSb0lvOG96M1RGdGdfNlhlQ3RCLW54eFY2WTFmMVBtUjgyY1Bpb3fSAbcBQVVfeXFMUGlBanAxVDVwa1VFMl9tV3pJcDBjOTFqSTV0MkRaWTBfUl9ES2sta3UtWFlXODhraHpiQU9xbndYY1dsM0kyeS1wVXNkUVRNbXhXMG9VcFg3ZU5ucFpnZEZqSE1JYTFVa1JCalozcnZFLW5hNXVqY29xMkt5S0JtMUhGMUp4SmpIbW5FZ1hEc3VwMDlyX0FVQlZRX0RRbWlKN0JQcENSZXdIbzZPZDR3NGY4NkpWbU1Z?oc=5",
+      "published": "2026-10-02T13:45:04+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
+      "companies": [
+        "TAPI names Serge Rogasik CEO & puts global API & CDMO"
+      ],
       "project_signals": [],
       "numbers": []
     },
