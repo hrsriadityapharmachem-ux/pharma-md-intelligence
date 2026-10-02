@@ -45,6 +45,17 @@ FEEDS = {
 
 ENGINE_VERSION = "3.1.1"
 
+KNOWN_SOURCES = [
+    "Business Standard", "Economic Times", "The Economic Times",
+    "Times of India", "Financial Express", "Mint", "BusinessLine",
+    "The Hindu", "Moneycontrol", "Reuters", "Bloomberg",
+    "CNBC-TV18", "ETPharma", "PharmaBiz", "Pharmabiz",
+    "Fierce Pharma", "The Pharma Letter", "Pharmaceutical Technology",
+    "Business Wire", "ANI", "PTI", "Hindustan Times",
+    "DD News", "India Today", "Deccan Chronicle", "PharmaSource"
+]
+
+
 # ============================================================
 # CORE KEYWORDS
 # ============================================================
@@ -441,145 +452,141 @@ def clean_title_for_analysis(title):
 
 
 # ============================================================
+# SOURCE / EVENT INTELLIGENCE
+# ============================================================
+
+def extract_source(title, description=""):
+    text = clean_text(title) + " " + clean_text(description)
+    for source in KNOWN_SOURCES:
+        if re.search(r"(?<![A-Za-z])" + re.escape(source) + r"(?![A-Za-z])", text, re.IGNORECASE):
+            return source
+    # Google News often appends an untrusted publisher token to the title.
+    # Never guess a publisher from arbitrary trailing words.
+    return "Google News RSS"
+
+
+def determine_event_type(text):
+    lower = text.lower()
+    if any(x in lower for x in ["may review", "may investigate", "could review", "could investigate", "warning letter", "import alert", "regulatory action", "non-compliance", "failed inspection"]):
+        return "Regulatory Action"
+    if any(x in lower for x in ["shortage", "supply disruption", "supply chain disruption", "production halt", "plant closure", "recall"]):
+        return "Supply Disruption"
+    if any(x in lower for x in ["supply agreement", "commercial agreement", "contract manufacturing agreement", "strategic partnership", "partnership", "collaboration"]):
+        return "Commercial Agreement"
+    if any(x in lower for x in ["capacity expansion", "new plant", "new facility", "plant expansion", "facility expansion", "manufacturing facility", "production capacity"]):
+        return "Capacity Expansion"
+    if any(x in lower for x in ["acquisition", "acquires", "acquired", "investment", "invests", "funding", "merger", "stake"]):
+        return "Investment / Acquisition"
+    if any(x in lower for x in ["export", "exports", "market entry", "new market", "international market"]):
+        return "Market / Export Move"
+    if any(x in lower for x in ["fda approval", "ema approval", "cdsco approval", "approved by", "regulatory approval"]):
+        return "Regulatory Approval"
+    if any(x in lower for x in ["joins", "appointed", "appoints", "chief executive", "chief business officer", "ceo"]):
+        return "Leadership Change"
+    if any(x in lower for x in ["conference", "summit", "expo", "exhibition", "cphi"]):
+        return "Industry Event"
+    return "Industry Development"
+
+
+def determine_confidence(signal, source_name, event_type):
+    score = 45
+    if source_name != "Google News RSS":
+        score += 20
+    if signal in ["Risk", "Opportunity"]:
+        score += 10
+    if event_type in ["Regulatory Action", "Supply Disruption", "Commercial Agreement", "Capacity Expansion"]:
+        score += 5
+    return min(score, 90)
+
+
+def determine_evidence_level(source_name):
+    return "High" if source_name != "Google News RSS" else "Medium"
+
+
+def determine_fact_status(source_name):
+    if source_name != "Google News RSS":
+        return "Reported by established source - verify primary source before commercial action"
+    return "Reported development - verify primary source before commercial action"
+
+
+def build_what_happened(title):
+    return clean_title_for_analysis(title).rstrip(".") + "."
+
+
+def build_opportunity(signal, business_area, text):
+    if signal != "Opportunity":
+        return "No confirmed commercial opportunity identified from the available evidence."
+    if business_area == "API / Intermediates":
+        return "Investigate whether the development creates API/intermediate demand, sourcing needs or customer opportunities."
+    if business_area == "CDMO / Contract Manufacturing":
+        return "Investigate potential outsourcing, contract manufacturing or development demand."
+    if business_area == "Manufacturing / Plants":
+        return "Investigate new capacity, supplier, raw-material, API or intermediate requirements."
+    if business_area == "Investment / Expansion":
+        return "Investigate the investment's product portfolio, capacity plans and potential sourcing needs."
+    if business_area == "Exports / Markets":
+        return "Investigate new market, customer and export opportunities created by the development."
+    return "Investigate the commercial requirement before treating this as a confirmed opportunity."
+
+
+def build_risk(signal, business_area, text):
+    if signal != "Risk":
+        return "No specific material risk identified from the available evidence."
+    if business_area == "Regulatory":
+        return "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified."
+    if business_area == "Supply Chain":
+        return "Potential supply-chain exposure exists. Affected materials, suppliers and markets should be verified."
+    return "Potential business or operational risk requires verification."
+
+
+def build_investigation_question(event_type, business_area):
+    if event_type == "Investment / Acquisition":
+        return "What products, molecules, facilities or markets are behind the investment or acquisition?"
+    if event_type == "Regulatory Action":
+        return "Which company, product and market are affected, and could the action create supply or customer disruption?"
+    if event_type == "Supply Disruption":
+        return "Which products, raw materials or suppliers are affected, and is there a potential supply gap?"
+    if event_type == "Capacity Expansion":
+        return "What capacity is being added, for which products, and what supplier or customer demand could follow?"
+    return f"What evidence would link this {business_area} development to Sri Aditya's products, customers or suppliers?"
+
+
+def calculate_importance_score(signal, priority, category, business_area, text):
+    score = {"Critical": 18, "High": 14, "Medium": 9, "Low": 3}.get(priority, 3)
+    if signal == "Risk": score += 2
+    elif signal == "Opportunity": score += 1
+    if category in ["Hyderabad", "Vizag / AP"]: score += 2
+    if business_area in ["API / Intermediates", "CDMO / Contract Manufacturing", "Manufacturing / Plants", "Supply Chain"]: score += 2
+    return min(score, 20)
+
+
+# ============================================================
 # SIGNAL
 # ============================================================
 
 def determine_signal(text):
-
     lower = text.lower()
-
-    # Infer the event type from the article text.
-    # This keeps the engine self-contained and avoids requiring
-    # a separate event-classification function.
-
-    potential_regulatory_terms = [
-        "may review",
-        "may investigate",
-        "could review",
-        "could investigate",
-        "likely to review",
-        "reportedly considering",
-        "proposed action",
-        "possible action"
+    potential_regulatory = [
+        "may review", "may investigate", "could review", "could investigate",
+        "likely to review", "reportedly considering", "proposed action", "possible action"
     ]
+    regulatory_context = ["regulator", "regulatory", "fda", "ema", "cdsco", "inspection", "compliance", "warning"]
 
-    if (
-        any(term in lower for term in potential_regulatory_terms)
-        and any(
-            term in lower
-            for term in [
-                "regulator",
-                "regulatory",
-                "fda",
-                "ema",
-                "cdsco",
-                "inspection",
-                "compliance",
-                "warning"
-            ]
-        )
-    ):
+    if any(x in lower for x in potential_regulatory) and any(x in lower for x in regulatory_context):
         return "Watch"
-
-    if any(
-        term in lower
-        for term in [
-            "supply disruption",
-            "supply chain disruption",
-            "shortage",
-            "production halt",
-            "plant closure",
-            "recall",
-            "warning letter",
-            "import alert",
-            "export restriction",
-            "failed inspection",
-            "non-compliance",
-            "contamination"
-        ]
-    ):
+    if any(x in lower for x in ["supply disruption", "supply chain disruption", "shortage", "production halt", "plant closure", "recall", "warning letter", "import alert", "export restriction", "failed inspection", "non-compliance", "contamination"]):
         return "Risk"
-
-    if any(
-        term in lower
-        for term in [
-            "cdmo contract",
-            "contract manufacturing agreement",
-            "supply agreement",
-            "strategic partnership",
-            "commercial agreement",
-            "capacity expansion",
-            "new plant",
-            "new facility",
-            "manufacturing facility",
-            "plant expansion",
-            "facility expansion",
-            "market entry",
-            "new market"
-        ]
-    ):
+    if any(x in lower for x in ["cdmo contract", "contract manufacturing agreement", "supply agreement", "strategic partnership", "commercial agreement", "capacity expansion", "new plant", "new facility", "manufacturing facility", "plant expansion", "facility expansion", "market entry", "new market"]):
         return "Opportunity"
-
-    if any(
-        term in lower
-        for term in [
-            "acquisition",
-            "acquires",
-            "acquired",
-            "investment",
-            "invests",
-            "funding",
-            "merger",
-            "stake"
-        ]
-    ):
-        opportunity_terms = [
-            "manufacturing",
-            "capacity",
-            "api",
-            "intermediate",
-            "cdmo",
-            "contract",
-            "supply",
-            "supplier",
-            "partnership",
-            "facility",
-            "plant",
-            "production"
-        ]
-
-        if any(term in lower for term in opportunity_terms):
-            return "Opportunity"
-
+    if any(x in lower for x in ["acquisition", "acquires", "acquired", "investment", "invests", "funding", "merger", "stake"]):
+        opportunity_terms = ["manufacturing", "capacity", "api", "intermediate", "cdmo", "contract", "supply", "supplier", "partnership", "facility", "plant", "production"]
+        return "Opportunity" if any(x in lower for x in opportunity_terms) else "Watch"
+    if any(x in lower for x in ["fda approval", "ema approval", "cdsco approval", "approved by", "regulatory approval"]):
         return "Watch"
-
-    if any(
-        term in lower
-        for term in [
-            "fda approval",
-            "fda approved",
-            "ema approval",
-            "ema approved",
-            "cdsco approval",
-            "regulatory approval",
-            "drug approval",
-            "approved by"
-        ]
-    ):
-        return "Watch"
-
-    if any(
-        keyword in lower
-        for keyword in RISK_KEYWORDS
-    ):
+    if any(x in lower for x in RISK_KEYWORDS):
         return "Risk"
-
     return "General"
 
-
-# ============================================================
-# BUSINESS AREA
-# ============================================================
 
 def determine_business_area(text):
 
@@ -1372,7 +1379,43 @@ def collect_news():
                         project_signals,
 
                     "numbers":
-                        numbers
+                        numbers,
+
+                    "source_name":
+                        extract_source(title, description),
+
+                    "source_credibility":
+                        "Established" if extract_source(title, description) != "Google News RSS" else "Standard",
+
+                    "location":
+                        "India" if category in ["Hyderabad", "Vizag / AP", "India"] else "Global",
+
+                    "event_type":
+                        determine_event_type(combined),
+
+                    "what_happened":
+                        build_what_happened(title),
+
+                    "business_opportunity":
+                        build_opportunity(signal, business_area, combined),
+
+                    "risk":
+                        build_risk(signal, business_area, combined),
+
+                    "investigation_question":
+                        build_investigation_question(determine_event_type(combined), business_area),
+
+                    "evidence_level":
+                        determine_evidence_level(extract_source(title, description)),
+
+                    "confidence":
+                        determine_confidence(signal, extract_source(title, description), determine_event_type(combined)),
+
+                    "importance_score":
+                        calculate_importance_score(signal, priority, category, business_area, combined),
+
+                    "fact_status":
+                        determine_fact_status(extract_source(title, description))
                 })
 
 
@@ -1764,6 +1807,9 @@ def main():
                 timezone.utc
             ).isoformat(),
 
+        "engine_version":
+            ENGINE_VERSION,
+
         "article_count":
             len(articles),
 
@@ -1787,6 +1833,26 @@ def main():
 
         "business_signals":
             signal_summary,
+
+        "daily_brief": {
+            "attention": [
+                {
+                    "title": a["title"],
+                    "signal": a["signal"],
+                    "why": a["why_it_matters"]
+                }
+                for a in must_know[:3]
+            ],
+            "investigate": [
+                {
+                    "title": a["title"],
+                    "question": a["investigation_question"]
+                }
+                for a in must_know[:2]
+                if a.get("signal") in ["Opportunity", "Risk", "Watch"]
+            ],
+            "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
+        },
 
         "articles":
             articles
