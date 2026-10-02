@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-02T16:39:15.311700+00:00",
+  "updated": "2026-10-02T17:36:42.275681+00:00",
   "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
@@ -27,6 +27,26 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India - Alice Blue",
+      "description": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India Alice Blue",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXpYYjZoZDRhaXloRjFxQzljVnQ5WlJrRmhWalVvblR1dnZjOWRkNXhWQkk0YkZ0Ry1sdGdNcERGdWcxNVV1c3J3V1hOLVd1MmgxTTJNdllsd09ybVdYT25uWl84NHRNcFZCN0VBLVBsNzBaTFhnTFRjbFQ0S09YZFlOZ2tUaWk5TXMwWFVObUh3RDFTTFNTcGtiMnEwT2Zod2Q0amdHRUVjLV9sVWxjamt5aWhPcnkxZ0E?oc=5",
+      "published": "2026-10-02T07:30:41+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "NATCO Pharma",
+        "Semaglutide in India - Alice Blue NATCO Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "MedPharm signs commercial site transfer deal with \"global pharma company\" - Manufacturing Chemist",
       "description": "MedPharm signs commercial site transfer deal with \"global pharma company\" Manufacturing Chemist",
@@ -40,25 +60,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "FDA cancels wholesale drug sales license of Cipla Pharma & Life sciences Ltd - The Indian Express",
-      "description": "FDA cancels wholesale drug sales license of Cipla Pharma & Life sciences Ltd The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzB1ZXdrSUtrZlMwdDBjWTNfN3BDU0hZb1ROdTNtcUhlTWVoVXQ2Ri1IbjZIZDVrZDVEZzlrWEhzZ3NwYVBLT2IycXY1LW1WZGlZZEhIdmw0V2NodHI3MW5hbDRSYnlPeEUyMm12R2xBQkNxSHpmWDdUZXFTaWRnR2xOYUhENFRQMktkdDhpOEFfVDFhWEU4amloR3RBeFVUMm1JNFJ1clZ1ZURqeWpqWW0wQdIBugFBVV95cUxQRnlQU3Zyc2lPZnNncTJEVnlONjUyOUpDNmtNVlNSOVNscmtFb2k3VmtGdUxfeUpEb3hQU1h2dGxhTUJjb2UxdzBXcHE5MjVEZXVjeWd2RXNROWlXc0JKT0RfRXh4cFBLZkJDaTdJWTdQS2ZubGdkMTJfWDl0VFdOcmpoWFFYYXdwaFdNeko2S3RrZ1FBZC1abHFld1RURVl6X3c0TnhMcWhyaFh5cUdZRGFQLThBSjZPYmc?oc=5",
-      "published": "2026-10-02T15:00:29+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "FDA cancels wholesale drug sales license of Cipla Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     }
@@ -95,23 +96,6 @@
     },
     {
       "category": "India",
-      "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. - The New York Times",
-      "description": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcktLSFcwX2E0MGwycFAzUGl0S2JJbTk0NUZBZ3ZMdWpqN3Z3WWNwWV9iR3FsNnZYMk5oZm0zTTVSZHJzaGU0Ml9nekZlX0d3cmYzMkhzMVRjYUNvS0VDR3dpaG56T2N3TVRka004TWhnaFJ0a04zcTVKcjJnY1lRaDhn?oc=5",
-      "published": "2026-10-02T14:11:15+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
       "title": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus - Indian Pharma Post",
       "description": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus Indian Pharma Post",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBTQ1pTNkh6Ync2RkhKSVJPa294ajhYSVlndWtEcVhUM0xNS0RXTTRSVmFmQ2FXT0wxbjdCUWZqdk8yNzZ6Vk1ZQ0NMRndfS1g1bzJtMEppSzdoNHdBaDRHaXEzNkF6ajNrQy14NUY3QzA5S3BtT095OEF3a1pWYXRXMWVTb3JSb0lvOG96M1RGdGdfNlhlQ3RCLW54eFY2WTFmMVBtUjgyY1Bpb3fSAbcBQVVfeXFMUGlBanAxVDVwa1VFMl9tV3pJcDBjOTFqSTV0MkRaWTBfUl9ES2sta3UtWFlXODhraHpiQU9xbndYY1dsM0kyeS1wVXNkUVRNbXhXMG9VcFg3ZU5ucFpnZEZqSE1JYTFVa1JCalozcnZFLW5hNXVqY29xMkt5S0JtMUhGMUp4SmpIbW5FZ1hEc3VwMDlyX0FVQlZRX0RRbWlKN0JQcENSZXdIbzZPZDR3NGY4NkpWbU1Z?oc=5",
@@ -143,6 +127,26 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India - Alice Blue",
+      "description": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India Alice Blue",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXpYYjZoZDRhaXloRjFxQzljVnQ5WlJrRmhWalVvblR1dnZjOWRkNXhWQkk0YkZ0Ry1sdGdNcERGdWcxNVV1c3J3V1hOLVd1MmgxTTJNdllsd09ybVdYT25uWl84NHRNcFZCN0VBLVBsNzBaTFhnTFRjbFQ0S09YZFlOZ2tUaWk5TXMwWFVObUh3RDFTTFNTcGtiMnEwT2Zod2Q0amdHRUVjLV9sVWxjamt5aWhPcnkxZ0E?oc=5",
+      "published": "2026-10-02T07:30:41+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "NATCO Pharma",
+        "Semaglutide in India - Alice Blue NATCO Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     }
