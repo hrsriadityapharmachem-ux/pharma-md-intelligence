@@ -15,26 +15,30 @@ from html import unescape
 
 FEEDS = {
     "Hyderabad": [
-        "https://news.google.com/rss/search?q=Hyderabad+pharma+OR+Hyderabad+pharmaceutical&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Hyderabad+API+OR+Hyderabad+chemical+industry&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Hyderabad+CDMO+OR+pharma+investment+OR+pharma+plant&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Hyderabad+pharma+investment+OR+pharma+plant+OR+API+manufacturing&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Hyderabad+pharma+expansion+OR+capacity+OR+acquisition+OR+partnership&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Hyderabad+CDMO+OR+contract+manufacturing+OR+bulk+drug+OR+specialty+chemical&hl=en-IN&gl=IN&ceid=IN:en"
     ],
+
     "Vizag / AP": [
-        "https://news.google.com/rss/search?q=Visakhapatnam+pharma+OR+Vizag+pharma&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+API+OR+Andhra+Pradesh+pharma+OR+bulk+drug+park&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+investment+OR+pharma+plant+OR+chemical+plant&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Visakhapatnam+pharma+investment+OR+API+plant+OR+bulk+drug&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+investment+OR+API+manufacturing+OR+chemical+plant&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+expansion+OR+acquisition+OR+partnership+OR+CDMO&hl=en-IN&gl=IN&ceid=IN:en"
     ],
+
     "India": [
-        "https://news.google.com/rss/search?q=India+pharma+OR+Indian+pharmaceutical+industry&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+API+OR+pharma+investment+OR+CDMO&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+bulk+drug+OR+API+manufacturing+OR+pharma+capacity&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+pharma+regulatory+OR+CDSCO+OR+FDA+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+API+investment+OR+API+capacity+OR+bulk+drug+manufacturing&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+pharma+acquisition+OR+pharma+partnership+OR+CDMO+contract&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+pharma+FDA+OR+CDSCO+OR+USFDA+warning+OR+regulatory+action&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+pharma+export+OR+drug+shortage+OR+supply+disruption+OR+price&hl=en-IN&gl=IN&ceid=IN:en"
     ],
+
     "Global": [
-        "https://news.google.com/rss/search?q=global+pharma+industry&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=FDA+pharmaceutical+OR+EMA+pharma&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=global+API+OR+CDMO+pharma&hl=en-US&gl=US&ceid=US:en",
-    ],
+        "https://news.google.com/rss/search?q=global+API+capacity+OR+API+investment+OR+pharma+manufacturing&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=global+pharma+acquisition+OR+partnership+OR+CDMO+contract&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=FDA+pharma+warning+OR+FDA+approval+OR+EMA+regulatory+action&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=global+drug+shortage+OR+API+supply+disruption+OR+pharma+export&hl=en-US&gl=US&ceid=US:en"
+    ]
 }
 
 CORE_TERMS = [
