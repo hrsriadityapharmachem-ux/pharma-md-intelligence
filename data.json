@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:36:31.686871+00:00",
+  "updated": "2026-10-02T02:36:09.486929+00:00",
   "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -134,6 +134,25 @@
       "numbers": []
     },
     {
+      "category": "Global",
+      "title": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) - fundsforNGOs",
+      "description": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) fundsforNGOs",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVVSUVhMX3JhMWJuY1B2MHJLM01hbUR2Ymk0TExNLXpfS2RwMkdMYVVUM1VISGtRZkhsR2ZPbTlOV2xnNUt5Z0xTOXBpdW5NRTVETjE4OVM0VVNPakROTlMyazRYYXdFT1lZRXVnbGRSRDhPYWNsRFlWSWFTd3I1NU9wSVdIeG14SnQwRURMd0VjM09Pal84SVItXzYzM3k2YXh0c1J6dHVRQdIBrwFBVV95cUxOQ1N0MG9WTjFKMTVWdWk1QUJyUkZpekZOSEc0ZHVKT0VMWEFVQVFCME5YUnF6NEIzclFzM1gxcEVsanRTd2FfZ2RXYm4tNmZobFNlTlN4TkVoeHNabjBadFNNNTJPS2JZaldaZVFsLWZrNzgzTlFOSGhRUG4xOFB2eFBRYTJ5U1J2MTJIQmlyS3g1TzZBQmYwbWhac3M1QVZfV193OG1NRER0aTBhQ0R3?oc=5",
+      "published": "2026-10-01T12:59:03+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Bringing Top Global Talent to Israeli Bio-Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
       "description": "Drug regulator may review machinery disposal at non-compliant pharma units Business Standard",
@@ -166,23 +185,6 @@
       "companies": [
         "Ganesh Balakrishnan Joins Anthea Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "[Global Pharma Leadership Voices] Why are patients still waiting for innovation? The next challenge in oncology - Korea Biomedical Review",
-      "description": "[Global Pharma Leadership Voices] Why are patients still waiting for innovation? The next challenge in oncology Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YYklzVXBVclJiaE1JTmVGYm5LMDlxTEsycmFzX2w0eUdWV0pnM1RfbTJRekpGOC1JUmdnSVRXaGVaZlhiUDZDY3JxRjVHYVlNRlJEYy1Tai1IRnpnYTVaX3prZFhvSVVFQ1QwVW9B0gFyQVVfeXFMUEtKVm9iYk9zZTU1emowZU55VDZLS0g3cHlYcU4zVFJjSktKSDNaMTFoX05RRU01ZU51dHEtQWp1NHlOcy0tbjBvVFpzUWtxVi1nSEFnTUdoYnNHcWM3dE0zbnNwUWR5aVdaWFFvZFdyOUpn?oc=5",
-      "published": "2026-10-01T01:56:26+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
