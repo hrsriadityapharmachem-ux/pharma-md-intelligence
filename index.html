@@ -1,1 +1,241 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Sri Aditya Pharmachem | MD Pharma Intelligence</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap');
+
+:root{
+ --bg:#f4f1ec;--surface:#fffdf9;--surface2:#faf7f2;--ink:#252525;
+ --heading:#252525;--muted:#756f67;--line:#e4ddd3;
+ --red:#b51f2b;--burgundy:#641b27;--gold:#b28a4a;
+ --green:#287454;--amber:#986b22;--blue:#315d78;
+ --shadow:0 8px 24px rgba(42,34,25,.07)
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"DM Sans",Arial,sans-serif}
+.container{max-width:1450px;margin:auto;padding:24px 28px 30px}
+
+/* HEADER */
+.header{position:relative;overflow:hidden;margin-bottom:18px;padding:31px 35px;border-radius:16px;
+ background:linear-gradient(120deg,#171717 0%,#292522 62%,#392b2b 100%);
+ color:#fff;box-shadow:0 15px 38px rgba(25,20,18,.16)}
+.header:after{content:"";position:absolute;width:300px;height:300px;right:-150px;top:-180px;
+ border-radius:50%;background:rgba(181,31,43,.18)}
+.header h1{position:relative;z-index:1;margin:0;color:#d52b38;font:800 30px/1.1 "Manrope",sans-serif;letter-spacing:-.8px}
+.header p{position:relative;z-index:1;margin:8px 0 0;color:#d7d1ca;font-size:12px}
+.live{position:absolute;z-index:2;right:24px;top:22px;padding:7px 11px;border:1px solid #ffffff20;
+ border-radius:20px;background:#ffffff0d;color:#eee;font-size:9px;font-weight:800;letter-spacing:.7px}
+
+/* KPI */
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}
+.card{position:relative;overflow:hidden;min-height:105px;padding:17px 19px;background:var(--surface);
+ border:1px solid var(--line);border-radius:13px;box-shadow:var(--shadow)}
+.card:before{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:#c8c0b5}
+.card:nth-child(2):before{background:var(--green)}
+.card:nth-child(3):before{background:var(--red)}
+.card:nth-child(4):before{background:var(--gold)}
+.card-title{margin-bottom:8px;color:var(--muted);font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.8px}
+.card-value{color:var(--heading);font:800 29px/1 "Manrope",sans-serif}
+.card-note{margin-top:7px;color:#9b948b;font-size:10px}
+
+/* SECTIONS */
+.section{margin-bottom:17px;padding:20px;background:var(--surface);border:1px solid var(--line);
+ border-radius:14px;box-shadow:var(--shadow)}
+.section-title{display:flex;align-items:center;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee9e2;
+ color:var(--heading);font:800 16px "Manrope",sans-serif}
+.section-title:after{content:"";width:22px;height:3px;margin-left:auto;border-radius:3px;background:var(--gold)}
+
+/* MUST KNOW */
+.mustknow{padding:18px;border:1px solid #ead9d5;border-left:4px solid var(--red);border-radius:11px;
+ background:linear-gradient(135deg,#fffaf7,#fffdf9)}
+.mustknow-title{margin-bottom:8px;color:var(--heading);font:800 18px/1.35 "Manrope",sans-serif}
+.mustknow-title a{color:var(--heading)!important;text-decoration:none}
+.mustknow-meta{margin-bottom:10px;color:var(--muted);font-size:10px}
+.mustknow-text{color:#514c46;font-size:12px;line-height:1.6}
+.action-box{margin-top:13px;padding:11px 13px;border:1px solid #d9e1e4;border-left:3px solid var(--blue);
+ border-radius:8px;background:#f6f8f7}
+.action-label{margin-bottom:4px;color:var(--blue);font-size:9px;font-weight:900;letter-spacing:.7px}
+.action-text{color:#45413c;font-size:11px;line-height:1.5}
+
+/* ARTICLES */
+.intelligence-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.article{padding:16px;border:1px solid var(--line);border-radius:11px;background:#fffdf9;
+ transition:.18s ease}
+.article:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(42,34,25,.09)}
+.article-title{margin-bottom:7px;color:var(--heading);font:700 14px/1.4 "Manrope",sans-serif}
+.article-title a{color:var(--heading);text-decoration:none}
+.article-title a:hover{color:var(--red)}
+.meta{margin-bottom:8px;color:var(--muted);font-size:10px}
+.badges{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:9px}
+.badge{padding:4px 7px;border:1px solid #ded8cf;border-radius:20px;background:#f3efe9;color:#625b53;font-size:8px;font-weight:800}
+.badge-opportunity{border-color:#c8ded2;background:#edf6f1;color:var(--green)}
+.badge-risk,.badge-high{border-color:#e9c5c7;background:#fff0f0;color:#a51d28}
+.badge-watch,.badge-medium{border-color:#e4d5b8;background:#faf4e6;color:var(--amber)}
+.relevance{color:#5d5851;font-size:11px;line-height:1.5}
+.why{margin-top:10px;padding:9px 10px;border:1px solid #eee9e2;border-radius:8px;background:var(--surface2)}
+.why strong{color:#514b44;font-size:9px;letter-spacing:.6px}
+.why-text{margin-top:3px;color:#6a635b;font-size:10px;line-height:1.5}
+.article-action{margin-top:8px;color:var(--blue);font-size:10px;font-weight:700}
+.footer{padding:12px;color:#9b948b;font-size:9px;text-align:center}
+
+@media(max-width:900px){
+ .container{padding:18px}.cards{grid-template-columns:repeat(2,1fr)}.intelligence-grid{grid-template-columns:1fr}
+}
+@media(max-width:600px){
+ .container{padding:10px}.header{padding:24px 20px;border-radius:13px}.header h1{font-size:24px}
+ .header p{max-width:78%;font-size:10px}.live{position:relative;top:auto;right:auto;display:inline-block;margin-bottom:13px}
+ .cards{gap:8px}.card{padding:14px}.card-value{font-size:25px}.section{padding:14px;border-radius:12px}
+ .section-title{font-size:14px}
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<header class="header">
+ <span class="live">● LIVE INTELLIGENCE</span>
+ <h1>Sri Aditya Pharmachem</h1>
+ <p>MD Pharma Intelligence · Decision intelligence for management · Last 24 hours</p>
+</header>
+
+<section class="cards">
+ <div class="card"><div class="card-title">News detected</div><div class="card-value" id="newsCount">0</div><div class="card-note">Last 24 hours</div></div>
+ <div class="card"><div class="card-title">Opportunities</div><div class="card-value" id="opportunityCount">0</div><div class="card-note">Potential business signals</div></div>
+ <div class="card"><div class="card-title">Risks</div><div class="card-value" id="riskCount">0</div><div class="card-note">Signals requiring attention</div></div>
+ <div class="card"><div class="card-title">High Priority</div><div class="card-value" id="highPriorityCount">0</div><div class="card-note">Management attention</div></div>
+</section>
+
+<section class="section">
+ <div class="section-title">Must Know</div>
+ <div id="mustKnow"></div>
+</section>
+
+<section class="section">
+ <div class="section-title">Latest Intelligence</div>
+ <div class="intelligence-grid" id="articles"></div>
+</section>
+
+<div class="footer">MD Intelligence · Sri Aditya Pharmachem · <span id="lastUpdated">Loading...</span> · Refresh: 5 min</div>
+</div>
+
+<script>
+let data=null;
+
+function escapeHtml(text){
+ if(!text)return "";
+ return String(text).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+  .replace(/"/g,"&quot;").replace(/'/g,"&#039;");
+}
+
+function signalBadge(signal){
+ if(signal==="Opportunity")return '<span class="badge badge-opportunity">Opportunity</span>';
+ if(signal==="Risk")return '<span class="badge badge-risk">Risk</span>';
+ if(signal==="Watch")return '<span class="badge badge-watch">Watch</span>';
+ return "";
+}
+
+function priorityBadge(priority){
+ if(!priority)return "";
+ let cls=priority==="High"?"badge-high":priority==="Medium"?"badge-medium":"";
+ return '<span class="badge '+cls+'">'+escapeHtml(priority)+' Priority</span>';
+}
+
+function whyItMatters(article){
+ const area=article.business_area||"";
+ if(area.includes("API"))return "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.";
+ if(area.includes("CDMO"))return "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.";
+ if(area.includes("Investment"))return "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.";
+ if(area.includes("Manufacturing"))return "Manufacturing developments may influence capacity, competition, equipment requirements and supply opportunities.";
+ if(area.includes("Supply"))return "Supply-chain changes may affect sourcing, logistics, exports, delivery reliability or customer requirements.";
+ if(area.includes("Regulatory"))return "Regulatory developments may affect compliance, market access, customer expectations or manufacturing practices.";
+ return article.relevance||"Relevant pharma industry development to monitor for potential business impact.";
+}
+
+function actionFor(article){
+ const signal=article.signal||"",area=article.business_area||"";
+ if(signal==="Risk")return "MD Action: Review the potential impact and monitor for further developments.";
+ if(signal==="Opportunity"){
+  if(area.includes("API"))return "MD Action: Evaluate whether this creates a product, customer, sourcing or capacity opportunity.";
+  if(area.includes("CDMO"))return "MD Action: Monitor potential CDMO/customer requirements and identify relevant commercial contacts.";
+  if(area.includes("Investment"))return "MD Action: Track the project and evaluate possible supplier, customer or partnership opportunities.";
+  return "MD Action: Evaluate for possible commercial follow-up.";
+ }
+ if(signal==="Watch")return "MD Action: Monitor. No immediate action indicated from the available information.";
+ return "MD Action: Monitor for further developments.";
+}
+
+function chooseMustKnow(articles){
+ if(!articles.length)return null;
+ return [...articles].sort((a,b)=>{
+  const score=x=>(x.signal==="Risk"?100:x.signal==="Opportunity"?60:x.signal==="Watch"?30:0)
+   +(x.priority==="High"?40:x.priority==="Medium"?20:0)
+   +((x.business_area||"").includes("API")?20:0)
+   +((x.business_area||"").includes("CDMO")?20:0)
+   +((x.business_area||"").includes("Investment")?18:0);
+  return score(b)-score(a);
+ })[0];
+}
+
+function renderMustKnow(article){
+ const box=document.getElementById("mustKnow");
+ if(!article){
+  box.innerHTML='<div class="mustknow-text">No major intelligence signal detected in the current data.</div>';
+  return;
+ }
+ box.innerHTML=`<div class="mustknow">
+  <div class="mustknow-title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a></div>
+  <div class="mustknow-meta">${escapeHtml(article.category||"")} · ${escapeHtml(article.source||"")}</div>
+  <div class="badges">${signalBadge(article.signal)}${priorityBadge(article.priority)}
+   <span class="badge">${escapeHtml(article.business_area||"Pharma")}</span></div>
+  <div class="mustknow-text">${escapeHtml(whyItMatters(article))}</div>
+  <div class="action-box"><div class="action-label">MD ACTION</div><div class="action-text">${escapeHtml(actionFor(article))}</div></div>
+ </div>`;
+}
+
+function renderArticles(articles){
+ const container=document.getElementById("articles");
+ if(!articles.length){container.innerHTML="<div>No intelligence available.</div>";return;}
+ const sorted=[...articles].sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));
+ container.innerHTML=sorted.map(article=>`<div class="article">
+  <div class="article-title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a></div>
+  <div class="meta">${escapeHtml(article.category||"")} · ${escapeHtml(article.source||"")}</div>
+  <div class="badges">${signalBadge(article.signal)}${priorityBadge(article.priority)}
+   <span class="badge">${escapeHtml(article.business_area||"Pharma")}</span></div>
+  <div class="relevance">${escapeHtml(article.relevance||"")}</div>
+  <div class="why"><strong>WHY IT MATTERS</strong><div class="why-text">${escapeHtml(whyItMatters(article))}</div></div>
+  <div class="article-action">${escapeHtml(actionFor(article))}</div>
+ </div>`).join("");
+}
+
+async function loadData(){
+ try{
+  const response=await fetch("data.json?t="+Date.now());
+  data=await response.json();
+  const articles=Array.isArray(data.articles)?data.articles:[];
+  document.getElementById("newsCount").textContent=articles.length;
+  document.getElementById("opportunityCount").textContent=articles.filter(a=>a.signal==="Opportunity").length;
+  document.getElementById("riskCount").textContent=articles.filter(a=>a.signal==="Risk").length;
+  document.getElementById("highPriorityCount").textContent=articles.filter(a=>a.priority==="High").length;
+  renderMustKnow(chooseMustKnow(articles));
+  renderArticles(articles);
+  if(data.updated){
+   const date=new Date(data.updated);
+   document.getElementById("lastUpdated").textContent="Last updated: "+date.toLocaleString("en-IN",{
+    day:"2-digit",month:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit"
+   });
+  }
+ }catch(error){
+  console.error(error);
+  document.getElementById("articles").innerHTML='<div style="color:#a51d28">Unable to load intelligence data. Please refresh the page.</div>';
+ }
+}
+
+loadData();
+setInterval(loadData,5*60*1000);
+</script>
+</body>
+</html>
