@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-02T07:50:26.261189+00:00",
-  "engine_version": "3.2.0",
-  "article_count": 2,
+  "updated": "2026-10-02T07:55:15.827049+00:00",
+  "engine_version": "3.2.1",
+  "article_count": 4,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
@@ -10,7 +10,7 @@
   "must_know": [
     {
       "category": "Global",
-      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
       "description": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake Sahi",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelF4NFR0eGVBUlk3MEtreDNNN3ZINFBtQkt1Sk45eGhueURrb0Y4c21uSERjbWJ4NHlnQnpSUmQ0WTZ5Vk55aXVCVDBIUDBPanFCZ2V6TUdlb3hac3FaNzBOMldjaDB1MHBIRXk0UGUyLW9pX1YzWWdqcTlzWEdGODR4MVoya2ZJNVNQYm1CWHE3QU0zRFc4N0U5MGR0LWlCb1BlRzR1YVlwVE5LWXhOTHo3a0g0aVJCMzNweS1XRQ?oc=5",
       "published": "2026-10-01T12:47:06+00:00",
@@ -23,7 +23,7 @@
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
         "Gland Pharma",
-        "NovelStar Pharma Stake - Sahi Gland Pharma",
+        "NovelStar Pharma Stake Gland Pharma",
         "NovelStar Pharma"
       ],
       "project_signals": [
@@ -37,7 +37,7 @@
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Investment / Acquisition",
-      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi.",
+      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake.",
       "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
@@ -48,8 +48,8 @@
     },
     {
       "category": "India",
-      "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
-      "description": "Drug regulator may review machinery disposal at non-compliant pharma units Business Standard",
+      "title": "Drug regulator may review machinery disposal at non-compliant pharma units",
+      "description": "Drug regulator may review machinery disposal at non-compliant pharma units business",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3FkLTVuTDhUb3BnZXAzOWo0ajRmWXdZc24xT1ZVQUNtM3pyVVAtM01naUU0WGx4blNjVlY2a1Jtam41Nkl2ZXVLWndkSFJRenN3R3Zkd3djTEtOamJIMEkwdzVvaWFfeUFsMXRLMlZ5NW9IY1EtZGg1aVpqYlBXd2RKZVBzaUJLVDlwZmlIMGlvZHNIZXlTNUpwOWVwMThocG9WZl9uZmU4T01feG5fN3F4OVctc3lvSHJ0V0gzV21lUE9QZzc4QlA4NDVmazVUc2ZZQ0ZiODgyUdIB3wFBVV95cUxPM0I4NktCalF2TUxGRFEtNDFhUF9jTzZRVUlpU3M4MzhTSzVqeEwyS0NHTWF3NXNFU3pRMDRzSjFlRGl1NktRb3NjNTJ0NWJSaHJrQm1teFlHLTJwSWNZMzV3cTQzQjJMWkx5RDJnWUxyQlprVlpfTUlKbk9ZVkdfOVhVMUhpYjdVNkJTWnRwZFl4R1A3YmZrdXlRSGpEZm1EMEg5M3N4U2lOLXZyTmNsRDdzdmpsT1dWU00xRUF4QkVvbzJ2R25OWWU2aFZ0ajhmOG00YmJXdXY2U1Z3UmZN?oc=5",
       "published": "2026-10-01T12:53:36+00:00",
       "source": "Google News RSS",
@@ -62,7 +62,7 @@
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Business Standard",
+      "source_name": "Google News RSS",
       "source_credibility": "Established",
       "location": "India",
       "event_type": "Regulatory Action",
@@ -89,23 +89,23 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
         "signal": "Opportunity",
         "why": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships."
       },
       {
-        "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
+        "title": "Drug regulator may review machinery disposal at non-compliant pharma units",
         "signal": "Watch",
         "why": "Industry development that should be monitored for potential business impact."
       }
     ],
     "investigate": [
       {
-        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
         "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
       },
       {
-        "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
+        "title": "Drug regulator may review machinery disposal at non-compliant pharma units",
         "question": "Which company, product and market are affected, and could the action create supply or customer disruption?"
       }
     ],
@@ -114,8 +114,8 @@
   "articles": [
     {
       "category": "India",
-      "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
-      "description": "Drug regulator may review machinery disposal at non-compliant pharma units Business Standard",
+      "title": "Drug regulator may review machinery disposal at non-compliant pharma units",
+      "description": "Drug regulator may review machinery disposal at non-compliant pharma units business",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3FkLTVuTDhUb3BnZXAzOWo0ajRmWXdZc24xT1ZVQUNtM3pyVVAtM01naUU0WGx4blNjVlY2a1Jtam41Nkl2ZXVLWndkSFJRenN3R3Zkd3djTEtOamJIMEkwdzVvaWFfeUFsMXRLMlZ5NW9IY1EtZGg1aVpqYlBXd2RKZVBzaUJLVDlwZmlIMGlvZHNIZXlTNUpwOWVwMThocG9WZl9uZmU4T01feG5fN3F4OVctc3lvSHJ0V0gzV21lUE9QZzc4QlA4NDVmazVUc2ZZQ0ZiODgyUdIB3wFBVV95cUxPM0I4NktCalF2TUxGRFEtNDFhUF9jTzZRVUlpU3M4MzhTSzVqeEwyS0NHTWF3NXNFU3pRMDRzSjFlRGl1NktRb3NjNTJ0NWJSaHJrQm1teFlHLTJwSWNZMzV3cTQzQjJMWkx5RDJnWUxyQlprVlpfTUlKbk9ZVkdfOVhVMUhpYjdVNkJTWnRwZFl4R1A3YmZrdXlRSGpEZm1EMEg5M3N4U2lOLXZyTmNsRDdzdmpsT1dWU00xRUF4QkVvbzJ2R25OWWU2aFZ0ajhmOG00YmJXdXY2U1Z3UmZN?oc=5",
       "published": "2026-10-01T12:53:36+00:00",
       "source": "Google News RSS",
@@ -128,7 +128,7 @@
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Business Standard",
+      "source_name": "Google News RSS",
       "source_credibility": "Established",
       "location": "India",
       "event_type": "Regulatory Action",
@@ -143,7 +143,7 @@
     },
     {
       "category": "Global",
-      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
       "description": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake Sahi",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelF4NFR0eGVBUlk3MEtreDNNN3ZINFBtQkt1Sk45eGhueURrb0Y4c21uSERjbWJ4NHlnQnpSUmQ0WTZ5Vk55aXVCVDBIUDBPanFCZ2V6TUdlb3hac3FaNzBOMldjaDB1MHBIRXk0UGUyLW9pX1YzWWdqcTlzWEdGODR4MVoya2ZJNVNQYm1CWHE3QU0zRFc4N0U5MGR0LWlCb1BlRzR1YVlwVE5LWXhOTHo3a0g0aVJCMzNweS1XRQ?oc=5",
       "published": "2026-10-01T12:47:06+00:00",
@@ -156,7 +156,7 @@
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
         "Gland Pharma",
-        "NovelStar Pharma Stake - Sahi Gland Pharma",
+        "NovelStar Pharma Stake Gland Pharma",
         "NovelStar Pharma"
       ],
       "project_signals": [
@@ -170,13 +170,73 @@
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Investment / Acquisition",
-      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi.",
+      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake.",
       "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "Medium",
       "confidence": 55,
       "importance_score": 15,
+      "fact_status": "Reported development - verify primary source before commercial action"
+    },
+    {
+      "category": "India",
+      "title": "Extra Neutral Alcohol Manufacturing Plant Setup in India - IMARC Group",
+      "description": "Extra Neutral Alcohol Manufacturing Plant Setup in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFRqczQ3SmdiQlpHT0hBME5odVZnWXA1NHBtQ2ZQQUxZZ2lXVjBNM2VQc01qcWlvaTNGMUd2RVNCSldIZnVXRG1zWVRQbmg0YnFYYXhtNHdDS3drWkhiR01BSVB6bFVrcGgwakRZODhWeWpoa3ROTXpkQmRhdW5OcW40U3o1U01ZWWdaSHZEWnI3Q3VnRDNETQ?oc=5",
+      "published": "2026-10-01T11:14:11+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": [],
+      "source_name": "Google News RSS",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Extra Neutral Alcohol Manufacturing Plant Setup in India - IMARC Group.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 11,
+      "fact_status": "Reported development - verify primary source before commercial action"
+    },
+    {
+      "category": "Hyderabad",
+      "title": "BASF To Set Up Global Service Hub In Hyderabad | 3,000 Jobs Expected | Minister Sridhar Babu Kevin O'leary (UNAfm8Yr80) - Unisba Media",
+      "description": "BASF To Set Up Global Service Hub In Hyderabad | 3,000 Jobs Expected | Minister Sridhar Babu Kevin O'leary (UNAfm8Yr80) Unisba Media",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbndJZ2VqNU1QQzdfRkViWE9rSm5JejJBU2o0aThuUjdFWTcwYmZPZlZrZmhRdENCZ1MzM19hXzB0czctVnFHR1lmNDhhd1lmeU1hYi1Jcm1nM3RQbVZmcWNLTmszNVhyRmh4WGFDWEEydVQ3NUV4YVBYRnFfbmZfa2dIWnE3RjQ?oc=5",
+      "published": "2026-10-01T06:12:11+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Google News RSS",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "BASF To Set Up Global Service Hub In Hyderabad | 3,000 Jobs Expected | Minister Sridhar Babu Kevin O'leary (UNAfm8Yr80) - Unisba Media.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 5,
       "fact_status": "Reported development - verify primary source before commercial action"
     }
   ]
