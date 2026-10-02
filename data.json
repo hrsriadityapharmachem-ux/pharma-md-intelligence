@@ -1,13 +1,51 @@
 {
-  "updated": "2026-10-02T07:38:57.000733+00:00",
-  "engine_version": "3.1.1",
-  "article_count": 5,
-  "opportunity_count": 0,
+  "updated": "2026-10-02T07:50:26.261189+00:00",
+  "engine_version": "3.2.0",
+  "article_count": 2,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
-  "high_priority_count": 0,
-  "successful_feeds": 13,
+  "high_priority_count": 1,
+  "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+      "description": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake Sahi",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelF4NFR0eGVBUlk3MEtreDNNN3ZINFBtQkt1Sk45eGhueURrb0Y4c21uSERjbWJ4NHlnQnpSUmQ0WTZ5Vk55aXVCVDBIUDBPanFCZ2V6TUdlb3hac3FaNzBOMldjaDB1MHBIRXk0UGUyLW9pX1YzWWdqcTlzWEdGODR4MVoya2ZJNVNQYm1CWHE3QU0zRFc4N0U5MGR0LWlCb1BlRzR1YVlwVE5LWXhOTHo3a0g0aVJCMzNweS1XRQ?oc=5",
+      "published": "2026-10-01T12:47:06+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Gland Pharma",
+        "NovelStar Pharma Stake - Sahi Gland Pharma",
+        "NovelStar Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [
+        "21 million",
+        "$21 million"
+      ],
+      "source_name": "Google News RSS",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi.",
+      "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "evidence_level": "Medium",
+      "confidence": 55,
+      "importance_score": 15,
+      "fact_status": "Reported development - verify primary source before commercial action"
+    },
     {
       "category": "India",
       "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
@@ -36,76 +74,12 @@
       "confidence": 70,
       "importance_score": 3,
       "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in",
-      "description": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer hrtoday.in",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjZDSXB6M2pjeGRkZ0p4YXVKNTNuOHREN3FQWldGUEQzRVpXd2oxbHZ6MnNQV0NiMHdSLVBET01TRFctbDRXaF84RE5Lb0hoQWY0RndqTEhwRzV3RFNjc0daLUVlak0ydlBZN1JJYjE4NzVOSHZmUDY0bHFqcnNaREZYNVJXT256anRmeVdB?oc=5",
-      "published": "2026-10-01T11:15:29+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Ganesh Balakrishnan Joins Anthea Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Google News RSS",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Leadership Change",
-      "what_happened": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 5,
-      "fact_status": "Reported development - verify primary source before commercial action"
-    },
-    {
-      "category": "India",
-      "title": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs - Moneycontrol.com",
-      "description": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmxobmxFWjZNejFBVGRpNWJtM3dxRFUzUnlBVF8yVmFFZTZrMHo0cVd4Zk5qSUpZRndMTmV1cVdHcjZtb0QtblNXRDFUdm5fS0g0d3J1T055bjlMTHdTMktiZmZyTmhwU2RfR2k1ak9YVGtrM0I1b3JYcENLdzdhRW5iSlVaV2R6N1JpWnp2bzNpbnptREsxNTh1aGFIbHZqLWFrOVpkQVVCNDUtOXRXcTVtZE9CbDdaUERvWTJkVDVGNVFUaW81X3NYZ0lsM3ZEemfSAdcBQVVfeXFMUG1CcV82UWprZnd5NGFQOGpCY0xaX1RSSFM1LS0zQzhFMnVhcnlPNUFIckwtNXFoS1pSN2NCeDd4cmgtbVMxNE9CVDFmVUdDXy1sWmRwVVljTnFEbGNZSE54by1rVTBicEl1ZXd2RnlhdVM5OWtUdFhqaDdzeGNlVDk5SjdOVC1DRnhHcWwyN1NhUGlyQXJ6UlMzVjR0eUhqRmx1UFpoV0VPcWRWSDdXaUl0N2p2dUZNSTA1Mi1GemJKWnVuNTdjWTBmLVFZdzVXUzFMcUFwOTQ?oc=5",
-      "published": "2026-10-01T13:54:18+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Ujin Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "rs,"
-      ],
-      "source_name": "Moneycontrol",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs - Moneycontrol.com.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "High",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 0,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -115,22 +89,21 @@
   "daily_brief": {
     "attention": [
       {
+        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+        "signal": "Opportunity",
+        "why": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships."
+      },
+      {
         "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
         "signal": "Watch",
         "why": "Industry development that should be monitored for potential business impact."
-      },
-      {
-        "title": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in",
-        "signal": "General",
-        "why": "Relevant pharma industry development for monitoring."
-      },
-      {
-        "title": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs - Moneycontrol.com",
-        "signal": "General",
-        "why": "Relevant pharma industry development for monitoring."
       }
     ],
     "investigate": [
+      {
+        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
+      },
       {
         "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
         "question": "Which company, product and market are affected, and could the action create supply or customer disruption?"
@@ -141,99 +114,6 @@
   "articles": [
     {
       "category": "India",
-      "title": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs - Moneycontrol.com",
-      "description": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmxobmxFWjZNejFBVGRpNWJtM3dxRFUzUnlBVF8yVmFFZTZrMHo0cVd4Zk5qSUpZRndMTmV1cVdHcjZtb0QtblNXRDFUdm5fS0g0d3J1T055bjlMTHdTMktiZmZyTmhwU2RfR2k1ak9YVGtrM0I1b3JYcENLdzdhRW5iSlVaV2R6N1JpWnp2bzNpbnptREsxNTh1aGFIbHZqLWFrOVpkQVVCNDUtOXRXcTVtZE9CbDdaUERvWTJkVDVGNVFUaW81X3NYZ0lsM3ZEemfSAdcBQVVfeXFMUG1CcV82UWprZnd5NGFQOGpCY0xaX1RSSFM1LS0zQzhFMnVhcnlPNUFIckwtNXFoS1pSN2NCeDd4cmgtbVMxNE9CVDFmVUdDXy1sWmRwVVljTnFEbGNZSE54by1rVTBicEl1ZXd2RnlhdVM5OWtUdFhqaDdzeGNlVDk5SjdOVC1DRnhHcWwyN1NhUGlyQXJ6UlMzVjR0eUhqRmx1UFpoV0VPcWRWSDdXaUl0N2p2dUZNSTA1Mi1GemJKWnVuNTdjWTBmLVFZdzVXUzFMcUFwOTQ?oc=5",
-      "published": "2026-10-01T13:54:18+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Ujin Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "rs,"
-      ],
-      "source_name": "Moneycontrol",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Carlsberg India, TMC Transformers, Ujin Pharma receive SEBI nod to float IPOs - Moneycontrol.com.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "High",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Global",
-      "title": "CPHI Milan 2026: Global Pharma Showcase Kicks Off, with Taiwan Delegation Rising to New Heights - geneonline.com",
-      "description": "CPHI Milan 2026: Global Pharma Showcase Kicks Off, with Taiwan Delegation Rising to New Heights geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXJlY2xVUldETVhLWHJDc0FkN2ZseXZWMXBsM0lLbXB0enRDYS1ncFYxQi1EbWNFbFUyNHZkek5mSWRZZHBhZlM1eVFGaE1DM0sxWTMyRGQxZnNzaC1RTWZfWTVCck1GZXpGTkpiY1VtYV90Q2lpeGlCQVdxSTQxLWpjX2cwM2MzeDRTNVA3SHJzVjZyU1lwUXFIcmtucGhIMTVIZlRXVm1fZzRvUkZCNUFBcHlIT2duMUs0V2Jn?oc=5",
-      "published": "2026-10-01T13:40:28+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Google News RSS",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Industry Event",
-      "what_happened": "CPHI Milan 2026: Global Pharma Showcase Kicks Off, with Taiwan Delegation Rising to New Heights - geneonline.com.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported development - verify primary source before commercial action"
-    },
-    {
-      "category": "Global",
-      "title": "Dr. Jean-Luc Herbeaux Joins CordenPharma as Group Chief Executive Officer - hrtoday.in",
-      "description": "Dr. Jean-Luc Herbeaux Joins CordenPharma as Group Chief Executive Officer hrtoday.in",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0w1U2tRbU8wVzFuV08zajRhZUE2enJ0bjFKSFg2QXNfQzd0Tjd1eGtnWjVQMXJaRkhUclVGZGpEQTB2MzVEc3puQ2YzaGVBNHJkUzRXc1U4aGlBNUdROGkwYURpbU9RRmdnODgtWlQ3dkZaaGhDd2V2WUJHWHBsdndwSjJfd0lrM1FuQ3gtNEZlbGZQUHBR?oc=5",
-      "published": "2026-10-01T13:12:48+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Dr. Jean-Luc Herbeaux Joins CordenPharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Google News RSS",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Leadership Change",
-      "what_happened": "Dr. Jean-Luc Herbeaux Joins CordenPharma as Group Chief Executive Officer - hrtoday.in.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported development - verify primary source before commercial action"
-    },
-    {
-      "category": "India",
       "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
       "description": "Drug regulator may review machinery disposal at non-compliant pharma units Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3FkLTVuTDhUb3BnZXAzOWo0ajRmWXdZc24xT1ZVQUNtM3pyVVAtM01naUU0WGx4blNjVlY2a1Jtam41Nkl2ZXVLWndkSFJRenN3R3Zkd3djTEtOamJIMEkwdzVvaWFfeUFsMXRLMlZ5NW9IY1EtZGg1aVpqYlBXd2RKZVBzaUJLVDlwZmlIMGlvZHNIZXlTNUpwOWVwMThocG9WZl9uZmU4T01feG5fN3F4OVctc3lvSHJ0V0gzV21lUE9QZzc4QlA4NDVmazVUc2ZZQ0ZiODgyUdIB3wFBVV95cUxPM0I4NktCalF2TUxGRFEtNDFhUF9jTzZRVUlpU3M4MzhTSzVqeEwyS0NHTWF3NXNFU3pRMDRzSjFlRGl1NktRb3NjNTJ0NWJSaHJrQm1teFlHLTJwSWNZMzV3cTQzQjJMWkx5RDJnWUxyQlprVlpfTUlKbk9ZVkdfOVhVMUhpYjdVNkJTWnRwZFl4R1A3YmZrdXlRSGpEZm1EMEg5M3N4U2lOLXZyTmNsRDdzdmpsT1dWU00xRUF4QkVvbzJ2R25OWWU2aFZ0ajhmOG00YmJXdXY2U1Z3UmZN?oc=5",
@@ -262,34 +142,41 @@
       "fact_status": "Reported by established source - verify primary source before commercial action"
     },
     {
-      "category": "Hyderabad",
-      "title": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in",
-      "description": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer hrtoday.in",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjZDSXB6M2pjeGRkZ0p4YXVKNTNuOHREN3FQWldGUEQzRVpXd2oxbHZ6MnNQV0NiMHdSLVBET01TRFctbDRXaF84RE5Lb0hoQWY0RndqTEhwRzV3RFNjc0daLUVlak0ydlBZN1JJYjE4NzVOSHZmUDY0bHFqcnNaREZYNVJXT256anRmeVdB?oc=5",
-      "published": "2026-10-01T11:15:29+00:00",
+      "category": "Global",
+      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi",
+      "description": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake Sahi",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelF4NFR0eGVBUlk3MEtreDNNN3ZINFBtQkt1Sk45eGhueURrb0Y4c21uSERjbWJ4NHlnQnpSUmQ0WTZ5Vk55aXVCVDBIUDBPanFCZ2V6TUdlb3hac3FaNzBOMldjaDB1MHBIRXk0UGUyLW9pX1YzWWdqcTlzWEdGODR4MVoya2ZJNVNQYm1CWHE3QU0zRFc4N0U5MGR0LWlCb1BlRzR1YVlwVE5LWXhOTHo3a0g0aVJCMzNweS1XRQ?oc=5",
+      "published": "2026-10-01T12:47:06+00:00",
       "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
-        "Ganesh Balakrishnan Joins Anthea Pharma"
+        "Gland Pharma",
+        "NovelStar Pharma Stake - Sahi Gland Pharma",
+        "NovelStar Pharma"
       ],
-      "project_signals": [],
-      "numbers": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [
+        "21 million",
+        "$21 million"
+      ],
       "source_name": "Google News RSS",
       "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Leadership Change",
-      "what_happened": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake - Sahi.",
+      "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 5,
+      "confidence": 55,
+      "importance_score": 15,
       "fact_status": "Reported development - verify primary source before commercial action"
     }
   ]
