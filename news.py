@@ -482,10 +482,9 @@ def deduplicate(articles):
 
 def extract_source(title, description):
 
-    text = title + " " + description
+    text = clean_text(title + " " + description)
 
     known_sources = [
-
         "Business Standard",
         "Moneycontrol.com",
         "The Economic Times",
@@ -506,7 +505,6 @@ def extract_source(title, description):
         "Indian Express",
         "GeneOnline",
         "hrtoday.in"
-
     ]
 
     lower_text = text.lower()
@@ -514,23 +512,11 @@ def extract_source(title, description):
     for source in known_sources:
 
         if source.lower() in lower_text:
-
             return source
 
-    # Google News descriptions frequently contain:
-    # "Story title Publisher"
-    # Try extracting the final publisher-like segment.
-
-    match = re.search(
-        r"\b([A-Za-z][A-Za-z0-9 .&]{2,50})$",
-        clean_text(description)
-    )
-
-    if match:
-        candidate = match.group(1).strip()
-
-        if len(candidate.split()) <= 8:
-            return candidate
+    # Do NOT guess a publisher from arbitrary trailing words.
+    # Google News descriptions can end with incomplete publisher
+    # names or unrelated text.
 
     return "Google News RSS"
 
@@ -918,60 +904,80 @@ def determine_signal(text, event_type):
 
     lower = text.lower()
 
-    if event_type in {
-        "Regulatory Action",
-        "Supply Disruption"
-    }:
+    # Potential / reported regulatory language should not
+    # automatically become a high-severity Risk.
+
+    potential_regulatory_terms = [
+        "may review",
+        "may investigate",
+        "could review",
+        "could investigate",
+        "likely to review",
+        "reportedly considering",
+        "proposed action",
+        "possible action"
+    ]
+
+    if event_type == "Regulatory Action":
+
+        if any(
+            term in lower
+            for term in potential_regulatory_terms
+        ):
+            return "Watch"
 
         return "Risk"
 
-    if event_type in {
-        "Commercial Agreement",
-        "Capacity Expansion",
-        "Investment / Acquisition",
-        "Market / Export Move"
-    }:
+    if event_type == "Supply Disruption":
+        return "Risk"
 
+    if event_type in {
+    "Commercial Agreement",
+    "Capacity Expansion",
+    "Market / Export Move"
+}:
+    return "Opportunity"
+
+if event_type == "Investment / Acquisition":
+
+    # Investment alone is not proof of a commercial
+    # opportunity for Sri Aditya.
+    # It becomes an opportunity only when there is
+    # a relevant product, capacity, partnership,
+    # manufacturing or sourcing angle.
+
+    opportunity_terms = [
+        "manufacturing",
+        "capacity",
+        "api",
+        "intermediate",
+        "cdmo",
+        "contract",
+        "supply",
+        "supplier",
+        "partnership",
+        "facility",
+        "plant",
+        "production"
+    ]
+
+    if any(
+        term in lower
+        for term in opportunity_terms
+    ):
         return "Opportunity"
 
+    return "Watch"
     if event_type == "Regulatory Approval":
-
         return "Watch"
 
-    if (
-        any(
-            keyword in lower
-            for keyword in RISK_KEYWORDS
-        )
+    if any(
+        keyword in lower
+        for keyword in RISK_KEYWORDS
     ):
-
         return "Risk"
 
     return "General"
-
-
-# ============================================================
-# EVIDENCE
-# ============================================================
-
-def evidence_level(source, event_type):
-
-    established = source_credibility(source) == "Established"
-
-    if established and event_type not in {
-        "Leadership Change",
-        "Industry Event"
-    }:
-
-        return "High"
-
-    if established:
-
-        return "Medium"
-
-    return "Medium"
-
-
 # ============================================================
 # CONFIDENCE
 # ============================================================
@@ -1432,7 +1438,7 @@ def build_article(
 
     # Keep broadly relevant pharma/chemical stories.
     # Very low relevance is discarded.
-    if relevance < 4:
+    if relevance < 2:
         return None
 
     source = extract_source(
