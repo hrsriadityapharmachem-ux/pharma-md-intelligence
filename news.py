@@ -1,404 +1,758 @@
 import json
-import re
-import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from html import unescape
+from urllib.parse import unquote
+import re
+import time
+import os
+
 
 # ============================================================
 # SRI ADITYA PHARMACHEM
-# MD PHARMA INTELLIGENCE - V2 ENGINE
-# Standard-library only
+# MD PHARMA INTELLIGENCE
+# V3.0
+#
+# Architecture:
+# RSS COLLECTION
+#      ↓
+# CLEANING
+#      ↓
+# RELEVANCE FILTER
+#      ↓
+# DEDUPLICATION
+#      ↓
+# EVENT CLASSIFICATION
+#      ↓
+# BUSINESS INTELLIGENCE
+#      ↓
+# PRIORITY
+#      ↓
+# data.json
+# ============================================================
+
+
+ENGINE_VERSION = "3.0"
+
+
+# ============================================================
+# FEEDS
+#
+# IMPORTANT:
+# Broad feeds are intentionally retained because Google News
+# search can return zero results for overly restrictive queries.
+# Targeted feeds supplement them rather than replacing them.
 # ============================================================
 
 FEEDS = {
+
     "Hyderabad": [
-        "https://news.google.com/rss/search?q=Hyderabad+pharma+investment+OR+pharma+plant+OR+API+manufacturing&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Hyderabad+pharma+expansion+OR+capacity+OR+acquisition+OR+partnership&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Hyderabad+CDMO+OR+contract+manufacturing+OR+bulk+drug+OR+specialty+chemical&hl=en-IN&gl=IN&ceid=IN:en"
+
+        "https://news.google.com/rss/search?q=Hyderabad+pharma+OR+Hyderabad+pharmaceutical&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=Hyderabad+API+OR+Hyderabad+chemical+industry&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=Hyderabad+CDMO+OR+pharma+investment+OR+pharma+plant&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=Hyderabad+pharma+expansion+OR+acquisition+OR+partnership&hl=en-IN&gl=IN&ceid=IN:en"
+
     ],
 
     "Vizag / AP": [
-        "https://news.google.com/rss/search?q=Visakhapatnam+pharma+investment+OR+API+plant+OR+bulk+drug&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+investment+OR+API+manufacturing+OR+chemical+plant&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+expansion+OR+acquisition+OR+partnership+OR+CDMO&hl=en-IN&gl=IN&ceid=IN:en"
+
+        "https://news.google.com/rss/search?q=Visakhapatnam+pharma+OR+Vizag+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+API+OR+Andhra+Pradesh+pharma+OR+bulk+drug+park&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+investment+OR+pharma+plant+OR+chemical+plant&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+expansion+OR+acquisition+OR+partnership&hl=en-IN&gl=IN&ceid=IN:en"
+
     ],
 
     "India": [
-        "https://news.google.com/rss/search?q=India+API+investment+OR+API+capacity+OR+bulk+drug+manufacturing&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+pharma+acquisition+OR+pharma+partnership+OR+CDMO+contract&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+pharma+FDA+OR+CDSCO+OR+USFDA+warning+OR+regulatory+action&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+pharma+export+OR+drug+shortage+OR+supply+disruption+OR+price&hl=en-IN&gl=IN&ceid=IN:en"
+
+        "https://news.google.com/rss/search?q=India+pharma+OR+Indian+pharmaceutical+industry&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=India+API+OR+pharma+investment+OR+CDMO&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=India+bulk+drug+OR+API+manufacturing+OR+pharma+capacity&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=India+pharma+regulatory+OR+CDSCO+OR+FDA+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=India+pharma+export+OR+drug+shortage+OR+supply+disruption&hl=en-IN&gl=IN&ceid=IN:en",
+
+        "https://news.google.com/rss/search?q=India+pharma+acquisition+OR+partnership+OR+contract+manufacturing&hl=en-IN&gl=IN&ceid=IN:en"
+
     ],
 
     "Global": [
-        "https://news.google.com/rss/search?q=global+API+capacity+OR+API+investment+OR+pharma+manufacturing&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=global+pharma+acquisition+OR+partnership+OR+CDMO+contract&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=FDA+pharma+warning+OR+FDA+approval+OR+EMA+regulatory+action&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=global+drug+shortage+OR+API+supply+disruption+OR+pharma+export&hl=en-US&gl=US&ceid=US:en"
+
+        "https://news.google.com/rss/search?q=global+pharma+industry&hl=en-US&gl=US&ceid=US:en",
+
+        "https://news.google.com/rss/search?q=FDA+pharmaceutical+OR+EMA+pharma&hl=en-US&gl=US&ceid=US:en",
+
+        "https://news.google.com/rss/search?q=global+API+OR+CDMO+pharma&hl=en-US&gl=US&ceid=US:en",
+
+        "https://news.google.com/rss/search?q=global+pharma+acquisition+OR+partnership+OR+investment&hl=en-US&gl=US&ceid=US:en",
+
+        "https://news.google.com/rss/search?q=global+API+supply+OR+drug+shortage+OR+pharma+manufacturing&hl=en-US&gl=US&ceid=US:en"
+
     ]
 }
 
-CORE_TERMS = [
-    "pharma", "pharmaceutical", "drug", "api",
-    "active pharmaceutical ingredient", "intermediate",
-    "bulk drug", "cdmo", "contract manufacturing",
-    "chemical", "biologics", "biosimilar",
-    "manufacturing", "fda", "ema", "cdsco",
-]
+
+# ============================================================
+# BUSINESS AREAS
+# ============================================================
 
 BUSINESS_AREAS = {
+
     "API / Intermediates": [
-        "api", "active pharmaceutical ingredient", "intermediate",
-        "bulk drug", "drug substance", "key starting material", "ksm",
+        "api",
+        "active pharmaceutical ingredient",
+        "intermediate",
+        "intermediates",
+        "bulk drug",
+        "bulk drugs",
+        "drug substance"
     ],
+
     "CDMO / Contract Manufacturing": [
-        "cdmo", "cmo", "contract manufacturing",
-        "contract development", "outsourcing", "custom synthesis",
+        "cdmo",
+        "contract manufacturing",
+        "contract development",
+        "contract manufacturer",
+        "outsourcing",
+        "toll manufacturing"
     ],
+
     "Manufacturing / Plants": [
-        "manufacturing plant", "manufacturing facility",
-        "production facility", "new plant", "new facility",
-        "capacity expansion", "production capacity",
-        "greenfield", "brownfield",
+        "manufacturing plant",
+        "manufacturing facility",
+        "plant",
+        "facility",
+        "capacity",
+        "production capacity",
+        "expansion",
+        "new unit",
+        "new facility"
     ],
+
     "Investment / Expansion": [
-        "investment", "invest", "expansion", "greenfield",
-        "brownfield", "new project", "capital expenditure",
-        "capex", "acquisition",
+        "investment",
+        "invested",
+        "expansion",
+        "capex",
+        "capital expenditure",
+        "acquisition",
+        "acquire",
+        "acquired",
+        "merger",
+        "funding"
     ],
+
     "Regulatory": [
-        "fda", "usfda", "ema", "cdsco", "regulatory",
-        "inspection", "warning letter", "import alert",
-        "recall", "compliance", "483",
+        "fda",
+        "usfda",
+        "cdsco",
+        "ema",
+        "regulator",
+        "regulatory",
+        "warning letter",
+        "inspection",
+        "approval",
+        "compliance",
+        "non-compliant",
+        "recall"
     ],
+
     "Exports / Markets": [
-        "export", "exports", "market entry", "launches in",
-        "international market", "overseas", "trade",
+        "export",
+        "exports",
+        "market",
+        "market entry",
+        "international",
+        "global market",
+        "trade"
     ],
+
     "Supply Chain": [
-        "supply chain", "shortage", "raw material",
-        "supplier", "logistics", "supply disruption",
-        "import dependence", "china dependence",
+        "supply",
+        "supply chain",
+        "shortage",
+        "raw material",
+        "supplier",
+        "disruption",
+        "logistics"
     ],
+
     "Specialty Chemicals": [
-        "specialty chemical", "specialty chemicals",
-        "fine chemical", "fine chemicals",
+        "specialty chemical",
+        "specialty chemicals",
+        "fine chemical",
+        "fine chemicals",
         "chemical manufacturing",
-    ],
-}
-
-EVENT_RULES = [
-    ("Regulatory Action", [
-        "warning letter", "import alert", "form 483",
-        "483 observation", "recall", "regulatory action",
-        "failed inspection", "non-compliance", "noncompliance",
-        "suspends licence", "suspends license",
-    ]),
-    ("Supply Disruption", [
-        "shortage", "supply disruption", "production halt",
-        "plant closure", "force majeure",
-        "export restriction", "import restriction",
-    ]),
-    ("Commercial Agreement", [
-        "supply agreement", "manufacturing agreement",
-        "cdmo contract", "contract manufacturing agreement",
-        "licensing agreement", "strategic partnership",
-        "partners with", "collaboration",
-    ]),
-    ("Capacity Expansion", [
-        "capacity expansion", "expands capacity",
-        "expand capacity", "new plant", "new facility",
-        "new manufacturing facility", "greenfield",
-        "brownfield", "commissioned", "commissions",
-        "inaugurates", "opens facility",
-    ]),
-    ("Investment / Acquisition", [
-        "investment", "invests", "to invest",
-        "acquisition", "acquires", "merger",
-        "funding", "capex",
-    ]),
-    ("Market / Export Move", [
-        "market entry", "enters market", "export",
-        "exports", "launches in", "approval to market",
-        "commercial launch",
-    ]),
-    ("Regulatory Approval", [
-        "approval", "approved", "authorisation",
-        "authorization", "tentative approval",
-    ]),
-    ("Leadership Change", [
-        "joins as", "appointed", "appoints",
-        "chief executive officer", "chief business officer",
-        "new ceo", "new cfo", "new chairman",
-    ]),
-    ("Industry Event", [
-        "conference", "showcase", "exhibition",
-        "cphi", "summit",
-    ]),
-]
-
-RISK_STRONG = [
-    "warning letter", "import alert", "recall",
-    "shortage", "production halt", "plant closure",
-    "failed inspection", "non-compliance", "noncompliance",
-    "contamination", "data integrity",
-    "export restriction", "supply disruption",
-    "suspension", "ban",
-]
-
-OPPORTUNITY_STRONG = [
-    "supply agreement", "manufacturing agreement",
-    "cdmo contract", "contract manufacturing agreement",
-    "strategic partnership", "new plant", "new facility",
-    "capacity expansion", "greenfield", "brownfield",
-    "to invest", "invests", "acquisition",
-    "custom synthesis",
-]
-
-WATCH_TERMS = [
-    "fda", "ema", "cdsco", "regulatory",
-    "inspection", "approval", "policy", "guideline",
-    "rule", "tariff", "pli", "bulk drug park",
-]
-
-SOURCE_TIER_1 = {
-    "reuters",
-    "business standard",
-    "the economic times",
-    "economic times",
-    "financial express",
-    "moneycontrol",
-    "businessline",
-    "the hindu businessline",
-    "livemint",
-    "mint",
-    "fierce pharma",
-    "endpoints news",
-    "pharmaceutical technology",
-}
-
-STOPWORDS = {
-    "the", "a", "an", "and", "or", "of", "to", "for",
-    "in", "on", "at", "by", "with", "from", "as",
-    "is", "are", "be", "will", "has", "have", "had",
-    "its", "their", "this", "that", "new", "india",
-    "indian", "pharma", "pharmaceutical",
-    "pharmaceuticals",
+        "chemical plant"
+    ]
 }
 
 
 # ============================================================
-# FEED READER
+# HIGH-VALUE SIGNAL KEYWORDS
+# ============================================================
+
+OPPORTUNITY_KEYWORDS = [
+
+    "contract",
+    "agreement",
+    "partnership",
+    "supply agreement",
+    "manufacturing agreement",
+    "technology transfer",
+    "outsourcing",
+    "cdmo",
+    "capacity expansion",
+    "new plant",
+    "new facility",
+    "investment",
+    "acquisition",
+    "market entry",
+    "export",
+    "approved supplier"
+
+]
+
+
+RISK_KEYWORDS = [
+
+    "warning letter",
+    "regulatory action",
+    "regulatory violation",
+    "recall",
+    "shutdown",
+    "suspension",
+    "non-compliant",
+    "noncompliant",
+    "shortage",
+    "supply disruption",
+    "plant closure",
+    "production halt",
+    "import alert",
+    "ban",
+    "sanction",
+    "quality issue"
+
+]
+
+
+LEADERSHIP_KEYWORDS = [
+
+    "appointed",
+    "appoints",
+    "joins as",
+    "named as",
+    "chief executive",
+    "ceo",
+    "chief business officer",
+    "chief financial officer",
+    "president"
+
+]
+
+
+EVENT_KEYWORDS = [
+
+    "conference",
+    "summit",
+    "expo",
+    "exhibition",
+    "cphi",
+    "event",
+    "forum",
+    "delegation"
+
+]
+
+
+# ============================================================
+# HTTP
 # ============================================================
 
 def get_feed(url):
+
     for attempt in range(3):
+
         try:
+
             request = urllib.request.Request(
+
                 url,
+
                 headers={
-                    "User-Agent": (
-                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                        "AppleWebKit/537.36 Chrome/154.0 Safari/537.36"
-                    ),
-                    "Accept": (
-                        "application/rss+xml, application/xml, "
-                        "text/xml, */*"
-                    ),
-                    "Accept-Language": "en-US,en;q=0.9",
-                },
+                    "User-Agent":
+                        "Mozilla/5.0 "
+                        "(Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 "
+                        "Chrome/154.0 Safari/537.36",
+
+                    "Accept":
+                        "application/rss+xml, "
+                        "application/xml, "
+                        "text/xml, */*",
+
+                    "Accept-Language":
+                        "en-US,en;q=0.9"
+                }
             )
 
             with urllib.request.urlopen(
                 request,
                 timeout=30
             ) as response:
+
                 return response.read()
 
-        except Exception as exc:
+        except Exception as error:
+
             print(
-                f"Feed attempt {attempt + 1} failed: {exc}"
+                "Feed attempt",
+                attempt + 1,
+                "failed:",
+                error
             )
 
             if attempt < 2:
-                time.sleep(3)
+                time.sleep(2)
 
     return None
 
 
 # ============================================================
-# BASIC TEXT / DATE HELPERS
+# TEXT CLEANING
 # ============================================================
 
 def clean_text(text):
+
     if not text:
         return ""
 
     text = unescape(text)
-    text = re.sub(r"<[^>]+>", " ", text)
+
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
+    )
 
     return " ".join(text.split())
 
 
-def get_date(entry):
-    value = entry.findtext("pubDate")
+# ============================================================
+# DATE
+# ============================================================
 
-    if not value:
+def parse_date(text):
+
+    if not text:
         return None
 
     try:
-        dt = parsedate_to_datetime(value)
+
+        dt = parsedate_to_datetime(text)
 
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
 
-        return dt.astimezone(timezone.utc)
+        return dt
 
     except Exception:
+
         return None
 
 
-def contains_any(text, terms):
-    lower = text.lower()
+# ============================================================
+# TITLE CLEANING
+# ============================================================
 
-    return any(
-        term.lower() in lower
-        for term in terms
+def clean_title(title):
+
+    title = clean_text(title)
+
+    # Google News often appends publisher name.
+    # Keep the actual story title for analysis.
+
+    title = re.sub(
+        r"\s+-\s+[^-]{2,80}$",
+        "",
+        title
+    ).strip()
+
+    return title
+
+
+# ============================================================
+# TITLE NORMALIZATION
+# ============================================================
+
+def normalize_title(title):
+
+    title = title.lower()
+
+    title = re.sub(
+        r"[^a-z0-9]+",
+        " ",
+        title
     )
+
+    words = [
+        word
+        for word in title.split()
+        if word not in {
+            "the",
+            "a",
+            "an",
+            "of",
+            "to",
+            "in",
+            "for",
+            "on",
+            "and"
+        }
+    ]
+
+    return " ".join(words)
+
+
+# ============================================================
+# SIMILARITY
+# ============================================================
+
+def title_similarity(a, b):
+
+    a_words = set(normalize_title(a).split())
+    b_words = set(normalize_title(b).split())
+
+    if not a_words or not b_words:
+        return 0
+
+    intersection = len(a_words & b_words)
+    union = len(a_words | b_words)
+
+    return intersection / union
+
+
+# ============================================================
+# DUPLICATE FILTER
+# ============================================================
+
+def deduplicate(articles):
+
+    result = []
+
+    for article in sorted(
+        articles,
+        key=lambda x: x.get("published", ""),
+        reverse=True
+    ):
+
+        duplicate = False
+
+        for existing in result:
+
+            if title_similarity(
+                article["title"],
+                existing["title"]
+            ) >= 0.72:
+
+                duplicate = True
+                break
+
+        if not duplicate:
+            result.append(article)
+
+    return result
 
 
 # ============================================================
 # SOURCE EXTRACTION
 # ============================================================
 
-def publisher_from_title(raw_title):
-    parts = re.split(
-        r"\s+-\s+",
-        clean_text(raw_title)
+def extract_source(title, description):
+
+    text = title + " " + description
+
+    known_sources = [
+
+        "Business Standard",
+        "Moneycontrol.com",
+        "The Economic Times",
+        "Economic Times",
+        "Times of India",
+        "Financial Express",
+        "Hindustan Times",
+        "BusinessLine",
+        "PharmaBiz",
+        "ETPharma",
+        "Fierce Pharma",
+        "Reuters",
+        "ANI",
+        "PTI",
+        "CNBC",
+        "Mint",
+        "The Hindu",
+        "Indian Express",
+        "GeneOnline",
+        "hrtoday.in"
+
+    ]
+
+    lower_text = text.lower()
+
+    for source in known_sources:
+
+        if source.lower() in lower_text:
+
+            return source
+
+    # Google News descriptions frequently contain:
+    # "Story title Publisher"
+    # Try extracting the final publisher-like segment.
+
+    match = re.search(
+        r"\b([A-Za-z][A-Za-z0-9 .&]{2,50})$",
+        clean_text(description)
     )
 
-    if len(parts) >= 2:
-        candidate = parts[-1].strip()
+    if match:
+        candidate = match.group(1).strip()
 
-        if 1 < len(candidate) <= 80:
+        if len(candidate.split()) <= 8:
             return candidate
 
-    return "Unknown publisher"
+    return "Google News RSS"
 
 
-def strip_publisher(raw_title, publisher):
-    title = clean_text(raw_title)
+# ============================================================
+# SOURCE CREDIBILITY
+# ============================================================
 
-    if publisher != "Unknown publisher":
-        suffix = " - " + publisher
+def source_credibility(source):
 
-        if title.lower().endswith(
-            suffix.lower()
-        ):
-            title = title[:-len(suffix)]
+    source = source.lower()
 
-    return title.strip()
+    established = [
 
+        "reuters",
+        "business standard",
+        "economic times",
+        "the economic times",
+        "moneycontrol",
+        "financial express",
+        "times of india",
+        "the hindu",
+        "indian express",
+        "businessline",
+        "cnbc",
+        "mint",
+        "pti",
+        "ani"
 
-def source_credibility(publisher):
-    publisher_lower = publisher.lower()
+    ]
 
     if any(
-        source in publisher_lower
-        for source in SOURCE_TIER_1
+        item in source
+        for item in established
     ):
-        return "Established"
 
-    if publisher == "Unknown publisher":
-        return "Unknown"
+        return "Established"
 
     return "Standard"
 
 
 # ============================================================
-# DEDUPLICATION HELPERS
+# LOCATION
 # ============================================================
 
-def normalize_title(title):
-    words = re.findall(
-        r"[a-z0-9]+",
-        title.lower()
-    )
+def detect_location(category, text):
 
-    return " ".join(
-        word
-        for word in words
-        if word not in STOPWORDS
-    )
+    text = text.lower()
 
+    if (
+        "hyderabad" in text
+        or "telangana" in text
+    ):
 
-def title_tokens(title):
-    return set(
-        normalize_title(title).split()
-    )
+        return "Hyderabad / Telangana"
 
+    if (
+        "vizag" in text
+        or "visakhapatnam" in text
+        or "andhra pradesh" in text
+    ):
 
-def similarity(title_a, title_b):
-    tokens_a = title_tokens(title_a)
-    tokens_b = title_tokens(title_b)
+        return "Vizag / Andhra Pradesh"
 
-    if not tokens_a or not tokens_b:
-        return 0.0
+    if category == "Global":
+        return "Global"
 
-    return (
-        len(tokens_a & tokens_b)
-        / len(tokens_a | tokens_b)
-    )
+    return "India"
 
 
 # ============================================================
-# BUSINESS AREA
+# BUSINESS AREAS
 # ============================================================
 
-def determine_business_area(text):
+def detect_business_areas(text):
+
+    text = text.lower()
+
+    matches = []
+
+    for area, keywords in BUSINESS_AREAS.items():
+
+        score = sum(
+            1
+            for keyword in keywords
+            if keyword in text
+        )
+
+        if score > 0:
+
+            matches.append(
+                (
+                    area,
+                    score
+                )
+            )
+
+    matches.sort(
+        key=lambda x: x[1],
+        reverse=True
+    )
+
+    return [
+        item[0]
+        for item in matches
+    ]
+
+
+# ============================================================
+# EVENT TYPE
+# ============================================================
+
+def detect_event_type(text):
+
     lower = text.lower()
 
-    scores = {}
+    if any(
+        keyword in lower
+        for keyword in [
+            "warning letter",
+            "import alert",
+            "regulatory action",
+            "inspection",
+            "suspension",
+            "recall",
+            "non-compliant",
+            "noncompliant"
+        ]
+    ):
 
-    for area, terms in BUSINESS_AREAS.items():
-        score = 0
+        return "Regulatory Action"
 
-        for term in terms:
-            if term in lower:
-                if len(term.split()) > 1:
-                    score += 3
-                else:
-                    score += 1
+    if any(
+        keyword in lower
+        for keyword in [
+            "shortage",
+            "supply disruption",
+            "production halt",
+            "plant closure",
+            "supply issue"
+        ]
+    ):
 
-        scores[area] = score
+        return "Supply Disruption"
 
-    best = max(
-        scores,
-        key=scores.get
-    )
+    if any(
+        keyword in lower
+        for keyword in [
+            "agreement",
+            "contract",
+            "partnership",
+            "manufacturing agreement",
+            "supply agreement"
+        ]
+    ):
 
-    if scores[best] == 0:
-        return "Pharma Industry"
+        return "Commercial Agreement"
 
-    return best
+    if any(
+        keyword in lower
+        for keyword in [
+            "capacity expansion",
+            "new plant",
+            "new facility",
+            "expanded capacity",
+            "manufacturing facility"
+        ]
+    ):
 
+        return "Capacity Expansion"
 
-# ============================================================
-# EVENT UNDERSTANDING
-# ============================================================
+    if any(
+        keyword in lower
+        for keyword in [
+            "acquisition",
+            "acquire",
+            "acquired",
+            "merger",
+            "investment",
+            "funding"
+        ]
+    ):
 
-def determine_event_type(text):
-    lower = text.lower()
+        return "Investment / Acquisition"
 
-    for event_type, terms in EVENT_RULES:
-        if any(
-            term in lower
-            for term in terms
-        ):
-            return event_type
+    if any(
+        keyword in lower
+        for keyword in [
+            "export",
+            "exports",
+            "market entry",
+            "international market"
+        ]
+    ):
+
+        return "Market / Export Move"
+
+    if any(
+        keyword in lower
+        for keyword in [
+            "approval",
+            "approved",
+            "approves",
+            "approved by"
+        ]
+    ):
+
+        return "Regulatory Approval"
+
+    if any(
+        keyword in lower
+        for keyword in LEADERSHIP_KEYWORDS
+    ):
+
+        return "Leadership Change"
+
+    if any(
+        keyword in lower
+        for keyword in EVENT_KEYWORDS
+    ):
+
+        return "Industry Event"
 
     return "Industry Development"
 
@@ -407,180 +761,153 @@ def determine_event_type(text):
 # COMPANY EXTRACTION
 # ============================================================
 
-def detect_companies(title, description):
-    text = clean_text(
-        title + " " + description
-    )
+def extract_companies(title):
+
+    companies = []
+
+    known = [
+
+        "Dr Reddy's",
+        "Dr. Reddy's",
+        "Aurobindo Pharma",
+        "Divi's Laboratories",
+        "Divis Laboratories",
+        "Granules India",
+        "Laurus Labs",
+        "Natco Pharma",
+        "Hetero",
+        "MSN Laboratories",
+        "Gland Pharma",
+        "Cipla",
+        "Sun Pharma",
+        "Zydus",
+        "Biocon",
+        "Piramal Pharma",
+        "CordenPharma",
+        "Anthea Pharma",
+        "Ujin Pharma",
+        "Sai Life Sciences",
+        "Aarti Industries",
+        "Bharat Biotech",
+        "Syngene"
+
+    ]
+
+    for company in known:
+
+        if company.lower() in title.lower():
+
+            if company not in companies:
+                companies.append(company)
+
+    return companies[:5]
+
+
+# ============================================================
+# NUMBERS
+# ============================================================
+
+def extract_numbers(text):
+
+    values = []
 
     patterns = [
-        (
-            r"\b[A-Z][A-Za-z0-9&.'\- ]{1,55}\s"
-            r"(?:Pharma|Pharmaceuticals|Pharmaceutical|"
-            r"Life Sciences|Biotech|Biotechnology|"
-            r"Healthcare|Chemicals|Chemical|"
-            r"Laboratories|Labs)\b"
-        ),
-        (
-            r"\b[A-Z][A-Za-z0-9&.'\- ]{1,45}\s"
-            r"(?:Ltd|Limited|Inc|Corp|Corporation|"
-            r"PLC|LLP|Pvt Ltd)\b"
-        ),
+
+        r"(?:₹|rs\.?|inr)\s?\d+(?:\.\d+)?\s?(?:crore|cr|million|billion|lakh)?",
+
+        r"\d+(?:\.\d+)?\s?(?:crore|cr|million|billion)\b",
+
+        r"\d+(?:\.\d+)?\s?(?:million|billion)\s?(?:dollars|usd)?"
+
     ]
-
-    blacklist = {
-        "Indian Pharma",
-        "India Pharma",
-        "Global Pharma",
-        "Pharma Industry",
-        "Google News RSS",
-        "Business Standard",
-        "Financial Express",
-    }
-
-    output = []
 
     for pattern in patterns:
-        matches = re.findall(
-            pattern,
-            text
-        )
 
-        for match in matches:
-            value = " ".join(
-                match.split()
-            ).strip(" -|,.;")
-
-            if (
-                value
-                and value not in blacklist
-                and value not in output
-            ):
-                output.append(value)
-
-    return output[:5]
-
-
-# ============================================================
-# PROJECT SIGNALS
-# ============================================================
-
-def detect_project_signals(text):
-    terms = [
-        "new plant",
-        "new facility",
-        "manufacturing facility",
-        "capacity expansion",
-        "plant expansion",
-        "facility expansion",
-        "greenfield",
-        "brownfield",
-        "investment",
-        "acquisition",
-        "bulk drug park",
-        "supply agreement",
-        "manufacturing agreement",
-        "cdmo contract",
-    ]
-
-    lower = text.lower()
-
-    return [
-        term
-        for term in terms
-        if term in lower
-    ][:5]
-
-
-# ============================================================
-# MONEY / CAPACITY EXTRACTION
-# ============================================================
-
-def detect_numbers(text):
-    patterns = [
-        (
-            r"(?:₹|rs\.?|inr)\s*[\d]+(?:[.,]\d+)*\s*"
-            r"(?:crore|cr|lakh|million|mn|billion|bn)\b"
-        ),
-        (
-            r"\b[\d]+(?:[.,]\d+)*\s*"
-            r"(?:crore|cr|lakh|million|mn|billion|bn)\b"
-        ),
-        (
-            r"\b[\d]+(?:[.,]\d+)*\s*"
-            r"(?:mtpa|ktpa|tpa|tonnes|tons|metric tons|"
-            r"kg|million doses|units)\b"
-        ),
-        (
-            r"\b(?:usd|\$|eur|€)\s*[\d]+(?:[.,]\d+)*\s*"
-            r"(?:million|mn|billion|bn)?\b"
-        ),
-    ]
-
-    found = []
-
-    for pattern in patterns:
         matches = re.findall(
             pattern,
             text,
             flags=re.IGNORECASE
         )
 
-        for match in matches:
-            value = " ".join(
-                match.split()
-            ).strip()
+        for value in matches:
 
-            if (
-                value
-                and value.lower()
-                not in {
-                    item.lower()
-                    for item in found
-                }
-            ):
-                found.append(value)
+            value = value.strip()
 
-    return found[:5]
+            if len(value) > 2:
+                values.append(value)
+
+    return list(dict.fromkeys(values))[:5]
 
 
 # ============================================================
-# EVIDENCE QUALITY
+# RELEVANCE
+#
+# Broad collection is allowed.
+# This function determines whether a story belongs in the
+# MD intelligence dataset.
 # ============================================================
 
-def evidence_level(
-    title,
-    description,
-    event_type,
-    numbers,
-    companies
-):
+def relevance_score(text, category):
+
+    lower = text.lower()
+
     score = 0
 
-    if len(title.split()) >= 5:
-        score += 1
+    pharma_terms = [
 
-    if len(clean_text(description)) >= 80:
-        score += 1
+        "pharma",
+        "pharmaceutical",
+        "api",
+        "drug",
+        "medicine",
+        "cdmo",
+        "bulk drug",
+        "intermediate",
+        "chemical"
 
-    if companies:
-        score += 1
+    ]
 
-    if numbers:
-        score += 1
+    for term in pharma_terms:
 
-    if event_type not in {
-        "Industry Development",
-        "Industry Event"
+        if term in lower:
+            score += 2
+
+    high_value_terms = [
+
+        "investment",
+        "acquisition",
+        "capacity",
+        "expansion",
+        "plant",
+        "facility",
+        "contract",
+        "agreement",
+        "partnership",
+        "export",
+        "shortage",
+        "supply",
+        "fda",
+        "cdsco",
+        "inspection",
+        "approval",
+        "recall",
+        "warning"
+
+    ]
+
+    for term in high_value_terms:
+
+        if term in lower:
+            score += 3
+
+    if category in {
+        "Hyderabad",
+        "Vizag / AP"
     }:
-        score += 1
 
-    if score >= 4:
-        return "High"
+        score += 2
 
-    if score >= 2:
-        return "Medium"
-
-    return "Low"
+    return score
 
 
 # ============================================================
@@ -588,83 +915,195 @@ def evidence_level(
 # ============================================================
 
 def determine_signal(text, event_type):
+
     lower = text.lower()
 
-    # Risk wins first.
-    if any(
-        term in lower
-        for term in RISK_STRONG
-    ):
+    if event_type in {
+        "Regulatory Action",
+        "Supply Disruption"
+    }:
+
         return "Risk"
 
-    # V2 is deliberately conservative with opportunities.
     if event_type in {
         "Commercial Agreement",
         "Capacity Expansion",
         "Investment / Acquisition",
+        "Market / Export Move"
     }:
-        if any(
-            term in lower
-            for term in OPPORTUNITY_STRONG
-        ):
-            return "Opportunity"
 
-    if event_type == "Supply Disruption":
-        return "Risk"
+        return "Opportunity"
 
-    if event_type in {
-        "Regulatory Action",
-        "Regulatory Approval",
-    }:
+    if event_type == "Regulatory Approval":
+
         return "Watch"
 
-    if any(
-        term in lower
-        for term in WATCH_TERMS
+    if (
+        any(
+            keyword in lower
+            for keyword in RISK_KEYWORDS
+        )
     ):
-        return "Watch"
+
+        return "Risk"
 
     return "General"
 
 
 # ============================================================
-# FACT SUMMARY
+# EVIDENCE
 # ============================================================
 
-def fact_summary(
-    title,
+def evidence_level(source, event_type):
+
+    established = source_credibility(source) == "Established"
+
+    if established and event_type not in {
+        "Leadership Change",
+        "Industry Event"
+    }:
+
+        return "High"
+
+    if established:
+
+        return "Medium"
+
+    return "Medium"
+
+
+# ============================================================
+# CONFIDENCE
+# ============================================================
+
+def confidence_score(
+    source,
     event_type,
-    companies,
+    business_areas,
+    relevance
+):
+
+    score = 55
+
+    if source_credibility(source) == "Established":
+        score += 12
+
+    if event_type not in {
+        "Industry Development",
+        "Industry Event",
+        "Leadership Change"
+    }:
+        score += 8
+
+    if business_areas:
+        score += 8
+
+    if relevance >= 12:
+        score += 7
+
+    return min(
+        score,
+        92
+    )
+
+
+# ============================================================
+# IMPORTANCE
+# ============================================================
+
+def importance_score(
+    signal,
+    event_type,
+    category,
+    business_areas,
+    confidence,
     numbers
 ):
-    company = (
-        companies[0]
-        if companies
-        else ""
+
+    score = 0
+
+    if signal == "Risk":
+        score += 8
+
+    elif signal == "Opportunity":
+        score += 8
+
+    elif signal == "Watch":
+        score += 4
+
+    else:
+        score += 1
+
+    important_events = {
+
+        "Regulatory Action": 6,
+        "Supply Disruption": 6,
+        "Commercial Agreement": 5,
+        "Capacity Expansion": 5,
+        "Investment / Acquisition": 5,
+        "Market / Export Move": 4,
+        "Regulatory Approval": 3
+
+    }
+
+    score += important_events.get(
+        event_type,
+        0
     )
 
-    number = (
-        numbers[0]
-        if numbers
-        else ""
-    )
+    if category in {
+        "Hyderabad",
+        "Vizag / AP"
+    }:
 
-    if company and number:
-        return (
-            f"{company}: {title}. "
-            f"Reported figure: {number}."
-        )
+        score += 3
 
-    if company:
-        return (
-            f"{company}: {title}."
-        )
+    if business_areas:
+        score += 2
 
-    if number:
-        return (
-            f"{title}. "
-            f"Reported figure: {number}."
-        )
+    if numbers:
+        score += 2
+
+    if confidence >= 75:
+        score += 2
+
+    if event_type == "Leadership Change":
+        score = min(score, 2)
+
+    if event_type == "Industry Event":
+        score = min(score, 2)
+
+    return score
+
+
+# ============================================================
+# PRIORITY
+# ============================================================
+
+def priority_from_score(score):
+
+    if score >= 16:
+        return "Critical"
+
+    if score >= 11:
+        return "High"
+
+    if score >= 6:
+        return "Medium"
+
+    return "Low"
+
+
+# ============================================================
+# WHAT HAPPENED
+# ============================================================
+
+def what_happened(title):
+
+    title = title.strip()
+
+    if not title:
+        return "Development reported in the pharma / chemical industry."
 
     if title.endswith("."):
         return title
@@ -676,91 +1115,55 @@ def fact_summary(
 # WHY IT MATTERS
 # ============================================================
 
-def generate_why(
+def why_it_matters(
     event_type,
-    area,
-    category,
-    signal
+    business_areas,
+    category
 ):
-    if event_type == "Capacity Expansion":
 
-        if area == "API / Intermediates":
-            return (
-                "Capacity expansion in the API/intermediate "
-                "chain can change future demand, supplier "
-                "relationships and competitive capacity."
-            )
+    area_text = (
+        ", ".join(business_areas[:2])
+        if business_areas
+        else "the pharma industry"
+    )
 
-        return (
-            "A new or expanded manufacturing asset can "
-            "create upstream sourcing demand and alter "
-            "regional capacity or competition."
-        )
+    messages = {
 
-    if event_type == "Commercial Agreement":
-        return (
-            "A commercial or manufacturing agreement can "
-            "reveal where customers are outsourcing, "
-            "securing supply or building strategic capacity."
-        )
+        "Regulatory Action":
+            f"This may change compliance, supply or customer risk in {area_text}. The specific companies and products affected should be verified.",
 
-    if event_type == "Investment / Acquisition":
-        return (
-            "Capital deployment can indicate where industry "
-            "capacity, product portfolios or customer "
-            "relationships are moving."
-        )
+        "Supply Disruption":
+            f"A supply disruption can create pricing, sourcing or customer opportunities around {area_text}. The duration and affected products need verification.",
 
-    if event_type == "Regulatory Action":
-        return (
-            "Regulatory action can affect supply continuity, "
-            "customer qualification, export access and demand "
-            "for alternative compliant sources."
-        )
+        "Commercial Agreement":
+            f"This indicates commercial activity around {area_text} and may reveal outsourcing, supplier or partnership opportunities.",
 
-    if event_type == "Regulatory Approval":
-        return (
-            "An approval can change market access, product "
-            "competition and manufacturing or supply requirements."
-        )
+        "Capacity Expansion":
+            f"New capacity can change competitive supply, pricing and sourcing dynamics in {area_text}. The product and capacity details matter.",
 
-    if event_type == "Supply Disruption":
-        return (
-            "Supply disruption can create procurement risk, "
-            "price pressure and demand for alternative "
-            "qualified sources."
-        )
+        "Investment / Acquisition":
+            f"Capital deployment may indicate where the pharma market expects future demand or capacity growth, particularly in {area_text}.",
 
-    if event_type == "Market / Export Move":
-        return (
-            "A market or export move can signal changing "
-            "demand, customer access and geographic growth priorities."
-        )
+        "Market / Export Move":
+            f"Changes in exports or market entry can affect demand, competition and customer opportunities in {area_text}.",
 
-    if event_type == "Leadership Change":
-        return (
-            "Leadership changes are usually secondary intelligence "
-            "unless followed by a strategic, procurement or "
-            "investment change."
-        )
+        "Regulatory Approval":
+            f"A regulatory approval can change product availability or market competition. The molecule, manufacturer and market should be checked.",
 
-    if event_type == "Industry Event":
-        return (
-            "Industry-event coverage is useful only when it "
-            "reveals a concrete investment, product, partnership "
-            "or sourcing development."
-        )
+        "Leadership Change":
+            "Leadership changes are secondary intelligence unless accompanied by a strategic, investment, procurement or portfolio change.",
 
-    if signal == "Watch":
-        return (
-            "This development may affect the operating or "
-            "regulatory environment and needs evidence-based follow-up."
-        )
+        "Industry Event":
+            "Industry-event coverage matters only when it reveals a concrete investment, product, partnership, customer or sourcing development.",
 
-    return (
-        f"This is a {category} pharma-industry development; "
-        "commercial significance is not yet established "
-        "from the available RSS evidence."
+        "Industry Development":
+            f"This is relevant industry context for {category}, but its direct commercial impact on Sri Aditya is not yet established."
+
+    }
+
+    return messages.get(
+        event_type,
+        "The commercial impact is not yet established from the available evidence."
     )
 
 
@@ -768,52 +1171,60 @@ def generate_why(
 # BUSINESS OPPORTUNITY
 # ============================================================
 
-def generate_opportunity(
+def business_opportunity(
+    signal,
     event_type,
-    area,
-    signal
+    companies,
+    business_areas
 ):
+
     if signal != "Opportunity":
+
         return (
             "No confirmed commercial opportunity identified "
             "from the available evidence."
         )
 
-    if event_type == "Commercial Agreement":
-        return (
-            "Potential opportunity: identify the products, "
-            "manufacturing scope and parties involved, then test "
-            "whether Sri Aditya can participate as a supplier, "
-            "intermediate/API source or manufacturing partner. "
-            "Demand is not confirmed."
-        )
+    area = (
+        ", ".join(business_areas[:2])
+        if business_areas
+        else "relevant pharma or chemical products"
+    )
 
     if event_type == "Capacity Expansion":
+
         return (
-            "Potential opportunity: expansion may create future "
-            "demand for APIs, intermediates, raw materials or "
-            "manufacturing support. Exact procurement requirements "
-            "are not confirmed."
+            f"Investigate whether the expansion creates supplier, "
+            f"intermediate, API or contract-manufacturing requirements "
+            f"related to {area}."
+        )
+
+    if event_type == "Commercial Agreement":
+
+        return (
+            f"Investigate whether the reported commercial activity "
+            f"creates an opportunity to supply {area} or provide "
+            f"contract manufacturing."
         )
 
     if event_type == "Investment / Acquisition":
+
         return (
-            "Potential opportunity: investigate the investment "
-            "target, product portfolio and planned capacity to "
-            "identify supplier, customer or partnership openings. "
-            "No demand should be assumed."
+            f"Investigate the acquired/invested company's product "
+            f"portfolio, capacity plans and potential sourcing needs "
+            f"around {area}."
         )
 
-    if area == "API / Intermediates":
+    if event_type == "Market / Export Move":
+
         return (
-            "Potential opportunity: investigate whether the "
-            "development creates API/intermediate demand. "
-            "The article does not by itself confirm a requirement."
+            f"Investigate potential export or customer opportunities "
+            f"around {area}, subject to product and regulatory fit."
         )
 
     return (
-        "Potential opportunity exists, but the commercial "
-        "requirement must be verified before outreach."
+        "Potential opportunity identified, but commercial evidence "
+        "is not yet sufficient to confirm demand."
     )
 
 
@@ -821,39 +1232,44 @@ def generate_opportunity(
 # RISK
 # ============================================================
 
-def generate_risk(
+def risk_statement(
+    signal,
     event_type,
-    signal
+    business_areas
 ):
-    if signal == "Risk":
 
-        if event_type == "Regulatory Action":
-            return (
-                "Potential risk: compliance action may disrupt "
-                "supply, qualification or market access."
-            )
-
-        if event_type == "Supply Disruption":
-            return (
-                "Potential risk: supply availability, lead times "
-                "or pricing may be affected."
-            )
+    if signal != "Risk":
 
         return (
-            "Potential operational or commercial risk "
-            "requires verification."
+            "No specific material risk identified from the "
+            "available evidence."
         )
 
-    if signal == "Watch":
+    area = (
+        ", ".join(business_areas[:2])
+        if business_areas
+        else "the relevant supply chain"
+    )
+
+    if event_type == "Regulatory Action":
+
         return (
-            "Watch item: impact is not yet confirmed; verify "
-            "whether products, markets, suppliers or customers "
-            "are exposed."
+            f"Potential regulatory or supply-chain exposure exists "
+            f"around {area}. Affected companies, products and markets "
+            f"should be verified."
+        )
+
+    if event_type == "Supply Disruption":
+
+        return (
+            f"Potential supply risk exists around {area}. "
+            f"Monitor affected suppliers, products, pricing and "
+            f"customer commitments."
         )
 
     return (
-        "No specific material risk identified "
-        "from the available evidence."
+        "Potential business risk identified; direct exposure "
+        "should be verified before escalation."
     )
 
 
@@ -861,93 +1277,48 @@ def generate_risk(
 # MD ACTION
 # ============================================================
 
-def generate_action(
-    event_type,
-    area,
+def md_action(
     signal,
-    companies
+    event_type,
+    business_areas
 ):
-    company = (
-        companies[0]
-        if companies
-        else "the company/project"
-    )
-
-    if signal == "Risk":
-
-        if event_type == "Regulatory Action":
-            return (
-                f"Check whether Sri Aditya shares products, customers, "
-                f"markets or supply dependencies with {company}; assign "
-                "regulatory/commercial follow-up if exposure exists."
-            )
-
-        if event_type == "Supply Disruption":
-            return (
-                "Ask procurement to identify affected materials/suppliers, "
-                "current inventory cover and qualified alternatives "
-                "before taking action."
-            )
-
-        return (
-            "Verify the exposure first; assign an owner only if a "
-            "product, customer, supplier or market link is found."
-        )
-
-    if signal == "Opportunity":
-
-        if event_type == "Commercial Agreement":
-            return (
-                f"Research {company}'s agreement scope, products and "
-                "manufacturing needs; identify one evidence-backed "
-                "route for commercial outreach."
-            )
-
-        if event_type == "Capacity Expansion":
-            return (
-                f"Research {company}'s expanded products/capacity and "
-                "likely input requirements; shortlist only requirements "
-                "Sri Aditya can credibly supply."
-            )
-
-        if event_type == "Investment / Acquisition":
-            return (
-                f"Map {company}'s products, sites and planned capacity, "
-                "then check for API/intermediate, sourcing or "
-                "contract-manufacturing fit."
-            )
-
-        return (
-            "Verify the commercial requirement, product fit and "
-            "decision-maker before any outreach."
-        )
-
-    if signal == "Watch":
-
-        if area == "Regulatory":
-            return (
-                "Read the underlying regulatory development and check "
-                "whether it changes compliance, approvals, exports or "
-                "customer requirements relevant to Sri Aditya."
-            )
-
-        return (
-            "Verify the development and define the specific product, "
-            "customer, supplier or market exposure before escalating."
-        )
 
     if event_type in {
         "Leadership Change",
         "Industry Event"
     }:
+
         return (
-            "No MD action unless a concrete commercial, investment, "
-            "regulatory or sourcing development emerges."
+            "No immediate MD action unless a concrete commercial, "
+            "investment, regulatory or sourcing development emerges."
+        )
+
+    if signal == "Opportunity":
+
+        return (
+            "Identify the company/product involved, verify the "
+            "commercial trigger and check whether Sri Aditya has "
+            "a relevant capability, molecule or customer connection."
+        )
+
+    if signal == "Risk":
+
+        return (
+            "Verify the affected company, product, market and "
+            "supply exposure. Escalate only if Sri Aditya has "
+            "a direct or plausible exposure."
+        )
+
+    if signal == "Watch":
+
+        return (
+            "Verify the development and determine whether it changes "
+            "our products, customers, suppliers, markets or capacity."
         )
 
     return (
-        "No immediate action. Retain as context unless stronger "
-        "commercial or risk evidence appears."
+        "Retain as context unless stronger commercial, investment, "
+        "regulatory or sourcing evidence appears."
     )
 
 
@@ -956,210 +1327,306 @@ def generate_action(
 # ============================================================
 
 def investigation_question(
-    event_type,
     signal,
-    area,
-    companies
+    event_type,
+    business_areas
 ):
-    company = (
-        companies[0]
-        if companies
-        else "the affected company/project"
-    )
 
-    if signal == "Opportunity":
+    if event_type == "Capacity Expansion":
+
         return (
-            f"What exact product, input, capacity or outsourcing "
-            f"requirement does {company} create, and can it be "
-            "verified from a primary/company source?"
+            "Who is investing, what products/capacity are being added, "
+            "and could this create supplier or customer requirements?"
         )
 
-    if signal == "Risk":
+    if event_type == "Commercial Agreement":
+
         return (
-            "Do we have direct exposure through any product, "
-            "supplier, customer, geography or regulatory market?"
+            "Who are the parties, what is being supplied or manufactured, "
+            "and is there an adjacent opportunity for Sri Aditya?"
         )
 
-    if event_type == "Regulatory Approval":
+    if event_type == "Investment / Acquisition":
+
         return (
-            "Which product was approved, where will it be manufactured, "
-            "and does that change API/intermediate demand or competition?"
+            "What products, molecules, facilities or markets are behind "
+            "the investment or acquisition?"
         )
 
-    if event_type == "Leadership Change":
+    if event_type == "Regulatory Action":
+
         return (
-            "Is there any accompanying strategy, investment, procurement "
-            "or portfolio change? If not, this is low-value intelligence."
+            "Which company, product and market are affected, and could "
+            "the action create supply or customer disruption?"
+        )
+
+    if event_type == "Supply Disruption":
+
+        return (
+            "Which product or raw material is constrained, for how long, "
+            "and who may need an alternative supplier?"
+        )
+
+    if event_type == "Market / Export Move":
+
+        return (
+            "Which market or product is involved, and does it create "
+            "a realistic export or customer opportunity?"
         )
 
     return (
-        f"What new decision would management make because of this "
-        f"{area.lower()} development? If none, keep it low priority."
+        "What new management decision would this development change? "
+        "If none, keep it low priority."
     )
 
 
 # ============================================================
-# IMPORTANCE
+# FACT STATUS
 # ============================================================
 
-def importance_score(
-    signal,
-    event_type,
-    area,
-    category,
-    numbers,
-    evidence,
-    publisher
-):
-    score = 0
+def fact_status(source):
 
-    score += {
-        "Risk": 7,
-        "Opportunity": 6,
-        "Watch": 3,
-        "General": 0,
-    }.get(signal, 0)
+    if source_credibility(source) == "Established":
 
-    score += {
-        "Regulatory Action": 5,
-        "Supply Disruption": 5,
-        "Commercial Agreement": 5,
-        "Capacity Expansion": 5,
-        "Investment / Acquisition": 4,
-        "Regulatory Approval": 3,
-        "Market / Export Move": 3,
-        "Leadership Change": -4,
-        "Industry Event": -4,
-        "Industry Development": 0,
-    }.get(event_type, 0)
-
-    score += {
-        "Vizag / AP": 4,
-        "Hyderabad": 3,
-        "India": 2,
-        "Global": 1,
-    }.get(category, 0)
-
-    score += {
-        "API / Intermediates": 4,
-        "CDMO / Contract Manufacturing": 4,
-        "Manufacturing / Plants": 3,
-        "Investment / Expansion": 3,
-        "Supply Chain": 3,
-        "Regulatory": 3,
-        "Exports / Markets": 2,
-        "Specialty Chemicals": 2,
-        "Pharma Industry": 0,
-    }.get(area, 0)
-
-    if numbers:
-        score += 2
-
-    score += {
-        "High": 2,
-        "Medium": 1,
-        "Low": 0,
-    }.get(evidence, 0)
-
-    if source_credibility(
-        publisher
-    ) == "Established":
-        score += 1
-
-    return score
-
-
-def priority_from_score(score):
-    if score >= 15:
-        return "High"
-
-    if score >= 8:
-        return "Medium"
-
-    return "Low"
-
-
-def confidence_from_evidence(
-    evidence,
-    publisher
-):
-    value = {
-        "High": 78,
-        "Medium": 60,
-        "Low": 42,
-    }.get(evidence, 42)
-
-    credibility = source_credibility(
-        publisher
-    )
-
-    if credibility == "Established":
-        value += 7
-
-    elif credibility == "Unknown":
-        value -= 7
-
-    return max(
-        25,
-        min(value, 90)
-    )
-
-
-# ============================================================
-# COMPATIBILITY RELEVANCE
-# ============================================================
-
-def relevance_text(
-    category,
-    signal,
-    area
-):
-    if signal == "Opportunity":
         return (
-            f"{category} {area} development with potential commercial "
-            "relevance; requirement still needs verification."
-        )
-
-    if signal == "Risk":
-        return (
-            f"{category} {area} development with potential risk "
-            "relevance to operations, supply or market access."
-        )
-
-    if signal == "Watch":
-        return (
-            f"{category} {area} development to verify for possible "
-            "business or regulatory impact."
+            "Reported by established source - verify primary source "
+            "before commercial action"
         )
 
     return (
-        f"{category} {area} context; no immediate "
-        "commercial signal confirmed."
+        "Reported development - verify primary source before "
+        "commercial action"
     )
 
 
 # ============================================================
-# COLLECT NEWS
+# ARTICLE BUILD
 # ============================================================
 
-def collect_news():
+def build_article(
+    raw,
+    category
+):
+
+    title = clean_title(
+        raw.get("title", "")
+    )
+
+    description = clean_text(
+        raw.get("description", "")
+    )
+
+    if not title:
+        return None
+
+    combined = (
+        title
+        + " "
+        + description
+    )
+
+    relevance = relevance_score(
+        combined,
+        category
+    )
+
+    # Keep broadly relevant pharma/chemical stories.
+    # Very low relevance is discarded.
+    if relevance < 4:
+        return None
+
+    source = extract_source(
+        title,
+        description
+    )
+
+    event_type = detect_event_type(
+        combined
+    )
+
+    business_areas = detect_business_areas(
+        combined
+    )
+
+    signal = determine_signal(
+        combined,
+        event_type
+    )
+
+    companies = extract_companies(
+        title
+    )
+
+    numbers = extract_numbers(
+        combined
+    )
+
+    confidence = confidence_score(
+        source,
+        event_type,
+        business_areas,
+        relevance
+    )
+
+    importance = importance_score(
+        signal,
+        event_type,
+        category,
+        business_areas,
+        confidence,
+        numbers
+    )
+
+    priority = priority_from_score(
+        importance
+    )
+
+    # Leadership and event stories are intentionally capped.
+    if event_type in {
+        "Leadership Change",
+        "Industry Event"
+    }:
+
+        signal = "General"
+        priority = "Low"
+        importance = min(
+            importance,
+            2
+        )
+
+    location = detect_location(
+        category,
+        combined
+    )
+
+    article = {
+
+        "category": category,
+
+        "title": title,
+
+        "description": description,
+
+        "link": raw.get(
+            "link",
+            ""
+        ),
+
+        "published": raw.get(
+            "published",
+            ""
+        ),
+
+        "source": "Google News RSS",
+
+        "signal": signal,
+
+        "business_area":
+            business_areas[0]
+            if business_areas
+            else "Pharma Industry",
+
+        "priority": priority,
+
+        "relevance":
+            f"{location} pharma/chemical development "
+            f"with relevance score {relevance}.",
+
+        "why_it_matters":
+            why_it_matters(
+                event_type,
+                business_areas,
+                category
+            ),
+
+        "md_action":
+            md_action(
+                signal,
+                event_type,
+                business_areas
+            ),
+
+        "companies": companies,
+
+        "project_signals": [],
+
+        "numbers": numbers,
+
+        "source_name": source,
+
+        "source_credibility":
+            source_credibility(source),
+
+        "location": location,
+
+        "event_type": event_type,
+
+        "what_happened":
+            what_happened(title),
+
+        "business_opportunity":
+            business_opportunity(
+                signal,
+                event_type,
+                companies,
+                business_areas
+            ),
+
+        "risk":
+            risk_statement(
+                signal,
+                event_type,
+                business_areas
+            ),
+
+        "investigation_question":
+            investigation_question(
+                signal,
+                event_type,
+                business_areas
+            ),
+
+        "evidence_level":
+            evidence_level(
+                source,
+                event_type
+            ),
+
+        "confidence": confidence,
+
+        "importance_score": importance,
+
+        "fact_status":
+            fact_status(source)
+
+    }
+
+    return article
+
+
+# ============================================================
+# COLLECT
+# ============================================================
+
+def collect_articles():
+
     articles = []
+
     successful_feeds = 0
 
-    now = datetime.now(
-        timezone.utc
-    )
-
     cutoff = (
-        now
-        - timedelta(hours=24)
+        datetime.now(timezone.utc)
+        - timedelta(hours=36)
     )
 
     for category, urls in FEEDS.items():
 
         for url in urls:
+
             print(
-                f"Reading: {category}"
+                "Fetching:",
+                category,
+                url
             )
 
             data = get_feed(url)
@@ -1167,220 +1634,79 @@ def collect_news():
             if not data:
                 continue
 
-            successful_feeds += 1
-
             try:
+
                 root = ET.fromstring(data)
 
-            except ET.ParseError as exc:
+                successful_feeds += 1
+
+            except Exception as error:
+
                 print(
                     "XML parse failed:",
-                    exc
+                    error
                 )
+
                 continue
 
-            for entry in root.findall(
-                ".//item"
-            ):
-                raw_title = clean_text(
-                    entry.findtext("title")
+            for item in root.findall(".//item"):
+
+                title = clean_text(
+                    item.findtext("title")
                 )
 
                 description = clean_text(
-                    entry.findtext("description")
+                    item.findtext("description")
                 )
 
-                link = clean_text(
-                    entry.findtext("link")
+                link = item.findtext(
+                    "link"
+                ) or ""
+
+                pub_date = item.findtext(
+                    "pubDate"
                 )
 
-                published_dt = get_date(
-                    entry
+                published_dt = parse_date(
+                    pub_date
                 )
 
-                if not raw_title:
-                    continue
-
-                if not published_dt:
-                    continue
-
-                if published_dt < cutoff:
-                    continue
-
-                publisher = publisher_from_title(
-                    raw_title
-                )
-
-                title = strip_publisher(
-                    raw_title,
-                    publisher
-                )
-
-                analysis_text = clean_text(
-                    title
-                    + " "
-                    + description
-                )
-
-                if not contains_any(
-                    analysis_text,
-                    CORE_TERMS
+                if (
+                    published_dt
+                    and published_dt < cutoff
                 ):
+
                     continue
 
-                event_type = determine_event_type(
-                    analysis_text
+                article = build_article(
+
+                    {
+                        "title": title,
+                        "description": description,
+                        "link": link,
+                        "published":
+                            published_dt.isoformat()
+                            if published_dt
+                            else ""
+                    },
+
+                    category
                 )
 
-                area = determine_business_area(
-                    analysis_text
-                )
+                if article:
 
-                companies = detect_companies(
-                    title,
-                    description
-                )
+                    articles.append(
+                        article
+                    )
 
-                project_signals = detect_project_signals(
-                    analysis_text
-                )
+    print(
+        "Collected usable articles:",
+        len(articles)
+    )
 
-                numbers = detect_numbers(
-                    analysis_text
-                )
-
-                signal = determine_signal(
-                    analysis_text,
-                    event_type
-                )
-
-                evidence = evidence_level(
-                    title,
-                    description,
-                    event_type,
-                    numbers,
-                    companies
-                )
-
-                score = importance_score(
-                    signal,
-                    event_type,
-                    area,
-                    category,
-                    numbers,
-                    evidence,
-                    publisher
-                )
-
-                priority = priority_from_score(
-                    score
-                )
-
-                confidence = confidence_from_evidence(
-                    evidence,
-                    publisher
-                )
-
-                # Leadership/event stories should never
-                # dominate the MD morning brief.
-                if event_type in {
-                    "Leadership Change",
-                    "Industry Event"
-                }:
-                    priority = "Low"
-                    signal = "General"
-
-                what_happened = fact_summary(
-                    title,
-                    event_type,
-                    companies,
-                    numbers
-                )
-
-                why = generate_why(
-                    event_type,
-                    area,
-                    category,
-                    signal
-                )
-
-                opportunity = generate_opportunity(
-                    event_type,
-                    area,
-                    signal
-                )
-
-                risk = generate_risk(
-                    event_type,
-                    signal
-                )
-
-                action = generate_action(
-                    event_type,
-                    area,
-                    signal,
-                    companies
-                )
-
-                question = investigation_question(
-                    event_type,
-                    signal,
-                    area,
-                    companies
-                )
-
-                articles.append({
-                    # --------------------------------------------
-                    # Existing frontend-compatible fields
-                    # --------------------------------------------
-                    "category": category,
-                    "title": title,
-                    "description": description,
-                    "link": link,
-                    "published": published_dt.isoformat(),
-                    "source": "Google News RSS",
-                    "signal": signal,
-                    "business_area": area,
-                    "priority": priority,
-                    "relevance": relevance_text(
-                        category,
-                        signal,
-                        area
-                    ),
-                    "why_it_matters": why,
-                    "md_action": action,
-                    "companies": companies,
-                    "project_signals": project_signals,
-                    "numbers": numbers,
-
-                    # --------------------------------------------
-                    # V2 intelligence fields
-                    # --------------------------------------------
-                    "source_name": publisher,
-                    "source_credibility": source_credibility(
-                        publisher
-                    ),
-                    "location": category,
-                    "event_type": event_type,
-                    "what_happened": what_happened,
-                    "business_opportunity": opportunity,
-                    "risk": risk,
-                    "investigation_question": question,
-                    "evidence_level": evidence,
-                    "confidence": confidence,
-                    "importance_score": score,
-                    "fact_status": (
-                        "Reported development - verify primary "
-                        "source before commercial action"
-                    ),
-                })
-
-    articles.sort(
-        key=lambda article: (
-            article["importance_score"],
-            article["published"],
-        ),
-        reverse=True
+    print(
+        "Successful feeds:",
+        successful_feeds
     )
 
     return (
@@ -1390,333 +1716,225 @@ def collect_news():
 
 
 # ============================================================
-# DEDUPLICATION
-# ============================================================
-
-def deduplicate_articles(articles):
-    unique = []
-
-    for article in articles:
-        duplicate_index = None
-
-        for index, existing in enumerate(
-            unique
-        ):
-            sim = similarity(
-                article["title"],
-                existing["title"]
-            )
-
-            same_company_event = (
-                article["event_type"]
-                == existing["event_type"]
-                and article["companies"]
-                and existing["companies"]
-                and bool(
-                    set(article["companies"])
-                    & set(existing["companies"])
-                )
-                and sim >= 0.38
-            )
-
-            if (
-                sim >= 0.58
-                or same_company_event
-            ):
-                duplicate_index = index
-                break
-
-        if duplicate_index is None:
-            unique.append(
-                article
-            )
-
-        else:
-            existing = unique[
-                duplicate_index
-            ]
-
-            if (
-                article["importance_score"],
-                article["confidence"],
-                article["published"],
-            ) > (
-                existing["importance_score"],
-                existing["confidence"],
-                existing["published"],
-            ):
-                unique[
-                    duplicate_index
-                ] = article
-
-    unique.sort(
-        key=lambda article: (
-            article["importance_score"],
-            article["published"],
-        ),
-        reverse=True
-    )
-
-    return unique
-
-
-# ============================================================
 # MUST KNOW
 # ============================================================
 
-def select_must_know(articles):
+def build_must_know(articles):
+
     candidates = [
+
         article
         for article in articles
-        if article["priority"] in {
-            "High",
-            "Medium"
-        }
-        and article["event_type"]
+
+        if article["event_type"]
         not in {
             "Leadership Change",
             "Industry Event"
         }
+
     ]
 
-    selected = []
-    used_event_types = set()
+    candidates.sort(
 
-    # First try to give MD different kinds of developments.
-    for article in candidates:
+        key=lambda x: (
+            x["importance_score"],
+            x["confidence"]
+        ),
 
-        if len(selected) >= 3:
-            break
+        reverse=True
+    )
 
-        if (
-            article["event_type"]
-            not in used_event_types
-        ):
-            selected.append(
-                article
-            )
-
-            used_event_types.add(
-                article["event_type"]
-            )
-
-    # Fill remaining slots if necessary.
-    if len(selected) < 3:
-
-        for article in candidates:
-
-            if len(selected) >= 3:
-                break
-
-            if article not in selected:
-                selected.append(
-                    article
-                )
-
-    return selected
+    return candidates[:5]
 
 
 # ============================================================
-# BUSINESS SIGNAL SUMMARY
+# BUSINESS SIGNALS
 # ============================================================
 
-def build_signal_summary(articles):
-    areas = {
+def build_business_signals(articles):
+
+    result = {
         area: 0
         for area in BUSINESS_AREAS
     }
 
     for article in articles:
 
-        if article["signal"] in {
-            "Opportunity",
-            "Risk",
-            "Watch"
-        }:
-            area = article[
-                "business_area"
-            ]
+        for area in BUSINESS_AREAS:
 
-            if area in areas:
-                areas[area] += 1
+            if (
+                article["business_area"]
+                == area
+            ):
 
-    return areas
+                result[area] += 1
+
+    return result
 
 
 # ============================================================
-# 10-MINUTE DAILY BRIEF
+# DAILY BRIEF
 # ============================================================
 
 def build_daily_brief(
-    must_know,
-    articles
+    articles,
+    must_know
 ):
-    opportunities = [
-        article
-        for article in articles
-        if article["signal"]
-        == "Opportunity"
-    ][:3]
-
-    risks = [
-        article
-        for article in articles
-        if article["signal"]
-        == "Risk"
-    ][:3]
 
     attention = []
 
-    for article in must_know:
-        attention.append({
-            "title":
-                article["title"],
-
-            "what_changed":
-                article["what_happened"],
-
-            "why_it_matters":
-                article["why_it_matters"],
-
-            "action":
-                article["md_action"],
-
-            "confidence":
-                article["confidence"],
-        })
-
     investigate = []
 
-    for article in (
-        opportunities
-        + risks
-    )[:3]:
-        investigate.append({
-            "title":
-                article["title"],
+    for article in must_know:
 
-            "question":
-                article[
-                    "investigation_question"
-                ],
+        if article["signal"] in {
+            "Risk",
+            "Opportunity",
+            "Watch"
+        }:
 
-            "signal":
-                article["signal"],
-        })
+            attention.append(
+                {
+                    "title":
+                        article["title"],
+
+                    "signal":
+                        article["signal"],
+
+                    "why":
+                        article["why_it_matters"]
+                }
+            )
+
+        if article["signal"] in {
+            "Opportunity",
+            "Watch"
+        }:
+
+            investigate.append(
+                {
+                    "title":
+                        article["title"],
+
+                    "question":
+                        article["investigation_question"]
+                }
+            )
 
     return {
+
         "attention":
-            attention,
+            attention[:3],
 
         "investigate":
-            investigate,
+            investigate[:3],
 
-        "management_question": (
-            "Which one of today's developments has a direct "
-            "link to our current products, customers, suppliers "
-            "or planned capacity - and what evidence do we need "
-            "before acting?"
-        ),
+        "management_question":
+            (
+                "Which development has the clearest link "
+                "to our products, customers, suppliers or "
+                "planned capacity - and what evidence do "
+                "we need before acting?"
+            )
     }
 
 
 # ============================================================
-# MAIN
+# SAFE FALLBACK
+#
+# Never replace a good dataset with an empty dataset.
 # ============================================================
 
-def main():
-    articles, successful_feeds = collect_news()
+def load_existing_data():
 
-    # --------------------------------------------------------
-    # Safety protection
-    # --------------------------------------------------------
+    path = "data.json"
 
-    if (
-        len(articles) == 0
-        and successful_feeds == 0
-    ):
+    if not os.path.exists(path):
+        return None
+
+    try:
+
+        with open(
+            path,
+            "r",
+            encoding="utf-8"
+        ) as file:
+
+            return json.load(file)
+
+    except Exception as error:
+
         print(
-            "WARNING: All news feeds failed."
+            "Could not load existing data:",
+            error
         )
 
-        print(
-            "Keeping existing data.json unchanged."
-        )
+        return None
 
-        return
 
-    # --------------------------------------------------------
-    # Deduplicate
-    # --------------------------------------------------------
+# ============================================================
+# BUILD OUTPUT
+# ============================================================
 
-    articles = deduplicate_articles(
-        articles
+def build_output(
+    articles,
+    successful_feeds
+):
+
+    articles.sort(
+
+        key=lambda x: (
+            x["importance_score"],
+            x["published"]
+        ),
+
+        reverse=True
     )
 
-    # Keep maximum 100.
+    # Keep latest 100.
     articles = articles[:100]
-
-    # --------------------------------------------------------
-    # Counters
-    # --------------------------------------------------------
 
     opportunities = sum(
         1
         for article in articles
-        if article["signal"]
-        == "Opportunity"
+        if article["signal"] == "Opportunity"
     )
 
     risks = sum(
         1
         for article in articles
-        if article["signal"]
-        == "Risk"
+        if article["signal"] == "Risk"
     )
 
     watch = sum(
         1
         for article in articles
-        if article["signal"]
-        == "Watch"
+        if article["signal"] == "Watch"
     )
 
     high_priority = sum(
         1
         for article in articles
         if article["priority"]
-        == "High"
+        in {
+            "Critical",
+            "High"
+        }
     )
 
-    # --------------------------------------------------------
-    # Management intelligence
-    # --------------------------------------------------------
-
-    must_know = select_must_know(
+    must_know = build_must_know(
         articles
     )
-
-    signal_summary = build_signal_summary(
-        articles
-    )
-
-    daily_brief = build_daily_brief(
-        must_know,
-        articles
-    )
-
-    # --------------------------------------------------------
-    # JSON output
-    # --------------------------------------------------------
 
     output = {
+
         "updated":
             datetime.now(
                 timezone.utc
             ).isoformat(),
 
         "engine_version":
-            "2.0",
+            ENGINE_VERSION,
 
         "article_count":
             len(articles),
@@ -1740,17 +1958,122 @@ def main():
             must_know,
 
         "business_signals":
-            signal_summary,
+            build_business_signals(
+                articles
+            ),
 
         "daily_brief":
-            daily_brief,
+            build_daily_brief(
+                articles,
+                must_know
+            ),
 
         "articles":
-            articles,
+            articles
     }
 
+    return output
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
+def main():
+
+    print(
+        "=========================================="
+    )
+
+    print(
+        "Sri Aditya Pharmachem MD Intelligence"
+    )
+
+    print(
+        "Engine:",
+        ENGINE_VERSION
+    )
+
+    print(
+        "=========================================="
+    )
+
+    articles, successful_feeds = (
+        collect_articles()
+    )
+
+    existing = load_existing_data()
+
     # --------------------------------------------------------
-    # Save data.json
+    # SAFETY:
+    # If feeds work but zero usable articles are produced,
+    # do NOT destroy an existing useful dataset.
+    # --------------------------------------------------------
+
+    if len(articles) == 0:
+
+        print(
+            "WARNING: zero usable articles collected."
+        )
+
+        if (
+            existing
+            and existing.get("articles")
+        ):
+
+            print(
+                "Preserving existing data.json."
+            )
+
+            existing["engine_status"] = (
+                "Collection returned zero "
+                "usable articles; previous "
+                "dataset preserved."
+            )
+
+            with open(
+                "data.json",
+                "w",
+                encoding="utf-8"
+            ) as file:
+
+                json.dump(
+                    existing,
+                    file,
+                    indent=2,
+                    ensure_ascii=False
+                )
+
+            return
+
+    # --------------------------------------------------------
+    # DEDUPLICATE
+    # --------------------------------------------------------
+
+    articles = deduplicate(
+        articles
+    )
+
+    print(
+        "After deduplication:",
+        len(articles)
+    )
+
+    # --------------------------------------------------------
+    # BUILD
+    # --------------------------------------------------------
+
+    output = build_output(
+        articles,
+        successful_feeds
+    )
+
+    output["engine_status"] = (
+        "Healthy"
+    )
+
+    # --------------------------------------------------------
+    # WRITE
     # --------------------------------------------------------
 
     with open(
@@ -1762,69 +2085,50 @@ def main():
         json.dump(
             output,
             file,
-            ensure_ascii=False,
-            indent=2
+            indent=2,
+            ensure_ascii=False
         )
 
-    # --------------------------------------------------------
-    # Console
-    # --------------------------------------------------------
-
-    print()
-
     print(
-        "========================================"
+        "=========================================="
     )
 
     print(
-        "SRI ADITYA PHARMACHEM"
+        "DATASET GENERATED"
     )
 
     print(
-        "MD PHARMA INTELLIGENCE V2"
-    )
-
-    print(
-        "========================================"
-    )
-
-    print(
-        "Successful feeds:",
-        successful_feeds
-    )
-
-    print(
-        "Unique developments:",
-        len(articles)
+        "Articles:",
+        output["article_count"]
     )
 
     print(
         "Opportunities:",
-        opportunities
+        output["opportunity_count"]
     )
 
     print(
         "Risks:",
-        risks
+        output["risk_count"]
     )
 
     print(
         "Watch:",
-        watch
+        output["watch_count"]
     )
 
     print(
         "High priority:",
-        high_priority
+        output["high_priority_count"]
     )
 
     print(
-        "Must Know:",
-        len(must_know)
+        "Successful feeds:",
+        output["successful_feeds"]
     )
 
     print(
-        "========================================"
+        "=========================================="
     )
 
 
