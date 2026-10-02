@@ -2,1266 +2,239 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Sri Aditya Pharmachem | MD Pharma Intelligence</title>
-
 <style>
-* {
-  box-sizing: border-box;
-}
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap');
 
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background: #f4f7fb;
-  color: #172033;
+:root{
+ --bg:#f4f1ec;--surface:#fffdf9;--surface2:#faf7f2;--ink:#252525;
+ --heading:#252525;--muted:#756f67;--line:#e4ddd3;
+ --red:#b51f2b;--burgundy:#641b27;--gold:#b28a4a;
+ --green:#287454;--amber:#986b22;--blue:#315d78;
+ --shadow:0 8px 24px rgba(42,34,25,.07)
 }
-
-.container {
-  max-width: 1400px;
-  margin: auto;
-  padding: 24px;
-}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"DM Sans",Arial,sans-serif}
+.container{max-width:1450px;margin:auto;padding:24px 28px 30px}
 
 /* HEADER */
+.header{position:relative;overflow:hidden;margin-bottom:18px;padding:31px 35px;border-radius:16px;
+ background:linear-gradient(120deg,#171717 0%,#292522 62%,#392b2b 100%);
+ color:#fff;box-shadow:0 15px 38px rgba(25,20,18,.16)}
+.header:after{content:"";position:absolute;width:300px;height:300px;right:-150px;top:-180px;
+ border-radius:50%;background:rgba(181,31,43,.18)}
+.header h1{position:relative;z-index:1;margin:0;color:#d52b38;font:800 30px/1.1 "Manrope",sans-serif;letter-spacing:-.8px}
+.header p{position:relative;z-index:1;margin:8px 0 0;color:#d7d1ca;font-size:12px}
+.live{position:absolute;z-index:2;right:24px;top:22px;padding:7px 11px;border:1px solid #ffffff20;
+ border-radius:20px;background:#ffffff0d;color:#eee;font-size:9px;font-weight:800;letter-spacing:.7px}
 
-.header {
-  background: linear-gradient(135deg, #10233f, #173d68);
-  color: white;
-  padding: 28px 30px;
-  border-radius: 16px;
-  margin-bottom: 22px;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
-}
-
-.header h1 {
-  margin: 0;
-  font-size: 28px;
-}
-
-.header p {
-  margin: 7px 0 0;
-  opacity: 0.82;
-  font-size: 14px;
-}
-
-.live {
-  float: right;
-  background: #1fc77a;
-  color: white;
-  padding: 7px 12px;
-  border-radius: 20px;
-  font-size: 12px;
-  font-weight: bold;
-}
-
-/* CARDS */
-
-.cards {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 16px;
-  margin-bottom: 22px;
-}
-
-.card {
-  background: white;
-  border-radius: 14px;
-  padding: 20px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-  border: 1px solid #e5eaf1;
-}
-
-.card-title {
-  font-size: 13px;
-  color: #667085;
-  margin-bottom: 10px;
-}
-
-.card-value {
-  font-size: 32px;
-  font-weight: 700;
-}
-
-.card-note {
-  font-size: 12px;
-  color: #7b8493;
-  margin-top: 5px;
-}
+/* KPI */
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}
+.card{position:relative;overflow:hidden;min-height:105px;padding:17px 19px;background:var(--surface);
+ border:1px solid var(--line);border-radius:13px;box-shadow:var(--shadow)}
+.card:before{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:#c8c0b5}
+.card:nth-child(2):before{background:var(--green)}
+.card:nth-child(3):before{background:var(--red)}
+.card:nth-child(4):before{background:var(--gold)}
+.card-title{margin-bottom:8px;color:var(--muted);font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.8px}
+.card-value{color:var(--heading);font:800 29px/1 "Manrope",sans-serif}
+.card-note{margin-top:7px;color:#9b948b;font-size:10px}
 
 /* SECTIONS */
-
-.section {
-  background: white;
-  border-radius: 15px;
-  padding: 22px;
-  margin-bottom: 22px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.04);
-}
-
-.section-title {
-  font-size: 20px;
-  font-weight: 700;
-  margin-bottom: 16px;
-}
+.section{margin-bottom:17px;padding:20px;background:var(--surface);border:1px solid var(--line);
+ border-radius:14px;box-shadow:var(--shadow)}
+.section-title{display:flex;align-items:center;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee9e2;
+ color:var(--heading);font:800 16px "Manrope",sans-serif}
+.section-title:after{content:"";width:22px;height:3px;margin-left:auto;border-radius:3px;background:var(--gold)}
 
 /* MUST KNOW */
+.mustknow{padding:18px;border:1px solid #ead9d5;border-left:4px solid var(--red);border-radius:11px;
+ background:linear-gradient(135deg,#fffaf7,#fffdf9)}
+.mustknow-title{margin-bottom:8px;color:var(--heading);font:800 18px/1.35 "Manrope",sans-serif}
+.mustknow-title a{color:var(--heading)!important;text-decoration:none}
+.mustknow-meta{margin-bottom:10px;color:var(--muted);font-size:10px}
+.mustknow-text{color:#514c46;font-size:12px;line-height:1.6}
+.action-box{margin-top:13px;padding:11px 13px;border:1px solid #d9e1e4;border-left:3px solid var(--blue);
+ border-radius:8px;background:#f6f8f7}
+.action-label{margin-bottom:4px;color:var(--blue);font-size:9px;font-weight:900;letter-spacing:.7px}
+.action-text{color:#45413c;font-size:11px;line-height:1.5}
 
-.mustknow {
-  border-left: 5px solid #d62828;
-  background: #fff8f8;
-  padding: 20px;
-  border-radius: 10px;
+/* ARTICLES */
+.intelligence-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.article{padding:16px;border:1px solid var(--line);border-radius:11px;background:#fffdf9;
+ transition:.18s ease}
+.article:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(42,34,25,.09)}
+.article-title{margin-bottom:7px;color:var(--heading);font:700 14px/1.4 "Manrope",sans-serif}
+.article-title a{color:var(--heading);text-decoration:none}
+.article-title a:hover{color:var(--red)}
+.meta{margin-bottom:8px;color:var(--muted);font-size:10px}
+.badges{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:9px}
+.badge{padding:4px 7px;border:1px solid #ded8cf;border-radius:20px;background:#f3efe9;color:#625b53;font-size:8px;font-weight:800}
+.badge-opportunity{border-color:#c8ded2;background:#edf6f1;color:var(--green)}
+.badge-risk,.badge-high{border-color:#e9c5c7;background:#fff0f0;color:#a51d28}
+.badge-watch,.badge-medium{border-color:#e4d5b8;background:#faf4e6;color:var(--amber)}
+.relevance{color:#5d5851;font-size:11px;line-height:1.5}
+.why{margin-top:10px;padding:9px 10px;border:1px solid #eee9e2;border-radius:8px;background:var(--surface2)}
+.why strong{color:#514b44;font-size:9px;letter-spacing:.6px}
+.why-text{margin-top:3px;color:#6a635b;font-size:10px;line-height:1.5}
+.article-action{margin-top:8px;color:var(--blue);font-size:10px;font-weight:700}
+.footer{padding:12px;color:#9b948b;font-size:9px;text-align:center}
+
+@media(max-width:900px){
+ .container{padding:18px}.cards{grid-template-columns:repeat(2,1fr)}.intelligence-grid{grid-template-columns:1fr}
 }
-
-.mustknow-title {
-  font-size: 21px;
-  font-weight: 700;
-  margin-bottom: 10px;
-}
-
-.mustknow-meta {
-  font-size: 12px;
-  color: #697386;
-  margin-bottom: 12px;
-}
-
-.mustknow-text {
-  font-size: 14px;
-  line-height: 1.6;
-}
-
-.action-box {
-  margin-top: 15px;
-  padding: 13px 15px;
-  border-radius: 9px;
-  background: #eef6ff;
-  border-left: 4px solid #2878c8;
-}
-
-.action-label {
-  font-size: 12px;
-  font-weight: 700;
-  color: #2878c8;
-  margin-bottom: 5px;
-}
-
-.action-text {
-  font-size: 14px;
-  line-height: 1.5;
-}
-
-/* INTELLIGENCE */
-
-.intelligence-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
-}
-
-.article {
-  border: 1px solid #e2e7ee;
-  border-radius: 12px;
-  padding: 17px;
-  background: #fff;
-}
-
-.article:hover {
-  box-shadow: 0 5px 18px rgba(0,0,0,0.07);
-}
-
-.article-title {
-  font-size: 16px;
-  font-weight: 700;
-  line-height: 1.4;
-  margin-bottom: 8px;
-}
-
-.article-title a {
-  color: #172033;
-  text-decoration: none;
-}
-
-.article-title a:hover {
-  text-decoration: underline;
-}
-
-.meta {
-  font-size: 12px;
-  color: #6b7280;
-  margin-bottom: 10px;
-}
-
-.badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 10px;
-}
-
-.badge {
-  display: inline-block;
-  padding: 5px 8px;
-  border-radius: 5px;
-  font-size: 10px;
-  font-weight: 700;
-  background: #edf1f5;
-  color: #45505f;
-}
-
-.badge-opportunity {
-  background: #e7f8ef;
-  color: #087443;
-}
-
-.badge-risk {
-  background: #fdeaea;
-  color: #b42318;
-}
-
-.badge-watch {
-  background: #fff4d6;
-  color: #8a5a00;
-}
-
-.badge-high {
-  background: #fdeaea;
-  color: #b42318;
-}
-
-.badge-medium {
-  background: #fff4d6;
-  color: #8a5a00;
-}
-
-.relevance {
-  font-size: 13px;
-  color: #4f5968;
-  line-height: 1.5;
-}
-
-.why {
-  margin-top: 12px;
-  padding: 11px;
-  background: #f7f9fc;
-  border-radius: 8px;
-}
-
-.why strong {
-  font-size: 12px;
-  color: #344054;
-}
-
-.why-text {
-  font-size: 12px;
-  line-height: 1.5;
-  margin-top: 4px;
-  color: #596273;
-}
-
-.article-action {
-  margin-top: 9px;
-  font-size: 12px;
-  font-weight: 700;
-  color: #2468a8;
-}
-
-/* MAP */
-
-.map-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 14px;
-}
-
-.map-card {
-  padding: 18px;
-  border-radius: 12px;
-  background: #f7f9fc;
-  border: 1px solid #e3e8ef;
-}
-
-.map-card h3 {
-  margin: 0 0 8px;
-  font-size: 16px;
-}
-
-.map-card p {
-  margin: 0;
-  font-size: 12px;
-  color: #657080;
-  line-height: 1.5;
-}
-
-/* SIGNALS */
-
-.signals {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 12px;
-}
-
-.signal {
-  background: #f7f9fc;
-  border: 1px solid #e1e6ed;
-  border-radius: 10px;
-  padding: 15px;
-}
-
-.signal-name {
-  font-size: 13px;
-  font-weight: 700;
-  margin-bottom: 8px;
-}
-
-.signal-value {
-  font-size: 20px;
-  font-weight: 700;
-}
-
-/* OPPORTUNITY FOCUS */
-
-.focus-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 14px;
-}
-
-.focus {
-  padding: 17px;
-  background: #f8fafc;
-  border: 1px solid #e1e6ed;
-  border-radius: 11px;
-}
-
-.focus h3 {
-  margin: 0 0 7px;
-  font-size: 15px;
-}
-
-.focus p {
-  margin: 0;
-  font-size: 12px;
-  line-height: 1.5;
-  color: #596273;
-}
-
-.focus-count {
-  margin-top: 10px;
-  font-weight: 700;
-  font-size: 13px;
-}
-
-/* FOOTER */
-
-.footer {
-  text-align: center;
-  color: #7b8493;
-  font-size: 12px;
-  padding: 12px;
-}
-
-/* MOBILE */
-
-@media(max-width: 900px) {
-
-  .cards {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .intelligence-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .map-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .signals {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .focus-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media(max-width: 600px) {
-
-  .container {
-    padding: 12px;
-  }
-
-  .header {
-    padding: 20px;
-  }
-
-  .header h1 {
-    font-size: 22px;
-  }
-
-  .live {
-    float: none;
-    display: inline-block;
-    margin-top: 10px;
-  }
-
-  .cards {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .card-value {
-    font-size: 25px;
-  }
-
-  .map-grid,
-  .signals {
-    grid-template-columns: 1fr;
-  }
+@media(max-width:600px){
+ .container{padding:10px}.header{padding:24px 20px;border-radius:13px}.header h1{font-size:24px}
+ .header p{max-width:78%;font-size:10px}.live{position:relative;top:auto;right:auto;display:inline-block;margin-bottom:13px}
+ .cards{gap:8px}.card{padding:14px}.card-value{font-size:25px}.section{padding:14px;border-radius:12px}
+ .section-title{font-size:14px}
 }
 </style>
 </head>
-
 <body>
-
 <div class="container">
 
-  <!-- HEADER -->
-
-  <div class="header">
-
-    <span class="live">● LIVE INTELLIGENCE</span>
-
-    <h1>Sri Aditya Pharmachem</h1>
-
-    <p>MD Pharma Intelligence · Daily industry intelligence · Last 24 hours</p>
-
-  </div>
-
-
-  <!-- TOP CARDS -->
-
-  <div class="cards">
-
-    <div class="card">
-      <div class="card-title">News detected</div>
-      <div class="card-value" id="newsCount">0</div>
-      <div class="card-note">Last 24 hours</div>
-    </div>
-
-    <div class="card">
-      <div class="card-title">Opportunities</div>
-      <div class="card-value" id="opportunityCount">0</div>
-      <div class="card-note">Potential business signals</div>
-    </div>
-
-    <div class="card">
-      <div class="card-title">Risks</div>
-      <div class="card-value" id="riskCount">0</div>
-      <div class="card-note">Signals requiring attention</div>
-    </div>
-
-    <div class="card">
-      <div class="card-title">High Priority</div>
-      <div class="card-value" id="highPriorityCount">0</div>
-      <div class="card-note">Management attention</div>
-    </div>
-
-  </div>
-
-
-  <!-- MUST KNOW -->
-
-  <div class="section">
-
-    <div class="section-title">🔴 Must Know</div>
-
-    <div id="mustKnow"></div>
-
-  </div>
-
-
-  <!-- MD ACTION SUMMARY -->
-
-  <div class="section">
-
-    <div class="section-title">🎯 MD Action Focus</div>
-
-    <div class="focus-grid" id="actionFocus"></div>
-
-  </div>
-
-
-  <!-- LATEST INTELLIGENCE -->
-
-  <div class="section">
-
-    <div class="section-title">⚡ Latest Intelligence</div>
-
-    <div class="intelligence-grid" id="articles"></div>
-
-  </div>
-
-
-  <!-- INTELLIGENCE MAP -->
-
-  <div class="section">
-
-    <div class="section-title">🌎 Intelligence Map</div>
-
-    <div class="map-grid">
-
-      <div class="map-card">
-        <h3>📍 Hyderabad</h3>
-        <p>Pharma · APIs · CDMO · Investments · Regulation</p>
-      </div>
-
-      <div class="map-card">
-        <h3>⚓ Vizag / AP</h3>
-        <p>Bulk drugs · Chemicals · Plants · Infrastructure</p>
-      </div>
-
-      <div class="map-card">
-        <h3>🇮🇳 India</h3>
-        <p>CDSCO · APIs · Exports · Policy · Investments</p>
-      </div>
-
-      <div class="map-card">
-        <h3>🌎 Global</h3>
-        <p>FDA · EMA · Supply chain · Global pharma</p>
-      </div>
-
-    </div>
-
-  </div>
-
-
-  <!-- BUSINESS SIGNALS -->
-
-  <div class="section">
-
-    <div class="section-title">📈 Business Signals</div>
-
-    <div class="signals">
-
-      <div class="signal">
-        <div class="signal-name">API / Intermediates</div>
-        <div class="signal-value" id="signalApi">—</div>
-      </div>
-
-      <div class="signal">
-        <div class="signal-name">CDMO</div>
-        <div class="signal-value" id="signalCdmo">—</div>
-      </div>
-
-      <div class="signal">
-        <div class="signal-name">Manufacturing</div>
-        <div class="signal-value" id="signalManufacturing">—</div>
-      </div>
-
-      <div class="signal">
-        <div class="signal-name">Supply Chain</div>
-        <div class="signal-value" id="signalSupply">—</div>
-      </div>
-
-      <div class="signal">
-        <div class="signal-name">Regulatory</div>
-        <div class="signal-value" id="signalRegulatory">—</div>
-      </div>
-
-    </div>
-
-  </div>
-
-
-  <!-- FOR SRI ADITYA -->
-
-  <div class="section">
-
-    <div class="section-title">🧠 For Sri Aditya</div>
-
-    <div class="mustknow">
-
-      <div class="mustknow-text">
-        The system identifies potential products, customers, markets,
-        partnerships, investments, supply-chain developments and risks
-        relevant to Sri Aditya Pharmachem.
-      </div>
-
-      <div class="action-box">
-
-        <div class="action-label">MANAGEMENT USE</div>
-
-        <div class="action-text">
-          Use Opportunity items to identify areas for commercial follow-up,
-          expansion monitoring, supplier/customer discussions and market
-          development. Use Watch and Risk items for management review.
-        </div>
-
-      </div>
-
-    </div>
-
-  </div>
-
-
-  <div class="footer">
-
-    MD Intelligence · Sri Aditya Pharmachem<br>
-
-    <span id="lastUpdated">Loading...</span>
-    · Refresh: 5 min
-
-  </div>
-
+<header class="header">
+ <span class="live">● LIVE INTELLIGENCE</span>
+ <h1>Sri Aditya Pharmachem</h1>
+ <p>MD Pharma Intelligence · Decision intelligence for management · Last 24 hours</p>
+</header>
+
+<section class="cards">
+ <div class="card"><div class="card-title">News detected</div><div class="card-value" id="newsCount">0</div><div class="card-note">Last 24 hours</div></div>
+ <div class="card"><div class="card-title">Opportunities</div><div class="card-value" id="opportunityCount">0</div><div class="card-note">Potential business signals</div></div>
+ <div class="card"><div class="card-title">Risks</div><div class="card-value" id="riskCount">0</div><div class="card-note">Signals requiring attention</div></div>
+ <div class="card"><div class="card-title">High Priority</div><div class="card-value" id="highPriorityCount">0</div><div class="card-note">Management attention</div></div>
+</section>
+
+<section class="section">
+ <div class="section-title">Must Know</div>
+ <div id="mustKnow"></div>
+</section>
+
+<section class="section">
+ <div class="section-title">Latest Intelligence</div>
+ <div class="intelligence-grid" id="articles"></div>
+</section>
+
+<div class="footer">MD Intelligence · Sri Aditya Pharmachem · <span id="lastUpdated">Loading...</span> · Refresh: 5 min</div>
 </div>
 
-
 <script>
+let data=null;
 
-let data = null;
-
-
-/* ----------------------------- */
-/* HELPERS */
-/* ----------------------------- */
-
-function escapeHtml(text) {
-
-  if (!text) return "";
-
-  return String(text)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#039;");
-
+function escapeHtml(text){
+ if(!text)return "";
+ return String(text).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+  .replace(/"/g,"&quot;").replace(/'/g,"&#039;");
 }
 
-
-function signalBadge(signal) {
-
-  if (signal === "Opportunity") {
-    return '<span class="badge badge-opportunity">Opportunity</span>';
-  }
-
-  if (signal === "Risk") {
-    return '<span class="badge badge-risk">Risk</span>';
-  }
-
-  if (signal === "Watch") {
-    return '<span class="badge badge-watch">Watch</span>';
-  }
-
-  return "";
-
+function signalBadge(signal){
+ if(signal==="Opportunity")return '<span class="badge badge-opportunity">Opportunity</span>';
+ if(signal==="Risk")return '<span class="badge badge-risk">Risk</span>';
+ if(signal==="Watch")return '<span class="badge badge-watch">Watch</span>';
+ return "";
 }
 
-
-function priorityBadge(priority) {
-
-  if (!priority) return "";
-
-  let cls = "";
-
-  if (priority === "High") {
-    cls = "badge-high";
-  }
-
-  if (priority === "Medium") {
-    cls = "badge-medium";
-  }
-
-  return '<span class="badge ' + cls + '">' +
-         escapeHtml(priority) + ' Priority</span>';
-
+function priorityBadge(priority){
+ if(!priority)return "";
+ let cls=priority==="High"?"badge-high":priority==="Medium"?"badge-medium":"";
+ return '<span class="badge '+cls+'">'+escapeHtml(priority)+' Priority</span>';
 }
 
-
-/* ----------------------------- */
-/* WHY IT MATTERS */
-/* ----------------------------- */
-
-function whyItMatters(article) {
-
-  const area = article.business_area || "";
-
-  if (area.includes("API")) {
-
-    return "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.";
-
-  }
-
-  if (area.includes("CDMO")) {
-
-    return "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.";
-
-  }
-
-  if (area.includes("Investment")) {
-
-    return "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.";
-
-  }
-
-  if (area.includes("Manufacturing")) {
-
-    return "Manufacturing expansion or technology developments may influence capacity, competition, equipment requirements and supply opportunities.";
-
-  }
-
-  if (area.includes("Supply")) {
-
-    return "Supply-chain changes may affect sourcing, logistics, exports, delivery reliability or customer requirements.";
-
-  }
-
-  if (area.includes("Regulatory")) {
-
-    return "Regulatory developments may affect compliance requirements, market access, customer expectations or manufacturing practices.";
-
-  }
-
-  return article.relevance ||
-         "Relevant pharma industry development to monitor for potential business impact.";
-
+function whyItMatters(article){
+ const area=article.business_area||"";
+ if(area.includes("API"))return "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.";
+ if(area.includes("CDMO"))return "May indicate outsourcing, contract manufacturing or development demand that could create potential commercial opportunities.";
+ if(area.includes("Investment"))return "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.";
+ if(area.includes("Manufacturing"))return "Manufacturing developments may influence capacity, competition, equipment requirements and supply opportunities.";
+ if(area.includes("Supply"))return "Supply-chain changes may affect sourcing, logistics, exports, delivery reliability or customer requirements.";
+ if(area.includes("Regulatory"))return "Regulatory developments may affect compliance, market access, customer expectations or manufacturing practices.";
+ return article.relevance||"Relevant pharma industry development to monitor for potential business impact.";
 }
 
-
-/* ----------------------------- */
-/* ACTION */
-/* ----------------------------- */
-
-function actionFor(article) {
-
-  const signal = article.signal || "";
-  const area = article.business_area || "";
-
-  if (signal === "Risk") {
-
-    return "MD Action: Review the potential impact and monitor for further developments.";
-
-  }
-
-  if (signal === "Opportunity") {
-
-    if (area.includes("API")) {
-
-      return "MD Action: Evaluate whether the development creates a product, customer, sourcing or capacity opportunity.";
-
-    }
-
-    if (area.includes("CDMO")) {
-
-      return "MD Action: Monitor potential CDMO/customer requirements and identify relevant commercial contacts.";
-
-    }
-
-    if (area.includes("Investment")) {
-
-      return "MD Action: Track the project and evaluate possible supplier, customer or partnership opportunities.";
-
-    }
-
-    return "MD Action: Evaluate for possible commercial follow-up.";
-
-  }
-
-  if (signal === "Watch") {
-
-    return "MD Action: Monitor. No immediate action indicated from the available information.";
-
-  }
-
-  return "MD Action: Monitor for further developments.";
-
+function actionFor(article){
+ const signal=article.signal||"",area=article.business_area||"";
+ if(signal==="Risk")return "MD Action: Review the potential impact and monitor for further developments.";
+ if(signal==="Opportunity"){
+  if(area.includes("API"))return "MD Action: Evaluate whether this creates a product, customer, sourcing or capacity opportunity.";
+  if(area.includes("CDMO"))return "MD Action: Monitor potential CDMO/customer requirements and identify relevant commercial contacts.";
+  if(area.includes("Investment"))return "MD Action: Track the project and evaluate possible supplier, customer or partnership opportunities.";
+  return "MD Action: Evaluate for possible commercial follow-up.";
+ }
+ if(signal==="Watch")return "MD Action: Monitor. No immediate action indicated from the available information.";
+ return "MD Action: Monitor for further developments.";
 }
 
-
-/* ----------------------------- */
-/* MUST KNOW */
-/* ----------------------------- */
-
-function chooseMustKnow(articles) {
-
-  if (!articles.length) return null;
-
-  const scored = articles.map(article => {
-
-    let score = 0;
-
-    const signal = article.signal || "";
-    const priority = article.priority || "";
-    const area = article.business_area || "";
-    const category = article.category || "";
-
-    if (signal === "Risk") score += 100;
-    if (signal === "Opportunity") score += 60;
-    if (signal === "Watch") score += 30;
-
-    if (priority === "High") score += 40;
-    if (priority === "Medium") score += 20;
-
-    if (area.includes("API")) score += 20;
-    if (area.includes("CDMO")) score += 20;
-    if (area.includes("Investment")) score += 18;
-    if (area.includes("Manufacturing")) score += 12;
-    if (area.includes("Supply")) score += 10;
-
-    if (category === "Hyderabad") score += 18;
-    if (category === "Vizag / AP") score += 18;
-    if (category === "India") score += 12;
-    if (category === "Global") score += 8;
-
-    return {
-      article,
-      score
-    };
-
-  });
-
-  scored.sort((a,b) => b.score - a.score);
-
-  return scored[0].article;
-
+function chooseMustKnow(articles){
+ if(!articles.length)return null;
+ return [...articles].sort((a,b)=>{
+  const score=x=>(x.signal==="Risk"?100:x.signal==="Opportunity"?60:x.signal==="Watch"?30:0)
+   +(x.priority==="High"?40:x.priority==="Medium"?20:0)
+   +((x.business_area||"").includes("API")?20:0)
+   +((x.business_area||"").includes("CDMO")?20:0)
+   +((x.business_area||"").includes("Investment")?18:0);
+  return score(b)-score(a);
+ })[0];
 }
 
+function renderMustKnow(article){
+ const box=document.getElementById("mustKnow");
+ if(!article){
+  box.innerHTML='<div class="mustknow-text">No major intelligence signal detected in the current data.</div>';
+  return;
+ }
+ box.innerHTML=`<div class="mustknow">
+  <div class="mustknow-title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a></div>
+  <div class="mustknow-meta">${escapeHtml(article.category||"")} · ${escapeHtml(article.source||"")}</div>
+  <div class="badges">${signalBadge(article.signal)}${priorityBadge(article.priority)}
+   <span class="badge">${escapeHtml(article.business_area||"Pharma")}</span></div>
+  <div class="mustknow-text">${escapeHtml(whyItMatters(article))}</div>
+  <div class="action-box"><div class="action-label">MD ACTION</div><div class="action-text">${escapeHtml(actionFor(article))}</div></div>
+ </div>`;
+}
 
-/* ----------------------------- */
-/* RENDER MUST KNOW */
-/* ----------------------------- */
+function renderArticles(articles){
+ const container=document.getElementById("articles");
+ if(!articles.length){container.innerHTML="<div>No intelligence available.</div>";return;}
+ const sorted=[...articles].sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));
+ container.innerHTML=sorted.map(article=>`<div class="article">
+  <div class="article-title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a></div>
+  <div class="meta">${escapeHtml(article.category||"")} · ${escapeHtml(article.source||"")}</div>
+  <div class="badges">${signalBadge(article.signal)}${priorityBadge(article.priority)}
+   <span class="badge">${escapeHtml(article.business_area||"Pharma")}</span></div>
+  <div class="relevance">${escapeHtml(article.relevance||"")}</div>
+  <div class="why"><strong>WHY IT MATTERS</strong><div class="why-text">${escapeHtml(whyItMatters(article))}</div></div>
+  <div class="article-action">${escapeHtml(actionFor(article))}</div>
+ </div>`).join("");
+}
 
-function renderMustKnow(article) {
-
-  const box = document.getElementById("mustKnow");
-
-  if (!article) {
-
-    box.innerHTML =
-      '<div class="mustknow-text">No major intelligence signal detected in the current data.</div>';
-
-    return;
-
+async function loadData(){
+ try{
+  const response=await fetch("data.json?t="+Date.now());
+  data=await response.json();
+  const articles=Array.isArray(data.articles)?data.articles:[];
+  document.getElementById("newsCount").textContent=articles.length;
+  document.getElementById("opportunityCount").textContent=articles.filter(a=>a.signal==="Opportunity").length;
+  document.getElementById("riskCount").textContent=articles.filter(a=>a.signal==="Risk").length;
+  document.getElementById("highPriorityCount").textContent=articles.filter(a=>a.priority==="High").length;
+  renderMustKnow(chooseMustKnow(articles));
+  renderArticles(articles);
+  if(data.updated){
+   const date=new Date(data.updated);
+   document.getElementById("lastUpdated").textContent="Last updated: "+date.toLocaleString("en-IN",{
+    day:"2-digit",month:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit"
+   });
   }
-
-  box.innerHTML = `
-
-    <div class="mustknow">
-
-      <div class="mustknow-title">
-
-        <a href="${escapeHtml(article.link)}"
-           target="_blank"
-           rel="noopener noreferrer"
-           style="color:#172033;text-decoration:none;">
-
-          ${escapeHtml(article.title)}
-
-        </a>
-
-      </div>
-
-      <div class="mustknow-meta">
-
-        ${escapeHtml(article.category)}
-        ·
-        ${escapeHtml(article.source)}
-
-      </div>
-
-      <div class="badges">
-
-        ${signalBadge(article.signal)}
-
-        ${priorityBadge(article.priority)}
-
-        <span class="badge">
-          ${escapeHtml(article.business_area || "Pharma")}
-        </span>
-
-      </div>
-
-      <div class="mustknow-text">
-
-        ${escapeHtml(whyItMatters(article))}
-
-      </div>
-
-      <div class="action-box">
-
-        <div class="action-label">MD ACTION</div>
-
-        <div class="action-text">
-
-          ${escapeHtml(actionFor(article))}
-
-        </div>
-
-      </div>
-
-    </div>
-
-  `;
-
+ }catch(error){
+  console.error(error);
+  document.getElementById("articles").innerHTML='<div style="color:#a51d28">Unable to load intelligence data. Please refresh the page.</div>';
+ }
 }
-
-
-/* ----------------------------- */
-/* RENDER ARTICLES */
-/* ----------------------------- */
-
-function renderArticles(articles) {
-
-  const container = document.getElementById("articles");
-
-  if (!articles.length) {
-
-    container.innerHTML =
-      "<div>No intelligence available.</div>";
-
-    return;
-
-  }
-
-  const sorted = [...articles].sort((a,b) => {
-
-    return new Date(b.published || 0) -
-           new Date(a.published || 0);
-
-  });
-
-  container.innerHTML = sorted.map(article => {
-
-    return `
-
-      <div class="article">
-
-        <div class="article-title">
-
-          <a href="${escapeHtml(article.link)}"
-             target="_blank"
-             rel="noopener noreferrer">
-
-            ${escapeHtml(article.title)}
-
-          </a>
-
-        </div>
-
-        <div class="meta">
-
-          ${escapeHtml(article.category)}
-          ·
-          ${escapeHtml(article.source)}
-
-        </div>
-
-        <div class="badges">
-
-          ${signalBadge(article.signal)}
-
-          ${priorityBadge(article.priority)}
-
-          <span class="badge">
-
-            ${escapeHtml(article.business_area || "Pharma")}
-
-          </span>
-
-        </div>
-
-        <div class="relevance">
-
-          ${escapeHtml(article.relevance || "")}
-
-        </div>
-
-        <div class="why">
-
-          <strong>WHY IT MATTERS</strong>
-
-          <div class="why-text">
-
-            ${escapeHtml(whyItMatters(article))}
-
-          </div>
-
-        </div>
-
-        <div class="article-action">
-
-          ${escapeHtml(actionFor(article))}
-
-        </div>
-
-      </div>
-
-    `;
-
-  }).join("");
-
-}
-
-
-/* ----------------------------- */
-/* ACTION FOCUS */
-/* ----------------------------- */
-
-function renderActionFocus(articles) {
-
-  const container = document.getElementById("actionFocus");
-
-  const opportunityArticles =
-    articles.filter(a => a.signal === "Opportunity");
-
-  const api =
-    opportunityArticles.filter(a =>
-      (a.business_area || "").includes("API")
-    ).length;
-
-  const cdmo =
-    opportunityArticles.filter(a =>
-      (a.business_area || "").includes("CDMO")
-    ).length;
-
-  const investment =
-    opportunityArticles.filter(a =>
-      (a.business_area || "").includes("Investment")
-    ).length;
-
-  container.innerHTML = `
-
-    <div class="focus">
-
-      <h3>🧪 API / Intermediates</h3>
-
-      <p>
-        Monitor API, intermediate and bulk-drug developments for
-        possible product, customer and sourcing opportunities.
-      </p>
-
-      <div class="focus-count">
-        ${api} current opportunity signal(s)
-      </div>
-
-    </div>
-
-    <div class="focus">
-
-      <h3>🤝 CDMO / Contract Manufacturing</h3>
-
-      <p>
-        Track outsourcing and CDMO developments for potential
-        manufacturing, development and customer opportunities.
-      </p>
-
-      <div class="focus-count">
-        ${cdmo} current opportunity signal(s)
-      </div>
-
-    </div>
-
-    <div class="focus">
-
-      <h3>🏭 Investment / Expansion</h3>
-
-      <p>
-        Track new plants, investments and expansion projects in
-        Hyderabad, Andhra Pradesh and India.
-      </p>
-
-      <div class="focus-count">
-        ${investment} current opportunity signal(s)
-      </div>
-
-    </div>
-
-  `;
-
-}
-
-
-/* ----------------------------- */
-/* BUSINESS SIGNALS */
-/* ----------------------------- */
-
-function renderSignals(articles) {
-
-  const counts = {
-
-    api: 0,
-    cdmo: 0,
-    manufacturing: 0,
-    supply: 0,
-    regulatory: 0
-
-  };
-
-
-  articles.forEach(article => {
-
-    const area =
-      (article.business_area || "").toLowerCase();
-
-    if (area.includes("api")) {
-      counts.api++;
-    }
-
-    if (area.includes("cdmo")) {
-      counts.cdmo++;
-    }
-
-    if (area.includes("manufacturing")) {
-      counts.manufacturing++;
-    }
-
-    if (area.includes("supply")) {
-      counts.supply++;
-    }
-
-    if (area.includes("regulatory")) {
-      counts.regulatory++;
-    }
-
-  });
-
-
-  function value(n) {
-
-    if (n >= 4) return "↑↑";
-    if (n >= 2) return "↑";
-    if (n === 1) return "WATCH";
-
-    return "—";
-
-  }
-
-
-  document.getElementById("signalApi").textContent =
-    value(counts.api);
-
-  document.getElementById("signalCdmo").textContent =
-    value(counts.cdmo);
-
-  document.getElementById("signalManufacturing").textContent =
-    value(counts.manufacturing);
-
-  document.getElementById("signalSupply").textContent =
-    value(counts.supply);
-
-  document.getElementById("signalRegulatory").textContent =
-    value(counts.regulatory);
-
-}
-
-
-/* ----------------------------- */
-/* MAIN LOAD */
-/* ----------------------------- */
-
-async function loadData() {
-
-  try {
-
-    const response =
-      await fetch("data.json?t=" + Date.now());
-
-    data = await response.json();
-
-    const articles =
-      Array.isArray(data.articles)
-      ? data.articles
-      : [];
-
-
-    /* COUNTS */
-
-    document.getElementById("newsCount").textContent =
-      articles.length;
-
-    document.getElementById("opportunityCount").textContent =
-      articles.filter(a => a.signal === "Opportunity").length;
-
-    document.getElementById("riskCount").textContent =
-      articles.filter(a => a.signal === "Risk").length;
-
-    document.getElementById("highPriorityCount").textContent =
-      articles.filter(a => a.priority === "High").length;
-
-
-    /* MUST KNOW */
-
-    const mustKnow =
-      chooseMustKnow(articles);
-
-    renderMustKnow(mustKnow);
-
-
-    /* ARTICLES */
-
-    renderArticles(articles);
-
-
-    /* ACTION FOCUS */
-
-    renderActionFocus(articles);
-
-
-    /* SIGNALS */
-
-    renderSignals(articles);
-
-
-    /* LAST UPDATED */
-
-    if (data.updated) {
-
-      const date =
-        new Date(data.updated);
-
-      document.getElementById("lastUpdated").textContent =
-        "Last updated: " +
-        date.toLocaleString("en-IN", {
-          day: "2-digit",
-          month: "2-digit",
-          year: "numeric",
-          hour: "2-digit",
-          minute: "2-digit",
-          second: "2-digit"
-        });
-
-    }
-
-  }
-
-  catch(error) {
-
-    console.error(error);
-
-    document.getElementById("articles").innerHTML =
-
-      `<div style="color:#b42318;">
-        Unable to load intelligence data.
-        Please refresh the page.
-       </div>`;
-
-  }
-
-}
-
-
-/* INITIAL LOAD */
 
 loadData();
-
-
-/* AUTO REFRESH EVERY 5 MINUTES */
-
-setInterval(loadData, 5 * 60 * 1000);
-
+setInterval(loadData,5*60*1000);
 </script>
-
 </body>
 </html>
