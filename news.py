@@ -46,7 +46,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.2.0"
+ENGINE_VERSION = "3.2.1"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -434,6 +434,10 @@ def normalize_title(title):
 
 def clean_title_for_analysis(title):
 
+    title = clean_text(title)
+
+    # Google News can append the publisher after a separator.
+    # Remove only known publishers or obvious publisher/domain suffixes.
     title = re.sub(
         r"\s*[-|]\s*(times of india|"
         r"financial express|"
@@ -445,13 +449,21 @@ def clean_title_for_analysis(title):
         r"dd india|"
         r"hindustan times|"
         r"fierce pharma|"
-        r"business wire).*$",
+        r"business wire|"
+        r"sahi)\s*$",
         "",
         title,
         flags=re.IGNORECASE
     )
 
-    return title.strip()
+    title = re.sub(
+        r"\s*[-|]\s*[A-Za-z0-9.-]+\.(?:com|in|org|net|co\.in|co\.uk)\s*$",
+        "",
+        title,
+        flags=re.IGNORECASE
+    )
+
+    return title.strip(" -|")
 
 
 # ============================================================
@@ -1273,9 +1285,10 @@ def should_keep_article(text, category, signal, event_type):
     if signal == "Watch":
         return score >= 2
 
-    # General stories are retained only when they contain enough
-    # commercial substance to be useful in the broader article feed.
-    return score >= 3
+    # Keep a wider article pool for the dashboard. Must Know is still
+    # separately prioritized, so broader retention does not mean broader
+    # MD attention.
+    return score >= 2
 
 
 # ============================================================
@@ -1403,7 +1416,7 @@ def collect_news():
 
 
                 companies = detect_companies(
-                    title,
+                    analysis_title,
                     description
                 )
 
@@ -1447,10 +1460,14 @@ def collect_news():
                         category,
 
                     "title":
-                        title,
+                        analysis_title,
 
                     "description":
-                        description[:500],
+                        (
+                            clean_title_for_analysis(description)
+                            if description
+                            else ""
+                        )[:500],
 
                     "link":
                         link,
@@ -1491,7 +1508,10 @@ def collect_news():
                         numbers,
 
                     "source_name":
-                        extract_source(title, description),
+                        extract_source(
+                            analysis_title,
+                            description
+                        ),
 
                     "source_credibility":
                         "Established" if extract_source(title, description) != "Google News RSS" else "Standard",
