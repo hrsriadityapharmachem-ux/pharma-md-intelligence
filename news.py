@@ -19,31 +19,34 @@ FEEDS = {
     "Hyderabad": [
         "https://news.google.com/rss/search?q=Hyderabad+pharma+OR+Hyderabad+pharmaceutical&hl=en-IN&gl=IN&ceid=IN:en",
         "https://news.google.com/rss/search?q=Hyderabad+API+OR+Hyderabad+chemical+industry&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Hyderabad+CDMO+OR+pharma+investment+OR+pharma+plant&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=Hyderabad+CDMO+OR+pharma+investment+OR+pharma+plant&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Hyderabad+pharma+capacity+OR+manufacturing+OR+expansion&hl=en-IN&gl=IN&ceid=IN:en"
     ],
-
     "Vizag / AP": [
         "https://news.google.com/rss/search?q=Visakhapatnam+pharma+OR+Vizag+pharma&hl=en-IN&gl=IN&ceid=IN:en",
         "https://news.google.com/rss/search?q=Andhra+Pradesh+API+OR+Andhra+Pradesh+pharma+OR+bulk+drug+park&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+investment+OR+pharma+plant+OR+chemical+plant&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+investment+OR+pharma+plant+OR+chemical+plant&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=Andhra+Pradesh+pharma+capacity+OR+manufacturing+OR+CDMO&hl=en-IN&gl=IN&ceid=IN:en"
     ],
-
     "India": [
         "https://news.google.com/rss/search?q=India+pharma+OR+Indian+pharmaceutical+industry&hl=en-IN&gl=IN&ceid=IN:en",
         "https://news.google.com/rss/search?q=India+API+OR+pharma+investment+OR+CDMO&hl=en-IN&gl=IN&ceid=IN:en",
         "https://news.google.com/rss/search?q=India+bulk+drug+OR+API+manufacturing+OR+pharma+capacity&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=India+pharma+regulatory+OR+CDSCO+OR+FDA+pharma&hl=en-IN&gl=IN&ceid=IN:en"
+        "https://news.google.com/rss/search?q=India+pharma+regulatory+OR+CDSCO+OR+FDA+pharma&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+pharma+acquisition+OR+partnership+OR+supply+agreement&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=India+pharma+plant+OR+greenfield+OR+brownfield+OR+expansion&hl=en-IN&gl=IN&ceid=IN:en"
     ],
-
     "Global": [
         "https://news.google.com/rss/search?q=global+pharma+industry&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=FDA+pharmaceutical+OR+EMA+pharma&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=global+API+OR+CDMO+pharma&hl=en-US&gl=US&ceid=US:en"
+        "https://news.google.com/rss/search?q=global+API+OR+CDMO+pharma&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=global+pharma+investment+OR+acquisition+OR+partnership&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=global+pharma+manufacturing+OR+capacity+OR+new+plant&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=global+pharma+supply+shortage+OR+recall+OR+regulatory&hl=en-US&gl=US&ceid=US:en"
     ]
 }
 
-
-ENGINE_VERSION = "3.1.1"
+ENGINE_VERSION = "3.2.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -457,13 +460,27 @@ def clean_title_for_analysis(title):
 
 def extract_source(title, description=""):
     text = clean_text(title) + " " + clean_text(description)
-    for source in KNOWN_SOURCES:
-        if re.search(r"(?<![A-Za-z])" + re.escape(source) + r"(?![A-Za-z])", text, re.IGNORECASE):
-            return source
-    # Google News often appends an untrusted publisher token to the title.
-    # Never guess a publisher from arbitrary trailing words.
-    return "Google News RSS"
 
+    for source in KNOWN_SOURCES:
+        if re.search(
+            r"(?<![A-Za-z])" + re.escape(source) + r"(?![A-Za-z])",
+            text,
+            re.IGNORECASE
+        ):
+            return source
+
+    # Google News frequently appends a publisher domain to the title.
+    # Accept only a real domain-like token; never infer a publisher from
+    # arbitrary words such as "Stake Sahi".
+    domain_matches = re.findall(
+        r"(?:^|\s|[-|])([A-Za-z0-9][A-Za-z0-9.-]+\.(?:com|in|org|net|co\.in|co\.uk))(?:$|\s|[-|])",
+        clean_text(title),
+        flags=re.IGNORECASE
+    )
+    if domain_matches:
+        return domain_matches[-1]
+
+    return "Google News RSS"
 
 def determine_event_type(text):
     lower = text.lower()
@@ -566,27 +583,76 @@ def calculate_importance_score(signal, priority, category, business_area, text):
 
 def determine_signal(text):
     lower = text.lower()
+
     potential_regulatory = [
         "may review", "may investigate", "could review", "could investigate",
-        "likely to review", "reportedly considering", "proposed action", "possible action"
+        "likely to review", "reportedly considering", "proposed action",
+        "possible action", "plans to review", "considering action"
     ]
-    regulatory_context = ["regulator", "regulatory", "fda", "ema", "cdsco", "inspection", "compliance", "warning"]
 
-    if any(x in lower for x in potential_regulatory) and any(x in lower for x in regulatory_context):
+    regulatory_context = [
+        "regulator", "regulatory", "fda", "ema", "cdsco", "inspection",
+        "compliance", "warning", "non-compliance"
+    ]
+
+    if (
+        any(x in lower for x in potential_regulatory)
+        and any(x in lower for x in regulatory_context)
+    ):
         return "Watch"
-    if any(x in lower for x in ["supply disruption", "supply chain disruption", "shortage", "production halt", "plant closure", "recall", "warning letter", "import alert", "export restriction", "failed inspection", "non-compliance", "contamination"]):
+
+    confirmed_risk = [
+        "supply disruption", "supply chain disruption", "shortage",
+        "production halt", "plant closure", "recall", "warning letter",
+        "import alert", "export restriction", "failed inspection",
+        "contamination", "regulatory action", "regulatory warning",
+        "sanction", "ban on", "suspended", "suspension of manufacturing"
+    ]
+
+    if any(x in lower for x in confirmed_risk):
         return "Risk"
-    if any(x in lower for x in ["cdmo contract", "contract manufacturing agreement", "supply agreement", "strategic partnership", "commercial agreement", "capacity expansion", "new plant", "new facility", "manufacturing facility", "plant expansion", "facility expansion", "market entry", "new market"]):
+
+    strong_opportunity = [
+        "cdmo contract", "contract manufacturing agreement",
+        "supply agreement", "strategic partnership",
+        "commercial agreement", "capacity expansion", "new plant",
+        "new facility", "manufacturing facility", "plant expansion",
+        "facility expansion", "greenfield", "brownfield",
+        "market entry", "new market", "production expansion"
+    ]
+
+    if any(x in lower for x in strong_opportunity):
         return "Opportunity"
-    if any(x in lower for x in ["acquisition", "acquires", "acquired", "investment", "invests", "funding", "merger", "stake"]):
-        opportunity_terms = ["manufacturing", "capacity", "api", "intermediate", "cdmo", "contract", "supply", "supplier", "partnership", "facility", "plant", "production"]
-        return "Opportunity" if any(x in lower for x in opportunity_terms) else "Watch"
-    if any(x in lower for x in ["fda approval", "ema approval", "cdsco approval", "approved by", "regulatory approval"]):
-        return "Watch"
-    if any(x in lower for x in RISK_KEYWORDS):
-        return "Risk"
-    return "General"
 
+    investment_terms = [
+        "acquisition", "acquires", "acquired", "investment",
+        "invests", "funding", "merger", "stake"
+    ]
+
+    if any(x in lower for x in investment_terms):
+        opportunity_terms = [
+            "manufacturing", "capacity", "api", "intermediate", "cdmo",
+            "contract", "supply", "supplier", "partnership", "facility",
+            "plant", "production", "pharma", "pharmaceutical", "biotech",
+            "drug", "medicines"
+        ]
+        # Investment/acquisition is a commercial signal when the story is
+        # clearly connected to pharma/biotech/manufacturing, even if the
+        # headline does not spell out the exact capacity implication.
+        if any(x in lower for x in opportunity_terms):
+            return "Opportunity"
+        return "Watch"
+
+    if any(x in lower for x in [
+        "fda approval", "ema approval", "cdsco approval",
+        "approved by", "regulatory approval"
+    ]):
+        return "Watch"
+
+    if any(keyword.lower() in lower for keyword in RISK_KEYWORDS):
+        return "Risk"
+
+    return "General"
 
 def determine_business_area(text):
 
@@ -743,40 +809,26 @@ def detect_project_signal(text):
 # ============================================================
 
 def detect_numbers(text):
-
     patterns = [
-
-        r"(?:₹|rs\.?|inr)\s?[\d,.]+\s?"
-        r"(?:crore|cr|million|billion|lakh|mn|bn)?",
-
-        r"[\d,.]+\s?"
-        r"(?:crore|cr|million|billion|lakh|mn|bn)",
-
-        r"[\d,.]+\s?"
-        r"(?:tonnes|tons|mt|kg|million doses|units)"
+        r"(?:₹|rs\.?|inr)\s*[\d,.]+\s*(?:crore|cr|million|billion|lakh|mn|bn)",
+        r"[\d,.]+\s*(?:crore|cr|million|billion|lakh|mn|bn)\b",
+        r"[\d,.]+\s*(?:million doses|billion doses|tonnes|tons|mt|kg|units)\b",
+        r"\$\s*[\d,.]+\s*(?:million|billion|mn|bn)?"
     ]
 
     found = []
 
     for pattern in patterns:
-
-        matches = re.findall(
-            pattern,
-            text,
-            flags=re.IGNORECASE
-        )
-
-        for match in matches:
-
-            cleaned = " ".join(
-                match.split()
-            ).strip()
-
+        for match in re.findall(pattern, text, flags=re.IGNORECASE):
+            cleaned = " ".join(match.split()).strip(" ,.;:-")
+            if not re.search(r"\d", cleaned):
+                continue
+            if cleaned.lower() in {"rs", "rs.", "inr", "$"}:
+                continue
             if cleaned not in found:
                 found.append(cleaned)
 
     return found[:5]
-
 
 # ============================================================
 # PRIORITY SCORE
@@ -1163,6 +1215,70 @@ def generate_relevance(
 
 
 # ============================================================
+# RELEVANCE / NOISE CONTROL
+# ============================================================
+
+def calculate_relevance_score(text, category, signal, event_type):
+    lower = text.lower()
+    score = 0
+
+    high_value_terms = [
+        "api", "intermediate", "cdmo", "contract manufacturing",
+        "manufacturing", "new plant", "new facility", "capacity",
+        "investment", "acquisition", "stake", "supply agreement",
+        "partnership", "shortage", "recall", "warning letter",
+        "import alert", "export", "bulk drug", "raw material",
+        "supplier", "production"
+    ]
+
+    for term in high_value_terms:
+        if term in lower:
+            score += 1
+
+    if category == "Hyderabad":
+        score += 2
+    elif category == "Vizag / AP":
+        score += 2
+    elif category == "India":
+        score += 1
+
+    if signal in ["Opportunity", "Risk"]:
+        score += 2
+    elif signal == "Watch":
+        score += 1
+
+    if event_type in [
+        "Commercial Agreement", "Capacity Expansion",
+        "Investment / Acquisition", "Supply Disruption",
+        "Regulatory Action", "Market / Export Move"
+    ]:
+        score += 2
+
+    # Deliberately suppress routine leadership/event coverage unless it
+    # contains a separate commercial signal.
+    if event_type in ["Leadership Change", "Industry Event"] and signal == "General":
+        score -= 2
+
+    return score
+
+
+def should_keep_article(text, category, signal, event_type):
+    score = calculate_relevance_score(
+        text, category, signal, event_type
+    )
+
+    if signal in ["Risk", "Opportunity"]:
+        return score >= 2
+
+    if signal == "Watch":
+        return score >= 2
+
+    # General stories are retained only when they contain enough
+    # commercial substance to be useful in the broader article feed.
+    return score >= 3
+
+
+# ============================================================
 # COLLECT NEWS
 # ============================================================
 
@@ -1170,7 +1286,7 @@ def collect_news():
 
     now = datetime.now(timezone.utc)
 
-    cutoff = now - timedelta(hours=24)
+    cutoff = now - timedelta(hours=36)
 
     articles = []
 
@@ -1265,24 +1381,17 @@ def collect_news():
                 ).lower()
 
 
-                relevant = any(
-                    keyword.lower() in combined
-                    for keyword in KEYWORDS
-                )
+                event_type = determine_event_type(combined)
+                signal = determine_signal(combined)
+                business_area = determine_business_area(combined)
 
-
-                if not relevant:
+                if not should_keep_article(
+                    combined,
+                    category,
+                    signal,
+                    event_type
+                ):
                     continue
-
-
-                signal = determine_signal(
-                    combined
-                )
-
-
-                business_area = determine_business_area(
-                    combined
-                )
 
 
                 priority = calculate_priority_score(
@@ -1391,7 +1500,7 @@ def collect_news():
                         "India" if category in ["Hyderabad", "Vizag / AP", "India"] else "Global",
 
                     "event_type":
-                        determine_event_type(combined),
+                        event_type,
 
                     "what_happened":
                         build_what_happened(title),
@@ -1403,13 +1512,13 @@ def collect_news():
                         build_risk(signal, business_area, combined),
 
                     "investigation_question":
-                        build_investigation_question(determine_event_type(combined), business_area),
+                        build_investigation_question(event_type, business_area),
 
                     "evidence_level":
                         determine_evidence_level(extract_source(title, description)),
 
                     "confidence":
-                        determine_confidence(signal, extract_source(title, description), determine_event_type(combined)),
+                        determine_confidence(signal, extract_source(title, description), event_type),
 
                     "importance_score":
                         calculate_importance_score(signal, priority, category, business_area, combined),
@@ -1571,10 +1680,7 @@ def deduplicate_articles(
 # MUST KNOW SELECTION
 # ============================================================
 
-def select_must_know(
-    articles
-):
-
+def select_must_know(articles):
     priority_rank = {
         "High": 3,
         "Medium": 2,
@@ -1584,74 +1690,52 @@ def select_must_know(
     candidates = []
 
     for article in articles:
+        signal = article["signal"]
+        event_type = article["event_type"]
 
-        score = (
-            priority_rank.get(
-                article["priority"],
-                0
-            )
-            * 10
-        )
+        # The MD layer should not be filled with routine leadership changes
+        # or conferences unless they carry a separate business signal.
+        if signal == "General":
+            continue
 
-        if article["signal"] == "Risk":
+        if (
+            event_type in ["Leadership Change", "Industry Event"]
+            and signal not in ["Risk", "Opportunity"]
+        ):
+            continue
+
+        score = priority_rank.get(article["priority"], 0) * 10
+
+        if signal == "Risk":
             score += 30
-
-        elif article["signal"] == "Opportunity":
-            score += 20
-
-        elif article["signal"] == "Watch":
+        elif signal == "Opportunity":
+            score += 25
+        elif signal == "Watch":
             score += 10
 
-
-        if article["category"] in [
-            "Hyderabad",
-            "Vizag / AP"
-        ]:
+        if article["category"] in ["Hyderabad", "Vizag / AP"]:
             score += 10
-
 
         if article["business_area"] in [
             "Investment / Expansion",
             "API / Intermediates",
             "CDMO / Contract Manufacturing",
-            "Manufacturing / Plants"
+            "Manufacturing / Plants",
+            "Supply Chain",
+            "Regulatory"
         ]:
             score += 10
 
-
         title = article["title"].lower()
-
         for keyword in HIGH_PRIORITY_KEYWORDS:
-
             if keyword.lower() in title:
-
                 score += 10
 
+        candidates.append((score, article))
 
-        candidates.append(
-            (
-                score,
-                article
-            )
-        )
+    candidates.sort(key=lambda x: x[0], reverse=True)
 
-
-    candidates.sort(
-        key=lambda x: x[0],
-        reverse=True
-    )
-
-
-    if not candidates:
-        return []
-
-
-    # Maximum 3 Must Know articles
-    return [
-        article
-        for score, article
-        in candidates[:3]
-    ]
+    return [article for score, article in candidates[:3]]
 
 
 # ============================================================
