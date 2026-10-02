@@ -34,7 +34,7 @@ import os
 # ============================================================
 
 
-ENGINE_VERSION = "3.0"
+ENGINE_VERSION = "3.1"
 
 
 # ============================================================
@@ -932,11 +932,47 @@ def determine_signal(text, event_type):
         return "Risk"
 
     if event_type in {
-    "Commercial Agreement",
-    "Capacity Expansion",
-    "Market / Export Move"
-}:
-    return "Opportunity"
+        "Commercial Agreement",
+        "Capacity Expansion",
+        "Market / Export Move"
+    }:
+        return "Opportunity"
+
+    if event_type == "Investment / Acquisition":
+
+        opportunity_terms = [
+            "manufacturing",
+            "capacity",
+            "api",
+            "intermediate",
+            "cdmo",
+            "contract",
+            "supply",
+            "supplier",
+            "partnership",
+            "facility",
+            "plant",
+            "production"
+        ]
+
+        if any(
+            term in lower
+            for term in opportunity_terms
+        ):
+            return "Opportunity"
+
+        return "Watch"
+
+    if event_type == "Regulatory Approval":
+        return "Watch"
+
+    if any(
+        keyword in lower
+        for keyword in RISK_KEYWORDS
+    ):
+        return "Risk"
+
+    return "General"
 
 if event_type == "Investment / Acquisition":
 
