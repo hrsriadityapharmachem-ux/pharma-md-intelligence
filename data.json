@@ -1,12 +1,29 @@
 {
-  "updated": "2026-10-02T06:43:43.657148+00:00",
+  "updated": "2026-10-02T07:33:58.572165+00:00",
   "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Drug regulator may review machinery disposal at non-compliant pharma units - Business Standard",
+      "description": "Drug regulator may review machinery disposal at non-compliant pharma units Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3FkLTVuTDhUb3BnZXAzOWo0ajRmWXdZc24xT1ZVQUNtM3pyVVAtM01naUU0WGx4blNjVlY2a1Jtam41Nkl2ZXVLWndkSFJRenN3R3Zkd3djTEtOamJIMEkwdzVvaWFfeUFsMXRLMlZ5NW9IY1EtZGg1aVpqYlBXd2RKZVBzaUJLVDlwZmlIMGlvZHNIZXlTNUpwOWVwMThocG9WZl9uZmU4T01feG5fN3F4OVctc3lvSHJ0V0gzV21lUE9QZzc4QlA4NDVmazVUc2ZZQ0ZiODgyUdIB3wFBVV95cUxPM0I4NktCalF2TUxGRFEtNDFhUF9jTzZRVUlpU3M4MzhTSzVqeEwyS0NHTWF3NXNFU3pRMDRzSjFlRGl1NktRb3NjNTJ0NWJSaHJrQm1teFlHLTJwSWNZMzV3cTQzQjJMWkx5RDJnWUxyQlprVlpfTUlKbk9ZVkdfOVhVMUhpYjdVNkJTWnRwZFl4R1A3YmZrdXlRSGpEZm1EMEg5M3N4U2lOLXZyTmNsRDdzdmpsT1dWU00xRUF4QkVvbzJ2R25OWWU2aFZ0ajhmOG00YmJXdXY2U1Z3UmZN?oc=5",
+      "published": "2026-10-01T12:53:36+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer - hrtoday.in",
@@ -46,23 +63,6 @@
       "numbers": [
         "rs,"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "CPHI Milan 2026: Global Pharma Showcase Kicks Off, with Taiwan Delegation Rising to New Heights - geneonline.com",
-      "description": "CPHI Milan 2026: Global Pharma Showcase Kicks Off, with Taiwan Delegation Rising to New Heights geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXJlY2xVUldETVhLWHJDc0FkN2ZseXZWMXBsM0lLbXB0enRDYS1ncFYxQi1EbWNFbFUyNHZkek5mSWRZZHBhZlM1eVFGaE1DM0sxWTMyRGQxZnNzaC1RTWZfWTVCck1GZXpGTkpiY1VtYV90Q2lpeGlCQVdxSTQxLWpjX2cwM2MzeDRTNVA3SHJzVjZyU1lwUXFIcmtucGhIMTVIZlRXVm1fZzRvUkZCNUFBcHlIT2duMUs0V2Jn?oc=5",
-      "published": "2026-10-01T13:40:28+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -140,12 +140,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3FkLTVuTDhUb3BnZXAzOWo0ajRmWXdZc24xT1ZVQUNtM3pyVVAtM01naUU0WGx4blNjVlY2a1Jtam41Nkl2ZXVLWndkSFJRenN3R3Zkd3djTEtOamJIMEkwdzVvaWFfeUFsMXRLMlZ5NW9IY1EtZGg1aVpqYlBXd2RKZVBzaUJLVDlwZmlIMGlvZHNIZXlTNUpwOWVwMThocG9WZl9uZmU4T01feG5fN3F4OVctc3lvSHJ0V0gzV21lUE9QZzc4QlA4NDVmazVUc2ZZQ0ZiODgyUdIB3wFBVV95cUxPM0I4NktCalF2TUxGRFEtNDFhUF9jTzZRVUlpU3M4MzhTSzVqeEwyS0NHTWF3NXNFU3pRMDRzSjFlRGl1NktRb3NjNTJ0NWJSaHJrQm1teFlHLTJwSWNZMzV3cTQzQjJMWkx5RDJnWUxyQlprVlpfTUlKbk9ZVkdfOVhVMUhpYjdVNkJTWnRwZFl4R1A3YmZrdXlRSGpEZm1EMEg5M3N4U2lOLXZyTmNsRDdzdmpsT1dWU00xRUF4QkVvbzJ2R25OWWU2aFZ0ajhmOG00YmJXdXY2U1Z3UmZN?oc=5",
       "published": "2026-10-01T12:53:36+00:00",
       "source": "Google News RSS",
-      "signal": "General",
+      "signal": "Watch",
       "business_area": "Pharma Industry",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
       "project_signals": [],
       "numbers": []
