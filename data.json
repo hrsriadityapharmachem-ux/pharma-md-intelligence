@@ -1,201 +1,28 @@
 {
-  "updated": "2026-10-02T07:08:34.944697+00:00",
-  "engine_version": "3.0",
-  "article_count": 3,
-  "opportunity_count": 1,
-  "risk_count": 1,
+  "updated": "",
+  "engine_version": "3.1.1",
+  "article_count": 0,
+  "opportunity_count": 0,
+  "risk_count": 0,
   "watch_count": 0,
-  "high_priority_count": 2,
-  "successful_feeds": 19,
-  "must_know": [
-    {
-      "category": "India",
-      "title": "Drug regulator may review machinery disposal at non-compliant pharma units",
-      "description": "Drug regulator may review machinery disposal at non-compliant pharma units Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3FkLTVuTDhUb3BnZXAzOWo0ajRmWXdZc24xT1ZVQUNtM3pyVVAtM01naUU0WGx4blNjVlY2a1Jtam41Nkl2ZXVLWndkSFJRenN3R3Zkd3djTEtOamJIMEkwdzVvaWFfeUFsMXRLMlZ5NW9IY1EtZGg1aVpqYlBXd2RKZVBzaUJLVDlwZmlIMGlvZHNIZXlTNUpwOWVwMThocG9WZl9uZmU4T01feG5fN3F4OVctc3lvSHJ0V0gzV21lUE9QZzc4QlA4NDVmazVUc2ZZQ0ZiODgyUdIB3wFBVV95cUxPM0I4NktCalF2TUxGRFEtNDFhUF9jTzZRVUlpU3M4MzhTSzVqeEwyS0NHTWF3NXNFU3pRMDRzSjFlRGl1NktRb3NjNTJ0NWJSaHJrQm1teFlHLTJwSWNZMzV3cTQzQjJMWkx5RDJnWUxyQlprVlpfTUlKbk9ZVkdfOVhVMUhpYjdVNkJTWnRwZFl4R1A3YmZrdXlRSGpEZm1EMEg5M3N4U2lOLXZyTmNsRDdzdmpsT1dWU00xRUF4QkVvbzJ2R25OWWU2aFZ0ajhmOG00YmJXdXY2U1Z3UmZN?oc=5",
-      "published": "2026-10-01T12:53:36+00:00",
-      "source": "Google News RSS",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "Critical",
-      "relevance": "India pharma/chemical development with relevance score 4.",
-      "why_it_matters": "This may change compliance, supply or customer risk in Regulatory. The specific companies and products affected should be verified.",
-      "md_action": "Verify the affected company, product, market and supply exposure. Escalate only if Sri Aditya has a direct or plausible exposure.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Standard",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Regulatory Action",
-      "what_happened": "Drug regulator may review machinery disposal at non-compliant pharma units.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or supply-chain exposure exists around Regulatory. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which company, product and market are affected, and could the action create supply or customer disruption?",
-      "evidence_level": "High",
-      "confidence": 83,
-      "importance_score": 18,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Global",
-      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
-      "description": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake Sahi",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelF4NFR0eGVBUlk3MEtreDNNN3ZINFBtQkt1Sk45eGhueURrb0Y4c21uSERjbWJ4NHlnQnpSUmQ0WTZ5Vk55aXVCVDBIUDBPanFCZ2V6TUdlb3hac3FaNzBOMldjaDB1MHBIRXk0UGUyLW9pX1YzWWdqcTlzWEdGODR4MVoya2ZJNVNQYm1CWHE3QU0zRFc4N0U5MGR0LWlCb1BlRzR1YVlwVE5LWXhOTHo3a0g0aVJCMzNweS1XRQ?oc=5",
-      "published": "2026-10-01T12:47:06+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Critical",
-      "relevance": "Global pharma/chemical development with relevance score 5.",
-      "why_it_matters": "Capital deployment may indicate where the pharma market expects future demand or capacity growth, particularly in Investment / Expansion.",
-      "md_action": "Identify the company/product involved, verify the commercial trigger and check whether Sri Aditya has a relevant capability, molecule or customer connection.",
-      "companies": [
-        "Gland Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "21 Million"
-      ],
-      "source_name": "NovelStar Pharma Stake Sahi",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake.",
-      "business_opportunity": "Investigate the acquired/invested company's product portfolio, capacity plans and potential sourcing needs around Investment / Expansion.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "Medium",
-      "confidence": 71,
-      "importance_score": 17,
-      "fact_status": "Reported development - verify primary source before commercial action"
-    }
-  ],
+  "high_priority_count": 0,
+  "successful_feeds": 0,
+  "must_know": [],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Manufacturing / Plants": 0,
-    "Investment / Expansion": 1,
-    "Regulatory": 1,
+    "Investment / Expansion": 0,
+    "Regulatory": 0,
     "Exports / Markets": 0,
     "Supply Chain": 0,
     "Specialty Chemicals": 0
   },
   "daily_brief": {
-    "attention": [
-      {
-        "title": "Drug regulator may review machinery disposal at non-compliant pharma units",
-        "signal": "Risk",
-        "why": "This may change compliance, supply or customer risk in Regulatory. The specific companies and products affected should be verified."
-      },
-      {
-        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
-        "signal": "Opportunity",
-        "why": "Capital deployment may indicate where the pharma market expects future demand or capacity growth, particularly in Investment / Expansion."
-      }
-    ],
-    "investigate": [
-      {
-        "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
-        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
-      }
-    ],
+    "attention": [],
+    "investigate": [],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
-  "articles": [
-    {
-      "category": "India",
-      "title": "Drug regulator may review machinery disposal at non-compliant pharma units",
-      "description": "Drug regulator may review machinery disposal at non-compliant pharma units Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3FkLTVuTDhUb3BnZXAzOWo0ajRmWXdZc24xT1ZVQUNtM3pyVVAtM01naUU0WGx4blNjVlY2a1Jtam41Nkl2ZXVLWndkSFJRenN3R3Zkd3djTEtOamJIMEkwdzVvaWFfeUFsMXRLMlZ5NW9IY1EtZGg1aVpqYlBXd2RKZVBzaUJLVDlwZmlIMGlvZHNIZXlTNUpwOWVwMThocG9WZl9uZmU4T01feG5fN3F4OVctc3lvSHJ0V0gzV21lUE9QZzc4QlA4NDVmazVUc2ZZQ0ZiODgyUdIB3wFBVV95cUxPM0I4NktCalF2TUxGRFEtNDFhUF9jTzZRVUlpU3M4MzhTSzVqeEwyS0NHTWF3NXNFU3pRMDRzSjFlRGl1NktRb3NjNTJ0NWJSaHJrQm1teFlHLTJwSWNZMzV3cTQzQjJMWkx5RDJnWUxyQlprVlpfTUlKbk9ZVkdfOVhVMUhpYjdVNkJTWnRwZFl4R1A3YmZrdXlRSGpEZm1EMEg5M3N4U2lOLXZyTmNsRDdzdmpsT1dWU00xRUF4QkVvbzJ2R25OWWU2aFZ0ajhmOG00YmJXdXY2U1Z3UmZN?oc=5",
-      "published": "2026-10-01T12:53:36+00:00",
-      "source": "Google News RSS",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "Critical",
-      "relevance": "India pharma/chemical development with relevance score 4.",
-      "why_it_matters": "This may change compliance, supply or customer risk in Regulatory. The specific companies and products affected should be verified.",
-      "md_action": "Verify the affected company, product, market and supply exposure. Escalate only if Sri Aditya has a direct or plausible exposure.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Standard",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Regulatory Action",
-      "what_happened": "Drug regulator may review machinery disposal at non-compliant pharma units.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or supply-chain exposure exists around Regulatory. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which company, product and market are affected, and could the action create supply or customer disruption?",
-      "evidence_level": "High",
-      "confidence": 83,
-      "importance_score": 18,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Global",
-      "title": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake",
-      "description": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake Sahi",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelF4NFR0eGVBUlk3MEtreDNNN3ZINFBtQkt1Sk45eGhueURrb0Y4c21uSERjbWJ4NHlnQnpSUmQ0WTZ5Vk55aXVCVDBIUDBPanFCZ2V6TUdlb3hac3FaNzBOMldjaDB1MHBIRXk0UGUyLW9pX1YzWWdqcTlzWEdGODR4MVoya2ZJNVNQYm1CWHE3QU0zRFc4N0U5MGR0LWlCb1BlRzR1YVlwVE5LWXhOTHo3a0g0aVJCMzNweS1XRQ?oc=5",
-      "published": "2026-10-01T12:47:06+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Critical",
-      "relevance": "Global pharma/chemical development with relevance score 5.",
-      "why_it_matters": "Capital deployment may indicate where the pharma market expects future demand or capacity growth, particularly in Investment / Expansion.",
-      "md_action": "Identify the company/product involved, verify the commercial trigger and check whether Sri Aditya has a relevant capability, molecule or customer connection.",
-      "companies": [
-        "Gland Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "21 Million"
-      ],
-      "source_name": "NovelStar Pharma Stake Sahi",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Gland Pharma Board Approves $21 Million Investment In US Subsidiary For 60% NovelStar Pharma Stake.",
-      "business_opportunity": "Investigate the acquired/invested company's product portfolio, capacity plans and potential sourcing needs around Investment / Expansion.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "Medium",
-      "confidence": 71,
-      "importance_score": 17,
-      "fact_status": "Reported development - verify primary source before commercial action"
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer",
-      "description": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer hrtoday.in",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjZDSXB6M2pjeGRkZ0p4YXVKNTNuOHREN3FQWldGUEQzRVpXd2oxbHZ6MnNQV0NiMHdSLVBET01TRFctbDRXaF84RE5Lb0hoQWY0RndqTEhwRzV3RFNjc0daLUVlak0ydlBZN1JJYjE4NzVOSHZmUDY0bHFqcnNaREZYNVJXT256anRmeVdB?oc=5",
-      "published": "2026-10-01T11:15:29+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "India pharma/chemical development with relevance score 4.",
-      "why_it_matters": "Leadership changes are secondary intelligence unless accompanied by a strategic, investment, procurement or portfolio change.",
-      "md_action": "No immediate MD action unless a concrete commercial, investment, regulatory or sourcing development emerges.",
-      "companies": [
-        "Anthea Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "hrtoday.in",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Leadership Change",
-      "what_happened": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What new management decision would this development change? If none, keep it low priority.",
-      "evidence_level": "Medium",
-      "confidence": 55,
-      "importance_score": 2,
-      "fact_status": "Reported development - verify primary source before commercial action"
-    }
-  ],
-  "engine_status": "Healthy"
+  "articles": [],
+  "engine_status": "Ready"
 }
