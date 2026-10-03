@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-03T00:43:02.052044+00:00",
-  "article_count": 5,
+  "updated": "2026-10-03T01:36:21.810906+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
@@ -27,26 +27,6 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India - Alice Blue",
-      "description": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India Alice Blue",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXpYYjZoZDRhaXloRjFxQzljVnQ5WlJrRmhWalVvblR1dnZjOWRkNXhWQkk0YkZ0Ry1sdGdNcERGdWcxNVV1c3J3V1hOLVd1MmgxTTJNdllsd09ybVdYT25uWl84NHRNcFZCN0VBLVBsNzBaTFhnTFRjbFQ0S09YZFlOZ2tUaWk5TXMwWFVObUh3RDFTTFNTcGtiMnEwT2Zod2Q0amdHRUVjLV9sVWxjamt5aWhPcnkxZ0E?oc=5",
-      "published": "2026-10-02T07:30:41+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "NATCO Pharma",
-        "Semaglutide in India - Alice Blue NATCO Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
       "category": "Hyderabad",
       "title": "Two interstate drug peddlers held with 3.3 kg marijuana in Hyderabad - Telangana Today",
       "description": "Two interstate drug peddlers held with 3.3 kg marijuana in Hyderabad Telangana Today",
@@ -64,6 +44,23 @@
       "numbers": [
         "3.3 kg"
       ]
+    },
+    {
+      "category": "Global",
+      "title": "MedPharm signs commercial site transfer deal with \"global pharma company\" - Manufacturing Chemist",
+      "description": "MedPharm signs commercial site transfer deal with \"global pharma company\" Manufacturing Chemist",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRlM2ODhrcTlYMjR6bndEaVFQODRSLVZLNUtXUE8zY29JWXM4Y3IzcVJLVHZoa2toWGU4ZnAtY3pTMVk5akljc21RUUJfbkxVOWtJclo4VzhxVXRaa1dUbTJfUENxTHRHTGRyTjRaN0FldnJZQVV5UFo2SllLczgzUVNKcGJ4d0RHNGpzc0FEUjd3V1FGaUE?oc=5",
+      "published": "2026-10-02T10:02:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
@@ -148,26 +145,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India - Alice Blue",
-      "description": "NATCO Pharma gains 12% after receiving CDSCO approval for Semaglutide in India Alice Blue",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXpYYjZoZDRhaXloRjFxQzljVnQ5WlJrRmhWalVvblR1dnZjOWRkNXhWQkk0YkZ0Ry1sdGdNcERGdWcxNVV1c3J3V1hOLVd1MmgxTTJNdllsd09ybVdYT25uWl84NHRNcFZCN0VBLVBsNzBaTFhnTFRjbFQ0S09YZFlOZ2tUaWk5TXMwWFVObUh3RDFTTFNTcGtiMnEwT2Zod2Q0amdHRUVjLV9sVWxjamt5aWhPcnkxZ0E?oc=5",
-      "published": "2026-10-02T07:30:41+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "NATCO Pharma",
-        "Semaglutide in India - Alice Blue NATCO Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     }
