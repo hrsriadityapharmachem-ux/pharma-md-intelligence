@@ -1,29 +1,32 @@
 {
-  "updated": "2026-10-03T08:36:28.112599+00:00",
-  "article_count": 7,
-  "opportunity_count": 0,
+  "updated": "2026-10-03T09:36:47.639703+00:00",
+  "article_count": 8,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
-  "high_priority_count": 0,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
     {
       "category": "India",
-      "title": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus - Indian Pharma Post",
-      "description": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBTQ1pTNkh6Ync2RkhKSVJPa294ajhYSVlndWtEcVhUM0xNS0RXTTRSVmFmQ2FXT0wxbjdCUWZqdk8yNzZ6Vk1ZQ0NMRndfS1g1bzJtMEppSzdoNHdBaDRHaXEzNkF6ajNrQy14NUY3QzA5S3BtT095OEF3a1pWYXRXMWVTb3JSb0lvOG96M1RGdGdfNlhlQ3RCLW54eFY2WTFmMVBtUjgyY1Bpb3fSAbcBQVVfeXFMUGlBanAxVDVwa1VFMl9tV3pJcDBjOTFqSTV0MkRaWTBfUl9ES2sta3UtWFlXODhraHpiQU9xbndYY1dsM0kyeS1wVXNkUVRNbXhXMG9VcFg3ZU5ucFpnZEZqSE1JYTFVa1JCalozcnZFLW5hNXVqY29xMkt5S0JtMUhGMUp4SmpIbW5FZ1hEc3VwMDlyX0FVQlZRX0RRbWlKN0JQcENSZXdIbzZPZDR3NGY4NkpWbU1Z?oc=5",
-      "published": "2026-10-02T13:45:04+00:00",
+      "title": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery - Dalal Street Investment Journal",
+      "description": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanlKdWZtZXcyeTM2Mzdja2ZhMldoNUR3QVNvNGRnbkswMEtwbXREYndNQjVUX0lKX1g4Y1BtV1BSSVMybmIyZGdCWXJQTlJDRldRSzJrdWpZTVlnNnBsWWUzOVV0Z0ZkRHN5TmxCN1BScGszTTdCY09xZHVDUUVNbjgtenJ5RVk5WUlWdDR3U2xRSUJPQ09HWGkyODlNR0FXcG9KYTA3N1B3THN4Uk1WRVk2WkwxVkM0SGJ6UE1HSnBKbC1X?oc=5",
+      "published": "2026-10-03T09:32:24+00:00",
       "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
-        "TAPI names Serge Rogasik CEO & puts global API & CDMO"
+        "Growth on Domestic Demand and CDMO",
+        "Recovery - Dalal Street Investment Journal Indian Pharma"
       ],
-      "project_signals": [],
+      "project_signals": [
+        "investment"
+      ],
       "numbers": []
     },
     {
@@ -31,7 +34,7 @@
       "title": "4 killed, 10 injured as boiler explodes in Andhra Pradesh pharma factory - The Indian Express",
       "description": "4 killed, 10 injured as boiler explodes in Andhra Pradesh pharma factory The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmFxTm8tOVd1cm5PdmxGM0dGQ2hCRkZyNWF1LTJxTVpIc2p5TERQUVMxeUdLUDRJZGlGMmpxc0sxSUpTbmdiZzBFUy1mUkRpMnd6c3RpaDh3bGRDSk9SVWp4cUVTS3JVUFF4MVNWeFFGaWpDbGk3NGJjUG9UX2gtYlAxLUl0Q2wtbldqalZHbngxdW1vSi1hck93bUZxZFhtTE5lWWg3bGJVZ2Nm0gGzAUFVX3lxTE43bXlxNzZudDMxWFhBeldBT1hKYTc5blcyQWdGU282bmtmS0s0Q2o1U3F1aEpoNG1ibkctRFFPSnVkcHU4ZFk3a3ZaRnZoZkxORnlOUGNJWTZxZ0hjNEZGa2FHNFVuUnRBbi02OGdVWU42X3pjZ3E4bEZ5Y0MyM3drTC1sRFpsbVgyclhPaE55V3hrVkpsRFQxSjBvRy1qYWU4R2kyYTBDTldfQjB6NTBBUXlN?oc=5",
-      "published": "2026-10-03T05:51:35+00:00",
+      "published": "2026-10-03T04:42:53+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -44,29 +47,27 @@
       "numbers": []
     },
     {
-      "category": "Hyderabad",
-      "title": "Two interstate drug peddlers held with 3.3 kg marijuana in Hyderabad - Telangana Today",
-      "description": "Two interstate drug peddlers held with 3.3 kg marijuana in Hyderabad Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1NFdkhab21USjc0emlfR2xWX1d5eVVDeW9FQVoyMHFEMGJQRk5BcHdsZ1B4emNkc1p5eFpFV2VabmdRc0tNQXc2ejZBQnIwYXdlZ2hzV0RJTEU1MFFLU2ZtNjAydTM2c29hYlZidUxZNTVSSThXRC1TT3B0dUdGVnpaVDk1cXUydWt1QzRmMDBicVFhVHVGZVhxOA?oc=5",
-      "published": "2026-10-02T18:59:54+00:00",
+      "category": "India",
+      "title": "Manufacturing Momentum:Building a Self-Reliant India - PIB",
+      "description": "Manufacturing Momentum:Building a Self-Reliant India PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bURIRzRXR3NvZ0l3MThoaUhRVjFnczVXYTd0dnRMeWlWMGJKcG5iWG44Qnd0OENfV3NST2tDNFFnbDYxMHo4cTJNNng1ZE9ENEJEcEp1RkxYSklLclZvNm1RcFFBdm1xUHUwaDhDX1FsblkxX090QQ?oc=5",
+      "published": "2026-10-03T00:26:29+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Manufacturing / Plants",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
       "project_signals": [],
-      "numbers": [
-        "3.3 kg"
-      ]
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 0,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -75,11 +76,50 @@
   },
   "articles": [
     {
+      "category": "India",
+      "title": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery - Dalal Street Investment Journal",
+      "description": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanlKdWZtZXcyeTM2Mzdja2ZhMldoNUR3QVNvNGRnbkswMEtwbXREYndNQjVUX0lKX1g4Y1BtV1BSSVMybmIyZGdCWXJQTlJDRldRSzJrdWpZTVlnNnBsWWUzOVV0Z0ZkRHN5TmxCN1BScGszTTdCY09xZHVDUUVNbjgtenJ5RVk5WUlWdDR3U2xRSUJPQ09HWGkyODlNR0FXcG9KYTA3N1B3THN4Uk1WRVk2WkwxVkM0SGJ6UE1HSnBKbC1X?oc=5",
+      "published": "2026-10-03T09:32:24+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Growth on Domestic Demand and CDMO",
+        "Recovery - Dalal Street Investment Journal Indian Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. - The New York Times",
+      "description": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcktLSFcwX2E0MGwycFAzUGl0S2JJbTk0NUZBZ3ZMdWpqN3Z3WWNwWV9iR3FsNnZYMk5oZm0zTTVSZHJzaGU0Ml9nekZlX0d3cmYzMkhzMVRjYUNvS0VDR3dpaG56T2N3TVRka004TWhnaFJ0a04zcTVKcjJnY1lRaDhn?oc=5",
+      "published": "2026-10-03T08:04:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Vizag / AP",
       "title": "4 killed, 10 injured as boiler explodes in Andhra Pradesh pharma factory - The Indian Express",
       "description": "4 killed, 10 injured as boiler explodes in Andhra Pradesh pharma factory The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmFxTm8tOVd1cm5PdmxGM0dGQ2hCRkZyNWF1LTJxTVpIc2p5TERQUVMxeUdLUDRJZGlGMmpxc0sxSUpTbmdiZzBFUy1mUkRpMnd6c3RpaDh3bGRDSk9SVWp4cUVTS3JVUFF4MVNWeFFGaWpDbGk3NGJjUG9UX2gtYlAxLUl0Q2wtbldqalZHbngxdW1vSi1hck93bUZxZFhtTE5lWWg3bGJVZ2Nm0gGzAUFVX3lxTE43bXlxNzZudDMxWFhBeldBT1hKYTc5blcyQWdGU282bmtmS0s0Q2o1U3F1aEpoNG1ibkctRFFPSnVkcHU4ZFk3a3ZaRnZoZkxORnlOUGNJWTZxZ0hjNEZGa2FHNFVuUnRBbi02OGdVWU42X3pjZ3E4bEZ5Y0MyM3drTC1sRFpsbVgyclhPaE55V3hrVkpsRFQxSjBvRy1qYWU4R2kyYTBDTldfQjB6NTBBUXlN?oc=5",
-      "published": "2026-10-03T05:51:35+00:00",
+      "published": "2026-10-03T04:42:53+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -100,6 +140,23 @@
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Manufacturing Momentum:Building a Self-Reliant India - PIB",
+      "description": "Manufacturing Momentum:Building a Self-Reliant India PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bURIRzRXR3NvZ0l3MThoaUhRVjFnczVXYTd0dnRMeWlWMGJKcG5iWG44Qnd0OENfV3NST2tDNFFnbDYxMHo4cTJNNng1ZE9ENEJEcEp1RkxYSklLclZvNm1RcFFBdm1xUHUwaDhDX1FsblkxX090QQ?oc=5",
+      "published": "2026-10-03T00:26:29+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
@@ -142,42 +199,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "FDA cancels wholesale drug sales license of Cipla Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. - The New York Times",
-      "description": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcktLSFcwX2E0MGwycFAzUGl0S2JJbTk0NUZBZ3ZMdWpqN3Z3WWNwWV9iR3FsNnZYMk5oZm0zTTVSZHJzaGU0Ml9nekZlX0d3cmYzMkhzMVRjYUNvS0VDR3dpaG56T2N3TVRka004TWhnaFJ0a04zcTVKcjJnY1lRaDhn?oc=5",
-      "published": "2026-10-02T14:18:19+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus - Indian Pharma Post",
-      "description": "TAPI names Serge Rogasik CEO & puts global API & CDMO growth in focus Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBTQ1pTNkh6Ync2RkhKSVJPa294ajhYSVlndWtEcVhUM0xNS0RXTTRSVmFmQ2FXT0wxbjdCUWZqdk8yNzZ6Vk1ZQ0NMRndfS1g1bzJtMEppSzdoNHdBaDRHaXEzNkF6ajNrQy14NUY3QzA5S3BtT095OEF3a1pWYXRXMWVTb3JSb0lvOG96M1RGdGdfNlhlQ3RCLW54eFY2WTFmMVBtUjgyY1Bpb3fSAbcBQVVfeXFMUGlBanAxVDVwa1VFMl9tV3pJcDBjOTFqSTV0MkRaWTBfUl9ES2sta3UtWFlXODhraHpiQU9xbndYY1dsM0kyeS1wVXNkUVRNbXhXMG9VcFg3ZU5ucFpnZEZqSE1JYTFVa1JCalozcnZFLW5hNXVqY29xMkt5S0JtMUhGMUp4SmpIbW5FZ1hEc3VwMDlyX0FVQlZRX0RRbWlKN0JQcENSZXdIbzZPZDR3NGY4NkpWbU1Z?oc=5",
-      "published": "2026-10-02T13:45:04+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "TAPI names Serge Rogasik CEO & puts global API & CDMO"
       ],
       "project_signals": [],
       "numbers": []
