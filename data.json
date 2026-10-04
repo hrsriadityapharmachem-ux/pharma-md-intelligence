@@ -1,32 +1,29 @@
 {
-  "updated": "2026-10-04T05:28:34.164479+00:00",
-  "article_count": 3,
-  "opportunity_count": 1,
+  "updated": "2026-10-04T11:06:21.239013+00:00",
+  "article_count": 2,
+  "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
-  "high_priority_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "India",
-      "title": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery - Dalal Street Investment Journal",
-      "description": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanlKdWZtZXcyeTM2Mzdja2ZhMldoNUR3QVNvNGRnbkswMEtwbXREYndNQjVUX0lKX1g4Y1BtV1BSSVMybmIyZGdCWXJQTlJDRldRSzJrdWpZTVlnNnBsWWUzOVV0Z0ZkRHN5TmxCN1BScGszTTdCY09xZHVDUUVNbjgtenJ5RVk5WUlWdDR3U2xRSUJPQ09HWGkyODlNR0FXcG9KYTA3N1B3THN4Uk1WRVk2WkwxVkM0SGJ6UE1HSnBKbC1X?oc=5",
-      "published": "2026-10-03T09:34:52+00:00",
+      "category": "Global",
+      "title": "CDMO players to maintain outperformance on multiple growth triggers - Business Standard",
+      "description": "CDMO players to maintain outperformance on multiple growth triggers Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcVhMV3lVMTVlTy1VVGlVS21DbC1XV0RyMTdwT1ltQllEUGtIMmV2Y3NEWE1nTlJPLUdKU2hHVk03Z0dQQlZBYmlkdDQ1M2tRVGVnM0tFRFdQdVRBNThKTG5RTnYwdXhwNmRkc1QyOU1pektnaWZZTmJVUW1wRUt1akRzRWs1QUVOYlZHMXZKM3JHMFRDSDlKX0ZmMWVBWVdDLXBVWDh5RnowclctalQzanV3NjVuSngxT1UxaXp3QzlrelhDR2UzUXVuam5Ed3NCRTRnedIB2gFBVV95cUxNX3BrVWl1UURrMnhGd1JOT1lWMGY4ai1renpSU0hlZm9wdkFISVAxcUk0UXZqS2pCTmNGTC1PNTJsQzNfOWw1SUwwdVJWUVBXaTVCM3hlN0RXd3ZiS0VJV2VJVHlwZFRIb2lmWFpQVWM0WmpHSVFBR0lmUExfaHozOTh6Z0JsN3VhYjdhNTBhWW5aMmZjdzdwNElpTEJOal93dHlRZ0o4dnc1OGp4NXRrSTR3YkhqaENlWVRseHdGdHZrR1JfeDR0Ri1LcmNaMnVkQ3Q5eGhTVnkxQQ?oc=5",
+      "published": "2026-10-04T09:54:32+00:00",
       "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Growth on Domestic Demand and CDMO",
-        "Recovery - Dalal Street Investment Journal Indian Pharma"
+        "Business Standard CDMO"
       ],
-      "project_signals": [
-        "investment"
-      ],
+      "project_signals": [],
       "numbers": []
     },
     {
@@ -45,33 +42,12 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Lifevision Healthcare Offers Third-Party Pharma Manufacturing for Tablets, Capsules, and Syrups - TheWire.in",
-      "description": "Lifevision Healthcare Offers Third-Party Pharma Manufacturing for Tablets, Capsules, and Syrups TheWire.in",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0tFcXp3R0VscW54RERXbHhGMUs0N29RQU9qVXR1VGJydnJPV1k5WDFfelJrQ3ZZamZmTHpuMkp5QlF2M3VMUTM3UFVVVkdLZndiVmI5Y1dyaklHaUphc2dXdVVXNTdzX1J6LXBHUGt2b3ZOZjlWMnM1RHBpR05VWnVNbi05TFhkNlN6RGgwckE1Y1hYcDZDRVpKbHl5bE14eHYxNjdMNWVWSU9TWjF0VlMzNUNTcnVLck5mckxsWW9HVW0xUVZPMExGbjjSAdIBQVVfeXFMUG5OcXNJQUktUk1rcHR1aWlHbmw5eW9aYXdUamdKanQxRVAxVGxQNHcxd2htcVU1UXZ3ODJfNHhCek1vOGpjWTVHVTQ5Z09ta1pLRC1IbmxmWTlMUGc2TXR2ZUMtaVJUSnhFX1NveHpYOWxmTW9kSnl0bzJpZzJhTHZlNFNFT25GdlBKVmlJYklTenRwb0lLMFZZVFpGNnJVSG50SFhuSnhKYUFpUktqVHpRVEUzZzk4Rmtsc2xyVms4T1ozV1VIT3dRT1k4c3hIVEd3?oc=5",
-      "published": "2026-10-03T09:38:03+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Lifevision Healthcare Offers Third-Party Pharma",
-        "Syrups - TheWire.in Lifevision Healthcare",
-        "Offers Third-Party Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 1,
+    "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -80,6 +56,25 @@
   },
   "articles": [
     {
+      "category": "Global",
+      "title": "CDMO players to maintain outperformance on multiple growth triggers - Business Standard",
+      "description": "CDMO players to maintain outperformance on multiple growth triggers Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcVhMV3lVMTVlTy1VVGlVS21DbC1XV0RyMTdwT1ltQllEUGtIMmV2Y3NEWE1nTlJPLUdKU2hHVk03Z0dQQlZBYmlkdDQ1M2tRVGVnM0tFRFdQdVRBNThKTG5RTnYwdXhwNmRkc1QyOU1pektnaWZZTmJVUW1wRUt1akRzRWs1QUVOYlZHMXZKM3JHMFRDSDlKX0ZmMWVBWVdDLXBVWDh5RnowclctalQzanV3NjVuSngxT1UxaXp3QzlrelhDR2UzUXVuam5Ed3NCRTRnedIB2gFBVV95cUxNX3BrVWl1UURrMnhGd1JOT1lWMGY4ai1renpSU0hlZm9wdkFISVAxcUk0UXZqS2pCTmNGTC1PNTJsQzNfOWw1SUwwdVJWUVBXaTVCM3hlN0RXd3ZiS0VJV2VJVHlwZFRIb2lmWFpQVWM0WmpHSVFBR0lmUExfaHozOTh6Z0JsN3VhYjdhNTBhWW5aMmZjdzdwNElpTEJOal93dHlRZ0o4dnc1OGp4NXRrSTR3YkhqaENlWVRseHdGdHZrR1JfeDR0Ri1LcmNaMnVkQ3Q5eGhTVnkxQQ?oc=5",
+      "published": "2026-10-04T09:54:32+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Business Standard CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Vizag / AP",
       "title": "Andhra Pradesh: 5 killed in boiler blast at Sri City pharma unit - Deccan Herald",
       "description": "Andhra Pradesh: 5 killed in boiler blast at Sri City pharma unit Deccan Herald",
@@ -94,49 +89,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Lifevision Healthcare Offers Third-Party Pharma Manufacturing for Tablets, Capsules, and Syrups - TheWire.in",
-      "description": "Lifevision Healthcare Offers Third-Party Pharma Manufacturing for Tablets, Capsules, and Syrups TheWire.in",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0tFcXp3R0VscW54RERXbHhGMUs0N29RQU9qVXR1VGJydnJPV1k5WDFfelJrQ3ZZamZmTHpuMkp5QlF2M3VMUTM3UFVVVkdLZndiVmI5Y1dyaklHaUphc2dXdVVXNTdzX1J6LXBHUGt2b3ZOZjlWMnM1RHBpR05VWnVNbi05TFhkNlN6RGgwckE1Y1hYcDZDRVpKbHl5bE14eHYxNjdMNWVWSU9TWjF0VlMzNUNTcnVLck5mckxsWW9HVW0xUVZPMExGbjjSAdIBQVVfeXFMUG5OcXNJQUktUk1rcHR1aWlHbmw5eW9aYXdUamdKanQxRVAxVGxQNHcxd2htcVU1UXZ3ODJfNHhCek1vOGpjWTVHVTQ5Z09ta1pLRC1IbmxmWTlMUGc2TXR2ZUMtaVJUSnhFX1NveHpYOWxmTW9kSnl0bzJpZzJhTHZlNFNFT25GdlBKVmlJYklTenRwb0lLMFZZVFpGNnJVSG50SFhuSnhKYUFpUktqVHpRVEUzZzk4Rmtsc2xyVms4T1ozV1VIT3dRT1k4c3hIVEd3?oc=5",
-      "published": "2026-10-03T09:38:03+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Lifevision Healthcare Offers Third-Party Pharma",
-        "Syrups - TheWire.in Lifevision Healthcare",
-        "Offers Third-Party Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery - Dalal Street Investment Journal",
-      "description": "Indian Pharma Sector Eyes 10% FY27 Growth on Domestic Demand and CDMO Recovery Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanlKdWZtZXcyeTM2Mzdja2ZhMldoNUR3QVNvNGRnbkswMEtwbXREYndNQjVUX0lKX1g4Y1BtV1BSSVMybmIyZGdCWXJQTlJDRldRSzJrdWpZTVlnNnBsWWUzOVV0Z0ZkRHN5TmxCN1BScGszTTdCY09xZHVDUUVNbjgtenJ5RVk5WUlWdDR3U2xRSUJPQ09HWGkyODlNR0FXcG9KYTA3N1B3THN4Uk1WRVk2WkwxVkM0SGJ6UE1HSnBKbC1X?oc=5",
-      "published": "2026-10-03T09:34:52+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Growth on Domestic Demand and CDMO",
-        "Recovery - Dalal Street Investment Journal Indian Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
       "numbers": []
     }
   ]
