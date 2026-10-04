@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T02:42:43.015086+00:00",
-  "article_count": 5,
+  "updated": "2026-10-04T05:28:34.164479+00:00",
+  "article_count": 3,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
@@ -137,40 +137,6 @@
       "project_signals": [
         "investment"
       ],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. - The New York Times",
-      "description": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard. The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcktLSFcwX2E0MGwycFAzUGl0S2JJbTk0NUZBZ3ZMdWpqN3Z3WWNwWV9iR3FsNnZYMk5oZm0zTTVSZHJzaGU0Ml9nekZlX0d3cmYzMkhzMVRjYUNvS0VDR3dpaG56T2N3TVRka004TWhnaFJ0a04zcTVKcjJnY1lRaDhn?oc=5",
-      "published": "2026-10-03T08:04:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "4 killed, 10 injured as boiler explodes in Andhra Pradesh pharma factory - indianexpress.com",
-      "description": "4 killed, 10 injured as boiler explodes in Andhra Pradesh pharma factory indianexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmFxTm8tOVd1cm5PdmxGM0dGQ2hCRkZyNWF1LTJxTVpIc2p5TERQUVMxeUdLUDRJZGlGMmpxc0sxSUpTbmdiZzBFUy1mUkRpMnd6c3RpaDh3bGRDSk9SVWp4cUVTS3JVUFF4MVNWeFFGaWpDbGk3NGJjUG9UX2gtYlAxLUl0Q2wtbldqalZHbngxdW1vSi1hck93bUZxZFhtTE5lWWg3bGJVZ2Nm0gGzAUFVX3lxTE43bXlxNzZudDMxWFhBeldBT1hKYTc5blcyQWdGU282bmtmS0s0Q2o1U3F1aEpoNG1ibkctRFFPSnVkcHU4ZFk3a3ZaRnZoZkxORnlOUGNJWTZxZ0hjNEZGa2FHNFVuUnRBbi02OGdVWU42X3pjZ3E4bEZ5Y0MyM3drTC1sRFpsbVgyclhPaE55V3hrVkpsRFQxSjBvRy1qYWU4R2kyYTBDTldfQjB6NTBBUXlN?oc=5",
-      "published": "2026-10-03T04:42:53+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
       "numbers": []
     }
   ]
