@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T18:44:26.754090+00:00",
-  "article_count": 7,
-  "opportunity_count": 1,
+  "updated": "2026-10-05T21:38:31.801148+00:00",
+  "article_count": 9,
+  "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
@@ -12,7 +12,26 @@
       "title": "Curia Invests $28 Million in Sterile API Manufacturing - Macau Business",
       "description": "Curia Invests $28 Million in Sterile API Manufacturing Macau Business",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJFcEVRVEVRdVhFZWdHbHhNeGFEVnlkT3ljbzZrLWR3d2xYTzh3Z3lOTUxYR29BMGZCWmwzYU5OZVJGa3owckxBejQwd2xqQUxuUU1HcGNYNG1sMHJtNk5aUU9uY1dSbGV2OV9DbTVjNHFWVi1ZQTBMY2xCU2xNZTJ0NlhMM1k?oc=5",
-      "published": "2026-10-05T14:23:19+00:00",
+      "published": "2026-10-05T15:53:28+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "28 million"
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz",
+      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek4xT2FZQVRNVTc5TmRwWVNpSXJZdVVWZnRwV2tCM0dRZjM4c3YtcjhWWWJwcDlscGVQMzViN1BYeHBJakNqbVBnV2o5SmJRVG1sQU1WNF9HSEJhNlEzRnBIaTJxZzg3anRhYWhUZTBHYzZmbTN4VjRfRnFLaE5HTUk4bnBmUjF1UUtqTWlZYmlxOFJZVDV5TlNYbEpIcU5nU1JqUkROd0tOVzJO?oc=5",
+      "published": "2026-10-05T14:24:39+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "API / Intermediates",
@@ -42,29 +61,10 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Pharma leaders say India must now move from generics to innovation - Forbes India",
-      "description": "Pharma leaders say India must now move from generics to innovation Forbes India",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakd5cWpaNWRUVWFOSEpSNHdQNENLOU1rcllNb2N4b3BfbW9JcURSUm9IbE9mRmNZWEhJS05tVGdkblN5WXExNWVUdlRPSDFwWlFPRVp5dVRaczRhY1N3ZlhZSXExY2ctUDVUNzd1el9MMEFFcXdvMzdWMWtsMzNHNDRqcTRIMFc3S2xkZkVfUG9mZjhPUXI1NDk5WTRYOExaWDdXcXBpOXl6clVXbTlIWXFn0gG3AUFVX3lxTE8xSEttTXZyWkxkVlR3VndVV1AtaGNzWHRyWmpfOVRzME14WE5JdFNKUWVBeFUtS1RXb1dMNURDcjR0UG93S1VtcnVOU0dxTC1uOVA5UTktX3FsX2VLT0N1dXhDczVEZHN4bFZqNVFVcVpMSzhYNHh1dE90V1ZSWFpENnlwUGlveGh3ZUNnMTFDc1JhcUJhR0Q2MTJvVWNpYzlDNlVwQUJNZG5Eb1k3MklQemhkZVBzOA?oc=5",
-      "published": "2026-10-05T11:51:12+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Forbes India Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
-    "API / Intermediates": 1,
+    "API / Intermediates": 2,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -79,7 +79,26 @@
       "title": "Curia Invests $28 Million in Sterile API Manufacturing - Macau Business",
       "description": "Curia Invests $28 Million in Sterile API Manufacturing Macau Business",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJFcEVRVEVRdVhFZWdHbHhNeGFEVnlkT3ljbzZrLWR3d2xYTzh3Z3lOTUxYR29BMGZCWmwzYU5OZVJGa3owckxBejQwd2xqQUxuUU1HcGNYNG1sMHJtNk5aUU9uY1dSbGV2OV9DbTVjNHFWVi1ZQTBMY2xCU2xNZTJ0NlhMM1k?oc=5",
-      "published": "2026-10-05T14:23:19+00:00",
+      "published": "2026-10-05T15:53:28+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "28 million"
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz",
+      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek4xT2FZQVRNVTc5TmRwWVNpSXJZdVVWZnRwV2tCM0dRZjM4c3YtcjhWWWJwcDlscGVQMzViN1BYeHBJakNqbVBnV2o5SmJRVG1sQU1WNF9HSEJhNlEzRnBIaTJxZzg3anRhYWhUZTBHYzZmbTN4VjRfRnFLaE5HTUk4bnBmUjF1UUtqTWlZYmlxOFJZVDV5TlNYbEpIcU5nU1JqUkROd0tOVzJO?oc=5",
+      "published": "2026-10-05T14:24:39+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "API / Intermediates",
@@ -131,8 +150,8 @@
     },
     {
       "category": "India",
-      "title": "Does India Pharma Inc need a new blueprint? - Express Pharma",
-      "description": "Does India Pharma Inc need a new blueprint? Express Pharma",
+      "title": "Does India Pharma Inc need a new blueprint? - expresspharma.in",
+      "description": "Does India Pharma Inc need a new blueprint? expresspharma.in",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3RDZU9xRlRnSGFxUkNHNW1zX0JRbUdmNDItUGswUTNOSnc2UC1uNU1EQW9XaWl5dW1ZMFBKem9ncVpNYzdlRUlFSEpHbmFOZXFqSGRnR3B0WDJfWGs2VWc2a21xSkRoZkE2cWFTdFltNzVEZHRXMkEwU0ZqVlBuRS1n?oc=5",
       "published": "2026-10-05T11:50:21+00:00",
       "source": "Google News RSS",
@@ -144,8 +163,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Does India Pharma",
-        "Express Pharma Does India Pharma",
-        "Express Pharma",
         "Pharma Inc"
       ],
       "project_signals": [],
@@ -182,6 +199,25 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Pharma sector must move from scale to trust to gain global edge: Report - business-standard.com",
+      "description": "Pharma sector must move from scale to trust to gain global edge: Report business-standard.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTzJrTXlMcFdWMGl5eEZ2T2R5cEJ1VGVXeERHb2xmOGJtZnRCQ0dtcjZiNld0NzQzUzlYbE9yeHNHSUMtQUZMVERPaWNMNkhSSmF1c1FhbGExZXo3N2liYTVNR2YwLU1QRjZBMzNzN3ZRbUJuczIxZWVnQVV0X2I0Nm1ZZm5rUEIxSHZXMUhGY1NQVHYyeTFua3hwUmlkeVBzSUJ5YU1MYzBBY19GZ3g3T0VoNVIwNWx5T1VZZ3dkeUVfZjdLbHp6MGZDQjlTR29GVGFjTllTM3hkOFXSAdsBQVVfeXFMTk8ya015THBXVjBpeXhGdk9keXBCdVRlV3hER29sZjhibWZ0QkNHbXI2YjZXdDc0M1M5WGxPcnhzR0lDLUFGTFRET2ljTDZIUkphdXNRYWxhMWV6NzdpYmE1TUdmMC1NUEY2QTMzczd2UW1CbnMyMWVlZ0FVdF9iNDZtWWZua1BCMUh2VzFIRmNTUFR2Mnkxbmt4cFJpZHlQc0lCeWFNTGMwQWNfRmd4N09FaDVSMDVseU9VWWd3ZHlFX2Y3S2x6ejBmQ0I5U0dvRlRhY05ZUzN4ZDhV?oc=5",
+      "published": "2026-10-05T09:15:08+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Report - business-standard.com Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
