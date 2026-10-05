@@ -1,12 +1,31 @@
 {
-  "updated": "2026-10-05T13:42:00.654402+00:00",
-  "article_count": 5,
-  "opportunity_count": 0,
+  "updated": "2026-10-05T14:41:51.474906+00:00",
+  "article_count": 8,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Curia Invests $28 Million in Sterile API Manufacturing - Macau Business",
+      "description": "Curia Invests $28 Million in Sterile API Manufacturing Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJFcEVRVEVRdVhFZWdHbHhNeGFEVnlkT3ljbzZrLWR3d2xYTzh3Z3lOTUxYR29BMGZCWmwzYU5OZVJGa3owckxBejQwd2xqQUxuUU1HcGNYNG1sMHJtNk5aUU9uY1dSbGV2OV9DbTVjNHFWVi1ZQTBMY2xCU2xNZTJ0NlhMM1k?oc=5",
+      "published": "2026-10-05T14:23:19+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "28 million"
+      ]
+    },
     {
       "category": "India",
       "title": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders - The Economic Times",
@@ -25,28 +44,11 @@
       "numbers": []
     },
     {
-      "category": "Global",
-      "title": "Indian pharma sector poised to move from generics to innovation-led growth: Industry leaders - Daily Excelsior",
-      "description": "Indian pharma sector poised to move from generics to innovation-led growth: Industry leaders Daily Excelsior",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdktsanhQSFJmQlRvejN4bFZhNXNXYjJ5dThIU0NEeWdhMmwyRVdVQWFGcG0waC1nR1dPWFllZlZiejMyekVWVVFyM1kzd3dRRmQ1djVjc09peVVmYmtnVVUtLU15ak8tNnZHbFdYQnhFamI1VV9mSm84Vm91bmxqRHViSTN3TGZENlhaeGQ4dWNXRE0xbktEU1JRRGVpc3hza3VGOWhQLWxBUDVnOEE5YnMwMGxPR3RhNDlfXzRGREhxcE1JVEHSAcYBQVVfeXFMTnZLbGp4UEhSZkJUb3ozeGxWYTVzV2IyeXU4SFNDRHlnYTJsMkVXVUFhRnBtMGgtZ0dXT1hZZWZWYnozMnpFVlVRcjNZM3d3UUZkNXY1Y3NPaXlVZmJrZ1VVLS1NeWpPLTZ2R2xXWEJ4RWpiNVVfZkpvOFZvdW5sakR1Ykkzd0xmRDZYWnhkOHVjV0RNMW5LRFNSUURlaXN4c2t1RjloUC1sQVA1ZzhBOWJzMDBsT0d0YTQ5X180RkRIcXBNSVRB?oc=5",
-      "published": "2026-10-05T10:36:25+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
       "category": "India",
-      "title": "Indian pharma sector poised to move from generics to innovation-led growth: Industry leaders - Moneycontrol.com",
-      "description": "Indian pharma sector poised to move from generics to innovation-led growth: Industry leaders Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRUN0Y2pQTVhlN3daWVh3N2NrckF1LVpxa0hxMlJFdTYwSVVsYlV2LU5BV21WSkZDN2t4M0xDODF6UG1BZlZucGR1N19wVW5tajhnQTk1d2RsQ1NNbUU1bWFVNWg2X0s1d0FNSXF2RWlhWWg4WXc0MWFQaWhMRmlySlpKbmRPYW9jVTl0R2w2YTFMcHlJMmE2RVlldzlCV3ZEUWVDTzdFZHBEVUNCa3ZBU0hUcHNkbzgxU0tIZjNOSEJiREJlMDFJWkx0bkNZSHlOMW1xUEU2eHlsaUJtMGlpYTQzYU1WaXdqZHhfeGFmMFZxSnBN0gH0AUFVX3lxTE1FQ3RjalBNWGU3d1pZWHc3Y2tyQXUtWnFrSHEyUkV1NjBJVWxiVXYtTkFXbVZKRkM3a3gzTEM4MXpQbUFmVm5wZHU3X3BVbm1qOGdBOTV3ZGxDU01tRTVtYVU1aDZfSzV3QU1JcXZFaWFZaDhZdzQxYVBpaExGaXJKWkpuZE9hb2NVOXRHbDZhMUxweUkyYTZFWWV3OUJXdkRRZUNPN0VkcERVQ0JrdkFTSFRwc2RvODFTS0hmM05IQmJEQmUwMUlaTHRuQ1lIeU4xbXFQRTZ4eWxpQm0waWlhNDNhTVZpd2pkeF94YWYwVnFKcE0?oc=5",
-      "published": "2026-10-05T09:57:02+00:00",
+      "title": "Pharma leaders say India must now move from generics to innovation - Forbes India",
+      "description": "Pharma leaders say India must now move from generics to innovation Forbes India",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUhLbU12clpMZFZUd1Z3VVdQLWhjc1h0clpqXzlUczBNeFhOSXRTSlFlQXhVLUtUV29XTDVEQ3I0dFBvd0tVbXJ1TlNHcUwtbjlQOVE5LV9xbF9lS09DdXV4Q3M1RGRzeGxWajVRVXFaTEs4WDR4dXRPdFdWUlhaRDZ5cFBpb3hod2VDZzExQ3NSYXFCYUdENjEyb1VjaWM5QzZVcEFCTWRuRG9ZNzJJUHpoZGVQczjSAbcBQVVfeXFMTzFIS21NdnJaTGRWVHdWd1VXUC1oY3NYdHJaal85VHMwTXhYTkl0U0pRZUF4VS1LVFdvV0w1RENyNHRQb3dLVW1ydU5TR3FMLW45UDlROS1fcWxfZUtPQ3V1eENzNURkc3hsVmo1UVVxWkxLOFg0eHV0T3RXVlJYWkQ2eXBQaW94aHdlQ2cxMUNzUmFxQmFHRDYxMm9VY2ljOUM2VXBBQk1kbkRvWTcySVB6aGRlUHM4?oc=5",
+      "published": "2026-10-05T11:51:12+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -54,13 +56,15 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
+      "companies": [
+        "Forbes India Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     }
   ],
   "business_signals": {
-    "API / Intermediates": 0,
+    "API / Intermediates": 1,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -71,6 +75,25 @@
   },
   "articles": [
     {
+      "category": "Global",
+      "title": "Curia Invests $28 Million in Sterile API Manufacturing - Macau Business",
+      "description": "Curia Invests $28 Million in Sterile API Manufacturing Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJFcEVRVEVRdVhFZWdHbHhNeGFEVnlkT3ljbzZrLWR3d2xYTzh3Z3lOTUxYR29BMGZCWmwzYU5OZVJGa3owckxBejQwd2xqQUxuUU1HcGNYNG1sMHJtNk5aUU9uY1dSbGV2OV9DbTVjNHFWVi1ZQTBMY2xCU2xNZTJ0NlhMM1k?oc=5",
+      "published": "2026-10-05T14:23:19+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
+      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
+      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "28 million"
+      ]
+    },
+    {
       "category": "India",
       "title": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders - The Economic Times",
       "description": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders The Economic Times",
@@ -84,6 +107,47 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Pharma leaders say India must now move from generics to innovation - Forbes India",
+      "description": "Pharma leaders say India must now move from generics to innovation Forbes India",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUhLbU12clpMZFZUd1Z3VVdQLWhjc1h0clpqXzlUczBNeFhOSXRTSlFlQXhVLUtUV29XTDVEQ3I0dFBvd0tVbXJ1TlNHcUwtbjlQOVE5LV9xbF9lS09DdXV4Q3M1RGRzeGxWajVRVXFaTEs4WDR4dXRPdFdWUlhaRDZ5cFBpb3hod2VDZzExQ3NSYXFCYUdENjEyb1VjaWM5QzZVcEFCTWRuRG9ZNzJJUHpoZGVQczjSAbcBQVVfeXFMTzFIS21NdnJaTGRWVHdWd1VXUC1oY3NYdHJaal85VHMwTXhYTkl0U0pRZUF4VS1LVFdvV0w1RENyNHRQb3dLVW1ydU5TR3FMLW45UDlROS1fcWxfZUtPQ3V1eENzNURkc3hsVmo1UVVxWkxLOFg0eHV0T3RXVlJYWkQ2eXBQaW94aHdlQ2cxMUNzUmFxQmFHRDYxMm9VY2ljOUM2VXBBQk1kbkRvWTcySVB6aGRlUHM4?oc=5",
+      "published": "2026-10-05T11:51:12+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Forbes India Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Does India Pharma Inc need a new blueprint? - Express Pharma",
+      "description": "Does India Pharma Inc need a new blueprint? Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3RDZU9xRlRnSGFxUkNHNW1zX0JRbUdmNDItUGswUTNOSnc2UC1uNU1EQW9XaWl5dW1ZMFBKem9ncVpNYzdlRUlFSEpHbmFOZXFqSGRnR3B0WDJfWGs2VWc2a21xSkRoZkE2cWFTdFltNzVEZHRXMkEwU0ZqVlBuRS1n?oc=5",
+      "published": "2026-10-05T11:50:21+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Does India Pharma",
+        "Express Pharma Does India Pharma",
+        "Express Pharma",
+        "Pharma Inc"
+      ],
       "project_signals": [],
       "numbers": []
     },
@@ -142,8 +206,8 @@
     },
     {
       "category": "India",
-      "title": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets - indianpharmapost.com",
-      "description": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets indianpharmapost.com",
+      "title": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets - Indian Pharma Post",
+      "description": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets Indian Pharma Post",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZXdllhV1BJNmk0b3dVRzZvWEV4WWNlWGFuZ0hUYm5GeVkyYTIzYXd1akhkejNUTkktMHNBV2dkTU9BY082RDlmMm5SY2o2QThqRzZ4VGhxeG5GUm9YaVNIdmRLcGtDcG9aNFFZOHZwTlZSV0JZQUt4N0tEYnd4ZWNyMXdJWlo4TEx3QnBacXBFck1TV2tLVE9VYTgxeWJKZ1ZDc0owUG9PQXRsWHU5cnhRUlgxVVZEQ01CS1pLdDNwakRCa0ZkY01obWlnd9IB1AFBVV95cUxOSVlGM3RDOVUtMGVmOWtjWTdsc09DZXNtYzlOQ1ZTdjJ3SGs2YVItVjdwLVdNYlBDc0l0ZXR5Vzg1YWl0QTZWcy1DOTZNS3hOV1JnRU5TMXZnN2J2UGVrbGdTVWpYN29ObjBBNkZyOGl1eTBPYi1SYlMzX0xLTElIaHFwc3Y5bTBfeVMzbHpDdFdBVFZULXE1WDM2eThnLTBZOEpWcUM3UnhMNFlDRGpremdZRHN1NmZzTXZlbmpBQUtrUnZ1d1ZpYWowOFRSRk5WdG1yTg?oc=5",
       "published": "2026-10-04T18:26:43+00:00",
       "source": "Google News RSS",
@@ -154,7 +218,9 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Aurobindo Pharma"
+        "Aurobindo Pharma",
+        "Perampanel tablets - Indian Pharma Post Aurobindo Pharma",
+        "Perampanel tablets Indian Pharma"
       ],
       "project_signals": [],
       "numbers": []
