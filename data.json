@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:37:44.620585+00:00",
+  "updated": "2026-10-05T02:38:45.655973+00:00",
   "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -45,18 +45,22 @@
     },
     {
       "category": "India",
-      "title": "From pharmacy of the world to global healer, Ayurveda eyes Indian pharma’s growth story - Firstpost",
-      "description": "From pharmacy of the world to global healer, Ayurveda eyes Indian pharma’s growth story Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTN3NWFIbk5JS3RpVmxrYjA3Z1QwSUgwOE5jWmxHS0pHcmhEZmRIUFo2Yzgtc0hiYXFSLVdGNHFoRS1sUXpNLU9RaUQySnpLMjI1VVRGUWZJYWktaVBXemxhSjVjZ3R0alVLaHdaM3hmQXlsdW9oQlJtMnM1ajFYVmNBbUNTb2FXTkZ3SWtsNFFIRlFFWk14NUtsNURmQ05oYU1tdUpka3VqY29OS2RrcV9Zc1dZMmFtTFJSN1JESks3MzlBam1MV1Q0elA0QdIB0wFBVV95cUxPa3lXWS1zdWFyeWtUb3AwSHVGOXdxLUlMYS1CU1VnR2FQZExiM0FVcU81YVpKS3pnWHJZc2lBdzdkanlILTlVQWRJZmZ1MDdiYjN1YjE5VDJ2TXE3Nk1hQTFyS3FjSGxUMkZrLTRENjlLcXZzWmhXZjJ4SVBDYTNfeVNYRlM2eHFYdEVvcll6eHpUN2FxUXB0TjkwRzc3bk0wS1NKNjltV2llbGdYWC1oLW8tSFhDTjVWd2E4cjdVZURrQ1lmNGtaeHFob1R0MlB4dnl3?oc=5",
-      "published": "2026-10-04T13:09:08+00:00",
+      "title": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets - Indian Pharma Post",
+      "description": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZXdllhV1BJNmk0b3dVRzZvWEV4WWNlWGFuZ0hUYm5GeVkyYTIzYXd1akhkejNUTkktMHNBV2dkTU9BY082RDlmMm5SY2o2QThqRzZ4VGhxeG5GUm9YaVNIdmRLcGtDcG9aNFFZOHZwTlZSV0JZQUt4N0tEYnd4ZWNyMXdJWlo4TEx3QnBacXBFck1TV2tLVE9VYTgxeWJKZ1ZDc0owUG9PQXRsWHU5cnhRUlgxVVZEQ01CS1pLdDNwakRCa0ZkY01obWlnd9IB1AFBVV95cUxOSVlGM3RDOVUtMGVmOWtjWTdsc09DZXNtYzlOQ1ZTdjJ3SGs2YVItVjdwLVdNYlBDc0l0ZXR5Vzg1YWl0QTZWcy1DOTZNS3hOV1JnRU5TMXZnN2J2UGVrbGdTVWpYN29ObjBBNkZyOGl1eTBPYi1SYlMzX0xLTElIaHFwc3Y5bTBfeVMzbHpDdFdBVFZULXE1WDM2eThnLTBZOEpWcUM3UnhMNFlDRGpremdZRHN1NmZzTXZlbmpBQUtrUnZ1d1ZpYWowOFRSRk5WdG1yTg?oc=5",
+      "published": "2026-10-04T18:26:43+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Regulatory",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
+      "companies": [
+        "Aurobindo Pharma",
+        "Perampanel tablets - Indian Pharma Post Aurobindo Pharma",
+        "Perampanel tablets Indian Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -72,6 +76,27 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets - Indian Pharma Post",
+      "description": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZXdllhV1BJNmk0b3dVRzZvWEV4WWNlWGFuZ0hUYm5GeVkyYTIzYXd1akhkejNUTkktMHNBV2dkTU9BY082RDlmMm5SY2o2QThqRzZ4VGhxeG5GUm9YaVNIdmRLcGtDcG9aNFFZOHZwTlZSV0JZQUt4N0tEYnd4ZWNyMXdJWlo4TEx3QnBacXBFck1TV2tLVE9VYTgxeWJKZ1ZDc0owUG9PQXRsWHU5cnhRUlgxVVZEQ01CS1pLdDNwakRCa0ZkY01obWlnd9IB1AFBVV95cUxOSVlGM3RDOVUtMGVmOWtjWTdsc09DZXNtYzlOQ1ZTdjJ3SGs2YVItVjdwLVdNYlBDc0l0ZXR5Vzg1YWl0QTZWcy1DOTZNS3hOV1JnRU5TMXZnN2J2UGVrbGdTVWpYN29ObjBBNkZyOGl1eTBPYi1SYlMzX0xLTElIaHFwc3Y5bTBfeVMzbHpDdFdBVFZULXE1WDM2eThnLTBZOEpWcUM3UnhMNFlDRGpremdZRHN1NmZzTXZlbmpBQUtrUnZ1d1ZpYWowOFRSRk5WdG1yTg?oc=5",
+      "published": "2026-10-04T18:26:43+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Aurobindo Pharma",
+        "Perampanel tablets - Indian Pharma Post Aurobindo Pharma",
+        "Perampanel tablets Indian Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "From pharmacy of the world to global healer, Ayurveda eyes Indian pharma’s growth story - Firstpost",
@@ -121,27 +146,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Business Standard CDMO"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets - Indian Pharma Post",
-      "description": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZXdllhV1BJNmk0b3dVRzZvWEV4WWNlWGFuZ0hUYm5GeVkyYTIzYXd1akhkejNUTkktMHNBV2dkTU9BY082RDlmMm5SY2o2QThqRzZ4VGhxeG5GUm9YaVNIdmRLcGtDcG9aNFFZOHZwTlZSV0JZQUt4N0tEYnd4ZWNyMXdJWlo4TEx3QnBacXBFck1TV2tLVE9VYTgxeWJKZ1ZDc0owUG9PQXRsWHU5cnhRUlgxVVZEQ01CS1pLdDNwakRCa0ZkY01obWlnd9IB1AFBVV95cUxOSVlGM3RDOVUtMGVmOWtjWTdsc09DZXNtYzlOQ1ZTdjJ3SGs2YVItVjdwLVdNYlBDc0l0ZXR5Vzg1YWl0QTZWcy1DOTZNS3hOV1JnRU5TMXZnN2J2UGVrbGdTVWpYN29ObjBBNkZyOGl1eTBPYi1SYlMzX0xLTElIaHFwc3Y5bTBfeVMzbHpDdFdBVFZULXE1WDM2eThnLTBZOEpWcUM3UnhMNFlDRGpremdZRHN1NmZzTXZlbmpBQUtrUnZ1d1ZpYWowOFRSRk5WdG1yTg?oc=5",
-      "published": "2026-10-04T04:14:40+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Aurobindo Pharma",
-        "Perampanel tablets - Indian Pharma Post Aurobindo Pharma",
-        "Perampanel tablets Indian Pharma"
       ],
       "project_signals": [],
       "numbers": []
