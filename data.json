@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06T20:39:16.369287+00:00",
-  "article_count": 7,
-  "opportunity_count": 1,
+  "updated": "2026-10-06T21:36:41.402111+00:00",
+  "article_count": 6,
+  "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
   "high_priority_count": 0,
@@ -25,25 +25,6 @@
       "numbers": []
     },
     {
-      "category": "Global",
-      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz",
-      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek4xT2FZQVRNVTc5TmRwWVNpSXJZdVVWZnRwV2tCM0dRZjM4c3YtcjhWWWJwcDlscGVQMzViN1BYeHBJakNqbVBnV2o5SmJRVG1sQU1WNF9HSEJhNlEzRnBIaTJxZzg3anRhYWhUZTBHYzZmbTN4VjRfRnFLaE5HTUk4bnBmUjF1UUtqTWlZYmlxOFJZVDV5TlNYbEpIcU5nU1JqUkROd0tOVzJO?oc=5",
-      "published": "2026-10-05T21:14:05+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "28 million"
-      ]
-    },
-    {
       "category": "India",
       "title": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders - ETPharma.com",
       "description": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders ETPharma.com",
@@ -62,10 +43,30 @@
       ],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026 - Korea Biomedical Review",
+      "description": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026 Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xSnF5dktaSTJMajlrQUpCb0xDak5OX2Z5WDdDX043U1NEdG9FTWFGSG1sZ0JuQVJJbmZ5UUV6TGREWExYTVBQR0xMNWpMMDNRb1AxY0lTQ0N1RXpjcFhsbTk5Q2dONDNwTmxBUHl30gFyQVVfeXFMTWdRZDRDSzZCQTJ0SmxFUDlSb09qTmI5MGVUd3EwY0k0WHVaZnlTV0ZNekFfMWV3VXU4STVFYWNiM1ZZLVVJUTJEWm0yb3U3WVFxdUtJMm8yNmZhQ3N3bTBkRUV1aXFQbnI1X2s1M0J1VHVR?oc=5",
+      "published": "2026-10-06T02:00:22+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Yuhan to showcase CDMO",
+        "Korea Biomedical Review Yuhan to showcase CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
-    "API / Intermediates": 1,
+    "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -189,25 +190,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz",
-      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek4xT2FZQVRNVTc5TmRwWVNpSXJZdVVWZnRwV2tCM0dRZjM4c3YtcjhWWWJwcDlscGVQMzViN1BYeHBJakNqbVBnV2o5SmJRVG1sQU1WNF9HSEJhNlEzRnBIaTJxZzg3anRhYWhUZTBHYzZmbTN4VjRfRnFLaE5HTUk4bnBmUjF1UUtqTWlZYmlxOFJZVDV5TlNYbEpIcU5nU1JqUkROd0tOVzJO?oc=5",
-      "published": "2026-10-05T21:14:05+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "28 million"
-      ]
     }
   ]
 }
