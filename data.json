@@ -1,12 +1,29 @@
 {
-  "updated": "2026-10-06T15:37:57.615083+00:00",
-  "article_count": 6,
-  "opportunity_count": 2,
+  "updated": "2026-10-06T16:39:58.934626+00:00",
+  "article_count": 7,
+  "opportunity_count": 1,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Hyderabad",
+      "title": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs - The Times of India",
+      "description": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMlN5N3hFckdWNWh3U0xQd3BLTVRHb1RZbENFR1lWTWE3QzNQLVpoQnhQWjBxV2lVVHRqNzkxVWZxS1V6ei1GaFU5TW9Sc2JoOUxWYzJ3a3I1NUNoWEw3SzI5N0pxZ2dNV1d2T2xTaUFXODZ5UTlQa3JIeUNhWHlRWm93bzUteUNzMlpxejFXVUpsZ0RROEZwMlBTbFZPVXd2UC04dDdEdUdlZ0xtYnpVR3FxZnVBREx2cFJYLTFWNFFscHFFQlF1SU1veUFPVWpOUnBEOG9JZ0o3aTlfa3JIMzFMVVZZZ1VqVGhUVlhR0gHzAUFVX3lxTE50ZUhQN2w5UnF6Z0F0NmpHZHdPcmNzbkdsTk9UYUd6OG5GQ1V3YmRnN1dCX0VTNGxzQVphZnVnVEFjN1V3WnBzdXdPYk9QZEl4TnpCR2gwNDl0a0dhNFo1Y0FXNzZoYndJSGpUSHBjMWUyclMybGI0TE9ta2Rhb1B3ZjN0QkhRR1FEeU9BeENlM0Ytd3JIakhKSzV4M1llVDQxYk1nZHhmTTZlZ2pBX056QWZFQ2czeWdjUV93X3M1TGdjOWFoa1Q3ajF6dS1IcmJiTXlkS25XYTk2M3ZNMi1tdzBmU0FiUjVuUk1uazM0ODRSVQ?oc=5",
+      "published": "2026-10-06T16:01:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz",
@@ -27,47 +44,28 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Curia Invests $28 Million in Sterile API Manufacturing - Macau Business",
-      "description": "Curia Invests $28 Million in Sterile API Manufacturing Macau Business",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJFcEVRVEVRdVhFZWdHbHhNeGFEVnlkT3ljbzZrLWR3d2xYTzh3Z3lOTUxYR29BMGZCWmwzYU5OZVJGa3owckxBejQwd2xqQUxuUU1HcGNYNG1sMHJtNk5aUU9uY1dSbGV2OV9DbTVjNHFWVi1ZQTBMY2xCU2xNZTJ0NlhMM1k?oc=5",
-      "published": "2026-10-05T15:53:28+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "28 million"
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026 - Korea Biomedical Review",
-      "description": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026 Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xSnF5dktaSTJMajlrQUpCb0xDak5OX2Z5WDdDX043U1NEdG9FTWFGSG1sZ0JuQVJJbmZ5UUV6TGREWExYTVBQR0xMNWpMMDNRb1AxY0lTQ0N1RXpjcFhsbTk5Q2dONDNwTmxBUHl30gFyQVVfeXFMTWdRZDRDSzZCQTJ0SmxFUDlSb09qTmI5MGVUd3EwY0k0WHVaZnlTV0ZNekFfMWV3VXU4STVFYWNiM1ZZLVVJUTJEWm0yb3U3WVFxdUtJMm8yNmZhQ3N3bTBkRUV1aXFQbnI1X2s1M0J1VHVR?oc=5",
-      "published": "2026-10-06T02:00:22+00:00",
+      "category": "India",
+      "title": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders - ETPharma.com",
+      "description": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSzR1OGpEMWphTlM0MGJTNGxYcnVqMm13RlFpc0pKR0ZvMWstYnc3WlVjUVFiZDNFaHJaNmNHcW1ZQ0EycnRkSW11WlgwNHdsV3pxTmZfanlYSmtiQjJoYnY5VTZta0dwV2pVUkVQVFdTQWJyZFpSS05wRlg2dWFjYnFzaGtRVjJSWmVUcXZhLU54T1dkaHdOYktDUFZMVHRpc1I5NVFNdjRzYlBqTzFmekVSbmV1M3VfZDR1VXFMWFF5ZjFMM0JSWENoR3hnS3l3aTVPVDBGOGlZTW8zbmlMZ0ZEaUhTcnh6d2JjX3h4aHlLeEI3R2xib0l6Z3lVazjSAYQCQVVfeXFMTWQwazRwVHl2WGptTVh1VWNmV3hReW9xYnQ2cHFwY09NX1JsXzlwLTN4bTg0OXFITlBZcVUwWFdLMjZtakZnejdMSXgzMGltSmZ3RHZfSFFsZHJ1SVBvN2JZTkg5M2FLTlRWNndOZnpCQ1NFNlNKbm5GMXVOVUFCRFdRVGwwTjdtdnRfUUlDcHRRV09VVzk5SEtNcUd6aXZmR0t2aWZXWl9GUG9VZlRFZEIxUnB0VnBXaFd4LU9BcUxMLXpkdVZVNzZ1dHdOZ2dEZjM0cnBqYkkxaXpRREJnWlFwQ1BFNGNkTDdybVljckVZcjdPRTVWQnNUcHVraEk3OXZFbVM?oc=5",
+      "published": "2026-10-06T01:33:15+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Low",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Yuhan to showcase CDMO",
-        "Korea Biomedical Review Yuhan to showcase CDMO"
+        "Pharma leaders - ETPharma",
+        "Pharma leaders ETPharma"
       ],
       "project_signals": [],
       "numbers": []
     }
   ],
   "business_signals": {
-    "API / Intermediates": 2,
+    "API / Intermediates": 1,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -77,6 +75,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs - The Times of India",
+      "description": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMlN5N3hFckdWNWh3U0xQd3BLTVRHb1RZbENFR1lWTWE3QzNQLVpoQnhQWjBxV2lVVHRqNzkxVWZxS1V6ei1GaFU5TW9Sc2JoOUxWYzJ3a3I1NUNoWEw3SzI5N0pxZ2dNV1d2T2xTaUFXODZ5UTlQa3JIeUNhWHlRWm93bzUteUNzMlpxejFXVUpsZ0RROEZwMlBTbFZPVXd2UC04dDdEdUdlZ0xtYnpVR3FxZnVBREx2cFJYLTFWNFFscHFFQlF1SU1veUFPVWpOUnBEOG9JZ0o3aTlfa3JIMzFMVVZZZ1VqVGhUVlhR0gHzAUFVX3lxTE50ZUhQN2w5UnF6Z0F0NmpHZHdPcmNzbkdsTk9UYUd6OG5GQ1V3YmRnN1dCX0VTNGxzQVphZnVnVEFjN1V3WnBzdXdPYk9QZEl4TnpCR2gwNDl0a0dhNFo1Y0FXNzZoYndJSGpUSHBjMWUyclMybGI0TE9ta2Rhb1B3ZjN0QkhRR1FEeU9BeENlM0Ytd3JIakhKSzV4M1llVDQxYk1nZHhmTTZlZ2pBX056QWZFQ2czeWdjUV93X3M1TGdjOWFoa1Q3ajF6dS1IcmJiTXlkS25XYTk2M3ZNMi1tdzBmU0FiUjVuUk1uazM0ODRSVQ?oc=5",
+      "published": "2026-10-06T16:01:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Pharma accounts for 88.8% of healthcare M&A value in September 2026: Equirus - Express Pharma",
@@ -118,6 +133,26 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders - ETPharma.com",
+      "description": "Indian companies must invest in R&D, move from generics to innovation-led industry: Pharma leaders ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSzR1OGpEMWphTlM0MGJTNGxYcnVqMm13RlFpc0pKR0ZvMWstYnc3WlVjUVFiZDNFaHJaNmNHcW1ZQ0EycnRkSW11WlgwNHdsV3pxTmZfanlYSmtiQjJoYnY5VTZta0dwV2pVUkVQVFdTQWJyZFpSS05wRlg2dWFjYnFzaGtRVjJSWmVUcXZhLU54T1dkaHdOYktDUFZMVHRpc1I5NVFNdjRzYlBqTzFmekVSbmV1M3VfZDR1VXFMWFF5ZjFMM0JSWENoR3hnS3l3aTVPVDBGOGlZTW8zbmlMZ0ZEaUhTcnh6d2JjX3h4aHlLeEI3R2xib0l6Z3lVazjSAYQCQVVfeXFMTWQwazRwVHl2WGptTVh1VWNmV3hReW9xYnQ2cHFwY09NX1JsXzlwLTN4bTg0OXFITlBZcVUwWFdLMjZtakZnejdMSXgzMGltSmZ3RHZfSFFsZHJ1SVBvN2JZTkg5M2FLTlRWNndOZnpCQ1NFNlNKbm5GMXVOVUFCRFdRVGwwTjdtdnRfUUlDcHRRV09VVzk5SEtNcUd6aXZmR0t2aWZXWl9GUG9VZlRFZEIxUnB0VnBXaFd4LU9BcUxMLXpkdVZVNzZ1dHdOZ2dEZjM0cnBqYkkxaXpRREJnWlFwQ1BFNGNkTDdybVljckVZcjdPRTVWQnNUcHVraEk3OXZFbVM?oc=5",
+      "published": "2026-10-06T01:33:15+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Pharma leaders - ETPharma",
+        "Pharma leaders ETPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Yuhan targets global growth at CPHI Milan, showcasing R&D and CDMO strength - CHOSUNBIZ - Chosunbiz",
       "description": "Yuhan targets global growth at CPHI Milan, showcasing R&D and CDMO strength - CHOSUNBIZ Chosunbiz",
@@ -138,8 +173,8 @@
     },
     {
       "category": "Global",
-      "title": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) - fundsforNGOs",
-      "description": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) fundsforNGOs",
+      "title": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) - fundsforNGOs - Grants and Resources for Sustainability",
+      "description": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) fundsforNGOs - Grants and Resources for Sustainability",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVVSUVhMX3JhMWJuY1B2MHJLM01hbUR2Ymk0TExNLXpfS2RwMkdMYVVUM1VISGtRZkhsR2ZPbTlOV2xnNUt5Z0xTOXBpdW5NRTVETjE4OVM0VVNPakROTlMyazRYYXdFT1lZRXVnbGRSRDhPYWNsRFlWSWFTd3I1NU9wSVdIeG14SnQwRURMd0VjM09Pal84SVItXzYzM3k2YXh0c1J6dHVRQdIBrwFBVV95cUxOQ1N0MG9WTjFKMTVWdWk1QUJyUkZpekZOSEc0ZHVKT0VMWEFVQVFCME5YUnF6NEIzclFzM1gxcEVsanRTd2FfZ2RXYm4tNmZobFNlTlN4TkVoeHNabjBadFNNNTJPS2JZaldaZVFsLWZrNzgzTlFOSGhRUG4xOFB2eFBRYTJ5U1J2MTJIQmlyS3g1TzZBQmYwbWhac3M1QVZfV193OG1NRER0aTBhQ0R3?oc=5",
       "published": "2026-10-05T23:38:29+00:00",
       "source": "Google News RSS",
@@ -161,25 +196,6 @@
       "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek4xT2FZQVRNVTc5TmRwWVNpSXJZdVVWZnRwV2tCM0dRZjM4c3YtcjhWWWJwcDlscGVQMzViN1BYeHBJakNqbVBnV2o5SmJRVG1sQU1WNF9HSEJhNlEzRnBIaTJxZzg3anRhYWhUZTBHYzZmbTN4VjRfRnFLaE5HTUk4bnBmUjF1UUtqTWlZYmlxOFJZVDV5TlNYbEpIcU5nU1JqUkROd0tOVzJO?oc=5",
       "published": "2026-10-05T21:14:05+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "28 million"
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Curia Invests $28 Million in Sterile API Manufacturing - Macau Business",
-      "description": "Curia Invests $28 Million in Sterile API Manufacturing Macau Business",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJFcEVRVEVRdVhFZWdHbHhNeGFEVnlkT3ljbzZrLWR3d2xYTzh3Z3lOTUxYR29BMGZCWmwzYU5OZVJGa3owckxBejQwd2xqQUxuUU1HcGNYNG1sMHJtNk5aUU9uY1dSbGV2OV9DbTVjNHFWVi1ZQTBMY2xCU2xNZTJ0NlhMM1k?oc=5",
-      "published": "2026-10-05T15:53:28+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "API / Intermediates",
