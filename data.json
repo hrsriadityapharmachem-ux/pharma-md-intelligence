@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T02:38:36.174776+00:00",
-  "article_count": 8,
+  "updated": "2026-10-06T03:39:06.664013+00:00",
+  "article_count": 10,
   "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 0,
@@ -28,8 +28,8 @@
     },
     {
       "category": "Global",
-      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz",
-      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz",
+      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz.co",
+      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz.co",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek4xT2FZQVRNVTc5TmRwWVNpSXJZdVVWZnRwV2tCM0dRZjM4c3YtcjhWWWJwcDlscGVQMzViN1BYeHBJakNqbVBnV2o5SmJRVG1sQU1WNF9HSEJhNlEzRnBIaTJxZzg3anRhYWhUZTBHYzZmbTN4VjRfRnFLaE5HTUk4bnBmUjF1UUtqTWlZYmlxOFJZVDV5TlNYbEpIcU5nU1JqUkROd0tOVzJO?oc=5",
       "published": "2026-10-05T14:24:39+00:00",
       "source": "Google News RSS",
@@ -76,6 +76,44 @@
   "articles": [
     {
       "category": "Global",
+      "title": "Yuhan targets global growth at CPHI Milan, showcasing R&D and CDMO strength - CHOSUNBIZ - biz.chosun.com",
+      "description": "Yuhan targets global growth at CPHI Milan, showcasing R&D and CDMO strength - CHOSUNBIZ biz.chosun.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOanBpQUhmNFBOalZrR1hyeGVxZUVyUGNDYlVneU8tbTdPcUlCR1JCZ1gtdkFiTHVxSXFjSjNVeFVNUk5pSnFPdU9tQ1VTQ0JKeFYtR3dJMGxJRVVSNFd1WnJ0clJTeGFnRG9sY1BjT2xnaFJSMFBQOVowb2NURGpIRtIBlAFBVV95cUxQTUZWcURzSmloQmQwY0toNzZGLVA5M2RoTFJHS1VTd0JiNjA1Nk1BZXpRc1dQSkJqOXN3Z0pFcTZEY0JXcTN0dV90RGhCSGNZbUVlTFlPUkJpUlRqVjJraU1jRldPdkp3VFVULVN4RUlGZnVMT2pqZVRSM3duU09VTUJhQTF2WjJicGExZjdlVHZrdTRh?oc=5",
+      "published": "2026-10-06T00:46:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "R&D and CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) - fundsforNGOs",
+      "description": "Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) fundsforNGOs",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVVSUVhMX3JhMWJuY1B2MHJLM01hbUR2Ymk0TExNLXpfS2RwMkdMYVVUM1VISGtRZkhsR2ZPbTlOV2xnNUt5Z0xTOXBpdW5NRTVETjE4OVM0VVNPakROTlMyazRYYXdFT1lZRXVnbGRSRDhPYWNsRFlWSWFTd3I1NU9wSVdIeG14SnQwRURMd0VjM09Pal84SVItXzYzM3k2YXh0c1J6dHVRQdIBrwFBVV95cUxOQ1N0MG9WTjFKMTVWdWk1QUJyUkZpekZOSEc0ZHVKT0VMWEFVQVFCME5YUnF6NEIzclFzM1gxcEVsanRTd2FfZ2RXYm4tNmZobFNlTlN4TkVoeHNabjBadFNNNTJPS2JZaldaZVFsLWZrNzgzTlFOSGhRUG4xOFB2eFBRYTJ5U1J2MTJIQmlyS3g1TzZBQmYwbWhac3M1QVZfV193OG1NRER0aTBhQ0R3?oc=5",
+      "published": "2026-10-05T23:38:29+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Bringing Top Global Talent to Israeli Bio-Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
       "title": "Curia Invests $28 Million in Sterile API Manufacturing - Macau Business",
       "description": "Curia Invests $28 Million in Sterile API Manufacturing Macau Business",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJFcEVRVEVRdVhFZWdHbHhNeGFEVnlkT3ljbzZrLWR3d2xYTzh3Z3lOTUxYR29BMGZCWmwzYU5OZVJGa3owckxBejQwd2xqQUxuUU1HcGNYNG1sMHJtNk5aUU9uY1dSbGV2OV9DbTVjNHFWVi1ZQTBMY2xCU2xNZTJ0NlhMM1k?oc=5",
@@ -95,8 +133,8 @@
     },
     {
       "category": "Global",
-      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz",
-      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz",
+      "title": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain - citybiz.co",
+      "description": "Curia Invests $28 Million to Expand Sterile API Manufacturing in Spain citybiz.co",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek4xT2FZQVRNVTc5TmRwWVNpSXJZdVVWZnRwV2tCM0dRZjM4c3YtcjhWWWJwcDlscGVQMzViN1BYeHBJakNqbVBnV2o5SmJRVG1sQU1WNF9HSEJhNlEzRnBIaTJxZzg3anRhYWhUZTBHYzZmbTN4VjRfRnFLaE5HTUk4bnBmUjF1UUtqTWlZYmlxOFJZVDV5TlNYbEpIcU5nU1JqUkROd0tOVzJO?oc=5",
       "published": "2026-10-05T14:24:39+00:00",
       "source": "Google News RSS",
@@ -131,8 +169,8 @@
     },
     {
       "category": "India",
-      "title": "Pharma leaders say India must now move from generics to innovation - Forbes India",
-      "description": "Pharma leaders say India must now move from generics to innovation Forbes India",
+      "title": "Pharma leaders say India must now move from generics to innovation - forbesindia.com",
+      "description": "Pharma leaders say India must now move from generics to innovation forbesindia.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakd5cWpaNWRUVWFOSEpSNHdQNENLOU1rcllNb2N4b3BfbW9JcURSUm9IbE9mRmNZWEhJS05tVGdkblN5WXExNWVUdlRPSDFwWlFPRVp5dVRaczRhY1N3ZlhZSXExY2ctUDVUNzd1el9MMEFFcXdvMzdWMWtsMzNHNDRqcTRIMFc3S2xkZkVfUG9mZjhPUXI1NDk5WTRYOExaWDdXcXBpOXl6clVXbTlIWXFn0gG3AUFVX3lxTE8xSEttTXZyWkxkVlR3VndVV1AtaGNzWHRyWmpfOVRzME14WE5JdFNKUWVBeFUtS1RXb1dMNURDcjR0UG93S1VtcnVOU0dxTC1uOVA5UTktX3FsX2VLT0N1dXhDczVEZHN4bFZqNVFVcVpMSzhYNHh1dE90V1ZSWFpENnlwUGlveGh3ZUNnMTFDc1JhcUJhR0Q2MTJvVWNpYzlDNlVwQUJNZG5Eb1k3MklQemhkZVBzOA?oc=5",
       "published": "2026-10-05T11:51:12+00:00",
       "source": "Google News RSS",
@@ -142,9 +180,7 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Forbes India Pharma"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
