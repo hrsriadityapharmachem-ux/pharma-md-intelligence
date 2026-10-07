@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-07T02:38:51.895322+00:00",
-  "article_count": 3,
-  "opportunity_count": 0,
+  "updated": "2026-10-07T03:39:49.069928+00:00",
+  "article_count": 4,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 2,
   "high_priority_count": 1,
@@ -30,6 +30,28 @@
       ]
     },
     {
+      "category": "Global",
+      "title": "Piramal Pharma receives Ontario investment for API site - Manufacturing Chemist",
+      "description": "Piramal Pharma receives Ontario investment for API site Manufacturing Chemist",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1NFbXZJenBPbm1vQWVZeXFJNnVJNHpkbGpYa2YtQkdnbzBlODBnZW9YdGRlRWtjNXdWNzZyR0tXYkNvZ1ljMTViaV9pTXNPelNlVzJfM05tcGhxOXNEanFUVWhOYU11R2JKUjNqbmgzNEFZRkdybWN6WVJmcUFjWTR2eHVLd1RoRjE5UDBkUDJnZw?oc=5",
+      "published": "2026-10-06T16:36:03+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Piramal Pharma",
+        "API site - Manufacturing Chemist Piramal Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
       "category": "Hyderabad",
       "title": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs - The Times of India",
       "description": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs The Times of India",
@@ -45,32 +67,12 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Pharma accounts for 88.8% of healthcare M&A value in September 2026: Equirus - Express Pharma",
-      "description": "Pharma accounts for 88.8% of healthcare M&A value in September 2026: Equirus Express Pharma",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnA3dUlRLVM4WWJyVFRmaGNHdVF4LVVlZ1pwNDNWY3dROXJLNERzV2w4bUxELWswVzI0SUxWNHRMZFplTGtianJxV3k5U095YkpENUhzYUNNUzF3U3VOTHVleURxNEdVUVlnT1FXSm5UUURwQ2tNLTljcEV6Rm41R0l0aGxfMTRsR3N2dl9WejZDUTQ4dnJxU20yLXdWOXRvcUdVTjJn?oc=5",
-      "published": "2026-10-06T08:53:10+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Equirus - Express Pharma Pharma",
-        "Equirus Express Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 0,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -99,6 +101,28 @@
         "₹2,000 crore",
         "2,000 crore"
       ]
+    },
+    {
+      "category": "Global",
+      "title": "Piramal Pharma receives Ontario investment for API site - Manufacturing Chemist",
+      "description": "Piramal Pharma receives Ontario investment for API site Manufacturing Chemist",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1NFbXZJenBPbm1vQWVZeXFJNnVJNHpkbGpYa2YtQkdnbzBlODBnZW9YdGRlRWtjNXdWNzZyR0tXYkNvZ1ljMTViaV9pTXNPelNlVzJfM05tcGhxOXNEanFUVWhOYU11R2JKUjNqbmgzNEFZRkdybWN6WVJmcUFjWTR2eHVLd1RoRjE5UDBkUDJnZw?oc=5",
+      "published": "2026-10-06T16:36:03+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Piramal Pharma",
+        "API site - Manufacturing Chemist Piramal Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
     },
     {
       "category": "Hyderabad",
