@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T05:38:34.834918+00:00",
-  "article_count": 5,
+  "updated": "2026-10-07T06:44:48.726414+00:00",
+  "article_count": 6,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 2,
@@ -80,6 +80,25 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "China’s Pharma Industry Goes Global: From Low-Cost Generics to Innovative Biotech- Expert View by Spherical Insights - Spherical Insights",
+      "description": "China’s Pharma Industry Goes Global: From Low-Cost Generics to Innovative Biotech- Expert View by Spherical Insights Spherical Insights",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUl3cXhCVDJ5V003clJLTVQ3b3A3X3VkVXNQaEY3Y0FhWE9hcWhST25VTl9mcGRXQ1ZNOEN0Z2xSUHFaRjltZHZ3d2FBTkpCOF9YVG1xNFlnakkzR0Q4X0QydURybFNSN3U1cGRIcGdFZE9pZkgydzFMN215TmlFc1RXaFQ5YXdGV1hxRGV6QXJNNk1TQWdZYlZ1MDAzSTgtVzhaWndaSlctc0IzbHNmWXRZeTZodEFFSEFnNQ?oc=5",
+      "published": "2026-10-07T06:21:02+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "From Low-Cost Generics to Innovative Biotech"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Aragen Life Sciences begins operations at high-potency platform in Hyderabad - Express Pharma",
