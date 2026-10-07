@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-07T15:45:26.627329+00:00",
-  "article_count": 6,
-  "opportunity_count": 1,
+  "updated": "2026-10-07T16:41:16.856228+00:00",
+  "article_count": 4,
+  "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 2,
+  "watch_count": 1,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -30,41 +30,42 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Piramal Pharma receives Ontario investment for API site - Manufacturing Chemist",
-      "description": "Piramal Pharma receives Ontario investment for API site Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1NFbXZJenBPbm1vQWVZeXFJNnVJNHpkbGpYa2YtQkdnbzBlODBnZW9YdGRlRWtjNXdWNzZyR0tXYkNvZ1ljMTViaV9pTXNPelNlVzJfM05tcGhxOXNEanFUVWhOYU11R2JKUjNqbmgzNEFZRkdybWN6WVJmcUFjWTR2eHVLd1RoRjE5UDBkUDJnZw?oc=5",
-      "published": "2026-10-06T16:36:03+00:00",
+      "category": "Hyderabad",
+      "title": "Aragen Life Sciences begins operations at high-potency platform in Hyderabad - Express Pharma",
+      "description": "Aragen Life Sciences begins operations at high-potency platform in Hyderabad Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcV9BaEpsWDdNcjM4OXJXdVdvRnlXaUxJSkRCOXBRc2U3NXpEZjJkN19ZZzBRcF80ZjZTNnRwalhpdEgxem9MZWFYc1daZjB4ZjVPRDdpMXVTbWp2c0Vpc0FhdkdNNDI2NEI0QjFQUzZGYkZCUTZ1OGNKaUM0ZlpHbk1NWmIwdUlqTDVrLUg4ZGNpdE9zcWxGNV9sS3lDOER1OXo4VzQ4cHV4Zw?oc=5",
+      "published": "2026-10-07T04:21:37+00:00",
       "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Piramal Pharma",
-        "API site - Manufacturing Chemist Piramal Pharma"
+        "Aragen Life Sciences",
+        "Hyderabad - Express Pharma Aragen Life Sciences",
+        "Hyderabad Express Pharma"
       ],
-      "project_signals": [
-        "investment"
-      ],
+      "project_signals": [],
       "numbers": []
     },
     {
-      "category": "Hyderabad",
-      "title": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs - The Times of India",
-      "description": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMlN5N3hFckdWNWh3U0xQd3BLTVRHb1RZbENFR1lWTWE3QzNQLVpoQnhQWjBxV2lVVHRqNzkxVWZxS1V6ei1GaFU5TW9Sc2JoOUxWYzJ3a3I1NUNoWEw3SzI5N0pxZ2dNV1d2T2xTaUFXODZ5UTlQa3JIeUNhWHlRWm93bzUteUNzMlpxejFXVUpsZ0RROEZwMlBTbFZPVXd2UC04dDdEdUdlZ0xtYnpVR3FxZnVBREx2cFJYLTFWNFFscHFFQlF1SU1veUFPVWpOUnBEOG9JZ0o3aTlfa3JIMzFMVVZZZ1VqVGhUVlhR0gHzAUFVX3lxTE50ZUhQN2w5UnF6Z0F0NmpHZHdPcmNzbkdsTk9UYUd6OG5GQ1V3YmRnN1dCX0VTNGxzQVphZnVnVEFjN1V3WnBzdXdPYk9QZEl4TnpCR2gwNDl0a0dhNFo1Y0FXNzZoYndJSGpUSHBjMWUyclMybGI0TE9ta2Rhb1B3ZjN0QkhRR1FEeU9BeENlM0Ytd3JIakhKSzV4M1llVDQxYk1nZHhmTTZlZ2pBX056QWZFQ2czeWdjUV93X3M1TGdjOWFoa1Q3ajF6dS1IcmJiTXlkS25XYTk2M3ZNMi1tdzBmU0FiUjVuUk1uazM0ODRSVQ?oc=5",
-      "published": "2026-10-06T16:01:00+00:00",
+      "category": "Global",
+      "title": "China’s Pharma Industry Goes Global: From Low-Cost Generics to Innovative Biotech- Expert View by Spherical Insights - Spherical Insights",
+      "description": "China’s Pharma Industry Goes Global: From Low-Cost Generics to Innovative Biotech- Expert View by Spherical Insights Spherical Insights",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUl3cXhCVDJ5V003clJLTVQ3b3A3X3VkVXNQaEY3Y0FhWE9hcWhST25VTl9mcGRXQ1ZNOEN0Z2xSUHFaRjltZHZ3d2FBTkpCOF9YVG1xNFlnakkzR0Q4X0QydURybFNSN3U1cGRIcGdFZE9pZkgydzFMN215TmlFc1RXaFQ5YXdGV1hxRGV6QXJNNk1TQWdZYlZ1MDAzSTgtVzhaWndaSlctc0IzbHNmWXRZeTZodEFFSEFnNQ?oc=5",
+      "published": "2026-10-07T06:21:02+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
+      "signal": "General",
       "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "From Low-Cost Generics to Innovative Biotech"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -72,7 +73,7 @@
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 1,
+    "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -161,45 +162,6 @@
         "₹2,000 crore",
         "2,000 crore"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "Piramal Pharma receives Ontario investment for API site - Manufacturing Chemist",
-      "description": "Piramal Pharma receives Ontario investment for API site Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1NFbXZJenBPbm1vQWVZeXFJNnVJNHpkbGpYa2YtQkdnbzBlODBnZW9YdGRlRWtjNXdWNzZyR0tXYkNvZ1ljMTViaV9pTXNPelNlVzJfM05tcGhxOXNEanFUVWhOYU11R2JKUjNqbmgzNEFZRkdybWN6WVJmcUFjWTR2eHVLd1RoRjE5UDBkUDJnZw?oc=5",
-      "published": "2026-10-06T16:36:03+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Piramal Pharma",
-        "API site - Manufacturing Chemist Piramal Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs - The Times of India",
-      "description": "IPO-bound Virupaksha Organics completes NCLT-approved acquisition of Vivin Drugs The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMlN5N3hFckdWNWh3U0xQd3BLTVRHb1RZbENFR1lWTWE3QzNQLVpoQnhQWjBxV2lVVHRqNzkxVWZxS1V6ei1GaFU5TW9Sc2JoOUxWYzJ3a3I1NUNoWEw3SzI5N0pxZ2dNV1d2T2xTaUFXODZ5UTlQa3JIeUNhWHlRWm93bzUteUNzMlpxejFXVUpsZ0RROEZwMlBTbFZPVXd2UC04dDdEdUdlZ0xtYnpVR3FxZnVBREx2cFJYLTFWNFFscHFFQlF1SU1veUFPVWpOUnBEOG9JZ0o3aTlfa3JIMzFMVVZZZ1VqVGhUVlhR0gHzAUFVX3lxTE50ZUhQN2w5UnF6Z0F0NmpHZHdPcmNzbkdsTk9UYUd6OG5GQ1V3YmRnN1dCX0VTNGxzQVphZnVnVEFjN1V3WnBzdXdPYk9QZEl4TnpCR2gwNDl0a0dhNFo1Y0FXNzZoYndJSGpUSHBjMWUyclMybGI0TE9ta2Rhb1B3ZjN0QkhRR1FEeU9BeENlM0Ytd3JIakhKSzV4M1llVDQxYk1nZHhmTTZlZ2pBX056QWZFQ2czeWdjUV93X3M1TGdjOWFoa1Q3ajF6dS1IcmJiTXlkS25XYTk2M3ZNMi1tdzBmU0FiUjVuUk1uazM0ODRSVQ?oc=5",
-      "published": "2026-10-06T16:01:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ]
 }
