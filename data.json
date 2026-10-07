@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T04:41:40.550346+00:00",
-  "article_count": 4,
+  "updated": "2026-10-07T05:38:34.834918+00:00",
+  "article_count": 5,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 2,
@@ -80,6 +80,27 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Aragen Life Sciences begins operations at high-potency platform in Hyderabad - Express Pharma",
+      "description": "Aragen Life Sciences begins operations at high-potency platform in Hyderabad Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcV9BaEpsWDdNcjM4OXJXdVdvRnlXaUxJSkRCOXBRc2U3NXpEZjJkN19ZZzBRcF80ZjZTNnRwalhpdEgxem9MZWFYc1daZjB4ZjVPRDdpMXVTbWp2c0Vpc0FhdkdNNDI2NEI0QjFQUzZGYkZCUTZ1OGNKaUM0ZlpHbk1NWmIwdUlqTDVrLUg4ZGNpdE9zcWxGNV9sS3lDOER1OXo4VzQ4cHV4Zw?oc=5",
+      "published": "2026-10-07T04:21:37+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Aragen Life Sciences",
+        "Hyderabad - Express Pharma Aragen Life Sciences",
+        "Hyderabad Express Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Granules India Investment: ₹2,000 Crore Hyderabad Plan - Urban Acres",
