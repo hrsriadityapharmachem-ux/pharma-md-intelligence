@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T13:41:37.355605+00:00",
-  "article_count": 9,
+  "updated": "2026-10-08T14:41:56.946515+00:00",
+  "article_count": 11,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 2,
@@ -97,6 +97,46 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Frost & Sullivan Honors Apeloa Pharmaceutical Co., Ltd. with the \"2026 Global CDMO Company of the Year Award\" - StreetInsider",
+      "description": "Frost & Sullivan Honors Apeloa Pharmaceutical Co., Ltd. with the \"2026 Global CDMO Company of the Year Award\" StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUG82NGp2TUJyM3V6dkdvakQ1b1NEZUZtRDdfUzlvcG5yc05rLUxod2ZWLXpqSHFGT2MyVkl2NGY5SzlGZS1vWWFManRyRUcxcjJzQ25EQVF5NXBoWGdjLWJqNlFHOFVCSlZCSnNwZWxQTGJGdS1FbHdaQkhfMEZIVjJLUlpwRUV1VmhPc2p6VE5lRXJPekJxcXRlNHlZQ3IwUXZWbUt5a0ZiSmhMd2pDOEtlSFNJWTZ2ZVlCLVdqR0Vab1RqWWxGWVVuWTV5ODliM1JtSUI3NVVFa09kXzFyRXMxX0gtYU95V2RySTBUczUzM0p0Skl2aFNxWEZzbVE?oc=5",
+      "published": "2026-10-08T12:40:04+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Frost & Sullivan Honors Apeloa Pharmaceutical",
+        "Global CDMO",
+        "StreetInsider Frost & Sullivan Honors Apeloa Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Regulatory Framework Must Be Judged By Efficacy And Enforcement: Supreme Court Directs Centre To Form Committee On Unethical Pharma Marketing Practices - Law Trend",
+      "description": "Regulatory Framework Must Be Judged By Efficacy And Enforcement: Supreme Court Directs Centre To Form Committee On Unethical Pharma Marketing Practices Law Trend",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObVRDMmttci1jcWNOTHdXOVB3Tm1ieFhFR0txdklNaTR1eWJ3d1RCOTRUY0tCaDR0Y0Z1T3N3WmVhakhHWjQ0WkN1U0EydlNCMUZNMnlmYUx2bnhzRnRiSlhoQmdaQnZrMF9CdkI4Z0pBVmgtVldUWkFITzRrR21nU2w1d3A1bVZ5ZGpoWlFMb1dpaTBRZ0JNcFVGM3VWeGJCUkZXM1BNZlBfUm5KV3FfUUdwM0RHWTU4T09fazlzc2ZqaENSY29pOFQxYnliX003Zk1zdFFDTllvYUhqSXdvVkc2Yk9ydWt6NDdsSjJLX1U3LVF5LWpYa3JENmxzS1FU?oc=5",
+      "published": "2026-10-08T11:58:49+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Directs Centre To Form Committee On Unethical Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
