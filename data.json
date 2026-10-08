@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T06:46:39.612413+00:00",
-  "article_count": 5,
+  "updated": "2026-10-08T07:40:48.221691+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -78,6 +78,27 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Pharma Sector Sets Sights on Innovation Beyond Generics - Chemical Industry Digest",
+      "description": "Pharma Sector Sets Sights on Innovation Beyond Generics Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFMzYlhDdVhKVjdYMFJsZEJTUU5xLXRET0JfOWhIb3E2dDVUZW1pY0NINGpGbWxiZFp1M3ZCcHZsaWVtUmNhWF9BUUIyTjhjeHIxWERiMVYzNV92N1JMSXhpeE9TdDNXaUlNUGNhdGdDTWFNYmlEWDJ4NDc2ZnVzWGQzbE1EdExx?oc=5",
+      "published": "2026-10-08T07:10:45+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Specialty Chemicals",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Sector Sets Sights on Innovation Beyond Generics - Chemical",
+        "Industry Digest Pharma",
+        "Sector Sets Sights on Innovation Beyond Generics Chemical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring - GeneOnline",
