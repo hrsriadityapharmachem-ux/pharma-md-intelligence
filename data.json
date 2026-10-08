@@ -1,34 +1,12 @@
 {
-  "updated": "2026-10-08T15:41:39.039866+00:00",
-  "article_count": 11,
+  "updated": "2026-10-08T16:42:12.504484+00:00",
+  "article_count": 10,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 2,
-  "high_priority_count": 2,
+  "watch_count": 1,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "Hyderabad",
-      "title": "Granules India plans ₹2,000 crore investment to drive growth in complex generics, oncology, and peptide C - The Times of India",
-      "description": "Granules India plans ₹2,000 crore investment to drive growth in complex generics, oncology, and peptide C The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeHdNRkVsYk42d1lVeHdjbUNaY0Fab1hqRUp2bG12dFdTcGVvU2pmclQzQ2J4WWpGTHVwMFJtZTdzMndldWlrMXd5WlBZbVUyUk10UG1zTjFwVDQ5X3RFSmVwdDNDMEl3Ti0xWE9jeTJiMmxCenNvVDRxaWxWNjJzMy1WeDBhT0dsNUVNM2loREF5V1liMWNjTVNNN1E2alI1dVVFenZxZE5zdExpcnNYY1hId05jTUpRc0M5N2pYbjVqcGZ5NkdfRktiVUJCb1l3VW15RVMtb3o1TFV4azNJRC1QSGJBWWo3T0R6NXo4T2lXWi1WaHVQci1YVE9QNU1vQkZQdlNwaVB3OGFRSkHSAZMCQVVfeXFMUGZGNEs0dEZvNkxtZG5iMm8xS2ZleWx1ZzA1Z2dreXZpS1pIdVAwSGI1UTdJMmNpcW9HQUFub2NSWm9FZFNQX1cyeGNweDh6Z0liVUtHRGd6TkkyM0g1MHdIbGs2RFJHV0lGVXZwSTl6bldmQThYUk9LeFhuVmxqM2dLam9QcGNmZFVTejVOSjhaT3pvclJIZWE4TjNXY3hnZlNFQUdYMlpsMW9JdXZjQU9tVTZWX1BlVkx3ZEdEMm5DcUV5NmtOUGFPLU9oYnpMeHRESDBYRHhlQU03bUEzalBnMGp6ekFvRjhtNXpjQnNGWFNESlRQclhJVFdDclNMNU5CODR0Q0JRalpEVTdiVFNxOFk?oc=5",
-      "published": "2026-10-07T15:57:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "₹2,000 crore",
-        "2,000 crore"
-      ]
-    },
     {
       "category": "Hyderabad",
       "title": "Granules India Investment Signals Hyderabad Pharma’s Next Phase - Urban Acres",
@@ -68,6 +46,23 @@
         "Pharma CDMO",
         "Growth Story For Indian Companies - Business Today Pharma"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Hyderabad",
+      "title": "Telangana Police Apprehend Man In Drug Peddling Case - Rediff",
+      "description": "Telangana Police Apprehend Man In Drug Peddling Case Rediff",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVp1RnVnUEVuZGxzeVM1eE1XQTZYUDh2RDhjbkhtclhXSVdWTHMtQmg2THI2WkhpQjducTJrZmFubnBEaG1VMFJ2VlBDem03bTkxTG4wWjlFV2NqZnBHdXpROUkyWjdualY0WWQyb0ZMNnBBR252SlpPQTIyNF9tZ29EMmE0WUNhWWh4OVByN19zdlZIeWZScVRIZVVFWGJXRnN0Sjc3SnkxUDJW0gGvAUFVX3lxTE1RenR5QU9RSHk3WERmWkdRMmxVRXNGNHVhbkJKRmNrbF8wM0xEZE1FRjBaRml5ZzlsbnNqYnNFX1I4eml5STVrVEVBTnBRWGV6WC05TU9VVU5lTkx0VTUwS1lRMldoSGV6M1JpbFJ0MDBJSXUyNVNURXBSU1J3UmMxM0plSnF5aTNFV0tiNzZrNy1Ua3JhYzh4cUF0azRFdFNqUFREV2dtal8yYnhMMGs?oc=5",
+      "published": "2026-10-08T13:04:30+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     }
@@ -276,28 +271,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Granules India plans ₹2,000 crore investment to drive growth in complex generics, oncology, and peptide C - The Times of India",
-      "description": "Granules India plans ₹2,000 crore investment to drive growth in complex generics, oncology, and peptide C The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeHdNRkVsYk42d1lVeHdjbUNaY0Fab1hqRUp2bG12dFdTcGVvU2pmclQzQ2J4WWpGTHVwMFJtZTdzMndldWlrMXd5WlBZbVUyUk10UG1zTjFwVDQ5X3RFSmVwdDNDMEl3Ti0xWE9jeTJiMmxCenNvVDRxaWxWNjJzMy1WeDBhT0dsNUVNM2loREF5V1liMWNjTVNNN1E2alI1dVVFenZxZE5zdExpcnNYY1hId05jTUpRc0M5N2pYbjVqcGZ5NkdfRktiVUJCb1l3VW15RVMtb3o1TFV4azNJRC1QSGJBWWo3T0R6NXo4T2lXWi1WaHVQci1YVE9QNU1vQkZQdlNwaVB3OGFRSkHSAZMCQVVfeXFMUGZGNEs0dEZvNkxtZG5iMm8xS2ZleWx1ZzA1Z2dreXZpS1pIdVAwSGI1UTdJMmNpcW9HQUFub2NSWm9FZFNQX1cyeGNweDh6Z0liVUtHRGd6TkkyM0g1MHdIbGs2RFJHV0lGVXZwSTl6bldmQThYUk9LeFhuVmxqM2dLam9QcGNmZFVTejVOSjhaT3pvclJIZWE4TjNXY3hnZlNFQUdYMlpsMW9JdXZjQU9tVTZWX1BlVkx3ZEdEMm5DcUV5NmtOUGFPLU9oYnpMeHRESDBYRHhlQU03bUEzalBnMGp6ekFvRjhtNXpjQnNGWFNESlRQclhJVFdDclNMNU5CODR0Q0JRalpEVTdiVFNxOFk?oc=5",
-      "published": "2026-10-07T15:57:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "₹2,000 crore",
-        "2,000 crore"
-      ]
     }
   ]
 }
