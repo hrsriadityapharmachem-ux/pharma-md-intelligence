@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:48:50.649624+00:00",
+  "updated": "2026-10-08T01:38:48.235033+00:00",
   "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -29,6 +29,26 @@
       "numbers": []
     },
     {
+      "category": "Global",
+      "title": "ST Pharm Courts Oligo CDMO Orders at Global Drug Expo - Seoul Economic Daily",
+      "description": "ST Pharm Courts Oligo CDMO Orders at Global Drug Expo Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckhFbW9tTHhSdXJTRk1ZaE5DbllWYzZlNFVydVQ0MVVMN2o5NXV1RTA3T2J2SWdwb2NRZkN4NGttWkdrRm5BMkxPS2VFLWRLNGhJT2M3SGpVSUg0b0F5cy1Vdy1sUGx3eWNqTHNab1FGNlJZRV9nQWZ4TWp6SEowMEFrdkVveUJSSk5ZSngyLTZIYkNzeVN0WWYtdw?oc=5",
+      "published": "2026-10-08T00:44:40+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "ST Pharm Courts Oligo CDMO",
+        "Expo - Seoul Economic Daily ST Pharm Courts Oligo CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Hyderabad",
       "title": "Aragen Life Sciences begins operations at high-potency platform in Hyderabad - Express Pharma",
       "description": "Aragen Life Sciences begins operations at high-potency platform in Hyderabad Express Pharma",
@@ -48,23 +68,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Gaithersburg's BullFrog AI Hits Key Milestones in Depression Drug Discovery Program With Top-5 Global Pharma - BioBuzz",
-      "description": "Gaithersburg's BullFrog AI Hits Key Milestones in Depression Drug Discovery Program With Top-5 Global Pharma BioBuzz",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMmdQYnpfSFJzODhpbnh2Ml9XbWpDTnIxVUE1Y2dTSmw4U3d2ZFVPcWFjYTlPSzFiUXpOeEtKQjhjdXVHU3hhcU5tTFFRSHp4UGtNMDcxVjZzNDlYRHZPY0VoY2lfY3lBMEFNMWFoUHZ4U3BxdTkzMnJqYURIX295ZWg3REdkby1DT0prZnl0TEpVbUlkX1FwLTZPbTVJQ1hRakdBdnc2ZExoMXJpRXB1YThHQlFqRDJfZlVwd2ZUemZBT1JmVVBaYkp5VHE?oc=5",
-      "published": "2026-10-07T17:34:06+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -78,6 +81,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "ST Pharm Courts Oligo CDMO Orders at Global Drug Expo - Seoul Economic Daily",
+      "description": "ST Pharm Courts Oligo CDMO Orders at Global Drug Expo Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckhFbW9tTHhSdXJTRk1ZaE5DbllWYzZlNFVydVQ0MVVMN2o5NXV1RTA3T2J2SWdwb2NRZkN4NGttWkdrRm5BMkxPS2VFLWRLNGhJT2M3SGpVSUg0b0F5cy1Vdy1sUGx3eWNqTHNab1FGNlJZRV9nQWZ4TWp6SEowMEFrdkVveUJSSk5ZSngyLTZIYkNzeVN0WWYtdw?oc=5",
+      "published": "2026-10-08T00:44:40+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "ST Pharm Courts Oligo CDMO",
+        "Expo - Seoul Economic Daily ST Pharm Courts Oligo CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Granules India Investment Signals Hyderabad Pharma’s Next Phase - urbanacres.in",
@@ -152,26 +175,6 @@
         "Aragen Life Sciences",
         "Hyderabad - Express Pharma Aragen Life Sciences",
         "Hyderabad Express Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Daewoong Pharma, Korean and Indonesian Pharmacy Students Explore OTC Market Strategy - Korea IT Times",
-      "description": "Daewoong Pharma, Korean and Indonesian Pharmacy Students Explore OTC Market Strategy Korea IT Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81V1MwQkp1cHdEOXF4VTllNWY5NmlsUlBOSU0teFNVMkYzUlRmUklFMnkxb1Rnc2Y3dFFCYVZxS3l2bWtVbjJqNVZtR0pEZEd2OEZhNVFKdjNMVnpySUY2LVJHUEcwNWlDbHVwT1BENA?oc=5",
-      "published": "2026-10-07T01:14:10+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Daewoong Pharma",
-        "OTC Market Strategy - Korea IT Times Daewoong Pharma"
       ],
       "project_signals": [],
       "numbers": []
