@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:41:56.946515+00:00",
+  "updated": "2026-10-08T15:41:39.039866+00:00",
   "article_count": 11,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -83,6 +83,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring - PR Newswire UK",
+      "description": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdXZzOWhyM1BPWWxBaTAyTlhTUXRseHdzNEw1VXdncnAxRUFlQ0pEZE9LelNNUXFWYzNzMVNveEFnVDZnQUcwLVBrTGQ1bFRoRE5yaEdRczJVR2dxNUNDU2NUWnZySHJVN0sxY1A0bWhmR0JlR01waS1JVXVLSE5TeXBvUWpQRUoyaU5hSEZ3Z1dwc0pPWUlfTGRqbUdlckVGVG5rYWdlWU50NFJjQk1wc3AzcjJrSlFYRzNocG1scEpCOW9uT2RrTG1CUEpiUG5jS19FZDFvM2w1M0VfbVhLM2lid2cyRVpyclhRQ1lqX2EtQQ?oc=5",
+      "published": "2026-10-08T14:47:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Supply Chain",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Taiwan Showcases Integrated Pharma",
+        "PR Newswire UK Taiwan Showcases Integrated Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Telangana Police Apprehend Man In Drug Peddling Case - Rediff",
@@ -177,26 +197,6 @@
         "Sector Sets Sights on Innovation Beyond Generics - Chemical",
         "Industry Digest Pharma",
         "Sector Sets Sights on Innovation Beyond Generics Chemical"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring - GeneOnline",
-      "description": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring GeneOnline",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPek5HOGxxOVhVSlhPMURUN1IyQVdsSkEzWXpzLVdWMmxqMHdNTzRaN213QWUweW5YUkFPU0w5eDhldnhqZlNzTi00cUZ0NEhYWFVwbmlYRWlBM2hiOGRRS1c1aE15bm9MWXRETXlnZEJqaHR6enhib0NOM3p6NGJhZ09Nd2tvMUhKVTVnV0JaXzhiek51bEpIdnhzblFJdjFHVjFnQjRKTkRxYnhTNDR1N1pWckhYU0JFSEJQaGs2eFNlTjJFUmNBT1JB?oc=5",
-      "published": "2026-10-08T04:29:05+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Supply Chain",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Taiwan Showcases Integrated Pharma",
-        "GeneOnline Taiwan Showcases Integrated Pharma"
       ],
       "project_signals": [],
       "numbers": []
