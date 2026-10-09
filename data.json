@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T09:40:35.479079+00:00",
-  "article_count": 6,
+  "updated": "2026-10-09T10:40:16.666979+00:00",
+  "article_count": 8,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -47,20 +47,18 @@
     },
     {
       "category": "India",
-      "title": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 - IT Voice Media",
-      "description": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 IT Voice Media",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFAtbTQ2U2dBekZSd29xWTlodUtuUG9lNVl1VmtZUXhVblZsYm90dDc2NG01QTNKV0djMWNRRTBjUG5kM1hvSGlRd1lUaFZGd0JMaGJqbUpvWkZ2a2I1ak9lNklubFdVeVM0Wk44MTdtbTNqX2hKcklTdmxZZ3NUYzdmejRkMFdVLWhtbEZSeldqQjQxcTh5UDJlTjhyNmVsSjFQd0JOVWd2NU9GV2hhWjNmT1owQQ?oc=5",
-      "published": "2026-10-09T07:42:58+00:00",
+      "title": "India pharma industry explores new export markets amid US tariff risks - Manufacturing Today India",
+      "description": "India pharma industry explores new export markets amid US tariff risks Manufacturing Today India",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zSmQ3bEg4Nk1WT1RJOGRrQWg1Y3Z1WUwzT0Zac0pZZ3JqV1h6SXRsSzVJZjViN09xYjRhbVJtSVE4QzJ1dGNLUTAwZjZHN0lhRWVQUHJyYVdudjRpS3BNV0ZJNnRUTHg1LVRVMDJHLW1CLUgzeFNwVkFKMA?oc=5",
+      "published": "2026-10-09T09:43:35+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Exports / Markets",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Edition Pharma"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": []
     }
@@ -78,6 +76,23 @@
   "articles": [
     {
       "category": "India",
+      "title": "India pharma industry explores new export markets amid US tariff risks - Manufacturing Today India",
+      "description": "India pharma industry explores new export markets amid US tariff risks Manufacturing Today India",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zSmQ3bEg4Nk1WT1RJOGRrQWg1Y3Z1WUwzT0Zac0pZZ3JqV1h6SXRsSzVJZjViN09xYjRhbVJtSVE4QzJ1dGNLUTAwZjZHN0lhRWVQUHJyYVdudjRpS3BNV0ZJNnRUTHg1LVRVMDJHLW1CLUgzeFNwVkFKMA?oc=5",
+      "published": "2026-10-09T09:43:35+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 - IT Voice Media",
       "description": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 IT Voice Media",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFAtbTQ2U2dBekZSd29xWTlodUtuUG9lNVl1VmtZUXhVblZsYm90dDc2NG01QTNKV0djMWNRRTBjUG5kM1hvSGlRd1lUaFZGd0JMaGJqbUpvWkZ2a2I1ak9lNklubFdVeVM0Wk44MTdtbTNqX2hKcklTdmxZZ3NUYzdmejRkMFdVLWhtbEZSeldqQjQxcTh5UDJlTjhyNmVsSjFQd0JOVWd2NU9GV2hhWjNmT1owQQ?oc=5",
@@ -91,6 +106,25 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Edition Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Beyond cost what will shape India’s pharma competitiveness? - Express Pharma",
+      "description": "Beyond cost what will shape India’s pharma competitiveness? Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG0yREpOaFRGV2lZZE4wck01S09hSDZVQ1JVa2ZETm1aLVNGSGh6TVpKTFJfU3psdnVDZEx4TFhnRW1SZjNRRVRleUN6czRqRk01V1JyLVk1VDV3QkxyMTZxWGFCNHZBd0U0eFpXRm00TnJ0MlZjZ3VENllBNEZ4UUlyNFNsbFczRjNKTDg5Wkg?oc=5",
+      "published": "2026-10-09T05:37:49+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Express Pharma"
       ],
       "project_signals": [],
       "numbers": []
