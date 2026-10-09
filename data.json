@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T07:40:22.920094+00:00",
-  "article_count": 5,
+  "updated": "2026-10-09T08:41:17.776740+00:00",
+  "article_count": 7,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -78,6 +78,25 @@
   },
   "articles": [
     {
+      "category": "India",
+      "title": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 - IT Voice Media",
+      "description": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 IT Voice Media",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFAtbTQ2U2dBekZSd29xWTlodUtuUG9lNVl1VmtZUXhVblZsYm90dDc2NG01QTNKV0djMWNRRTBjUG5kM1hvSGlRd1lUaFZGd0JMaGJqbUpvWkZ2a2I1ak9lNklubFdVeVM0Wk44MTdtbTNqX2hKcklTdmxZZ3NUYzdmejRkMFdVLWhtbEZSeldqQjQxcTh5UDJlTjhyNmVsSjFQd0JOVWd2NU9GV2hhWjNmT1owQQ?oc=5",
+      "published": "2026-10-09T07:42:58+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Edition Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring - PA Media",
       "description": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring PA Media",
@@ -132,6 +151,23 @@
         "Global CDMO",
         "StreetInsider Frost & Sullivan Honors Apeloa Pharmaceutical"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Set up committee to regulate marketing practices of pharma cos: Supreme Court to Centre - The Indian Express",
+      "description": "Set up committee to regulate marketing practices of pharma cos: Supreme Court to Centre The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWjVrWER4Vk5oQTktTDYxbDQ4eXAybWw0WExLcHdTamJLT1FOUzQxZzhHRWZrRUlGWEFuaVZ4VkV6NjZScVIxY2hubWtzbDR6YVNOSjZpLWZQZUlXem9uZEdQdWdNYUZnUVlHTS1lcTEwM0stYlJiZTFmczFCMWZ0eFBxMFk3T25uTFhfRmNBZjR2TTA0UVJ3ZW1PZWcxU0x6VTd3Q053SlBtLUotVl9rWjVTZkMwNGRkQWV2emZNNktIQ3hUUEU3V3BfMzBSYkJKdkVuRDY0TGpOVmFFWTFCSW1uZXotTVRVckFpS2l3Rm5rQXo1ZWoyTTNLQ1dMSjFLNTlpUWh3dEZJZjBzSjBWdHZuUdIBmgJBVV95cUxQdFlOVTU4djJscHFUT3ZFWnVlb0hUMnFmQ19Yem5tYlkwMkloSDlZLXdIRGdvUUhwaXdreUhtb3pYV3BiRjlrbkJ0U1Z5TDd3YlB5MGtycUtoRk51Z0VPaVJ0dkpBWHVpSFpRMEx1TXl1dGtrQTctdHFraXRHdmVyanFsZ2pZRGpWQlhkbW05VWhHNmdRaHRFYWNuS1pNREpPYWxuME91b1lXajZkNUhXN2p6eUpNclB1LXhJSVhGQjRDdE5rdkhveGJyQjBsQ0NxOXp0WXJQZXFfNDBVVzduaW96bU11emxleEIzUHBEVFJoN1RlMHNXdmtUdjlYbGRuNzhSU05pcVFtYnFJVDZtdURhSXdIV3V6eVE?oc=5",
+      "published": "2026-10-08T12:53:49+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
