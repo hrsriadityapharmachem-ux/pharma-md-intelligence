@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T21:38:31.882183+00:00",
-  "article_count": 12,
+  "updated": "2026-10-09T22:38:23.000557+00:00",
+  "article_count": 13,
   "opportunity_count": 0,
   "risk_count": 1,
   "watch_count": 2,
@@ -118,6 +118,25 @@
       "companies": [
         "Data integrity keeps CROs under lens - ETPharma",
         "Data integrity keeps CROs under lens ETPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Pharma industry welcomes cancer drug price cap, flags need to balance affordability and sustainability - Moneycontrol.com",
+      "description": "Pharma industry welcomes cancer drug price cap, flags need to balance affordability and sustainability Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOG9HV0hDdG1KVVZoYXRYcF9TSWZwMFNNc3E4Zm1ucWNhUDhxRFhsVGs3ZkI5TVY5SGlWQ1VmXzIweHMyc2Zzc1pKTVZOSEJyeFk5QXc0RU40ZVFlcjZEZjFva2FqaVcyWDdqcWtLZEJWeldZTUtTdWFCaEgyTV9FUEd3d2pFUWx5enBwa0NETVZkMjlEeVBKZkVPNktsZkQxRHIxRDJFeVRNYWlWdmFTVnZOVDgxSUlvcS1yN1BVbWo5eC1YRURDTjB6YVlxNWdpbThrVXFIdTBFSDRBdlVkN3RRTVhtVXltV2VDSmNoc9IB9AFBVV95cUxOdXN2SjRqa2dXM0k1Zm9nbVBNeW9ISnhNWllKRlZpSmpqalpmWDROend4N0wyUlFIVENBSWtLOXExS01JOXloNTJCT3RMUjFTUjJuUGhWU0ZSakZ6SE5pLURaOFZ6dERRSU1rLTVIelIxX1A4aG5xaFdWQ0pQZlQ0aDlWOG1CZ1V2WkYySV95aC1zbDE5ZDB1ZV9ObFZORnBEQkV5aTUtQjdWSWVjTEFnRC1YRXRHeERjNG5rU012ZlNJcWR5YV9zV3hIWXhsZGk5M1RxMkhCTDFJMW9PZnFGOUpQRzdCLXVOeWxEV2ZUTUlrNG11?oc=5",
+      "published": "2026-10-09T11:31:30+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Moneycontrol.com Pharma"
       ],
       "project_signals": [],
       "numbers": []
