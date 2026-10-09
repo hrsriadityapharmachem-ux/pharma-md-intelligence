@@ -1,32 +1,12 @@
 {
-  "updated": "2026-10-09T08:41:17.776740+00:00",
-  "article_count": 7,
+  "updated": "2026-10-09T09:40:35.479079+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Pharma CDMO: Why China+1 Could Drive A Multi-Year Growth Story For Indian Companies - Business Today",
-      "description": "Pharma CDMO: Why China+1 Could Drive A Multi-Year Growth Story For Indian Companies Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcXEwVnhMYlJSaGdJb2ZmcHpxcVcwSDVDcWhsYnpJdkNQdDEwUDRpeGVrUGZlRkE1d3o3ekFzc2FabWlnRjZWTTd1cVN6M1E0TXpUYjBXeHlXR29mMWprLUg0NkxrWFN2Q0Q2SDkxRlpMM0VBc3h2ZDhBNkFIM2JFREVhNm9xcmFrMElSeTVEc013eE85THpyd0phbDNvUjBaM3BzUWlzWjNiQS1ZeWdaODFuS2pYcXEwdHV5VEVaczZzSk0yN2hhd2RVR3BVbm5uUnh5OGtwWHlYWG5kaTNkei1rVXE1Z0Mt0gHuAUFVX3lxTE5uSG14SGQydWYzalB5QTVLbHNvNHNlaXFwX3RhVXVWS1M3dDA0dHMzOWZIeDg5RmtTYzhJdl83amUzTl92dlhHYnFLbGNlczZOd3Z4VWwxR2RicFJVbGRmemM5aEhkOXAtMEdzWlJ2Mk5MdVNObWNVbTFoTGlpQVQ0ZDNnMklGanNEN3otSlE3OE5Pd2E5QnAwTmFkYWpBQnRhenZ1aVRiMjZHY1F3Z19BX3hsZ0w3bmdpVkFKcjhVTU4tbzNzWUxreEpOaUVGSVFteU1kNXd3VGJUNktwN2poLTNzVXB6eVYwWGNMOFE?oc=5",
-      "published": "2026-10-08T09:35:38+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Pharma CDMO",
-        "Growth Story For Indian Companies - Business Today Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
     {
       "category": "Hyderabad",
       "title": "Telangana Police Apprehend Man In Drug Peddling Case - Rediff",
@@ -61,6 +41,25 @@
         "Frost & Sullivan Honors Apeloa Pharmaceutical",
         "Global CDMO",
         "StreetInsider Frost & Sullivan Honors Apeloa Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 - IT Voice Media",
+      "description": "India’s Pharma Technology Leaders to Convene at the 15th Edition Pharma IT Summit Mumbai 2026 IT Voice Media",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFAtbTQ2U2dBekZSd29xWTlodUtuUG9lNVl1VmtZUXhVblZsYm90dDc2NG01QTNKV0djMWNRRTBjUG5kM1hvSGlRd1lUaFZGd0JMaGJqbUpvWkZ2a2I1ak9lNklubFdVeVM0Wk44MTdtbTNqX2hKcklTdmxZZ3NUYzdmejRkMFdVLWhtbEZSeldqQjQxcTh5UDJlTjhyNmVsSjFQd0JOVWd2NU9GV2hhWjNmT1owQQ?oc=5",
+      "published": "2026-10-09T07:42:58+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Edition Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -186,26 +185,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Directs Centre To Form Committee On Unethical Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Pharma CDMO: Why China+1 Could Drive A Multi-Year Growth Story For Indian Companies - Business Today",
-      "description": "Pharma CDMO: Why China+1 Could Drive A Multi-Year Growth Story For Indian Companies Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcXEwVnhMYlJSaGdJb2ZmcHpxcVcwSDVDcWhsYnpJdkNQdDEwUDRpeGVrUGZlRkE1d3o3ekFzc2FabWlnRjZWTTd1cVN6M1E0TXpUYjBXeHlXR29mMWprLUg0NkxrWFN2Q0Q2SDkxRlpMM0VBc3h2ZDhBNkFIM2JFREVhNm9xcmFrMElSeTVEc013eE85THpyd0phbDNvUjBaM3BzUWlzWjNiQS1ZeWdaODFuS2pYcXEwdHV5VEVaczZzSk0yN2hhd2RVR3BVbm5uUnh5OGtwWHlYWG5kaTNkei1rVXE1Z0Mt0gHuAUFVX3lxTE5uSG14SGQydWYzalB5QTVLbHNvNHNlaXFwX3RhVXVWS1M3dDA0dHMzOWZIeDg5RmtTYzhJdl83amUzTl92dlhHYnFLbGNlczZOd3Z4VWwxR2RicFJVbGRmemM5aEhkOXAtMEdzWlJ2Mk5MdVNObWNVbTFoTGlpQVQ0ZDNnMklGanNEN3otSlE3OE5Pd2E5QnAwTmFkYWpBQnRhenZ1aVRiMjZHY1F3Z19BX3hsZ0w3bmdpVkFKcjhVTU4tbzNzWUxreEpOaUVGSVFteU1kNXd3VGJUNktwN2poLTNzVXB6eVYwWGNMOFE?oc=5",
-      "published": "2026-10-08T09:35:38+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Pharma CDMO",
-        "Growth Story For Indian Companies - Business Today Pharma"
       ],
       "project_signals": [],
       "numbers": []
