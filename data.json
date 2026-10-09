@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-09T20:39:08.157635+00:00",
-  "article_count": 11,
+  "updated": "2026-10-09T21:38:31.882183+00:00",
+  "article_count": 12,
   "opportunity_count": 0,
-  "risk_count": 0,
+  "risk_count": 1,
   "watch_count": 2,
-  "high_priority_count": 0,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens - ETPharma.com",
+      "description": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSFZtQmhxMzBXTzhHYUVrbDBZV0VuRUJ5cUJ2X3EwOHgyM1d6djNkWV9LZEZINlFzbVpLbmtsdkJxTEFDTXo0XzMyT0tXanFBaEVvSlhyem1JMS01ZE5ocDFBU3ZvZUttNjRFRmxlQVZmdmV1RlRWdzQ4cllvN3FIZDhqRTdTQVdWZHBUdkZWMDRzX0tnYUtDa3JVeXpNYzNYeTBrcFJyamtEOXZDdGduOVBIMWFRQVhfZkZRaFRfWmlQVldEdVZGZHZELVVaNnpDZEF6anI4Unl0X2tkY0ZnOHY5SVZfa3JOc0ZNamlsYjPSAfABQVVfeXFMTUhWbUJocTMwV084R2FFa2wwWVdFbkVCeXFCdl9xMDh4MjNXenYzZFlfS2RGSDZRc21aS25rbHZCcUxBQ016NF8zMk9LV2pxQWhFb0pYcnptSTEtNWROaHAxQVN2b2VLbTY0RUZsZUFWZnZldUZUVnc0OHJZbzdxSGQ4akU3U0FXVmRwVHZGVjA0c19LZ2FLQ2tyVXl6TWMzWHkwa3BScmprRDl2Q3RnbjlQSDFhUUFYX2ZGUWhUX1ppUFZXRHVWRmR2RC1VWjZ6Q2RBempyOFJ5dF9rZGNGZzh2OUlWX2tyTnNGTWppbGIz?oc=5",
+      "published": "2026-10-09T13:21:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
+      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Data integrity keeps CROs under lens - ETPharma",
+        "Data integrity keeps CROs under lens ETPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details - Dalal Street Investment Journal",
@@ -49,25 +69,6 @@
         "investment"
       ],
       "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
-      "description": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers Tube & Pipe India",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LbTZ0R1BSM0MyRldMNHlmUGZYZWJSazZ5WWxDbGkzX3QtVHVRTnhzRmJSOVBiR1NubVJLQ0JWeGgzNU90M1lsWjhhQ2Q5RENkaTlYOUIxOA?oc=5",
-      "published": "2026-10-09T11:27:44+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -76,7 +77,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 0,
+    "Regulatory": 1,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
@@ -97,6 +98,26 @@
       "companies": [
         "PharmExec - Pharmaceutical",
         "PharmExec Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens - ETPharma.com",
+      "description": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSFZtQmhxMzBXTzhHYUVrbDBZV0VuRUJ5cUJ2X3EwOHgyM1d6djNkWV9LZEZINlFzbVpLbmtsdkJxTEFDTXo0XzMyT0tXanFBaEVvSlhyem1JMS01ZE5ocDFBU3ZvZUttNjRFRmxlQVZmdmV1RlRWdzQ4cllvN3FIZDhqRTdTQVdWZHBUdkZWMDRzX0tnYUtDa3JVeXpNYzNYeTBrcFJyamtEOXZDdGduOVBIMWFRQVhfZkZRaFRfWmlQVldEdVZGZHZELVVaNnpDZEF6anI4Unl0X2tkY0ZnOHY5SVZfa3JOc0ZNamlsYjPSAfABQVVfeXFMTUhWbUJocTMwV084R2FFa2wwWVdFbkVCeXFCdl9xMDh4MjNXenYzZFlfS2RGSDZRc21aS25rbHZCcUxBQ016NF8zMk9LV2pxQWhFb0pYcnptSTEtNWROaHAxQVN2b2VLbTY0RUZsZUFWZnZldUZUVnc0OHJZbzdxSGQ4akU3U0FXVmRwVHZGVjA0c19LZ2FLQ2tyVXl6TWMzWHkwa3BScmprRDl2Q3RnbjlQSDFhUUFYX2ZGUWhUX1ppUFZXRHVWRmR2RC1VWjZ6Q2RBempyOFJ5dF9rZGNGZzh2OUlWX2tyTnNGTWppbGIz?oc=5",
+      "published": "2026-10-09T13:21:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
+      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Data integrity keeps CROs under lens - ETPharma",
+        "Data integrity keeps CROs under lens ETPharma"
       ],
       "project_signals": [],
       "numbers": []
