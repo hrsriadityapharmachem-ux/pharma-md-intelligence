@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-09T17:38:04.674960+00:00",
-  "article_count": 11,
+  "updated": "2026-10-09T18:42:40.531533+00:00",
+  "article_count": 12,
   "opportunity_count": 0,
-  "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 0,
+  "risk_count": 1,
+  "watch_count": 2,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens - ETPharma.com",
+      "description": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSFZtQmhxMzBXTzhHYUVrbDBZV0VuRUJ5cUJ2X3EwOHgyM1d6djNkWV9LZEZINlFzbVpLbmtsdkJxTEFDTXo0XzMyT0tXanFBaEVvSlhyem1JMS01ZE5ocDFBU3ZvZUttNjRFRmxlQVZmdmV1RlRWdzQ4cllvN3FIZDhqRTdTQVdWZHBUdkZWMDRzX0tnYUtDa3JVeXpNYzNYeTBrcFJyamtEOXZDdGduOVBIMWFRQVhfZkZRaFRfWmlQVldEdVZGZHZELVVaNnpDZEF6anI4Unl0X2tkY0ZnOHY5SVZfa3JOc0ZNamlsYjPSAfABQVVfeXFMTUhWbUJocTMwV084R2FFa2wwWVdFbkVCeXFCdl9xMDh4MjNXenYzZFlfS2RGSDZRc21aS25rbHZCcUxBQ016NF8zMk9LV2pxQWhFb0pYcnptSTEtNWROaHAxQVN2b2VLbTY0RUZsZUFWZnZldUZUVnc0OHJZbzdxSGQ4akU3U0FXVmRwVHZGVjA0c19LZ2FLQ2tyVXl6TWMzWHkwa3BScmprRDl2Q3RnbjlQSDFhUUFYX2ZGUWhUX1ppUFZXRHVWRmR2RC1VWjZ6Q2RBempyOFJ5dF9rZGNGZzh2OUlWX2tyTnNGTWppbGIz?oc=5",
+      "published": "2026-10-09T13:21:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
+      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Data integrity keeps CROs under lens - ETPharma",
+        "Data integrity keeps CROs under lens ETPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details - Dalal Street Investment Journal",
@@ -30,39 +50,24 @@
       "numbers": []
     },
     {
-      "category": "Hyderabad",
-      "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
-      "description": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers Tube & Pipe India",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LbTZ0R1BSM0MyRldMNHlmUGZYZWJSazZ5WWxDbGkzX3QtVHVRTnhzRmJSOVBiR1NubVJLQ0JWeGgzNU90M1lsWjhhQ2Q5RENkaTlYOUIxOA?oc=5",
-      "published": "2026-10-09T11:27:44+00:00",
+      "category": "India",
+      "title": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details - CNBC TV18",
+      "description": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGdwWnBNYVVyM1VsVjN5Y21FMkxVZkJXLUtRUm1UM3IyX3VfemFnYzVsQWhvOElxZ3ljZGdwMDJJNy1VQ1lQdlA3cEFYV1hSUVMxcGhHX29TQ3NudUtaenZ3aXpvUFRXLV8tRVdKNjFNVExRYzlfT0p5RjJTc2tIdGRGU21PR2Nma0FGczVQc2dZOGZpOWFZejFHbGhWUXloY1FIU19fdF94QVJTN2c2czkwZnhqbjN0MUdr0gHAAUFVX3lxTE9vZDNIbnZoZWhBUjFaOXRGdzhJRWdwSEE3amxCd0dpZHJjNFB6M2FCM0ZjU2dNaUlZZDRCcW51VkVINktTQkZ3QWFMb1V0RDNZTE5EbFE4UDBFZ3ZUOGcxWUVpQmxZWVlzbWphMWVzNFNrUFZOaDlXME1fd1NPNTZkZ0Y0blFqM2cxTUliWS1VZk95UnMzQlVrSURnUlBST2VwQl93dmlfRzNTdVFRNkp0bTM5cUVEZWR3aFV4bjBjMw?oc=5",
+      "published": "2026-10-09T10:08:59+00:00",
       "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical"
+        "ICICI Prudential Nifty Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Xelia and Hisun sign strategic global multiple-API partnership - Manufacturing Chemist",
-      "description": "Xelia and Hisun sign strategic global multiple-API partnership Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlRRWmNaQk5aLUM1Y3RWeC1qa0Uzbnk1MVVfYXBEZEx4ekcyNDJESnh5M3F0dFJicGE0R2FYU2daVUI2WGRXUEJURnJyRGptN3o1Q29WOGxnaWN2em9vNEFuMGRZNEhRdFQzTEt3eFdLdmEyNFFXQUVsMUtERkNMWnBMc0ZBN3VzQ3Zj?oc=5",
-      "published": "2026-10-09T10:52:46+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
+      "project_signals": [
+        "investment"
+      ],
       "numbers": []
     }
   ],
@@ -72,11 +77,51 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 0,
+    "Regulatory": 1,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "FDA Approves Tecentriq | PharmExec - Pharmaceutical Executive",
+      "description": "FDA Approves Tecentriq | PharmExec Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFItcTh2WmY1ZUQxbHV1QkYxN3lMdjZVSHlfZDlQZldaaU1NWFlfei1vTDhNaGRGTjhXTXZ5Uk5vdVVyMlFlVDhZaW42cEVyUHhPRlRpNl9vSUVBcXdjeTZpNjEyd3c3czJIQlBLUE12U0xCWVZzeGlhdXFjLXk3MGNoNnpnbkpoeXN3OA?oc=5",
+      "published": "2026-10-09T18:08:56+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "PharmExec - Pharmaceutical",
+        "PharmExec Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens - ETPharma.com",
+      "description": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSFZtQmhxMzBXTzhHYUVrbDBZV0VuRUJ5cUJ2X3EwOHgyM1d6djNkWV9LZEZINlFzbVpLbmtsdkJxTEFDTXo0XzMyT0tXanFBaEVvSlhyem1JMS01ZE5ocDFBU3ZvZUttNjRFRmxlQVZmdmV1RlRWdzQ4cllvN3FIZDhqRTdTQVdWZHBUdkZWMDRzX0tnYUtDa3JVeXpNYzNYeTBrcFJyamtEOXZDdGduOVBIMWFRQVhfZkZRaFRfWmlQVldEdVZGZHZELVVaNnpDZEF6anI4Unl0X2tkY0ZnOHY5SVZfa3JOc0ZNamlsYjPSAfABQVVfeXFMTUhWbUJocTMwV084R2FFa2wwWVdFbkVCeXFCdl9xMDh4MjNXenYzZFlfS2RGSDZRc21aS25rbHZCcUxBQ016NF8zMk9LV2pxQWhFb0pYcnptSTEtNWROaHAxQVN2b2VLbTY0RUZsZUFWZnZldUZUVnc0OHJZbzdxSGQ4akU3U0FXVmRwVHZGVjA0c19LZ2FLQ2tyVXl6TWMzWHkwa3BScmprRDl2Q3RnbjlQSDFhUUFYX2ZGUWhUX1ppUFZXRHVWRmR2RC1VWjZ6Q2RBempyOFJ5dF9rZGNGZzh2OUlWX2tyTnNGTWppbGIz?oc=5",
+      "published": "2026-10-09T13:21:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
+      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Data integrity keeps CROs under lens - ETPharma",
+        "Data integrity keeps CROs under lens ETPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
@@ -177,6 +222,27 @@
     },
     {
       "category": "India",
+      "title": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details - CNBC TV18",
+      "description": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGdwWnBNYVVyM1VsVjN5Y21FMkxVZkJXLUtRUm1UM3IyX3VfemFnYzVsQWhvOElxZ3ljZGdwMDJJNy1VQ1lQdlA3cEFYV1hSUVMxcGhHX29TQ3NudUtaenZ3aXpvUFRXLV8tRVdKNjFNVExRYzlfT0p5RjJTc2tIdGRGU21PR2Nma0FGczVQc2dZOGZpOWFZejFHbGhWUXloY1FIU19fdF94QVJTN2c2czkwZnhqbjN0MUdr0gHAAUFVX3lxTE9vZDNIbnZoZWhBUjFaOXRGdzhJRWdwSEE3amxCd0dpZHJjNFB6M2FCM0ZjU2dNaUlZZDRCcW51VkVINktTQkZ3QWFMb1V0RDNZTE5EbFE4UDBFZ3ZUOGcxWUVpQmxZWVlzbWphMWVzNFNrUFZOaDlXME1fd1NPNTZkZ0Y0blFqM2cxTUliWS1VZk95UnMzQlVrSURnUlBST2VwQl93dmlfRzNTdVFRNkp0bTM5cUVEZWR3aFV4bjBjMw?oc=5",
+      "published": "2026-10-09T10:08:59+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "ICICI Prudential Nifty Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "India pharma industry explores new export markets amid US tariff risks - Manufacturing Today India",
       "description": "India pharma industry explores new export markets amid US tariff risks Manufacturing Today India",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zSmQ3bEg4Nk1WT1RJOGRrQWg1Y3Z1WUwzT0Zac0pZZ3JqV1h6SXRsSzVJZjViN09xYjRhbVJtSVE4QzJ1dGNLUTAwZjZHN0lhRWVQUHJyYVdudjRpS3BNV0ZJNnRUTHg1LVRVMDJHLW1CLUgzeFNwVkFKMA?oc=5",
@@ -243,45 +309,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Express Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India’s drugmakers bet on innovation after generics scale-up - ET Chemicals",
-      "description": "India’s drugmakers bet on innovation after generics scale-up ET Chemicals",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFdmajBvdVVWMDVWdV9TaElHZURESFdVQnlNSE44TEVySDUzenFXQ05wbHNraWgyd0gyYnhaOE9zY0l2Z2I0d2VUWHJGMVdtakdIT0FNSWpVZTB3eU5SdUZlcEpwX1FRQy02MzJQcHF1eldyNzNyZGI5aW85REp5cncwekV6MXVLZzZwdDdYcFdtbDIyZGxuaHRybDJwUko4ZWdzcGs3NFZ1R0xzQ2ZLcU9ER0hVeVMzTzlnbnJPVDJvc1F3d0NKRDZ0UVBhLWtUa2IwctIB2AFBVV95cUxPaWRVc0hFYnpTb1pSZlNGc1E4ZWNGd2dKYzFXeEYwWEtGdDIwNExWNk5NWW0xcDAxYjJNSU1LbGR4RVg5SEM1WTAwTmFfTTQ0dnhaMTBVV0hKYWR2Y0dNbXMxeEQycFhTYnBiSDZCT2FmS3RmZ3MzWlBvZ2RUd1VQVTdVaFRCUkpvbWpZUTZpS2Z0VEo2Z0x4YmtneXY3RG50MGJYZWFMd1Ewd0R5Q3piVVhvenZFdjZTQW5oRF92bjgzS1NIaWgzSmlCdWRJNy1aRTc1YkdmOUw?oc=5",
-      "published": "2026-10-08T18:38:47+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Specialty Chemicals",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "ET Chemicals"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring - PA Media",
-      "description": "Taiwan Showcases Integrated Pharma Supply Chain Solutions at CPHI Milan 2026 Amid Global Restructuring PA Media",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcGtON1hjbTJ5RlRBSVlaenRPMmRiRkpsenFMbVZDWHEwcnRKM3YzQ1luekJVVExzRlhtN3hYYW9DVWdDemwtd19wc0hvUFBDaEVzek9ZYjB4RWRHUzRVRG4zUG1Db0prRjI3bjhfaXJzQ0FmMThuUURWMkNIYV9pdWY3QXh6LTUtT0Z3dUctNmVKWktwT3ZzZEZfWWFzc0JxNXZ4NEhWb3RzQkVOYmpvNWlNeXNJUHUwOElxTFRwb2pWWk1LNk5WUTcyV1Nsbk1HdE1xM0dVby1PazM3NVo0TEFfdU95V1JBZUE?oc=5",
-      "published": "2026-10-08T17:58:22+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Supply Chain",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Taiwan Showcases Integrated Pharma",
-        "PA Media Taiwan Showcases Integrated Pharma"
       ],
       "project_signals": [],
       "numbers": []
