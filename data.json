@@ -1,34 +1,12 @@
 {
-  "updated": "2026-10-08T23:37:09.466350+00:00",
-  "article_count": 9,
+  "updated": "2026-10-09T00:51:44.998392+00:00",
+  "article_count": 8,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 1,
+  "watch_count": 0,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "Hyderabad",
-      "title": "Granules India Investment Signals Hyderabad Pharma’s Next Phase - Urban Acres",
-      "description": "Granules India Investment Signals Hyderabad Pharma’s Next Phase Urban Acres",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3owaXNMNnpOMWxuUXY5b1AyanhfNkR1WTROOVZCc1FUUVZQQkd0VkIwak9TQ2Mzb003cERNaXlRT1RGUXJqcnVUR0RWSkZSOWd5YWliZEhCN2VZenk0Rk9GSU1DNG82VXpPSl9qUTQtYkdPZURJS1lzYVdJU2Vab0ZHVzZnQUdDcm05c0RqdXBXR0VfWE9IZ215Zlg5bGRGZmlhaF9Zem0?oc=5",
-      "published": "2026-10-08T00:19:28+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Granules India Investment Signals Hyderabad Pharma",
-        "Acres Granules India Investment Signals Hyderabad Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
     {
       "category": "India",
       "title": "Pharma CDMO: Why China+1 Could Drive A Multi-Year Growth Story For Indian Companies - Business Today",
@@ -63,6 +41,27 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Frost & Sullivan Honors Apeloa Pharmaceutical Co., Ltd. with the \"2026 Global CDMO Company of the Year Award\" - StreetInsider",
+      "description": "Frost & Sullivan Honors Apeloa Pharmaceutical Co., Ltd. with the \"2026 Global CDMO Company of the Year Award\" StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUG82NGp2TUJyM3V6dkdvakQ1b1NEZUZtRDdfUzlvcG5yc05rLUxod2ZWLXpqSHFGT2MyVkl2NGY5SzlGZS1vWWFManRyRUcxcjJzQ25EQVF5NXBoWGdjLWJqNlFHOFVCSlZCSnNwZWxQTGJGdS1FbHdaQkhfMEZIVjJLUlpwRUV1VmhPc2p6VE5lRXJPekJxcXRlNHlZQ3IwUXZWbUt5a0ZiSmhMd2pDOEtlSFNJWTZ2ZVlCLVdqR0Vab1RqWWxGWVVuWTV5ODliM1JtSUI3NVVFa09kXzFyRXMxX0gtYU95V2RySTBUczUzM0p0Skl2aFNxWEZzbVE?oc=5",
+      "published": "2026-10-08T12:59:42+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Frost & Sullivan Honors Apeloa Pharmaceutical",
+        "Global CDMO",
+        "StreetInsider Frost & Sullivan Honors Apeloa Pharmaceutical"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -197,6 +196,25 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "Pharma freebies: Supreme Court orders panel to stop unethical gifts to doctors - The Indian Express",
+      "description": "Pharma freebies: Supreme Court orders panel to stop unethical gifts to doctors The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanZzdmJlOFhiQkhjNEMzdkdaMDN1U1EweHVtRlB2TW42TVBuOEhibkEtZzB6ZFJCc1pWay1CcWNweWhLbjlCTWhqVUpiWWpmaHFDaXBqdUY4bE1rcGdVelMzZ3NtQWJJVExBMmg5VjdWYzVmM2FlVTNLTy03YmtDUVN3ZlVCMlhHZFVINXNLQl9YXzBZcjc1MFlOTWFIWmltVWhxWEdLN1JjQ0RwV21JdjctdGlOMkhEM3NGT2hVWdIBxgFBVV95cUxNQ0UxLVJRZTJXMjJyUkR0Z21XbmUtZVh1R01CUlRzM2FyOGNvNFlvX25CeE50ZzdaNnFUY2dzTG1PZzgwWVhxZE5rSWxFUUV2dkhNaUtkeUFJaVh3bzdDdjBqWGJ4c29weE9FMjZWUm9RN2F3aVk5eDRCdTVDREt6Ml9tbE4xWThpQkdkMkQ0NEdySjU2RmozaDd6YS1adUV5ZF93b1hJM0E1Z2Y4ME1UbURvaHkyd2lSQ2xyQmw2T1I5SnhVbmc?oc=5",
+      "published": "2026-10-08T06:39:01+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "The Indian Express Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "ST Pharm pitches expanded oligonucleotide capacity to global drugmakers at CPHI - Korea Biomedical Review",
       "description": "ST Pharm pitches expanded oligonucleotide capacity to global drugmakers at CPHI Korea Biomedical Review",
@@ -211,48 +229,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ST Pharm Courts Oligo CDMO Orders at Global Drug Expo - Seoul Economic Daily",
-      "description": "ST Pharm Courts Oligo CDMO Orders at Global Drug Expo Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckhFbW9tTHhSdXJTRk1ZaE5DbllWYzZlNFVydVQ0MVVMN2o5NXV1RTA3T2J2SWdwb2NRZkN4NGttWkdrRm5BMkxPS2VFLWRLNGhJT2M3SGpVSUg0b0F5cy1Vdy1sUGx3eWNqTHNab1FGNlJZRV9nQWZ4TWp6SEowMEFrdkVveUJSSk5ZSngyLTZIYkNzeVN0WWYtdw?oc=5",
-      "published": "2026-10-08T00:44:40+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "ST Pharm Courts Oligo CDMO",
-        "Expo - Seoul Economic Daily ST Pharm Courts Oligo CDMO"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Granules India Investment Signals Hyderabad Pharma’s Next Phase - Urban Acres",
-      "description": "Granules India Investment Signals Hyderabad Pharma’s Next Phase Urban Acres",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3owaXNMNnpOMWxuUXY5b1AyanhfNkR1WTROOVZCc1FUUVZQQkd0VkIwak9TQ2Mzb003cERNaXlRT1RGUXJqcnVUR0RWSkZSOWd5YWliZEhCN2VZenk0Rk9GSU1DNG82VXpPSl9qUTQtYkdPZURJS1lzYVdJU2Vab0ZHVzZnQUdDcm05c0RqdXBXR0VfWE9IZ215Zlg5bGRGZmlhaF9Zem0?oc=5",
-      "published": "2026-10-08T00:19:28+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Granules India Investment Signals Hyderabad Pharma",
-        "Acres Granules India Investment Signals Hyderabad Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
       "numbers": []
     }
   ]
