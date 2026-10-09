@@ -1,18 +1,40 @@
 {
-  "updated": "2026-10-09T10:40:16.666979+00:00",
-  "article_count": 8,
+  "updated": "2026-10-09T11:37:08.655214+00:00",
+  "article_count": 14,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
+      "category": "India",
+      "title": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details - Dalal Street Investment Journal",
+      "description": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazVpV25uMnkyZk5oYzUzWl8zSUtYbW5MZldkNGNXVDNZQ2RyY3FCdFpLbllQejNDOE9RQ2NPUjZUWHgtVXNTQ0k2TWNrQXR5cTJLbmxEdnNIWDNfdmM2WGhJNWZaeElkRXNSRFQwTU5ZelBwSGxSUHhNSW5YTk42bDdmR05RdmdNMl9HQ29VdWJ3aHdmcllGS04wRDRXbUtDa0ZvVlp4ZlhKQkFpaThiTzljSEEwOHF4OGlBTE1wZUQ?oc=5",
+      "published": "2026-10-09T11:15:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "ICICI Prudential Launches Nifty Pharma",
+        "Investment Journal ICICI Prudential Launches Nifty Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
       "category": "Hyderabad",
-      "title": "Telangana Police Apprehend Man In Drug Peddling Case - Rediff",
-      "description": "Telangana Police Apprehend Man In Drug Peddling Case Rediff",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVp1RnVnUEVuZGxzeVM1eE1XQTZYUDh2RDhjbkhtclhXSVdWTHMtQmg2THI2WkhpQjducTJrZmFubnBEaG1VMFJ2VlBDem03bTkxTG4wWjlFV2NqZnBHdXpROUkyWjdualY0WWQyb0ZMNnBBR252SlpPQTIyNF9tZ29EMmE0WUNhWWh4OVByN19zdlZIeWZScVRIZVVFWGJXRnN0Sjc3SnkxUDJW0gGvAUFVX3lxTE1RenR5QU9RSHk3WERmWkdRMmxVRXNGNHVhbkJKRmNrbF8wM0xEZE1FRjBaRml5ZzlsbnNqYnNFX1I4eml5STVrVEVBTnBRWGV6WC05TU9VVU5lTkx0VTUwS1lRMldoSGV6M1JpbFJ0MDBJSXUyNVNURXBSU1J3UmMxM0plSnF5aTNFV0tiNzZrNy1Ua3JhYzh4cUF0azRFdFNqUFREV2dtal8yYnhMMGs?oc=5",
-      "published": "2026-10-08T13:04:30+00:00",
+      "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
+      "description": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers Tube & Pipe India",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LbTZ0R1BSM0MyRldMNHlmUGZYZWJSazZ5WWxDbGkzX3QtVHVRTnhzRmJSOVBiR1NubVJLQ0JWeGgzNU90M1lsWjhhQ2Q5RENkaTlYOUIxOA?oc=5",
+      "published": "2026-10-09T11:27:44+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -20,40 +42,21 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Frost & Sullivan Honors Apeloa Pharmaceutical Co., Ltd. with the \"2026 Global CDMO Company of the Year Award\" - StreetInsider",
-      "description": "Frost & Sullivan Honors Apeloa Pharmaceutical Co., Ltd. with the \"2026 Global CDMO Company of the Year Award\" StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUG82NGp2TUJyM3V6dkdvakQ1b1NEZUZtRDdfUzlvcG5yc05rLUxod2ZWLXpqSHFGT2MyVkl2NGY5SzlGZS1vWWFManRyRUcxcjJzQ25EQVF5NXBoWGdjLWJqNlFHOFVCSlZCSnNwZWxQTGJGdS1FbHdaQkhfMEZIVjJLUlpwRUV1VmhPc2p6VE5lRXJPekJxcXRlNHlZQ3IwUXZWbUt5a0ZiSmhMd2pDOEtlSFNJWTZ2ZVlCLVdqR0Vab1RqWWxGWVVuWTV5ODliM1JtSUI3NVVFa09kXzFyRXMxX0gtYU95V2RySTBUczUzM0p0Skl2aFNxWEZzbVE?oc=5",
-      "published": "2026-10-08T12:59:42+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Frost & Sullivan Honors Apeloa Pharmaceutical",
-        "Global CDMO",
-        "StreetInsider Frost & Sullivan Honors Apeloa Pharmaceutical"
+        "Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical"
       ],
       "project_signals": [],
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "India pharma industry explores new export markets amid US tariff risks - Manufacturing Today India",
-      "description": "India pharma industry explores new export markets amid US tariff risks Manufacturing Today India",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zSmQ3bEg4Nk1WT1RJOGRrQWg1Y3Z1WUwzT0Zac0pZZ3JqV1h6SXRsSzVJZjViN09xYjRhbVJtSVE4QzJ1dGNLUTAwZjZHN0lhRWVQUHJyYVdudjRpS3BNV0ZJNnRUTHg1LVRVMDJHLW1CLUgzeFNwVkFKMA?oc=5",
-      "published": "2026-10-09T09:43:35+00:00",
+      "category": "Global",
+      "title": "Xelia and Hisun sign strategic global multiple-API partnership - Manufacturing Chemist",
+      "description": "Xelia and Hisun sign strategic global multiple-API partnership Manufacturing Chemist",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlRRWmNaQk5aLUM1Y3RWeC1qa0Uzbnk1MVVfYXBEZEx4ekcyNDJESnh5M3F0dFJicGE0R2FYU2daVUI2WGRXUEJURnJyRGptN3o1Q29WOGxnaWN2em9vNEFuMGRZNEhRdFQzTEt3eFdLdmEyNFFXQUVsMUtERkNMWnBMc0ZBN3VzQ3Zj?oc=5",
+      "published": "2026-10-09T10:52:46+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Exports / Markets",
+      "business_area": "Manufacturing / Plants",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
@@ -74,6 +77,84 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
+      "description": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers Tube & Pipe India",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LbTZ0R1BSM0MyRldMNHlmUGZYZWJSazZ5WWxDbGkzX3QtVHVRTnhzRmJSOVBiR1NubVJLQ0JWeGgzNU90M1lsWjhhQ2Q5RENkaTlYOUIxOA?oc=5",
+      "published": "2026-10-09T11:27:44+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details - Dalal Street Investment Journal",
+      "description": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazVpV25uMnkyZk5oYzUzWl8zSUtYbW5MZldkNGNXVDNZQ2RyY3FCdFpLbllQejNDOE9RQ2NPUjZUWHgtVXNTQ0k2TWNrQXR5cTJLbmxEdnNIWDNfdmM2WGhJNWZaeElkRXNSRFQwTU5ZelBwSGxSUHhNSW5YTk42bDdmR05RdmdNMl9HQ29VdWJ3aHdmcllGS04wRDRXbUtDa0ZvVlp4ZlhKQkFpaThiTzljSEEwOHF4OGlBTE1wZUQ?oc=5",
+      "published": "2026-10-09T11:15:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "ICICI Prudential Launches Nifty Pharma",
+        "Investment Journal ICICI Prudential Launches Nifty Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Xelia and Hisun sign strategic global multiple-API partnership - Manufacturing Chemist",
+      "description": "Xelia and Hisun sign strategic global multiple-API partnership Manufacturing Chemist",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlRRWmNaQk5aLUM1Y3RWeC1qa0Uzbnk1MVVfYXBEZEx4ekcyNDJESnh5M3F0dFJicGE0R2FYU2daVUI2WGRXUEJURnJyRGptN3o1Q29WOGxnaWN2em9vNEFuMGRZNEhRdFQzTEt3eFdLdmEyNFFXQUVsMUtERkNMWnBMc0ZBN3VzQ3Zj?oc=5",
+      "published": "2026-10-09T10:52:46+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India's pharma industry looks beyond USA as trade uncertainty grows - The Pharma Letter",
+      "description": "India's pharma industry looks beyond USA as trade uncertainty grows The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0tuQ1BJSV9SLUNJcDl1OWROY3Nod2ZMVEljVGFycnY0RF8xNFVNMmQ1Wmh1WFlva2paWE1ydzZFTzFWUVd4SkFXcUNJVlJaYlhVTGVlYkZwSlZEQ3FDTU1lVUdiYUxtRFZUY0V3WHh3NG1vZXhvczFOMk9kWDE2M2xqZVBZcHJoVGRqWDNWTFFUME1vWVNyM2VYWW1aWlNtU1ZNZUUzVDFpMnJlZUtsVEJPTQ?oc=5",
+      "published": "2026-10-09T10:46:39+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "USA as trade uncertainty grows - The Pharma",
+        "USA as trade uncertainty grows The Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "India pharma industry explores new export markets amid US tariff risks - Manufacturing Today India",
@@ -112,6 +193,23 @@
     },
     {
       "category": "India",
+      "title": "Explainer: Watches win, pharma waits as Swiss-India trade deal turns one - SWI swissinfo.ch",
+      "description": "Explainer: Watches win, pharma waits as Swiss-India trade deal turns one SWI swissinfo.ch",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVVJa1RuWmotMElpUXF1YWx2TlpzWVlsY21ad0pxQ01zTnFucWJ0cFNOSk5mSXg3dmVsWGVBVXJNdF96U1M1U0piR2x1MGJ2d2o3WUk0OGFlNkpLV1NWWnhneXNiSF9IbjFJcV9PUWcwUEtRZWFvSkpHXy1lOUtKSTlMeEtLM1JlRmU0M0tpQkl3S1NiMUxGMGl6OXY3U0VIWW81OFluN2I1NlpyenJyV2hCWHJKVGhHa1F1UQ?oc=5",
+      "published": "2026-10-09T07:18:34+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "Beyond cost what will shape India’s pharma competitiveness? - Express Pharma",
       "description": "Beyond cost what will shape India’s pharma competitiveness? Express Pharma",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG0yREpOaFRGV2lZZE4wck01S09hSDZVQ1JVa2ZETm1aLVNGSGh6TVpKTFJfU3psdnVDZEx4TFhnRW1SZjNRRVRleUN6czRqRk01V1JyLVk1VDV3QkxyMTZxWGFCNHZBd0U0eFpXRm00TnJ0MlZjZ3VENllBNEZ4UUlyNFNsbFczRjNKTDg5Wkg?oc=5",
@@ -125,6 +223,25 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Express Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India’s drugmakers bet on innovation after generics scale-up - ET Chemicals",
+      "description": "India’s drugmakers bet on innovation after generics scale-up ET Chemicals",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFdmajBvdVVWMDVWdV9TaElHZURESFdVQnlNSE44TEVySDUzenFXQ05wbHNraWgyd0gyYnhaOE9zY0l2Z2I0d2VUWHJGMVdtakdIT0FNSWpVZTB3eU5SdUZlcEpwX1FRQy02MzJQcHF1eldyNzNyZGI5aW85REp5cncwekV6MXVLZzZwdDdYcFdtbDIyZGxuaHRybDJwUko4ZWdzcGs3NFZ1R0xzQ2ZLcU9ER0hVeVMzTzlnbnJPVDJvc1F3d0NKRDZ0UVBhLWtUa2IwctIB2AFBVV95cUxPaWRVc0hFYnpTb1pSZlNGc1E4ZWNGd2dKYzFXeEYwWEtGdDIwNExWNk5NWW0xcDAxYjJNSU1LbGR4RVg5SEM1WTAwTmFfTTQ0dnhaMTBVV0hKYWR2Y0dNbXMxeEQycFhTYnBiSDZCT2FmS3RmZ3MzWlBvZ2RUd1VQVTdVaFRCUkpvbWpZUTZpS2Z0VEo2Z0x4YmtneXY3RG50MGJYZWFMd1Ewd0R5Q3piVVhvenZFdjZTQW5oRF92bjgzS1NIaWgzSmlCdWRJNy1aRTc1YkdmOUw?oc=5",
+      "published": "2026-10-08T18:38:47+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Specialty Chemicals",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "ET Chemicals"
       ],
       "project_signals": [],
       "numbers": []
