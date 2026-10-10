@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T04:40:42.279382+00:00",
-  "article_count": 14,
+  "updated": "2026-10-10T05:37:34.961779+00:00",
+  "article_count": 15,
   "opportunity_count": 0,
   "risk_count": 1,
   "watch_count": 2,
@@ -82,6 +82,27 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Indian Pharma Industry Looks Beyond the US to Expand Global Exports - Chemical Industry Digest",
+      "description": "Indian Pharma Industry Looks Beyond the US to Expand Global Exports Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1diYmRCZjJWZDREZm9NMGh5VzVHRHhWdlJqN3F5MklhbmhHS0hqRnlpakxtOWo3OHRPZ2otR2FNRXItRjZQUzIyUW1OTjdEaGtwcjB1VGdVZXczbUNwcHBZWVVydFBGaXJacUFoS1ctcFhHZ3RoNnQzQVZXZU52eXlFa1N4VWp4cGg2TEpZWVA5dTdWSjVkdw?oc=5",
+      "published": "2026-10-10T05:16:27+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Looks Beyond the US to Expand Global Exports - Chemical",
+        "Industry Digest Indian Pharma",
+        "Looks Beyond the US to Expand Global Exports Chemical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "UK filter manufacturer to showcase critical pharma solutions at ISPE USA - Cleanroom Technology",
