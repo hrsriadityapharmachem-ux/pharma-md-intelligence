@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T22:37:17.154548+00:00",
-  "article_count": 2,
+  "updated": "2026-10-10T23:35:50.216538+00:00",
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -26,6 +26,23 @@
         "World Lifevision Healthcare Expands Third-Party Pharma",
         "Manufacturing Services BW Healthcare"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "KMSCL bypasses middlemen, buys medicines directly from pharma companies - The Times of India",
+      "description": "KMSCL bypasses middlemen, buys medicines directly from pharma companies The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNU5DaFd2aGFtVU9RUnJQNW9yMjhLV1lyZW1VcHVjS01TeTZlb0o1NnVnSUp3T0k0TGNZRlBwSVl2ZXFhbk0zUkRoTGZHV2R0MkI2bzJ5T1RFa195aTcyZV96aXAtdjZTRk5yZGZmTmFuak9MdVZNVTJVck84aUdqcm5hRWVWZHFra2ZfOVFKbFpnWUtiMzhNTEo1X1ZZazdyRTN6RWF0RnAzdTNTNDFtcTQ2S0FCeUZySDNxOFI3OUlxODB4ZzNuVnZKXy11V01kTzJkNC1uODZjbmVQbzRKQmgwWGxwUjdlMDNxb9IB8gFBVV95cUxQQU5mSHB5MkNudndBT1EtaWVSR2xNZXM4UVF0LTdvQVVqc2U0U1lfTC12YU1jNjR2MkxnV0pwTDhnVVBhczFKcjBiZzNmaFBGSFdfTXZ5a3poVmdDQ1Q4UGVEUDBHbmN4aHgzeW5IWFhMNGcySU1nYVdwOWZIUDFtbWhsQ3BuNlhhVzhlcF8ydVRlVjZuSVp5ZHZSQ25tcTNhYy1ld3ludEF0cnJPRlc0S0I0cXJWWHFmVFFkUDlldC1iaVota2U2dFd3OGxiS1dubm1wQ2p3Y09uTDYyR3Uxa1ZxSFF4NERic04yWllJWDYzZw?oc=5",
+      "published": "2026-10-10T16:21:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
@@ -62,6 +79,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "KMSCL bypasses middlemen, buys medicines directly from pharma companies - The Times of India",
+      "description": "KMSCL bypasses middlemen, buys medicines directly from pharma companies The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNU5DaFd2aGFtVU9RUnJQNW9yMjhLV1lyZW1VcHVjS01TeTZlb0o1NnVnSUp3T0k0TGNZRlBwSVl2ZXFhbk0zUkRoTGZHV2R0MkI2bzJ5T1RFa195aTcyZV96aXAtdjZTRk5yZGZmTmFuak9MdVZNVTJVck84aUdqcm5hRWVWZHFra2ZfOVFKbFpnWUtiMzhNTEo1X1ZZazdyRTN6RWF0RnAzdTNTNDFtcTQ2S0FCeUZySDNxOFI3OUlxODB4ZzNuVnZKXy11V01kTzJkNC1uODZjbmVQbzRKQmgwWGxwUjdlMDNxb9IB8gFBVV95cUxQQU5mSHB5MkNudndBT1EtaWVSR2xNZXM4UVF0LTdvQVVqc2U0U1lfTC12YU1jNjR2MkxnV0pwTDhnVVBhczFKcjBiZzNmaFBGSFdfTXZ5a3poVmdDQ1Q4UGVEUDBHbmN4aHgzeW5IWFhMNGcySU1nYVdwOWZIUDFtbWhsQ3BuNlhhVzhlcF8ydVRlVjZuSVp5ZHZSQ25tcTNhYy1ld3ludEF0cnJPRlc0S0I0cXJWWHFmVFFkUDlldC1iaVota2U2dFd3OGxiS1dubm1wQ2p3Y09uTDYyR3Uxa1ZxSFF4NERic04yWllJWDYzZw?oc=5",
+      "published": "2026-10-10T16:21:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Lifevision Healthcare Expands Third-Party Pharma Manufacturing Services - BW Healthcare World",
