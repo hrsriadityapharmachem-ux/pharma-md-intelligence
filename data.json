@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-10T10:37:21.108284+00:00",
-  "article_count": 10,
+  "updated": "2026-10-10T11:36:51.012807+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 1,
+  "watch_count": 0,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -29,32 +29,31 @@
     },
     {
       "category": "India",
-      "title": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details - Dalal Street Investment Journal",
-      "description": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazVpV25uMnkyZk5oYzUzWl8zSUtYbW5MZldkNGNXVDNZQ2RyY3FCdFpLbllQejNDOE9RQ2NPUjZUWHgtVXNTQ0k2TWNrQXR5cTJLbmxEdnNIWDNfdmM2WGhJNWZaeElkRXNSRFQwTU5ZelBwSGxSUHhNSW5YTk42bDdmR05RdmdNMl9HQ29VdWJ3aHdmcllGS04wRDRXbUtDa0ZvVlp4ZlhKQkFpaThiTzljSEEwOHF4OGlBTE1wZUQ?oc=5",
-      "published": "2026-10-09T11:21:35+00:00",
+      "title": "Indian Pharma Industry Looks Beyond the US to Expand Global Exports - Chemical Industry Digest",
+      "description": "Indian Pharma Industry Looks Beyond the US to Expand Global Exports Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1diYmRCZjJWZDREZm9NMGh5VzVHRHhWdlJqN3F5MklhbmhHS0hqRnlpakxtOWo3OHRPZ2otR2FNRXItRjZQUzIyUW1OTjdEaGtwcjB1VGdVZXczbUNwcHBZWVVydFBGaXJacUFoS1ctcFhHZ3RoNnQzQVZXZU52eXlFa1N4VWp4cGg2TEpZWVA5dTdWSjVkdw?oc=5",
+      "published": "2026-10-10T05:16:27+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "ICICI Prudential Launches Nifty Pharma",
-        "Investment Journal ICICI Prudential Launches Nifty Pharma"
+        "Looks Beyond the US to Expand Global Exports - Chemical",
+        "Industry Digest Indian Pharma",
+        "Looks Beyond the US to Expand Global Exports Chemical"
       ],
-      "project_signals": [
-        "investment"
-      ],
+      "project_signals": [],
       "numbers": []
     },
     {
-      "category": "Hyderabad",
-      "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
-      "description": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers Tube & Pipe India",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LbTZ0R1BSM0MyRldMNHlmUGZYZWJSazZ5WWxDbGkzX3QtVHVRTnhzRmJSOVBiR1NubVJLQ0JWeGgzNU90M1lsWjhhQ2Q5RENkaTlYOUIxOA?oc=5",
-      "published": "2026-10-09T11:27:44+00:00",
+      "category": "Global",
+      "title": "UK filter manufacturer to showcase critical pharma solutions at ISPE USA - Cleanroom Technology",
+      "description": "UK filter manufacturer to showcase critical pharma solutions at ISPE USA Cleanroom Technology",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXYtc3JFeVVmZzhuWF9BSG9aNmVQdW1qc0JxVlJEb2o1RmMwS01zUHAwdUp6OGhaSG1CUGpkZGo0NVpFbTljRVJ0dVVrVkQxcXhfUTFCWk5IYWtockRIUzFPR2ZoNUtxZllkYS1IelJjTHd0clFYNG9sTkZxMG5FZmduQzBsQmd4cFVGdFdhTkdRdXFaOVdB?oc=5",
+      "published": "2026-10-09T19:07:57+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -62,9 +61,7 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": []
     }
@@ -154,123 +151,6 @@
       "companies": [
         "Data integrity keeps CROs under lens - ETPharma",
         "Data integrity keeps CROs under lens ETPharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Pharma industry welcomes cancer drug price cap, flags need to balance affordability and sustainability - Moneycontrol.com",
-      "description": "Pharma industry welcomes cancer drug price cap, flags need to balance affordability and sustainability Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOG9HV0hDdG1KVVZoYXRYcF9TSWZwMFNNc3E4Zm1ucWNhUDhxRFhsVGs3ZkI5TVY5SGlWQ1VmXzIweHMyc2Zzc1pKTVZOSEJyeFk5QXc0RU40ZVFlcjZEZjFva2FqaVcyWDdqcWtLZEJWeldZTUtTdWFCaEgyTV9FUEd3d2pFUWx5enBwa0NETVZkMjlEeVBKZkVPNktsZkQxRHIxRDJFeVRNYWlWdmFTVnZOVDgxSUlvcS1yN1BVbWo5eC1YRURDTjB6YVlxNWdpbThrVXFIdTBFSDRBdlVkN3RRTVhtVXltV2VDSmNoc9IB9AFBVV95cUxOdXN2SjRqa2dXM0k1Zm9nbVBNeW9ISnhNWllKRlZpSmpqalpmWDROend4N0wyUlFIVENBSWtLOXExS01JOXloNTJCT3RMUjFTUjJuUGhWU0ZSakZ6SE5pLURaOFZ6dERRSU1rLTVIelIxX1A4aG5xaFdWQ0pQZlQ0aDlWOG1CZ1V2WkYySV95aC1zbDE5ZDB1ZV9ObFZORnBEQkV5aTUtQjdWSWVjTEFnRC1YRXRHeERjNG5rU012ZlNJcWR5YV9zV3hIWXhsZGk5M1RxMkhCTDFJMW9PZnFGOUpQRzdCLXVOeWxEV2ZUTUlrNG11?oc=5",
-      "published": "2026-10-09T11:31:30+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Moneycontrol.com Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
-      "description": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers Tube & Pipe India",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LbTZ0R1BSM0MyRldMNHlmUGZYZWJSazZ5WWxDbGkzX3QtVHVRTnhzRmJSOVBiR1NubVJLQ0JWeGgzNU90M1lsWjhhQ2Q5RENkaTlYOUIxOA?oc=5",
-      "published": "2026-10-09T11:27:44+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details - Dalal Street Investment Journal",
-      "description": "ICICI Prudential Launches Nifty Pharma ETF: NFO, Dates And Key Details Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazVpV25uMnkyZk5oYzUzWl8zSUtYbW5MZldkNGNXVDNZQ2RyY3FCdFpLbllQejNDOE9RQ2NPUjZUWHgtVXNTQ0k2TWNrQXR5cTJLbmxEdnNIWDNfdmM2WGhJNWZaeElkRXNSRFQwTU5ZelBwSGxSUHhNSW5YTk42bDdmR05RdmdNMl9HQ29VdWJ3aHdmcllGS04wRDRXbUtDa0ZvVlp4ZlhKQkFpaThiTzljSEEwOHF4OGlBTE1wZUQ?oc=5",
-      "published": "2026-10-09T11:21:35+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "ICICI Prudential Launches Nifty Pharma",
-        "Investment Journal ICICI Prudential Launches Nifty Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Teva Announces U.S. Food and Drug Administration (FDA) Approval of WELTRUZA™ (Olanzapine) For Extended-Release Injectable Suspension, as the First and Only Once-Monthly Subcutaneous Injectable Olanzapine for Adults with Schizophrenia - Teva Pharmaceuticals",
-      "description": "Teva Announces U.S. Food and Drug Administration (FDA) Approval of WELTRUZA™ (Olanzapine) For Extended-Release Injectable Suspension, as the First and Only Once-Monthly Subcutaneous Injectable Olanzapine for Adults with Schizophrenia Teva Pharmaceuticals",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQV1NMcTdkbFZwcVpKRWphcWw0WW5yZVlqRU51emd1RmFNdGZURkZ2dW5hZldTanJRVW1lVzVlM2xncEFJRFlPd2RVQVBTWVlWVGhyUDVScXlmT3lUTVc0a2ptN0tFcS1iZFViSUt4VV91R0J4RWp0bkNFMzhWUDVsaWdYUzZ6M3h6ajlGYkhRRjBIQm5DVkJzcGZQODJ3eTEyOTI1ajhNXzVnSzh0WWhJRmZnNkZ4eTNEamhRZndGMHlFOTdTQkt6Y3FKLU9VSExfX25LN0h5VTZpYjlIRDJnaFkxX3VNc1JISXVOWWFER3Z0b2szXzV5ekpCcm5vb2R2THBUMjdLNDFmVFBtYWVNVDVzRUtNenI2bFU5MThMRWhVSl9SWTJqdkQ3SFhuMGpnQkQxODlWRGdRdmdQVkhJU2dGaFI0Q1hEQ2lQRkViQVd2el9JaGluTWp0ZE4xajFuTUxYTHNOYllfQjJHR0h0UXJ3ZE1vby1YWTYxSk9HU1dScC1reGZvYUYzZnRZaDJXRjZUNmxEMURER0tZbjloekFEdUo0U3NTQ3VodXJzOE01T3JyblNqWjNRdHM2WjM4LV9NcDVkZXdxQm8?oc=5",
-      "published": "2026-10-09T11:05:44+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Olanzapine for Adults with Schizophrenia - Teva Pharmaceuticals",
-        "Olanzapine for Adults with Schizophrenia Teva Pharmaceuticals"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Xelia and Hisun sign strategic global multiple-API partnership - Manufacturing Chemist",
-      "description": "Xelia and Hisun sign strategic global multiple-API partnership Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlRRWmNaQk5aLUM1Y3RWeC1qa0Uzbnk1MVVfYXBEZEx4ekcyNDJESnh5M3F0dFJicGE0R2FYU2daVUI2WGRXUEJURnJyRGptN3o1Q29WOGxnaWN2em9vNEFuMGRZNEhRdFQzTEt3eFdLdmEyNFFXQUVsMUtERkNMWnBMc0ZBN3VzQ3Zj?oc=5",
-      "published": "2026-10-09T10:52:46+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India's pharma industry looks beyond USA as trade uncertainty grows - The Pharma Letter",
-      "description": "India's pharma industry looks beyond USA as trade uncertainty grows The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0tuQ1BJSV9SLUNJcDl1OWROY3Nod2ZMVEljVGFycnY0RF8xNFVNMmQ1Wmh1WFlva2paWE1ydzZFTzFWUVd4SkFXcUNJVlJaYlhVTGVlYkZwSlZEQ3FDTU1lVUdiYUxtRFZUY0V3WHh3NG1vZXhvczFOMk9kWDE2M2xqZVBZcHJoVGRqWDNWTFFUME1vWVNyM2VYWW1aWlNtU1ZNZUUzVDFpMnJlZUtsVEJPTQ?oc=5",
-      "published": "2026-10-09T10:46:39+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "USA as trade uncertainty grows - The Pharma",
-        "USA as trade uncertainty grows The Pharma"
       ],
       "project_signals": [],
       "numbers": []
