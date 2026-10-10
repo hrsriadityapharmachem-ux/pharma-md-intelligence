@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-10T09:38:18.843177+00:00",
-  "article_count": 12,
+  "updated": "2026-10-10T10:37:21.108284+00:00",
+  "article_count": 10,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 2,
+  "watch_count": 1,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -50,24 +50,22 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details - CNBC TV18",
-      "description": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGdwWnBNYVVyM1VsVjN5Y21FMkxVZkJXLUtRUm1UM3IyX3VfemFnYzVsQWhvOElxZ3ljZGdwMDJJNy1VQ1lQdlA3cEFYV1hSUVMxcGhHX29TQ3NudUtaenZ3aXpvUFRXLV8tRVdKNjFNVExRYzlfT0p5RjJTc2tIdGRGU21PR2Nma0FGczVQc2dZOGZpOWFZejFHbGhWUXloY1FIU19fdF94QVJTN2c2czkwZnhqbjN0MUdr0gHAAUFVX3lxTE9vZDNIbnZoZWhBUjFaOXRGdzhJRWdwSEE3amxCd0dpZHJjNFB6M2FCM0ZjU2dNaUlZZDRCcW51VkVINktTQkZ3QWFMb1V0RDNZTE5EbFE4UDBFZ3ZUOGcxWUVpQmxZWVlzbWphMWVzNFNrUFZOaDlXME1fd1NPNTZkZ0Y0blFqM2cxTUliWS1VZk95UnMzQlVrSURnUlBST2VwQl93dmlfRzNTdVFRNkp0bTM5cUVEZWR3aFV4bjBjMw?oc=5",
-      "published": "2026-10-09T10:08:59+00:00",
+      "category": "Hyderabad",
+      "title": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers - Tube & Pipe India",
+      "description": "Aaditya Stainless Finds Tube & Pipe Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical Manufacturers Tube & Pipe India",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LbTZ0R1BSM0MyRldMNHlmUGZYZWJSazZ5WWxDbGkzX3QtVHVRTnhzRmJSOVBiR1NubVJLQ0JWeGgzNU90M1lsWjhhQ2Q5RENkaTlYOUIxOA?oc=5",
+      "published": "2026-10-09T11:27:44+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "ICICI Prudential Nifty Pharma"
+        "Fair Hyderabad- An Ideal Platform to Connect With Pharmaceutical"
       ],
-      "project_signals": [
-        "investment"
-      ],
+      "project_signals": [],
       "numbers": []
     }
   ],
@@ -274,44 +272,6 @@
         "USA as trade uncertainty grows - The Pharma",
         "USA as trade uncertainty grows The Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details - CNBC TV18",
-      "description": "ICICI Prudential Nifty Pharma ETF: NFO dates, minimum investment and key details CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGdwWnBNYVVyM1VsVjN5Y21FMkxVZkJXLUtRUm1UM3IyX3VfemFnYzVsQWhvOElxZ3ljZGdwMDJJNy1VQ1lQdlA3cEFYV1hSUVMxcGhHX29TQ3NudUtaenZ3aXpvUFRXLV8tRVdKNjFNVExRYzlfT0p5RjJTc2tIdGRGU21PR2Nma0FGczVQc2dZOGZpOWFZejFHbGhWUXloY1FIU19fdF94QVJTN2c2czkwZnhqbjN0MUdr0gHAAUFVX3lxTE9vZDNIbnZoZWhBUjFaOXRGdzhJRWdwSEE3amxCd0dpZHJjNFB6M2FCM0ZjU2dNaUlZZDRCcW51VkVINktTQkZ3QWFMb1V0RDNZTE5EbFE4UDBFZ3ZUOGcxWUVpQmxZWVlzbWphMWVzNFNrUFZOaDlXME1fd1NPNTZkZ0Y0blFqM2cxTUliWS1VZk95UnMzQlVrSURnUlBST2VwQl93dmlfRzNTdVFRNkp0bTM5cUVEZWR3aFV4bjBjMw?oc=5",
-      "published": "2026-10-09T10:08:59+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "ICICI Prudential Nifty Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India pharma industry explores new export markets amid US tariff risks - Manufacturing Today India",
-      "description": "India pharma industry explores new export markets amid US tariff risks Manufacturing Today India",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zSmQ3bEg4Nk1WT1RJOGRrQWg1Y3Z1WUwzT0Zac0pZZ3JqV1h6SXRsSzVJZjViN09xYjRhbVJtSVE4QzJ1dGNLUTAwZjZHN0lhRWVQUHJyYVdudjRpS3BNV0ZJNnRUTHg1LVRVMDJHLW1CLUgzeFNwVkFKMA?oc=5",
-      "published": "2026-10-09T09:43:35+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
