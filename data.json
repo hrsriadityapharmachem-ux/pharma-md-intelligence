@@ -1,32 +1,12 @@
 {
-  "updated": "2026-10-10T12:43:55.466941+00:00",
-  "article_count": 4,
+  "updated": "2026-10-10T13:37:11.998104+00:00",
+  "article_count": 3,
   "opportunity_count": 0,
-  "risk_count": 1,
+  "risk_count": 0,
   "watch_count": 0,
-  "high_priority_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens - ETPharma.com",
-      "description": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSFZtQmhxMzBXTzhHYUVrbDBZV0VuRUJ5cUJ2X3EwOHgyM1d6djNkWV9LZEZINlFzbVpLbmtsdkJxTEFDTXo0XzMyT0tXanFBaEVvSlhyem1JMS01ZE5ocDFBU3ZvZUttNjRFRmxlQVZmdmV1RlRWdzQ4cllvN3FIZDhqRTdTQVdWZHBUdkZWMDRzX0tnYUtDa3JVeXpNYzNYeTBrcFJyamtEOXZDdGduOVBIMWFRQVhfZkZRaFRfWmlQVldEdVZGZHZELVVaNnpDZEF6anI4Unl0X2tkY0ZnOHY5SVZfa3JOc0ZNamlsYjPSAfABQVVfeXFMTUhWbUJocTMwV084R2FFa2wwWVdFbkVCeXFCdl9xMDh4MjNXenYzZFlfS2RGSDZRc21aS25rbHZCcUxBQ016NF8zMk9LV2pxQWhFb0pYcnptSTEtNWROaHAxQVN2b2VLbTY0RUZsZUFWZnZldUZUVnc0OHJZbzdxSGQ4akU3U0FXVmRwVHZGVjA0c19LZ2FLQ2tyVXl6TWMzWHkwa3BScmprRDl2Q3RnbjlQSDFhUUFYX2ZGUWhUX1ppUFZXRHVWRmR2RC1VWjZ6Q2RBempyOFJ5dF9rZGNGZzh2OUlWX2tyTnNGTWppbGIz?oc=5",
-      "published": "2026-10-09T13:21:44+00:00",
-      "source": "Google News RSS",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
-      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Data integrity keeps CROs under lens - ETPharma",
-        "Data integrity keeps CROs under lens ETPharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
     {
       "category": "India",
       "title": "Indian Pharma Industry Looks Beyond the US to Expand Global Exports - Chemical Industry Digest",
@@ -64,6 +44,26 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "FDA Approves Tecentriq | PharmExec - Pharmaceutical Executive",
+      "description": "FDA Approves Tecentriq | PharmExec Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFItcTh2WmY1ZUQxbHV1QkYxN3lMdjZVSHlfZDlQZldaaU1NWFlfei1vTDhNaGRGTjhXTXZ5Uk5vdVVyMlFlVDhZaW42cEVyUHhPRlRpNl9vSUVBcXdjeTZpNjEyd3c3czJIQlBLUE12U0xCWVZzeGlhdXFjLXk3MGNoNnpnbkpoeXN3OA?oc=5",
+      "published": "2026-10-09T18:08:56+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "PharmExec - Pharmaceutical",
+        "PharmExec Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
@@ -72,7 +72,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 1,
+    "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
@@ -131,26 +131,6 @@
       "companies": [
         "PharmExec - Pharmaceutical",
         "PharmExec Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens - ETPharma.com",
-      "description": "FDA Watch: India mirrors global OAI trends; Data integrity keeps CROs under lens ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSFZtQmhxMzBXTzhHYUVrbDBZV0VuRUJ5cUJ2X3EwOHgyM1d6djNkWV9LZEZINlFzbVpLbmtsdkJxTEFDTXo0XzMyT0tXanFBaEVvSlhyem1JMS01ZE5ocDFBU3ZvZUttNjRFRmxlQVZmdmV1RlRWdzQ4cllvN3FIZDhqRTdTQVdWZHBUdkZWMDRzX0tnYUtDa3JVeXpNYzNYeTBrcFJyamtEOXZDdGduOVBIMWFRQVhfZkZRaFRfWmlQVldEdVZGZHZELVVaNnpDZEF6anI4Unl0X2tkY0ZnOHY5SVZfa3JOc0ZNamlsYjPSAfABQVVfeXFMTUhWbUJocTMwV084R2FFa2wwWVdFbkVCeXFCdl9xMDh4MjNXenYzZFlfS2RGSDZRc21aS25rbHZCcUxBQ016NF8zMk9LV2pxQWhFb0pYcnptSTEtNWROaHAxQVN2b2VLbTY0RUZsZUFWZnZldUZUVnc0OHJZbzdxSGQ4akU3U0FXVmRwVHZGVjA0c19LZ2FLQ2tyVXl6TWMzWHkwa3BScmprRDl2Q3RnbjlQSDFhUUFYX2ZGUWhUX1ppUFZXRHVWRmR2RC1VWjZ6Q2RBempyOFJ5dF9rZGNGZzh2OUlWX2tyTnNGTWppbGIz?oc=5",
-      "published": "2026-10-09T13:21:44+00:00",
-      "source": "Google News RSS",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
-      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Data integrity keeps CROs under lens - ETPharma",
-        "Data integrity keeps CROs under lens ETPharma"
       ],
       "project_signals": [],
       "numbers": []
