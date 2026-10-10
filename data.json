@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T17:36:07.726391+00:00",
-  "article_count": 4,
+  "updated": "2026-10-10T18:41:34.105322+00:00",
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -136,26 +136,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA Approves Tecentriq | PharmExec - Pharmaceutical Executive",
-      "description": "FDA Approves Tecentriq | PharmExec Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFItcTh2WmY1ZUQxbHV1QkYxN3lMdjZVSHlfZDlQZldaaU1NWFlfei1vTDhNaGRGTjhXTXZ5Uk5vdVVyMlFlVDhZaW42cEVyUHhPRlRpNl9vSUVBcXdjeTZpNjEyd3c3czJIQlBLUE12U0xCWVZzeGlhdXFjLXk3MGNoNnpnbkpoeXN3OA?oc=5",
-      "published": "2026-10-09T18:08:56+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "PharmExec - Pharmaceutical",
-        "PharmExec Pharmaceutical"
-      ],
       "project_signals": [],
       "numbers": []
     }
