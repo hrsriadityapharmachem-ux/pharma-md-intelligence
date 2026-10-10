@@ -1,12 +1,34 @@
 {
-  "updated": "2026-10-10T16:38:09.034165+00:00",
-  "article_count": 3,
+  "updated": "2026-10-10T17:36:07.726391+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Lifevision Healthcare Expands Third-Party Pharma Manufacturing Services - BW Healthcare World",
+      "description": "Lifevision Healthcare Expands Third-Party Pharma Manufacturing Services BW Healthcare World",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDctZk9scHpqYnBCeS10TGthQVpkNGFnWkRkS1ZUYVZqVVNZUmNHOFZOSmFDMklaVnNGUTBEbFloWVBkc1RKYWNmRENqYjMwYVN4UkNWQVlFRUozeXBPbW52ZkdEOVRnUjJDOWZvT0xkQnVfeFFGNW03Tmc3UnhZQVVfa1JvU0ZiZVZxNVlHaVIyNDREdWJFZVBCbklIenNNR2ZCMGV6M2RJcm5iLVBVSmVFVzBQekZ2bzZtTw?oc=5",
+      "published": "2026-10-10T11:35:43+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Lifevision Healthcare Expands Third-Party Pharma",
+        "Manufacturing Services - BW Healthcare",
+        "World Lifevision Healthcare Expands Third-Party Pharma",
+        "Manufacturing Services BW Healthcare"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Indian Pharma Industry Looks Beyond the US to Expand Global Exports - Chemical Industry Digest",
@@ -44,26 +66,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA Approves Tecentriq | PharmExec - Pharmaceutical Executive",
-      "description": "FDA Approves Tecentriq | PharmExec Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFItcTh2WmY1ZUQxbHV1QkYxN3lMdjZVSHlfZDlQZldaaU1NWFlfei1vTDhNaGRGTjhXTXZ5Uk5vdVVyMlFlVDhZaW42cEVyUHhPRlRpNl9vSUVBcXdjeTZpNjEyd3c3czJIQlBLUE12U0xCWVZzeGlhdXFjLXk3MGNoNnpnbkpoeXN3OA?oc=5",
-      "published": "2026-10-09T18:08:56+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "PharmExec - Pharmaceutical",
-        "PharmExec Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -77,6 +79,28 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Lifevision Healthcare Expands Third-Party Pharma Manufacturing Services - BW Healthcare World",
+      "description": "Lifevision Healthcare Expands Third-Party Pharma Manufacturing Services BW Healthcare World",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDctZk9scHpqYnBCeS10TGthQVpkNGFnWkRkS1ZUYVZqVVNZUmNHOFZOSmFDMklaVnNGUTBEbFloWVBkc1RKYWNmRENqYjMwYVN4UkNWQVlFRUozeXBPbW52ZkdEOVRnUjJDOWZvT0xkQnVfeFFGNW03Tmc3UnhZQVVfa1JvU0ZiZVZxNVlHaVIyNDREdWJFZVBCbklIenNNR2ZCMGV6M2RJcm5iLVBVSmVFVzBQekZ2bzZtTw?oc=5",
+      "published": "2026-10-10T11:35:43+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Lifevision Healthcare Expands Third-Party Pharma",
+        "Manufacturing Services - BW Healthcare",
+        "World Lifevision Healthcare Expands Third-Party Pharma",
+        "Manufacturing Services BW Healthcare"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Indian Pharma Industry Looks Beyond the US to Expand Global Exports - Chemical Industry Digest",
