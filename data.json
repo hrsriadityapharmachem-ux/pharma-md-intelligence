@@ -1,12 +1,29 @@
 {
-  "updated": "2026-10-11T11:37:05.636470+00:00",
-  "article_count": 3,
+  "updated": "2026-10-11T12:45:07.484293+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Hyderabad",
+      "title": "Goa-based alleged supplier held in Hyderabad drug case; police verify links of 25 Telangana residents - NewsMeter",
+      "description": "Goa-based alleged supplier held in Hyderabad drug case; police verify links of 25 Telangana residents NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWkzaDZBYklXV2FVZnlQMmR6QnJMNFIya1ZObVk5ZjV4cUJHZE1CaWtVNVYwMUlka3RWS1pBak5RUlA2OVhITmRQcXh6cl9fVVU3X3B0TEdHUWpnNlBySlV2NTdjdjRDeWdvUkFoYU1rdTc5bTdCdTJxVTlxWEpRdDE0R09RU3NuU2ZFV21sQlhaOEZEZWxuN2ZVYmRWYWZ2Y1VRbWRCSGxWZmhNUUQ1UjlNay1CRkItNTNiMzhIRGRjQTN2aXBrN0VqWXg3cTg?oc=5",
+      "published": "2026-10-11T12:30:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Supply Chain",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "EAGLE Force apprehends suspected drug supplier in Goa with help from Goa Police - Telangana Today",
@@ -40,23 +57,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "KMSCL bypasses middlemen, buys medicines directly from pharma companies - The Times of India",
-      "description": "KMSCL bypasses middlemen, buys medicines directly from pharma companies The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNU5DaFd2aGFtVU9RUnJQNW9yMjhLV1lyZW1VcHVjS01TeTZlb0o1NnVnSUp3T0k0TGNZRlBwSVl2ZXFhbk0zUkRoTGZHV2R0MkI2bzJ5T1RFa195aTcyZV96aXAtdjZTRk5yZGZmTmFuak9MdVZNVTJVck84aUdqcm5hRWVWZHFra2ZfOVFKbFpnWUtiMzhNTEo1X1ZZazdyRTN6RWF0RnAzdTNTNDFtcTQ2S0FCeUZySDNxOFI3OUlxODB4ZzNuVnZKXy11V01kTzJkNC1uODZjbmVQbzRKQmgwWGxwUjdlMDNxb9IB8gFBVV95cUxQQU5mSHB5MkNudndBT1EtaWVSR2xNZXM4UVF0LTdvQVVqc2U0U1lfTC12YU1jNjR2MkxnV0pwTDhnVVBhczFKcjBiZzNmaFBGSFdfTXZ5a3poVmdDQ1Q4UGVEUDBHbmN4aHgzeW5IWFhMNGcySU1nYVdwOWZIUDFtbWhsQ3BuNlhhVzhlcF8ydVRlVjZuSVp5ZHZSQ25tcTNhYy1ld3ludEF0cnJPRlc0S0I0cXJWWHFmVFFkUDlldC1iaVota2U2dFd3OGxiS1dubm1wQ2p3Y09uTDYyR3Uxa1ZxSFF4NERic04yWllJWDYzZw?oc=5",
-      "published": "2026-10-10T16:21:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -70,6 +70,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Goa-based alleged supplier held in Hyderabad drug case; police verify links of 25 Telangana residents - NewsMeter",
+      "description": "Goa-based alleged supplier held in Hyderabad drug case; police verify links of 25 Telangana residents NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWkzaDZBYklXV2FVZnlQMmR6QnJMNFIya1ZObVk5ZjV4cUJHZE1CaWtVNVYwMUlka3RWS1pBak5RUlA2OVhITmRQcXh6cl9fVVU3X3B0TEdHUWpnNlBySlV2NTdjdjRDeWdvUkFoYU1rdTc5bTdCdTJxVTlxWEpRdDE0R09RU3NuU2ZFV21sQlhaOEZEZWxuN2ZVYmRWYWZ2Y1VRbWRCSGxWZmhNUUQ1UjlNay1CRkItNTNiMzhIRGRjQTN2aXBrN0VqWXg3cTg?oc=5",
+      "published": "2026-10-11T12:30:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Supply Chain",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "EAGLE Force apprehends suspected drug supplier in Goa with help from Goa Police - Telangana Today",
