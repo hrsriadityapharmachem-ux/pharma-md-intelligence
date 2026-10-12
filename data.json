@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T05:41:24.042261+00:00",
-  "article_count": 3,
+  "updated": "2026-10-12T06:53:06.138484+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -42,19 +42,23 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "Indian pharma leaders seek faster trials, state-backed market for new drugs - Business Today",
-      "description": "Indian pharma leaders seek faster trials, state-backed market for new drugs Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRFR3enR3cFpYbkF1Q3ZCTUVBYngweTV5Y0dlUmN4Y0pyZ0t2QjRycEN0ZWFGSHpTa3RRaVJ1Y21yREo4RGtaUUd6MzhDUk90aVI4NHU5SVVWNEpRTG1tOGNPUVJhYmJ4LThYR0ZWME96ekx1VEc0MzhUVWhlalhjVnRvU0ZvU0dYeWZIUFpPSEp0aURGMHlTRjEtUmFCRHVPcjVlei1aR1gxM3llcnRoT3ZjS3FpQVpCdzdNaDg4WnJsdmd4ZHgyNkNDZUotT1MteEtTbWxkVC1lXzjSAeABQVVfeXFMTTF0b2NNaEd3NnBidFJwbDdUOGplbHhGanJueXpRNXpBRTFWcUo5bjFPa2x6cDQ3UkM1SDR4UEtOZ0RpWTVhaGRJNzJ3MmZnOVF4YS1oUExzQjJoMmIyaFc1US1xdW1JOXhRMGN4MGRIc2xVdE0wZldqOFdMZnhuTWRXWUZZYWdiZ3hPdnZSeDVwZFB5QzI5dXNMMjc3eFczQ0ptLUt2Zl84bmhoSm4wTmhBNC1QNzV5U1R1OXJUclVQa0tJSllyc3pqSUpXQ21kbGhDUnhxVTJsODZBWVBjQTk?oc=5",
-      "published": "2026-10-11T15:14:13+00:00",
+      "category": "Hyderabad",
+      "title": "Aragen Life Sciences to Commence Operations at Hyderabad’s Integrated High-Potency Platform, OneHP - Chemical Industry Digest",
+      "description": "Aragen Life Sciences to Commence Operations at Hyderabad’s Integrated High-Potency Platform, OneHP Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM25oLVY2R2VIM2kyN2dIVmJudXdKak5ERl9lVVpLVFVYSHZNMlNvOVVQYjVKZjBmaVJ5bThOVUxBSlNlSDZWandwQXg2OVJlZDVicHFhSXVHRFRUR092YWdxQUZOb3M2SkQ3UFRBRVNXbDFKeDFxYmxLX0Jpa2F3UzdkMVhQaUs2SkNnTlBxSW1aVVdqd0JDOTNlakw5bDNqNGZ0bzNPeGNwUG9vWDRXbGpTV0h0OWJWTWJLTXMybw?oc=5",
+      "published": "2026-10-12T06:28:24+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Exports / Markets",
+      "business_area": "Specialty Chemicals",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
+      "companies": [
+        "Aragen Life Sciences",
+        "OneHP - Chemical Industry Digest Aragen Life Sciences",
+        "OneHP Chemical"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -70,6 +74,44 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Aragen Life Sciences to Commence Operations at Hyderabad’s Integrated High-Potency Platform, OneHP - Chemical Industry Digest",
+      "description": "Aragen Life Sciences to Commence Operations at Hyderabad’s Integrated High-Potency Platform, OneHP Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM25oLVY2R2VIM2kyN2dIVmJudXdKak5ERl9lVVpLVFVYSHZNMlNvOVVQYjVKZjBmaVJ5bThOVUxBSlNlSDZWandwQXg2OVJlZDVicHFhSXVHRFRUR092YWdxQUZOb3M2SkQ3UFRBRVNXbDFKeDFxYmxLX0Jpa2F3UzdkMVhQaUs2SkNnTlBxSW1aVVdqd0JDOTNlakw5bDNqNGZ0bzNPeGNwUG9vWDRXbGpTV0h0OWJWTWJLTXMybw?oc=5",
+      "published": "2026-10-12T06:28:24+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Specialty Chemicals",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Aragen Life Sciences",
+        "OneHP - Chemical Industry Digest Aragen Life Sciences",
+        "OneHP Chemical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "No love for the middle: CPHI Milan exposes India’s pharma scaling challenge - The Economic Times",
+      "description": "No love for the middle: CPHI Milan exposes India’s pharma scaling challenge The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzN4VkhueThIdlh0aERiblVkMmlQODdmZjNvN0s3Q3huVUZydnNnWDU2eG9IZzlJR0NESnFlNnYtTTI5MEdfTktNVkw3SURjY19IbmNhZTBma1JxcHQ1bE14dHg5M3l3SFBlN2Q5cGd0dkljTGRxdFlZcHdPb09hTFNWcll1dFNrOXZfUmFhSG01Vks3cFhwZzVuV2I2NDZ3ZkVZZ284VVJyRHZpbWRYRlg4dHN2cXJPNTFtV0wyV21ZUHZZSEY5T2FraGpHdy01NWF0T1BqcmJYcXU2a3hhZDBhdm1YZklFR2NUWTg3M2RRd9IB9wFBVV95cUxPMWo4dDRmMTJNdEhyQjBnSWpYX2l5ZFVwZWRkZm0zT3pOMjRQc2tlcjRGMmNuY3NkSGZwdy1PcUppMVYyaTg0VFZKZ0R6cjBNTWFzbl9feUM3SlZPQUFJWkRnVXl5S1lMdUw5RXoyeE5rdVM2aTJhNS1YbTI2d25mS3RSZHgtZGUwZlJKS3pLWF9qcFJXcVlaNVVNN3VQREJFcy1HWTFMT0ZjcHBZTXJmX01RY0ZTdEFrS0kzdURFVjh1aExDX0JjMWNid0lHb2xjZjd0czIzaGItTkwtb1RaQXoxb1JjemozYXE0ajhjMDVDUnE2c3pn?oc=5",
+      "published": "2026-10-12T06:20:46+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Indian pharma leaders seek faster trials, state-backed market for new drugs - Business Today",
