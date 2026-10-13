@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T11:41:31.539818+00:00",
-  "article_count": 3,
+  "updated": "2026-10-13T12:52:11.792143+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -47,21 +47,18 @@
     },
     {
       "category": "Global",
-      "title": "10 Pharma CEOs Shaping the Industry’s Next Era - Contract Pharma",
-      "description": "10 Pharma CEOs Shaping the Industry’s Next Era Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEp6cF9Ub2ZydHBNMGF3TDNxS2RUdjJFSHJ3cjBOTzFlTUE5M2xlaWNPcGl5NUl0TTEwMk9BRE1QUng4cTI3SVREaFVvMHo2c0lJSTFQUmZQWjlVd2NpMU9XbUdqNkRCVTE2RnJhaURIdXNvOGxsX3ZaRW5IeU1ld0oyaHRKYlN6TlpKTWcyckVyUQ?oc=5",
-      "published": "2026-10-12T17:47:01+00:00",
+      "title": "Generic API Contract Manufacturing Market (2026 - 2033) - Grand View Research",
+      "description": "Generic API Contract Manufacturing Market (2026 - 2033) Grand View Research",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcThDb09Qc09SX0Vpb3IwcmdjRE5Za2UwbXFnWmpia3JOX1d0MGJOSE9iRXhTcmxKbWtvTUFBNFdmcjhiNGVYMlN3Q1Q0eFd5V1M5N3VFQzNYVVZiYlIzNllMM3c1TWNWc3VVUGgyaHVEN2pGSk9KQlQ5RjhseWVULWVuM3lrM0Z5LW5fX2JwX3daYm5pSWQxLXo0cnRVVGNfemc?oc=5",
+      "published": "2026-10-13T06:08:54+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "API / Intermediates",
+      "business_area": "CDMO / Contract Manufacturing",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Next Era - Contract Pharma",
-        "Next Era Contract Pharma"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": []
     }
@@ -77,6 +74,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "India must shift pharma industry from generics to innovation-led growth: Kiran Mazumdar-Shaw - ANI News",
+      "description": "India must shift pharma industry from generics to innovation-led growth: Kiran Mazumdar-Shaw ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMEZjTHZaMThhQ1pkSWdkZ21YZDZULTFVbjlPNnpJbzlkenA2ekc1TEVHaDhlMGtaaFMwZXlqanRpUmhWUDZtZVQybDZHcHdlb3R4bnhGTF9aLW0wUlFYYmpncXVPcHJudEtsekpaTEtDUHp3elJzLW90cWU2cE9VRGZWZDdnVmJpVlVHUUM5ME8tNk5tRUpmMXd2OTkxeWFjWDNfTEwzVVdjMUphY242Um9XYlpsZm5XVEtrS1pZU2hYZF8yMERGQzBWRnpKSVViQ0thOVJFcHZaUQ?oc=5",
+      "published": "2026-10-13T12:39:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Hyderabad: Chemical odours disrupt sleep as residents allege pollution violations - Hyderabad Mail",
@@ -112,6 +126,23 @@
         "Expands Global Pharmaceutical",
         "News Top Human APIs Manufacturer Shaoxing Hantai Pharmaceutical"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Generic API Contract Manufacturing Market (2026 - 2033) - Grand View Research",
+      "description": "Generic API Contract Manufacturing Market (2026 - 2033) Grand View Research",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcThDb09Qc09SX0Vpb3IwcmdjRE5Za2UwbXFnWmpia3JOX1d0MGJOSE9iRXhTcmxKbWtvTUFBNFdmcjhiNGVYMlN3Q1Q0eFd5V1M5N3VFQzNYVVZiYlIzNllMM3c1TWNWc3VVUGgyaHVEN2pGSk9KQlQ5RjhseWVULWVuM3lrM0Z5LW5fX2JwX3daYm5pSWQxLXo0cnRVVGNfemc?oc=5",
+      "published": "2026-10-13T06:08:54+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
