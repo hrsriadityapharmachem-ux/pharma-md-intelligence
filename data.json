@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T16:42:48.880511+00:00",
-  "article_count": 5,
+  "updated": "2026-10-13T17:40:25.646889+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -74,6 +74,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Chinese Government Targets 25% of Global First-in-Class Drugs by 2030 - 조선일보",
+      "description": "Chinese Government Targets 25% of Global First-in-Class Drugs by 2030 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcE9abV95X2RoZVEyQUY4M0M1YlZkTnRFOUhubHE2eGVyMVV6VXkyOFRDeUNvUnJ1YmZiRmVlanRWUlRDVVZKOXhvRGxTTGl4OFVJV2RQU1c2ZVZ2U1VBVFo4VldZdzY0UDFTY0k4QlQ2V0psTnVPSGwxWTZlZXRyR2owZXd5QXFT?oc=5",
+      "published": "2026-10-13T16:14:54+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Biocon founder Kiran Mazumdar Shaw says India must shift pharma industry from generics to innovation-led g - The Economic Times",
