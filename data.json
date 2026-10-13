@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:42:14.722875+00:00",
+  "updated": "2026-10-13T10:43:00.338322+00:00",
   "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -7,6 +7,23 @@
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Hyderabad",
+      "title": "Hyderabad: Chemical odours disrupt sleep as residents allege pollution violations - Hyderabad Mail",
+      "description": "Hyderabad: Chemical odours disrupt sleep as residents allege pollution violations Hyderabad Mail",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekRwWHhyUDllRGtSWFNxdTVYLWxKRkFPMEkyZ3g5Mk5IMXJPNmNubnctUWlpTkVLRmFVcmRLM19hcnlSZ3JYajdQLWNMN3JkOEtDdjQ4UWYyWXl1NXZKa19ZN3lUYXRwVE9UeDFMU21ULUE5QnV2MEliX04wQjdyU3g2dXlCT1JPcm1v?oc=5",
+      "published": "2026-10-13T07:49:52+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Top Human APIs Manufacturer Shaoxing Hantai Pharmaceutical Expands Global Pharmaceutical Supply - EIN News",
@@ -45,23 +62,6 @@
         "Next Era - Contract Pharma",
         "Next Era Contract Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "One year after MFN: How US policy is reshaping the global pharma model - pharmaphorum",
-      "description": "One year after MFN: How US policy is reshaping the global pharma model pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGpHQXZiNkdheG1fcnc0SHdKaktrckg3OThVWDZ0M1lhMVZDY3pjbWxfVG11UHBxVmVRX1FYbWxlSnhMd0FzY2E2bXFYamZkTTZXTlVjWnZ3TEtHeDR6RFcyTHU1WTdJbnM2YlR5SHR3UFVsbm12TEVkaGk3aXBxRlZoWTFOS0VHUHl2am5SckFaeVpYVGdrYXl3U1h4bk5wUFJF?oc=5",
-      "published": "2026-10-12T10:31:18+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
@@ -78,6 +78,23 @@
   },
   "articles": [
     {
+      "category": "Hyderabad",
+      "title": "Hyderabad: Chemical odours disrupt sleep as residents allege pollution violations - Hyderabad Mail",
+      "description": "Hyderabad: Chemical odours disrupt sleep as residents allege pollution violations Hyderabad Mail",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekRwWHhyUDllRGtSWFNxdTVYLWxKRkFPMEkyZ3g5Mk5IMXJPNmNubnctUWlpTkVLRmFVcmRLM19hcnlSZ3JYajdQLWNMN3JkOEtDdjQ4UWYyWXl1NXZKa19ZN3lUYXRwVE9UeDFMU21ULUE5QnV2MEliX04wQjdyU3g2dXlCT1JPcm1v?oc=5",
+      "published": "2026-10-13T07:49:52+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Top Human APIs Manufacturer Shaoxing Hantai Pharmaceutical Expands Global Pharmaceutical Supply - EIN News",
       "description": "Top Human APIs Manufacturer Shaoxing Hantai Pharmaceutical Expands Global Pharmaceutical Supply EIN News",
@@ -115,23 +132,6 @@
         "Next Era - Contract Pharma",
         "Next Era Contract Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "One year after MFN: How US policy is reshaping the global pharma model - pharmaphorum",
-      "description": "One year after MFN: How US policy is reshaping the global pharma model pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGpHQXZiNkdheG1fcnc0SHdKaktrckg3OThVWDZ0M1lhMVZDY3pjbWxfVG11UHBxVmVRX1FYbWxlSnhMd0FzY2E2bXFYamZkTTZXTlVjWnZ3TEtHeDR6RFcyTHU1WTdJbnM2YlR5SHR3UFVsbm12TEVkaGk3aXBxRlZoWTFOS0VHUHl2am5SckFaeVpYVGdrYXl3U1h4bk5wUFJF?oc=5",
-      "published": "2026-10-12T10:31:18+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
