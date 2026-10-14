@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T03:56:09.221975+00:00",
-  "article_count": 5,
+  "updated": "2026-10-14T04:56:13.400416+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -74,6 +74,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "From pharma freebies to drug prices, India needs enforceable regulation - Business Standard",
+      "description": "From pharma freebies to drug prices, India needs enforceable regulation Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUxhNGlVLTFMT2xtOXNUUWZpbkw0UXdLcFVGcEhyQXRSckxZdXc4QzZzVmVhRjhyVHdQQTVENDBBVWlwZjRGeWtGaTlGS3A0bTR4WmlIdkNkUEhOUlZFazVyMUIzMkN1dXRwOEZTRXdVTExIaXRueFlveGV0dWd1TDEwanZsdXdvdlNjeG83YmJQbThtSEVIU3FfMDQ0RjQ2SHdnRkVDeVd2ZHZIQ1E5eG10bnVvazdud2xsRGRCUk5GUjNvdy1pRFBHdm1ycndx?oc=5",
+      "published": "2026-10-14T03:35:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "India’s Pharma Exports To Reach US$ 50 Bn By ’30 - https://www.fintechbiznews.com/",
