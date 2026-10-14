@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:50:33.872542+00:00",
+  "updated": "2026-10-14T02:52:29.909370+00:00",
   "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -75,21 +75,23 @@
   },
   "articles": [
     {
-      "category": "Global",
-      "title": "Chinese Government Targets 25% of Global First-in-Class Drugs by 2030 - 조선일보",
-      "description": "Chinese Government Targets 25% of Global First-in-Class Drugs by 2030 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcE9abV95X2RoZVEyQUY4M0M1YlZkTnRFOUhubHE2eGVyMVV6VXkyOFRDeUNvUnJ1YmZiRmVlanRWUlRDVVZKOXhvRGxTTGl4OFVJV2RQU1c2ZVZ2U1VBVFo4VldZdzY0UDFTY0k4QlQ2V0psTnVPSGwxWTZlZXRyR2owZXd5QXFT?oc=5",
-      "published": "2026-10-13T17:11:41+00:00",
+      "category": "India",
+      "title": "India’s Pharma Exports To Reach US$ 50 Bn By ’30 - https://www.fintechbiznews.com/",
+      "description": "India’s Pharma Exports To Reach US$ 50 Bn By ’30 https://www.fintechbiznews.com/",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzZ6cnZaS0RaWlV5Uk9EZ2tQMGEwNi1GVDUzYWxjLXozbmVuZFRyQkE1YVRvMjdVYzk2WGhoR3RZZG1RTG9wdWF6OGpvV21Ua0M4a0hfT3gyelY3dUxjakl2a3ZmRTUzaWtYb1o5TmQwQV9vTUhOdmpFSUlOeGdSbndYWVdxWkU0R1lBZXFVQ0NQdnBaN3NDYl92MEJhdmUwOWZLR2VLWlV2NVd1UnJFUUZYTQ?oc=5",
+      "published": "2026-10-13T18:16:57+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Exports / Markets",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
       "project_signals": [],
-      "numbers": []
+      "numbers": [
+        "50 bn"
+      ]
     },
     {
       "category": "India",
