@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-14T16:00:08.414103+00:00",
-  "article_count": 4,
+  "updated": "2026-10-14T16:58:25.700182+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
-  "risk_count": 0,
+  "risk_count": 1,
   "watch_count": 0,
-  "high_priority_count": 0,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter - Coalition For A Prosperous America",
+      "description": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter Coalition For A Prosperous America",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHhJbDBEcnJMM2hwM1lnaVV6TWp2NkVWbEhvZ2NlZXVMcEtqU3pDaTl0alJ3Q0xxSjY0QUdrTzFSc1NweVB0dU0xSkx1N2R2NDd0SXJZYlR5bHFUWldLQkZwWGdjd1NPWVpOaUIxem9HNjRpYXA0cElmcUlvZUx3RXFoZVB5aXNhVUdoMUhzb3cwM3pnSEk2TFF3MUtmbV9MQWZMcFRldW43QU1COUJzQ25ZRGhfYUJEVk1aZEFNa1c0dFJKYWxUdWtsSEJmSGcw?oc=5",
+      "published": "2026-10-14T16:38:55+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
+      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Weight Loss Injectable Exported by India Pharma",
+        "America Weight Loss Injectable Exported by India Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP - scanx.trade",
@@ -45,23 +65,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "From pharma freebies to drug prices, India needs enforceable regulation - Business Standard",
-      "description": "From pharma freebies to drug prices, India needs enforceable regulation Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUxhNGlVLTFMT2xtOXNUUWZpbkw0UXdLcFVGcEhyQXRSckxZdXc4QzZzVmVhRjhyVHdQQTVENDBBVWlwZjRGeWtGaTlGS3A0bTR4WmlIdkNkUEhOUlZFazVyMUIzMkN1dXRwOEZTRXdVTExIaXRueFlveGV0dWd1TDEwanZsdXdvdlNjeG83YmJQbThtSEVIU3FfMDQ0RjQ2SHdnRkVDeVd2ZHZIQ1E5eG10bnVvazdud2xsRGRCUk5GUjNvdy1pRFBHdm1ycndx?oc=5",
-      "published": "2026-10-14T03:35:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -70,11 +73,31 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 0,
+    "Regulatory": 1,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter - Coalition For A Prosperous America",
+      "description": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter Coalition For A Prosperous America",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHhJbDBEcnJMM2hwM1lnaVV6TWp2NkVWbEhvZ2NlZXVMcEtqU3pDaTl0alJ3Q0xxSjY0QUdrTzFSc1NweVB0dU0xSkx1N2R2NDd0SXJZYlR5bHFUWldLQkZwWGdjd1NPWVpOaUIxem9HNjRpYXA0cElmcUlvZUx3RXFoZVB5aXNhVUdoMUhzb3cwM3pnSEk2TFF3MUtmbV9MQWZMcFRldW43QU1COUJzQ25ZRGhfYUJEVk1aZEFNa1c0dFJKYWxUdWtsSEJmSGcw?oc=5",
+      "published": "2026-10-14T16:38:55+00:00",
+      "source": "Google News RSS",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
+      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Weight Loss Injectable Exported by India Pharma",
+        "America Weight Loss Injectable Exported by India Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "India Pharma 2047: Becoming an innovation powerhouse - EY",
