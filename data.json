@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-14T19:55:09.424469+00:00",
-  "article_count": 4,
+  "updated": "2026-10-14T20:54:22.581157+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 0,
-  "high_priority_count": 1,
+  "watch_count": 1,
+  "high_priority_count": 2,
   "successful_feeds": 13,
   "must_know": [
     {
@@ -28,6 +28,29 @@
       "numbers": []
     },
     {
+      "category": "Hyderabad",
+      "title": "Laurus Labs invests $11.3 million in KRKA Pharma JV - The Times of India",
+      "description": "Laurus Labs invests $11.3 million in KRKA Pharma JV The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSl9Zc2NhMHJURldYZlpuTm1KcEU3d2dTdUlja0hhSUhabDVBUS1Fb2V1SUhQeG42TVJ3ZU13dXluYmQwU3V2SnF3VEVIVFRmWFd3V3huOXNXYWFWZ1BYbERUNG5SV1JvR3J4UVNXY3BuQmM3a19GYk9BTkQ0YXZuS2VwMVF5NGw0bkIwdW82ZGlCejh3RHdmeEpXVDM5SThOSnZPUldOeGVzRHNMSFgyaVUyeHM2Q0hyXzY4NmtTN29USDRNSGlwcFF4WdIBywFBVV95cUxPSl9Zc2NhMHJURldYZlpuTm1KcEU3d2dTdUlja0hhSUhabDVBUS1Fb2V1SUhQeG42TVJ3ZU13dXluYmQwU3V2SnF3VEVIVFRmWFd3V3huOXNXYWFWZ1BYbERUNG5SV1JvR3J4UVNXY3BuQmM3a19GYk9BTkQ0YXZuS2VwMVF5NGw0bkIwdW82ZGlCejh3RHdmeEpXVDM5SThOSnZPUldOeGVzRHNMSFgyaVUyeHM2Q0hyXzY4NmtTN29USDRNSGlwcFF4WQ?oc=5",
+      "published": "2026-10-14T17:42:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Laurus Labs",
+        "KRKA Pharma JV - The Times of India Laurus Labs",
+        "KRKA Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "11.3 million"
+      ]
+    },
+    {
       "category": "Global",
       "title": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP - scanx.trade",
       "description": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP scanx.trade",
@@ -46,25 +69,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India Pharma 2047: Becoming an innovation powerhouse - EY",
-      "description": "India Pharma 2047: Becoming an innovation powerhouse EY",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2NnLUEtbmlzVm90NlVzN1VpSmJXQXdMWGx6RXBCTWdhWmdDYmFick0zU09pa0VYZnRPZWZReUp5TVcxemZUNVVNeUVpMEI1TElvZHE2R0lkcHNvZjhiRGRKVWxKQy1HWmJaUV9GOVJjbGpOaHVaT01zT3RVcmI2VlBXZDZ5TXFRSXpxUUhpV3A1SWpWOEN3?oc=5",
-      "published": "2026-10-14T06:08:47+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Becoming an innovation powerhouse - EY India Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -78,6 +82,29 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Laurus Labs invests $11.3 million in KRKA Pharma JV - The Times of India",
+      "description": "Laurus Labs invests $11.3 million in KRKA Pharma JV The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSl9Zc2NhMHJURldYZlpuTm1KcEU3d2dTdUlja0hhSUhabDVBUS1Fb2V1SUhQeG42TVJ3ZU13dXluYmQwU3V2SnF3VEVIVFRmWFd3V3huOXNXYWFWZ1BYbERUNG5SV1JvR3J4UVNXY3BuQmM3a19GYk9BTkQ0YXZuS2VwMVF5NGw0bkIwdW82ZGlCejh3RHdmeEpXVDM5SThOSnZPUldOeGVzRHNMSFgyaVUyeHM2Q0hyXzY4NmtTN29USDRNSGlwcFF4WdIBywFBVV95cUxPSl9Zc2NhMHJURldYZlpuTm1KcEU3d2dTdUlja0hhSUhabDVBUS1Fb2V1SUhQeG42TVJ3ZU13dXluYmQwU3V2SnF3VEVIVFRmWFd3V3huOXNXYWFWZ1BYbERUNG5SV1JvR3J4UVNXY3BuQmM3a19GYk9BTkQ0YXZuS2VwMVF5NGw0bkIwdW82ZGlCejh3RHdmeEpXVDM5SThOSnZPUldOeGVzRHNMSFgyaVUyeHM2Q0hyXzY4NmtTN29USDRNSGlwcFF4WQ?oc=5",
+      "published": "2026-10-14T17:42:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Laurus Labs",
+        "KRKA Pharma JV - The Times of India Laurus Labs",
+        "KRKA Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "11.3 million"
+      ]
+    },
     {
       "category": "India",
       "title": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter - Coalition For A Prosperous America",
