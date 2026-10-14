@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-14T14:56:40.484884+00:00",
-  "article_count": 3,
+  "updated": "2026-10-14T16:00:08.414103+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP - scanx.trade",
+      "description": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVlxUnpoaG5QM0FDMHlEaFlNVHNsVlFTZFpVcEUzVHNLaG0yOVhaX2g3RXhxN3loSjFVcGlucU5remRmRGluSVJTUldTNk1kbnVyT1FVTWgzaEwxUFlqMjdGOFE5Zm1Ob0FSLWdHZHhRWWV0bm9MeUduNjVleGJqYXA3UXZ2cGJUOVhveDlRVXZGVTdaVGZnTUlLS0Y4YXVfX0RSanhlcjYxYllCVGFtbUJvODFpTkEweWgxYnJOQks2bEpmRGlaaVFHd3lXaUFIZmFKLU1YWjNkYzNyUUFyaExEbENWNzYwVWRuUXM3aDNaUQ?oc=5",
+      "published": "2026-10-13T22:06:13+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Anuh Pharma",
+        "Amodiaquine Hydrochloride USP - scanx.trade Anuh Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "India Pharma 2047: Becoming an innovation powerhouse - EY",
@@ -42,25 +62,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India’s Pharma Exports To Reach US$ 50 Bn By ’30 - https://www.fintechbiznews.com/",
-      "description": "India’s Pharma Exports To Reach US$ 50 Bn By ’30 https://www.fintechbiznews.com/",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzZ6cnZaS0RaWlV5Uk9EZ2tQMGEwNi1GVDUzYWxjLXozbmVuZFRyQkE1YVRvMjdVYzk2WGhoR3RZZG1RTG9wdWF6OGpvV21Ua0M4a0hfT3gyelY3dUxjakl2a3ZmRTUzaWtYb1o5TmQwQV9vTUhOdmpFSUlOeGdSbndYWVdxWkU0R1lBZXFVQ0NQdnBaN3NDYl92MEJhdmUwOWZLR2VLWlV2NVd1UnJFUUZYTQ?oc=5",
-      "published": "2026-10-13T18:16:57+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "50 bn"
-      ]
     }
   ],
   "business_signals": {
@@ -107,6 +108,26 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP - scanx.trade",
+      "description": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVlxUnpoaG5QM0FDMHlEaFlNVHNsVlFTZFpVcEUzVHNLaG0yOVhaX2g3RXhxN3loSjFVcGlucU5remRmRGluSVJTUldTNk1kbnVyT1FVTWgzaEwxUFlqMjdGOFE5Zm1Ob0FSLWdHZHhRWWV0bm9MeUduNjVleGJqYXA3UXZ2cGJUOVhveDlRVXZGVTdaVGZnTUlLS0Y4YXVfX0RSanhlcjYxYllCVGFtbUJvODFpTkEweWgxYnJOQks2bEpmRGlaaVFHd3lXaUFIZmFKLU1YWjNkYzNyUUFyaExEbENWNzYwVWRuUXM3aDNaUQ?oc=5",
+      "published": "2026-10-13T22:06:13+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Anuh Pharma",
+        "Amodiaquine Hydrochloride USP - scanx.trade Anuh Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
