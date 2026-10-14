@@ -1,32 +1,12 @@
 {
-  "updated": "2026-10-14T21:53:44.670993+00:00",
-  "article_count": 5,
+  "updated": "2026-10-14T22:50:29.050824+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
-  "risk_count": 1,
+  "risk_count": 0,
   "watch_count": 1,
-  "high_priority_count": 2,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter - Coalition For A Prosperous America",
-      "description": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter Coalition For A Prosperous America",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHhJbDBEcnJMM2hwM1lnaVV6TWp2NkVWbEhvZ2NlZXVMcEtqU3pDaTl0alJ3Q0xxSjY0QUdrTzFSc1NweVB0dU0xSkx1N2R2NDd0SXJZYlR5bHFUWldLQkZwWGdjd1NPWVpOaUIxem9HNjRpYXA0cElmcUlvZUx3RXFoZVB5aXNhVUdoMUhzb3cwM3pnSEk2TFF3MUtmbV9MQWZMcFRldW43QU1COUJzQ25ZRGhfYUJEVk1aZEFNa1c0dFJKYWxUdWtsSEJmSGcw?oc=5",
-      "published": "2026-10-14T16:38:55+00:00",
-      "source": "Google News RSS",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
-      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Weight Loss Injectable Exported by India Pharma",
-        "America Weight Loss Injectable Exported by India Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
     {
       "category": "Hyderabad",
       "title": "Laurus Labs invests $11.3 million in KRKA Pharma JV - The Times of India",
@@ -51,21 +31,37 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP - scanx.trade",
-      "description": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVlxUnpoaG5QM0FDMHlEaFlNVHNsVlFTZFpVcEUzVHNLaG0yOVhaX2g3RXhxN3loSjFVcGlucU5remRmRGluSVJTUldTNk1kbnVyT1FVTWgzaEwxUFlqMjdGOFE5Zm1Ob0FSLWdHZHhRWWV0bm9MeUduNjVleGJqYXA3UXZ2cGJUOVhveDlRVXZGVTdaVGZnTUlLS0Y4YXVfX0RSanhlcjYxYllCVGFtbUJvODFpTkEweWgxYnJOQks2bEpmRGlaaVFHd3lXaUFIZmFKLU1YWjNkYzNyUUFyaExEbENWNzYwVWRuUXM3aDNaUQ?oc=5",
-      "published": "2026-10-13T22:06:13+00:00",
+      "category": "India",
+      "title": "FDA Warns Online Sellers Over Unapproved Semaglutide Injections Marketed Under Indian Drugmakers' Brands - Coalition For A Prosperous America",
+      "description": "FDA Warns Online Sellers Over Unapproved Semaglutide Injections Marketed Under Indian Drugmakers' Brands Coalition For A Prosperous America",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcll5WXZTc3NQbGFucVk4UjRPY2cyRVBiYk5EVVJZNFMtY09TY3ZzVU5RZmQzbmZRMGctM0dsVzZ2dGZjMW9Qc3pkTGVyWnlVTmNTRUY5bWVwMWNZWDk0VzlsWlRsenJuN1VBN1gxUEZCdS11c2RJVFNPVVpaMENkb2tmOURwX1ZUanlUYzBpZDcxdlpFcXhNNWdGaDZTX0hobEk0bDM2U2dhY0JBX3dvMk1pcUdqQkVQX2Fvc25BdE1zSWFaQ0tOMVFjVi1ZMmc?oc=5",
+      "published": "2026-10-14T16:38:55+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "API / Intermediates",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India Pharma 2047: Becoming an innovation powerhouse - EY",
+      "description": "India Pharma 2047: Becoming an innovation powerhouse EY",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2NnLUEtbmlzVm90NlVzN1VpSmJXQXdMWGx6RXBCTWdhWmdDYmFick0zU09pa0VYZnRPZWZReUp5TVcxemZUNVVNeUVpMEI1TElvZHE2R0lkcHNvZjhiRGRKVWxKQy1HWmJaUV9GOVJjbGpOaHVaT01zT3RVcmI2VlBXZDZ5TXFRSXpxUUhpV3A1SWpWOEN3?oc=5",
+      "published": "2026-10-14T06:08:47+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Anuh Pharma",
-        "Amodiaquine Hydrochloride USP - scanx.trade Anuh Pharma"
+        "Becoming an innovation powerhouse - EY India Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -77,7 +73,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 1,
+    "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
@@ -107,21 +103,18 @@
     },
     {
       "category": "India",
-      "title": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter - Coalition For A Prosperous America",
-      "description": "Weight Loss Injectable Exported by India Pharma Giants Zydus and Lupin Get Flagged in FDA Warning Letter Coalition For A Prosperous America",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHhJbDBEcnJMM2hwM1lnaVV6TWp2NkVWbEhvZ2NlZXVMcEtqU3pDaTl0alJ3Q0xxSjY0QUdrTzFSc1NweVB0dU0xSkx1N2R2NDd0SXJZYlR5bHFUWldLQkZwWGdjd1NPWVpOaUIxem9HNjRpYXA0cElmcUlvZUx3RXFoZVB5aXNhVUdoMUhzb3cwM3pnSEk2TFF3MUtmbV9MQWZMcFRldW43QU1COUJzQ25ZRGhfYUJEVk1aZEFNa1c0dFJKYWxUdWtsSEJmSGcw?oc=5",
+      "title": "FDA Warns Online Sellers Over Unapproved Semaglutide Injections Marketed Under Indian Drugmakers' Brands - Coalition For A Prosperous America",
+      "description": "FDA Warns Online Sellers Over Unapproved Semaglutide Injections Marketed Under Indian Drugmakers' Brands Coalition For A Prosperous America",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcll5WXZTc3NQbGFucVk4UjRPY2cyRVBiYk5EVVJZNFMtY09TY3ZzVU5RZmQzbmZRMGctM0dsVzZ2dGZjMW9Qc3pkTGVyWnlVTmNTRUY5bWVwMWNZWDk0VzlsWlRsenJuN1VBN1gxUEZCdS11c2RJVFNPVVpaMENkb2tmOURwX1ZUanlUYzBpZDcxdlpFcXhNNWdGaDZTX0hobEk0bDM2U2dhY0JBX3dvMk1pcUdqQkVQX2Fvc25BdE1zSWFaQ0tOMVFjVi1ZMmc?oc=5",
       "published": "2026-10-14T16:38:55+00:00",
       "source": "Google News RSS",
-      "signal": "Risk",
+      "signal": "General",
       "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Regulatory development may affect product approvals, compliance, manufacturing or exports.",
-      "why_it_matters": "Regulatory developments may affect approvals, compliance, manufacturing or exports.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Weight Loss Injectable Exported by India Pharma",
-        "America Weight Loss Injectable Exported by India Pharma"
-      ],
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
@@ -158,26 +151,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP - scanx.trade",
-      "description": "Anuh Pharma Gets WHO Prequalification for Anti-Malarial API Amodiaquine Hydrochloride USP scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVlxUnpoaG5QM0FDMHlEaFlNVHNsVlFTZFpVcEUzVHNLaG0yOVhaX2g3RXhxN3loSjFVcGlucU5remRmRGluSVJTUldTNk1kbnVyT1FVTWgzaEwxUFlqMjdGOFE5Zm1Ob0FSLWdHZHhRWWV0bm9MeUduNjVleGJqYXA3UXZ2cGJUOVhveDlRVXZGVTdaVGZnTUlLS0Y4YXVfX0RSanhlcjYxYllCVGFtbUJvODFpTkEweWgxYnJOQks2bEpmRGlaaVFHd3lXaUFIZmFKLU1YWjNkYzNyUUFyaExEbENWNzYwVWRuUXM3aDNaUQ?oc=5",
-      "published": "2026-10-13T22:06:13+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Anuh Pharma",
-        "Amodiaquine Hydrochloride USP - scanx.trade Anuh Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     }
