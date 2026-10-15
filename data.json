@@ -1,35 +1,12 @@
 {
-  "updated": "2026-10-15T16:58:21.630506+00:00",
-  "article_count": 8,
+  "updated": "2026-10-15T17:52:30.224943+00:00",
+  "article_count": 7,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 1,
+  "watch_count": 0,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "Hyderabad",
-      "title": "Laurus Labs invests $11.3 million in KRKA Pharma JV - The Times of India",
-      "description": "Laurus Labs invests $11.3 million in KRKA Pharma JV The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmdKWENrUWdLU0lnQ1FYYWlaN0g5NlVISmkxRzdFV1VlTGNocm9SOWprNF9jcGJvbXBGSUJkcmtMSF9mZUVYUzB2TXJnVWlXdXpPaF93U0NzOWNWODNFZUtRR2tiZTFtZVVqR1M0NzVsajdvY0pSSThKWmVmSlhsRzBUbDE3QnZnYzBQb1p3Ul9XR3FSZVpjOG40QUI2bUZkdl9Jb2phWjFSdWp3dmRiMGotQ1FUR0tfTDFXR2FJdjZ4TkVGQkHSAcsBQVVfeXFMT0pfWXNjYTByVEZXWGZabk5tSnBFN3dnU3VJY2tIYUlIWmw1QVEtRW9ldUlIUHhuNk1Sd2VNd3V5bmJkMFN1dkpxd1RFSFRUZlhXd1d4bjlzV2FhVmdQWGxEVDRuUldSb0dyeFFTV2NwbkJjN2tfRmJPQU5ENGF2bktlcDFReTRsNG5CMHVvNmRpQno4d0R3ZnhKV1QzOUk4Tkp2T1JXTnhlc0RzTEhYMmlVMnhzNkNIcl82ODZrUzdvVEg0TUhpcHBReFk?oc=5",
-      "published": "2026-10-14T17:42:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Laurus Labs",
-        "KRKA Pharma JV - The Times of India Laurus Labs",
-        "KRKA Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "11.3 million"
-      ]
-    },
     {
       "category": "India",
       "title": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation - Indian Pharma Post",
@@ -59,6 +36,23 @@
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names - Business Standard",
+      "description": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVJueWstVm1WTFQzYUh3VGNpQm5GLTBnTDBpV0lXMlNUZ2R2OGxGenFkbXJRLTJfVHhMU2txM0UwV2tlYm5OcGpYR2M5cVI5M0VBM1M2bkl3TjZ5SDlVTmIyV0x0NFZEaUNMU3J4RklBZ3pNOHNwVUZEanNsSElwWDQ2NHdmd1Y5dGI2LXZ5NWNHelVpSjRhLTVCVUd5cmhxdlM1ZG5RdXJQUElOS3VZUDFMNndkV3VmaEV0WUxNR2tXOUl0d0djLS11QnMydnNuTk5FclFRbXJOejDSAeABQVVfeXFMUGxiVThfTE96SUpXNnF1amN5d2RVZWZwMkpqMkJPeXRtcUYyUzlFbHhueV9Jcy04cUU2ZmF1VGJ1ZU9sM3EwN3hybnpNSHgyZlo4OU55MF8yaEhpb0daWHY2LXRSQUdtZElsampOVVRVaGc5WWhSMXdMcC1qYmxLYTN0VlNHenpOdy1QR0oyMy1QOTNGTEVpWm5TT2s1V0o1cjl0RWhiOWw0LU83dFUwdWpKcU9ZVzFMZUhnelVIQXl2c3VHNmxES1M2STRUVUJ0c1RPRnpaY2VveTV6VkFFS2o?oc=5",
+      "published": "2026-10-15T13:48:52+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
@@ -208,29 +202,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Laurus Labs invests $11.3 million in KRKA Pharma JV - The Times of India",
-      "description": "Laurus Labs invests $11.3 million in KRKA Pharma JV The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmdKWENrUWdLU0lnQ1FYYWlaN0g5NlVISmkxRzdFV1VlTGNocm9SOWprNF9jcGJvbXBGSUJkcmtMSF9mZUVYUzB2TXJnVWlXdXpPaF93U0NzOWNWODNFZUtRR2tiZTFtZVVqR1M0NzVsajdvY0pSSThKWmVmSlhsRzBUbDE3QnZnYzBQb1p3Ul9XR3FSZVpjOG40QUI2bUZkdl9Jb2phWjFSdWp3dmRiMGotQ1FUR0tfTDFXR2FJdjZ4TkVGQkHSAcsBQVVfeXFMT0pfWXNjYTByVEZXWGZabk5tSnBFN3dnU3VJY2tIYUlIWmw1QVEtRW9ldUlIUHhuNk1Sd2VNd3V5bmJkMFN1dkpxd1RFSFRUZlhXd1d4bjlzV2FhVmdQWGxEVDRuUldSb0dyeFFTV2NwbkJjN2tfRmJPQU5ENGF2bktlcDFReTRsNG5CMHVvNmRpQno4d0R3ZnhKV1QzOUk4Tkp2T1JXTnhlc0RzTEhYMmlVMnhzNkNIcl82ODZrUzdvVEg0TUhpcHBReFk?oc=5",
-      "published": "2026-10-14T17:42:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Laurus Labs",
-        "KRKA Pharma JV - The Times of India Laurus Labs",
-        "KRKA Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "11.3 million"
-      ]
     }
   ]
 }
