@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T09:56:34.991978+00:00",
-  "article_count": 5,
+  "updated": "2026-10-15T10:56:41.915383+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -96,6 +96,26 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "The Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Indian pharmaceutical market records 17.1% growth in September: Equirus Securities - Express Pharma",
+      "description": "Indian pharmaceutical market records 17.1% growth in September: Equirus Securities Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJVLVUwLWJQU3NVaUtVXzBZTXBqeVFTMi0ybmVzRDZUYXJrREpMaHBGZDdwVHl2WmJQbjMybV80dmZCTzBZZEtxLVRIZmFlY1BxaW9OR2tSRXBjREU3VjFYamc2WjZWZ24xbjRNRkxrWTlwd0V0QmFIazZmSGhnRzRfdVVON3dlZWE4WDZOVHJ0amlpMlpmeEZUUm5jUTVKQWhaaFdjWWFQWFJPWlBJ?oc=5",
+      "published": "2026-10-15T06:49:38+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Equirus Securities - Express Pharma",
+        "Equirus Securities Express Pharma"
       ],
       "project_signals": [],
       "numbers": []
