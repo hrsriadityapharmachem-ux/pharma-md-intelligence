@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T07:58:36.742269+00:00",
-  "article_count": 4,
+  "updated": "2026-10-15T08:59:14.939304+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -32,6 +32,26 @@
     },
     {
       "category": "India",
+      "title": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation - Indian Pharma Post",
+      "description": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWMxbXpfemJLYVJoZG9wWkc2VVprVml4LUZpSkFEczFlQk9WWk5QM0NLNDlzZ0QzT0FMWGtWRTJ3NVJCdUJNMTYwN25FbkNvajhRTW9MZkcxRXk3aTF2Sk5SMWRxcVZMZXdvZjVxeU1JZ3JtX0R3N3RCWGQwX3laSzVZTzJmWlhJczhuVy1ta1NOVGVWTkZKa1ozZHgyMFFsSF9iQ0YwNFBveFMyWGxGT2k5WjhvaHpZbGhFVmNYYnd6WllW?oc=5",
+      "published": "2026-10-15T04:53:37+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "CDMO transformation - Indian Pharma",
+        "CDMO transformation Indian Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
       "description": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bURIRzRXR3NvZ0l3MThoaUhRVjFnczVXYTd0dnRMeWlWMGJKcG5iWG44Qnd0OENfV3NST2tDNFFnbDYxMHo4cTJNNng1ZE9ENEJEcEp1RkxYSklLclZvNm1RcFFBdm1xUHUwaDhDX1FsblkxX090QQ?oc=5",
@@ -39,23 +59,6 @@
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "[Global Pharma Leadership Voices] Connecting Korean biotech innovation to the world through global partnerships - Korea Biomedical Review",
-      "description": "[Global Pharma Leadership Voices] Connecting Korean biotech innovation to the world through global partnerships Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GbmFZaTdrZFZRc0NTX2xPdXJHWnY2S2RlS1JKV2d3THl5WDVaYTRyLWdHd3ozakNQQ0hjVW56N3I4Xy1za2NOQzRtTW95QkFpZEh5ME1BbjFmMmFfbDVLakhyMG96NExwOFhvbWln0gFyQVVfeXFMTVpOY3VEdzNyMHdIMGlhV1RMeDBEVGI1ZG1qV2ZubmVRMTNaeW45QzlCMVhjOURhdXZvZjBhQ21IalpXaUIwVGJMS05FOUNxRFhqM1hDZU9ENGpDZmxvZy1UMEZiZWNQTVVoaTNUSF9UeEFR?oc=5",
-      "published": "2026-10-15T00:15:39+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
@@ -76,6 +79,45 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "FDA plans new framework for rare disease drug reviews - The Pharma Letter",
+      "description": "FDA plans new framework for rare disease drug reviews The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUhLS3FVT2JMdFZWMXVySGJDM2huaFZrdmIwMm5DOHUwNGxRR0ZRcUxSSGJLVGNqbU5wWlZyZ2M2eHdYdW81Z21nbHhJZXR1SmJhSk0zcHd6ekNHN3ZFbG5DU0dZelh5eVBGcUxSdzhyeXJzai1RZ1N3MV9XdXdld2NOYkxudWtSdjFSS2FZT2hYb3RXNnlZekZDYm83QQ?oc=5",
+      "published": "2026-10-15T08:56:31+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "The Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation - Indian Pharma Post",
+      "description": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWMxbXpfemJLYVJoZG9wWkc2VVprVml4LUZpSkFEczFlQk9WWk5QM0NLNDlzZ0QzT0FMWGtWRTJ3NVJCdUJNMTYwN25FbkNvajhRTW9MZkcxRXk3aTF2Sk5SMWRxcVZMZXdvZjVxeU1JZ3JtX0R3N3RCWGQwX3laSzVZTzJmWlhJczhuVy1ta1NOVGVWTkZKa1ozZHgyMFFsSF9iQ0YwNFBveFMyWGxGT2k5WjhvaHpZbGhFVmNYYnd6WllW?oc=5",
+      "published": "2026-10-15T04:53:37+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "CDMO transformation - Indian Pharma",
+        "CDMO transformation Indian Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
