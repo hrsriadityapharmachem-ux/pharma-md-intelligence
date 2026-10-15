@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T13:09:55.566711+00:00",
-  "article_count": 7,
+  "updated": "2026-10-15T14:02:22.255864+00:00",
+  "article_count": 9,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -79,6 +79,43 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names - Business Standard",
+      "description": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVJueWstVm1WTFQzYUh3VGNpQm5GLTBnTDBpV0lXMlNUZ2R2OGxGenFkbXJRLTJfVHhMU2txM0UwV2tlYm5OcGpYR2M5cVI5M0VBM1M2bkl3TjZ5SDlVTmIyV0x0NFZEaUNMU3J4RklBZ3pNOHNwVUZEanNsSElwWDQ2NHdmd1Y5dGI2LXZ5NWNHelVpSjRhLTVCVUd5cmhxdlM1ZG5RdXJQUElOS3VZUDFMNndkV3VmaEV0WUxNR2tXOUl0d0djLS11QnMydnNuTk5FclFRbXJOejDSAeABQVVfeXFMUGxiVThfTE96SUpXNnF1amN5d2RVZWZwMkpqMkJPeXRtcUYyUzlFbHhueV9Jcy04cUU2ZmF1VGJ1ZU9sM3EwN3hybnpNSHgyZlo4OU55MF8yaEhpb0daWHY2LXRSQUdtZElsampOVVRVaGc5WWhSMXdMcC1qYmxLYTN0VlNHenpOdy1QR0oyMy1QOTNGTEVpWm5TT2s1V0o1cjl0RWhiOWw0LU83dFUwdWpKcU9ZVzFMZUhnelVIQXl2c3VHNmxES1M2STRUVUJ0c1RPRnpaY2VveTV6VkFFS2o?oc=5",
+      "published": "2026-10-15T13:48:52+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Govt offers startups up to ₹50 cr for new drug discovery under pharma scheme - Livemint",
+      "description": "Govt offers startups up to ₹50 cr for new drug discovery under pharma scheme Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR3g1RDNWS2MtTExuVGwzWW5uSXhZWFpjZk96elZBUVVEZ2YzS1J2TGwwZ1lreDRWWk05NmJzVHpKS1NGNXdianFFdXdQYXJ2YV9vRFl4SWVpMDZsb2hCeHY5U3hpQkdaMDZFOVVudzlkME10cWNBQ0tXNG5oaGNiVXhJRWl4WW91aXJGVlBLamwyeGI5N2xpUW5zMlhiMXhBakRad0R4ekZHcXF4YWxkTndaenBTWHZ3YWNVYUFSZjBKZzjSAcgBQVVfeXFMTVFCMFNJRUtXYzVwNmZWZDJJb1ZvZnRWbTNmcmM1bEpJQ29zNWlUMjZuUko2WTdrQ0txcDZEOGhrWmZSekRiZ2tDdjVjRjZMNFJjNHZFd0laT0dKLTF2RHpRSldza0FoUFFlSVY3eDEwekEyZTNWYXVqcnVuUGgzUlZYYUs1RFl2T2hKWW1XWXNHS1ZSTEZGZkZlazRkQzVuQy1BeXRWSjIwRUxjOGQtSWFESHNySk5OZEt4TWJMbWlrTmFpTXl3UGY?oc=5",
+      "published": "2026-10-15T13:26:37+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "₹50 cr",
+        "50 cr"
+      ]
+    },
     {
       "category": "Global",
       "title": "FDA plans new framework for rare disease drug reviews - The Pharma Letter",
