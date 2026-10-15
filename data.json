@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T02:55:04.149205+00:00",
+  "updated": "2026-10-15T03:56:17.403452+00:00",
   "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -31,6 +31,23 @@
       ]
     },
     {
+      "category": "Global",
+      "title": "[Global Pharma Leadership Voices] Connecting Korean biotech innovation to the world through global partnerships - Korea Biomedical Review",
+      "description": "[Global Pharma Leadership Voices] Connecting Korean biotech innovation to the world through global partnerships Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GbmFZaTdrZFZRc0NTX2xPdXJHWnY2S2RlS1JKV2d3THl5WDVaYTRyLWdHd3ozakNQQ0hjVW56N3I4Xy1za2NOQzRtTW95QkFpZEh5ME1BbjFmMmFfbDVLakhyMG96NExwOFhvbWln0gFyQVVfeXFMTVpOY3VEdzNyMHdIMGlhV1RMeDBEVGI1ZG1qV2ZubmVRMTNaeW45QzlCMVhjOURhdXZvZjBhQ21IalpXaUIwVGJMS05FOUNxRFhqM1hDZU9ENGpDZmxvZy1UMEZiZWNQTVVoaTNUSF9UeEFR?oc=5",
+      "published": "2026-10-15T00:15:39+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "FDA Warns Online Sellers Over Unapproved Semaglutide Injections Marketed Under Indian Drugmakers' Brands - Coalition For A Prosperous America",
       "description": "FDA Warns Online Sellers Over Unapproved Semaglutide Injections Marketed Under Indian Drugmakers' Brands Coalition For A Prosperous America",
@@ -46,25 +63,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India Pharma 2047: Becoming an innovation powerhouse - EY",
-      "description": "India Pharma 2047: Becoming an innovation powerhouse EY",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2NnLUEtbmlzVm90NlVzN1VpSmJXQXdMWGx6RXBCTWdhWmdDYmFick0zU09pa0VYZnRPZWZReUp5TVcxemZUNVVNeUVpMEI1TElvZHE2R0lkcHNvZjhiRGRKVWxKQy1HWmJaUV9GOVJjbGpOaHVaT01zT3RVcmI2VlBXZDZ5TXFRSXpxUUhpV3A1SWpWOEN3?oc=5",
-      "published": "2026-10-14T06:08:47+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Becoming an innovation powerhouse - EY India Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -78,6 +76,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "[Global Pharma Leadership Voices] Connecting Korean biotech innovation to the world through global partnerships - Korea Biomedical Review",
+      "description": "[Global Pharma Leadership Voices] Connecting Korean biotech innovation to the world through global partnerships Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GbmFZaTdrZFZRc0NTX2xPdXJHWnY2S2RlS1JKV2d3THl5WDVaYTRyLWdHd3ozakNQQ0hjVW56N3I4Xy1za2NOQzRtTW95QkFpZEh5ME1BbjFmMmFfbDVLakhyMG96NExwOFhvbWln0gFyQVVfeXFMTVpOY3VEdzNyMHdIMGlhV1RMeDBEVGI1ZG1qV2ZubmVRMTNaeW45QzlCMVhjOURhdXZvZjBhQ21IalpXaUIwVGJMS05FOUNxRFhqM1hDZU9ENGpDZmxvZy1UMEZiZWNQTVVoaTNUSF9UeEFR?oc=5",
+      "published": "2026-10-15T00:15:39+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Laurus Labs invests $11.3 million in KRKA Pharma JV - The Times of India",
@@ -134,23 +149,6 @@
       "companies": [
         "Becoming an innovation powerhouse - EY India Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "From pharma freebies to drug prices, India needs enforceable regulation - Business Standard",
-      "description": "From pharma freebies to drug prices, India needs enforceable regulation Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUxhNGlVLTFMT2xtOXNUUWZpbkw0UXdLcFVGcEhyQXRSckxZdXc4QzZzVmVhRjhyVHdQQTVENDBBVWlwZjRGeWtGaTlGS3A0bTR4WmlIdkNkUEhOUlZFazVyMUIzMkN1dXRwOEZTRXdVTExIaXRueFlveGV0dWd1TDEwanZsdXdvdlNjeG83YmJQbThtSEVIU3FfMDQ0RjQ2SHdnRkVDeVd2ZHZIQ1E5eG10bnVvazdud2xsRGRCUk5GUjNvdy1pRFBHdm1ycndx?oc=5",
-      "published": "2026-10-14T03:35:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
