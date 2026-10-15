@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T08:59:14.939304+00:00",
-  "article_count": 6,
+  "updated": "2026-10-15T09:56:34.991978+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -51,19 +51,21 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
-      "description": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bURIRzRXR3NvZ0l3MThoaUhRVjFnczVXYTd0dnRMeWlWMGJKcG5iWG44Qnd0OENfV3NST2tDNFFnbDYxMHo4cTJNNng1ZE9ENEJEcEp1RkxYSklLclZvNm1RcFFBdm1xUHUwaDhDX1FsblkxX090QQ?oc=5",
-      "published": "2026-10-15T00:52:49+00:00",
+      "category": "Global",
+      "title": "FDA plans new framework for rare disease drug reviews - The Pharma Letter",
+      "description": "FDA plans new framework for rare disease drug reviews The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUhLS3FVT2JMdFZWMXVySGJDM2huaFZrdmIwMm5DOHUwNGxRR0ZRcUxSSGJLVGNqbU5wWlZyZ2M2eHdYdW81Z21nbHhJZXR1SmJhSk0zcHd6ekNHN3ZFbG5DU0dZelh5eVBGcUxSdzhyeXJzai1RZ1N3MV9XdXdld2NOYkxudWtSdjFSS2FZT2hYb3RXNnlZekZDYm83QQ?oc=5",
+      "published": "2026-10-15T08:56:31+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Manufacturing / Plants",
+      "business_area": "Regulatory",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
+      "companies": [
+        "The Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -115,23 +117,6 @@
         "CDMO transformation - Indian Pharma",
         "CDMO transformation Indian Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
-      "description": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bURIRzRXR3NvZ0l3MThoaUhRVjFnczVXYTd0dnRMeWlWMGJKcG5iWG44Qnd0OENfV3NST2tDNFFnbDYxMHo4cTJNNng1ZE9ENEJEcEp1RkxYSklLclZvNm1RcFFBdm1xUHUwaDhDX1FsblkxX090QQ?oc=5",
-      "published": "2026-10-15T00:52:49+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     },
