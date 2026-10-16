@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T04:56:43.348564+00:00",
-  "article_count": 6,
+  "updated": "2026-10-16T05:52:56.243772+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -29,26 +29,6 @@
     },
     {
       "category": "India",
-      "title": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation - Indian Pharma Post",
-      "description": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWMxbXpfemJLYVJoZG9wWkc2VVprVml4LUZpSkFEczFlQk9WWk5QM0NLNDlzZ0QzT0FMWGtWRTJ3NVJCdUJNMTYwN25FbkNvajhRTW9MZkcxRXk3aTF2Sk5SMWRxcVZMZXdvZjVxeU1JZ3JtX0R3N3RCWGQwX3laSzVZTzJmWlhJczhuVy1ta1NOVGVWTkZKa1ozZHgyMFFsSF9iQ0YwNFBveFMyWGxGT2k5WjhvaHpZbGhFVmNYYnd6WllW0gHLAUFVX3lxTE1Zc2VWNnJxbU9LMVlfaTZ2c1lzQnQ3dUdMMG5HcDI0NmhOVXZzNV9tN2JvUWFOTld1dUVuY0FHNkdFdHJFYngya3pfajItQUs3ZFM1SWdhQjludXZfel9iUUJPN2VYXzNFTUJoUDdUeVRGQWZCRUZudWxCUnBhZ3RGanl2anRVSG1FdUdHOHlfSDBtZXl0UFRDYTQ2UWdqN3o5dEduSDRKd3JYZVFfV3V0dFhyd0EzSlJBLTdfeklkSEV3cE5nY1htQWow?oc=5",
-      "published": "2026-10-15T05:25:36+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "CDMO transformation - Indian Pharma",
-        "CDMO transformation Indian Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
       "title": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names - Business Standard",
       "description": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVJueWstVm1WTFQzYUh3VGNpQm5GLTBnTDBpV0lXMlNUZ2R2OGxGenFkbXJRLTJfVHhMU2txM0UwV2tlYm5OcGpYR2M5cVI5M0VBM1M2bkl3TjZ5SDlVTmIyV0x0NFZEaUNMU3J4RklBZ3pNOHNwVUZEanNsSElwWDQ2NHdmd1Y5dGI2LXZ5NWNHelVpSjRhLTVCVUd5cmhxdlM1ZG5RdXJQUElOS3VZUDFMNndkV3VmaEV0WUxNR2tXOUl0d0djLS11QnMydnNuTk5FclFRbXJOejDSAeABQVVfeXFMUGxiVThfTE96SUpXNnF1amN5d2RVZWZwMkpqMkJPeXRtcUYyUzlFbHhueV9Jcy04cUU2ZmF1VGJ1ZU9sM3EwN3hybnpNSHgyZlo4OU55MF8yaEhpb0daWHY2LXRSQUdtZElsampOVVRVaGc5WWhSMXdMcC1qYmxLYTN0VlNHenpOdy1QR0oyMy1QOTNGTEVpWm5TT2s1V0o1cjl0RWhiOWw0LU83dFUwdWpKcU9ZVzFMZUhnelVIQXl2c3VHNmxES1M2STRUVUJ0c1RPRnpaY2VveTV6VkFFS2o?oc=5",
@@ -63,6 +43,26 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Govt offers startups up to ₹50 cr for new drug discovery under pharma scheme - Livemint",
+      "description": "Govt offers startups up to ₹50 cr for new drug discovery under pharma scheme Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR3g1RDNWS2MtTExuVGwzWW5uSXhZWFpjZk96elZBUVVEZ2YzS1J2TGwwZ1lreDRWWk05NmJzVHpKS1NGNXdianFFdXdQYXJ2YV9vRFl4SWVpMDZsb2hCeHY5U3hpQkdaMDZFOVVudzlkME10cWNBQ0tXNG5oaGNiVXhJRWl4WW91aXJGVlBLamwyeGI5N2xpUW5zMlhiMXhBakRad0R4ekZHcXF4YWxkTndaenBTWHZ3YWNVYUFSZjBKZzjSAcgBQVVfeXFMTVFCMFNJRUtXYzVwNmZWZDJJb1ZvZnRWbTNmcmM1bEpJQ29zNWlUMjZuUko2WTdrQ0txcDZEOGhrWmZSekRiZ2tDdjVjRjZMNFJjNHZFd0laT0dKLTF2RHpRSldza0FoUFFlSVY3eDEwekEyZTNWYXVqcnVuUGgzUlZYYUs1RFl2T2hKWW1XWXNHS1ZSTEZGZkZlazRkQzVuQy1BeXRWSjIwRUxjOGQtSWFESHNySk5OZEt4TWJMbWlrTmFpTXl3UGY?oc=5",
+      "published": "2026-10-15T13:26:37+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "₹50 cr",
+        "50 cr"
+      ]
     }
   ],
   "business_signals": {
@@ -168,26 +168,6 @@
       "companies": [
         "Equirus Securities - Express Pharma",
         "Equirus Securities Express Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation - Indian Pharma Post",
-      "description": "Lonza upgrades growth ambitions to target higher margins after CDMO transformation Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWMxbXpfemJLYVJoZG9wWkc2VVprVml4LUZpSkFEczFlQk9WWk5QM0NLNDlzZ0QzT0FMWGtWRTJ3NVJCdUJNMTYwN25FbkNvajhRTW9MZkcxRXk3aTF2Sk5SMWRxcVZMZXdvZjVxeU1JZ3JtX0R3N3RCWGQwX3laSzVZTzJmWlhJczhuVy1ta1NOVGVWTkZKa1ozZHgyMFFsSF9iQ0YwNFBveFMyWGxGT2k5WjhvaHpZbGhFVmNYYnd6WllW0gHLAUFVX3lxTE1Zc2VWNnJxbU9LMVlfaTZ2c1lzQnQ3dUdMMG5HcDI0NmhOVXZzNV9tN2JvUWFOTld1dUVuY0FHNkdFdHJFYngya3pfajItQUs3ZFM1SWdhQjludXZfel9iUUJPN2VYXzNFTUJoUDdUeVRGQWZCRUZudWxCUnBhZ3RGanl2anRVSG1FdUdHOHlfSDBtZXl0UFRDYTQ2UWdqN3o5dEduSDRKd3JYZVFfV3V0dFhyd0EzSlJBLTdfeklkSEV3cE5nY1htQWow?oc=5",
-      "published": "2026-10-15T05:25:36+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "CDMO transformation - Indian Pharma",
-        "CDMO transformation Indian Pharma"
       ],
       "project_signals": [],
       "numbers": []
