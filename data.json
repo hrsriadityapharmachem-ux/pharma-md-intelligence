@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T07:58:08.488568+00:00",
+  "updated": "2026-10-16T08:58:29.527908+00:00",
   "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -29,6 +29,23 @@
     },
     {
       "category": "India",
+      "title": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics - Livemint",
+      "description": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics Livemint",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHhDcHdaZjZtWWhFdEF0M2liMEtjRUtPaG52U1UxWnlMeDdTZ3JVYWxYR2wzVTA4TjJDN1lMVzktbWxkUXg3d1NFaVh1QlNCUTE2cFJXTFJaLVVKSnNsTTlXRTQzeUdkQUF1Z2ltdzJhR3h5cTBkVG5BVnpYMGpWdlBYajQ3d2hwd2NTR0E2ejhNclpQeDc3MlNCdUVvWkxrNWRuNXVzN2JrNjA1Y0xTQ213MUVmREHSAbwBQVVfeXFMTjhfZjJHNE10dmRBYzFGWDNCWkRMenozdGNDdWdKVU90a0ozSTlObW5xNUMtbldOd0JMVWRvRTdvdHRJeURFaTFDYWZ6dU40Mm5CQUhYbER4NDhFTkRfOVkzb3dKZXNxM19MNFJORlB3VWtXa2tjM1ROOV9OdmFIbUV2cGFXeG51aXFFUDN0ekJCSDI1a2EtRkxSNXFQT1lnb0l4bEpMYVIxWjRlR3lTbE1vWGJpb0ZKdzlRc2Q?oc=5",
+      "published": "2026-10-16T08:14:03+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names - Business Standard",
       "description": "CDSCO waives export NOC for approved r-DNA drugs sold under new brand names Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVJueWstVm1WTFQzYUh3VGNpQm5GLTBnTDBpV0lXMlNUZ2R2OGxGenFkbXJRLTJfVHhMU2txM0UwV2tlYm5OcGpYR2M5cVI5M0VBM1M2bkl3TjZ5SDlVTmIyV0x0NFZEaUNMU3J4RklBZ3pNOHNwVUZEanNsSElwWDQ2NHdmd1Y5dGI2LXZ5NWNHelVpSjRhLTVCVUd5cmhxdlM1ZG5RdXJQUElOS3VZUDFMNndkV3VmaEV0WUxNR2tXOUl0d0djLS11QnMydnNuTk5FclFRbXJOejDSAeABQVVfeXFMUGxiVThfTE96SUpXNnF1amN5d2RVZWZwMkpqMkJPeXRtcUYyUzlFbHhueV9Jcy04cUU2ZmF1VGJ1ZU9sM3EwN3hybnpNSHgyZlo4OU55MF8yaEhpb0daWHY2LXRSQUdtZElsampOVVRVaGc5WWhSMXdMcC1qYmxLYTN0VlNHenpOdy1QR0oyMy1QOTNGTEVpWm5TT2s1V0o1cjl0RWhiOWw0LU83dFUwdWpKcU9ZVzFMZUhnelVIQXl2c3VHNmxES1M2STRUVUJ0c1RPRnpaY2VveTV6VkFFS2o?oc=5",
@@ -43,26 +60,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Govt offers startups up to ₹50 cr for new drug discovery under pharma scheme - Livemint",
-      "description": "Govt offers startups up to ₹50 cr for new drug discovery under pharma scheme Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR3g1RDNWS2MtTExuVGwzWW5uSXhZWFpjZk96elZBUVVEZ2YzS1J2TGwwZ1lreDRWWk05NmJzVHpKS1NGNXdianFFdXdQYXJ2YV9vRFl4SWVpMDZsb2hCeHY5U3hpQkdaMDZFOVVudzlkME10cWNBQ0tXNG5oaGNiVXhJRWl4WW91aXJGVlBLamwyeGI5N2xpUW5zMlhiMXhBakRad0R4ekZHcXF4YWxkTndaenBTWHZ3YWNVYUFSZjBKZzjSAcgBQVVfeXFMTVFCMFNJRUtXYzVwNmZWZDJJb1ZvZnRWbTNmcmM1bEpJQ29zNWlUMjZuUko2WTdrQ0txcDZEOGhrWmZSekRiZ2tDdjVjRjZMNFJjNHZFd0laT0dKLTF2RHpRSldza0FoUFFlSVY3eDEwekEyZTNWYXVqcnVuUGgzUlZYYUs1RFl2T2hKWW1XWXNHS1ZSTEZGZkZlazRkQzVuQy1BeXRWSjIwRUxjOGQtSWFESHNySk5OZEt4TWJMbWlrTmFpTXl3UGY?oc=5",
-      "published": "2026-10-15T13:26:37+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "₹50 cr",
-        "50 cr"
-      ]
     }
   ],
   "business_signals": {
@@ -76,6 +73,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics - Livemint",
+      "description": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics Livemint",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHhDcHdaZjZtWWhFdEF0M2liMEtjRUtPaG52U1UxWnlMeDdTZ3JVYWxYR2wzVTA4TjJDN1lMVzktbWxkUXg3d1NFaVh1QlNCUTE2cFJXTFJaLVVKSnNsTTlXRTQzeUdkQUF1Z2ltdzJhR3h5cTBkVG5BVnpYMGpWdlBYajQ3d2hwd2NTR0E2ejhNclpQeDc3MlNCdUVvWkxrNWRuNXVzN2JrNjA1Y0xTQ213MUVmREHSAbwBQVVfeXFMTjhfZjJHNE10dmRBYzFGWDNCWkRMenozdGNDdWdKVU90a0ozSTlObW5xNUMtbldOd0JMVWRvRTdvdHRJeURFaTFDYWZ6dU40Mm5CQUhYbER4NDhFTkRfOVkzb3dKZXNxM19MNFJORlB3VWtXa2tjM1ROOV9OdmFIbUV2cGFXeG51aXFFUDN0ekJCSDI1a2EtRkxSNXFQT1lnb0l4bEpMYVIxWjRlR3lTbE1vWGJpb0ZKdzlRc2Q?oc=5",
+      "published": "2026-10-16T08:14:03+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Global pharma firms walk back innovative drug investments in Japan - Nikkei Asia",
@@ -132,25 +146,6 @@
         "₹50 cr",
         "50 cr"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "FDA plans new framework for rare disease drug reviews - The Pharma Letter",
-      "description": "FDA plans new framework for rare disease drug reviews The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUhLS3FVT2JMdFZWMXVySGJDM2huaFZrdmIwMm5DOHUwNGxRR0ZRcUxSSGJLVGNqbU5wWlZyZ2M2eHdYdW81Z21nbHhJZXR1SmJhSk0zcHd6ekNHN3ZFbG5DU0dZelh5eVBGcUxSdzhyeXJzai1RZ1N3MV9XdXdld2NOYkxudWtSdjFSS2FZT2hYb3RXNnlZekZDYm83QQ?oc=5",
-      "published": "2026-10-15T08:55:42+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "The Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ]
 }
