@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-16T10:55:29.823843+00:00",
-  "article_count": 5,
-  "opportunity_count": 0,
+  "updated": "2026-10-16T11:54:09.600543+00:00",
+  "article_count": 6,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
-  "high_priority_count": 0,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Goa keen to attract pharma investments in manufacturing, research: CM - The Goan",
+      "description": "Goa keen to attract pharma investments in manufacturing, research: CM The Goan",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOF81Y0xtVktaMHdqc3AyLV9hMDFIR0ZydUdoUmdtQTB0U3lTUFozNXVwOFktaWZSMU9qaFk2ZWxzdEJySDBBVjhrdGllOGljQ0ZyekJPZUtWS3d2clUtOXZPaFpCZjJxMDVxRHpCNVhXVHh3YThTQVJRS25jZ1I3dWljQ3lFdlY4ZDZKZ0d6X3hvVmZZYXhZRGxEWEVydWNxa28zNk41SlVvUUwtWHY4TWVn?oc=5",
+      "published": "2026-10-16T11:17:33+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Global pharma firms walk back innovative drug investments in Japan - Nikkei Asia",
@@ -43,29 +63,12 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics - Livemint",
-      "description": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics Livemint",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHhDcHdaZjZtWWhFdEF0M2liMEtjRUtPaG52U1UxWnlMeDdTZ3JVYWxYR2wzVTA4TjJDN1lMVzktbWxkUXg3d1NFaVh1QlNCUTE2cFJXTFJaLVVKSnNsTTlXRTQzeUdkQUF1Z2ltdzJhR3h5cTBkVG5BVnpYMGpWdlBYajQ3d2hwd2NTR0E2ejhNclpQeDc3MlNCdUVvWkxrNWRuNXVzN2JrNjA1Y0xTQ213MUVmREHSAbwBQVVfeXFMTjhfZjJHNE10dmRBYzFGWDNCWkRMenozdGNDdWdKVU90a0ozSTlObW5xNUMtbldOd0JMVWRvRTdvdHRJeURFaTFDYWZ6dU40Mm5CQUhYbER4NDhFTkRfOVkzb3dKZXNxM19MNFJORlB3VWtXa2tjM1ROOV9OdmFIbUV2cGFXeG51aXFFUDN0ekJCSDI1a2EtRkxSNXFQT1lnb0l4bEpMYVIxWjRlR3lTbE1vWGJpb0ZKdzlRc2Q?oc=5",
-      "published": "2026-10-16T08:14:03+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 0,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -73,6 +76,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Goa keen to attract pharma investments in manufacturing, research: CM - The Goan",
+      "description": "Goa keen to attract pharma investments in manufacturing, research: CM The Goan",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOF81Y0xtVktaMHdqc3AyLV9hMDFIR0ZydUdoUmdtQTB0U3lTUFozNXVwOFktaWZSMU9qaFk2ZWxzdEJySDBBVjhrdGllOGljQ0ZyekJPZUtWS3d2clUtOXZPaFpCZjJxMDVxRHpCNVhXVHh3YThTQVJRS25jZ1I3dWljQ3lFdlY4ZDZKZ0d6X3hvVmZZYXhZRGxEWEVydWNxa28zNk41SlVvUUwtWHY4TWVn?oc=5",
+      "published": "2026-10-16T11:17:33+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Altimetrik launches PharmaOS AI platform at Hyderabad life sciences centre - BusinessLine",
