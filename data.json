@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T19:50:04.215337+00:00",
-  "article_count": 7,
-  "opportunity_count": 1,
+  "updated": "2026-10-16T20:53:27.675171+00:00",
+  "article_count": 9,
+  "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 2,
   "high_priority_count": 1,
@@ -28,6 +28,28 @@
       "numbers": []
     },
     {
+      "category": "Global",
+      "title": "Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition - Yahoo Finance",
+      "description": "Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWZGR25EUFpPWHRvZ2doWlZrM0xrU3ktbDl0b01sS0M3SVlsWjhGNXhMM1h0Ni1tb1htcC0tUFVTbGN2TEE4TXg0QW84NU1iakE2Q3lDWFFPWjFGeVJ3dm5mQjNCTjhySnk2dDc3bFNVQ2YtcWo2YkUyMl9mUnVvSjZrMzVDcndVS2l5TU5mU3VYZHdmN3JwRGlleVNXUzhFU0NfbHMxZEY0RlE?oc=5",
+      "published": "2026-10-16T14:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Investments Reshape Competition - Yahoo Finance Pharmaceutical"
+      ],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "FM Sitharaman discusses investment opportunities in energy storage, logistics with Curacao counterpart - www.indiagazette.com",
       "description": "FM Sitharaman discusses investment opportunities in energy storage, logistics with Curacao counterpart www.indiagazette.com",
@@ -45,32 +67,12 @@
         "investment"
       ],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Global pharma firms walk back innovative drug investments in Japan - Nikkei Asia",
-      "description": "Global pharma firms walk back innovative drug investments in Japan Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWd6b3FjRnZONXpoZS1SZmNOVmhUNjFCa0pacHpmX01lTXB5MzhseE1xOTZaemY0UGRWRjBJUHVkMHJKeHMweEluZC0tc3lRdmpmb3NhNW1jeVBmVUk2LWxHT19oQ01DTGhFb3JpNzUyU3U4NUtyVmk0c051eWwwTjRpeW5jckhETTZGQXpadHpoS0NTLWRMZGlNT3VtMjVXNVlCckRoWkNmYlgteDQzdktrczhoQQ?oc=5",
-      "published": "2026-10-15T21:16:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 1,
+    "Investment / Expansion": 2,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -78,6 +80,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry - The Economic Times",
+      "description": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMVBWcy12TlQyVlRLYlBwYjhRa2VmZXdiaVRZc3BRUXVfWk1QMC1PZ282UHMtY0ptSHdqLVhNZHBjLTdaNEdWMllMWkRFRGxiV2ZzYk9TN1lrZGNoRlFiU0QzTkZ5OE5YeUYxZXBEeHk3Ty1JWkQ2bFh1MXpfT0hRYzBmRVdTQWtOV2RlZjRWTktjWkhRRWJwVVNnMnA5NnJlTW5fX3ZUVi13UGZIZzFLX3g4cDl0VmJhalRocnlYM1lSTTI3NnF0dWZ5QkpWamMyUHVJWkQzU1piTVlOekJzMi1mUlMtV2VYVE5MeTROYXFDMm43aGlxMC1vT1l2SF9BZWROWFJZQXEtbjEyMGlPU3BfcGvSAZoCQVVfeXFMTzFGVjcyN0V0NjcwTjBTQVJXbXBVak1DbmJpUEM3anNTWWdBR0h4Snp5UExsX0pnOVlnekJhaWlfV0NXbVEtZGxTeUhaQ2NpbFR2TVo3QWdRdmxkakktYXZyVDVlSTZfV29meVAwaXEyMDVUakpJLWNFbFNRMzNvRFpmbGMycFZHYy1FNVczVkFHQVBpYURrNkJqMlU3cHZQSm9jYmt5YWE1N1JNTG02R0o3Y0xSaWVXREpXbHJUV2hGTURPLXA0Y3ZndzBpSVFRd0M1YWgwQlo5U0tKeldNeFM1S2ZLUXk3NDVZanZGUXcxZ0wzcEVCQ0xUQThsX05qRExYT0FySGpKVXNyRkhWVlhUcmJEMXJlQkh3?oc=5",
+      "published": "2026-10-16T19:04:41+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Fadnavis praises AstraZeneca for opening Mumbai office, thanks pharma company for COVID-19 vaccine - The Statesman",
@@ -92,6 +111,48 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition - Yahoo Finance",
+      "description": "Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWZGR25EUFpPWHRvZ2doWlZrM0xrU3ktbDl0b01sS0M3SVlsWjhGNXhMM1h0Ni1tb1htcC0tUFVTbGN2TEE4TXg0QW84NU1iakE2Q3lDWFFPWjFGeVJ3dm5mQjNCTjhySnk2dDc3bFNVQ2YtcWo2YkUyMl9mUnVvSjZrMzVDcndVS2l5TU5mU3VYZHdmN3JwRGlleVNXUzhFU0NfbHMxZEY0RlE?oc=5",
+      "published": "2026-10-16T14:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Investments Reshape Competition - Yahoo Finance Pharmaceutical"
+      ],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India’s pharma tech leaders to convene at 15th Pharma IT Summit in Mumbai - Indian Pharma Post",
+      "description": "India’s pharma tech leaders to convene at 15th Pharma IT Summit in Mumbai Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWVKejRBRnczcGc4VU51VHdSZlM3Ti1JTU43bVlvejJ3OTVIWE91Zl9HTDFHWTM2WWRkZUkxS3l1LW1XZjVibmtNb1hWSmcyc2JyM1dJaHRLMTBsa29LQld4Mmlldm5Gbkc1LTd4SExoTVk2ak15ZXptZC1WWGpEaDBlYnQ4TnRva1NCN1o2SGhhX2JmenFDWVhJc1RuOXQ0dHdZbGRsOHR0VnlOUzdSd205cXVFREXSAb4BQVVfeXFMTWRiOTlKMDJVS2oxOUo0TXE1cXNEMHBvOGNHdE1MdFlFMm4yeWtqN0N4OUk3QVdJRWtlMk5DWnU0S1B3cVFYWS03NEZ2YnRZeHFsV1pEcnhycGIyR29ndnFqSWJBM0NWWWtwN05IZUJRSURON2VTZGVlbzNEcXlOVTBEaUhtNHBuX3lLcHVJRVV6Y1FOZFlsQVRFSEMzQnFYeEdlZ2h2M2kxQUNNblp3TWR1YjN0REFvQWpkS3Ytdw?oc=5",
+      "published": "2026-10-16T13:18:45+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Pharma IT Summit in Mumbai - Indian Pharma",
+        "Pharma IT Summit in Mumbai Indian Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
@@ -148,26 +209,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India’s pharma tech leaders to convene at 15th Pharma IT Summit in Mumbai - Indian Pharma Post",
-      "description": "India’s pharma tech leaders to convene at 15th Pharma IT Summit in Mumbai Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWVKejRBRnczcGc4VU51VHdSZlM3Ti1JTU43bVlvejJ3OTVIWE91Zl9HTDFHWTM2WWRkZUkxS3l1LW1XZjVibmtNb1hWSmcyc2JyM1dJaHRLMTBsa29LQld4Mmlldm5Gbkc1LTd4SExoTVk2ak15ZXptZC1WWGpEaDBlYnQ4TnRva1NCN1o2SGhhX2JmenFDWVhJc1RuOXQ0dHdZbGRsOHR0VnlOUzdSd205cXVFREXSAb4BQVVfeXFMTWRiOTlKMDJVS2oxOUo0TXE1cXNEMHBvOGNHdE1MdFlFMm4yeWtqN0N4OUk3QVdJRWtlMk5DWnU0S1B3cVFYWS03NEZ2YnRZeHFsV1pEcnhycGIyR29ndnFqSWJBM0NWWWtwN05IZUJRSURON2VTZGVlbzNEcXlOVTBEaUhtNHBuX3lLcHVJRVV6Y1FOZFlsQVRFSEMzQnFYeEdlZ2h2M2kxQUNNblp3TWR1YjN0REFvQWpkS3Ytdw?oc=5",
-      "published": "2026-10-16T09:58:58+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Pharma IT Summit in Mumbai - Indian Pharma",
-        "Pharma IT Summit in Mumbai Indian Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     },
