@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-16T14:56:47.363941+00:00",
-  "article_count": 4,
+  "updated": "2026-10-16T15:55:46.190068+00:00",
+  "article_count": 7,
   "opportunity_count": 1,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 2,
   "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
@@ -28,6 +28,25 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "FM Sitharaman discusses investment opportunities in energy storage, logistics with Curacao counterpart - www.indiagazette.com",
+      "description": "FM Sitharaman discusses investment opportunities in energy storage, logistics with Curacao counterpart www.indiagazette.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaERWdDZRNEUxZEFKLXM4SHJFMjdYZkNmMXQtRXB4bFRuVVhUSUJSR3lvOXdNSHlXa2xxcEo2QjBYUVBjSnNfTEY4WGpQTV9Wam0xRW1ZNWFNY19FcmI1UXM3cGREaWRoZ2RXaHFkQy1ZblZBZ0NsYngtR3kxQUZzODBxdDAtYlNsb2pPTDJBbHh5X0lFV2lRZDNZRmdxRXhiOTE5YnVyZmxYdjBzQUMzNm9fU0tBVGF6Uk1LdlF5ajFVTUFLd0JsRnNrcUlKNTVMdVVnVFJiZFZHMVp2R0E?oc=5",
+      "published": "2026-10-16T10:39:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Global pharma firms walk back innovative drug investments in Japan - Nikkei Asia",
       "description": "Global pharma firms walk back innovative drug investments in Japan Nikkei Asia",
@@ -46,23 +65,6 @@
         "investments"
       ],
       "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Altimetrik launches PharmaOS AI platform at Hyderabad life sciences centre - BusinessLine",
-      "description": "Altimetrik launches PharmaOS AI platform at Hyderabad life sciences centre BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTzBrRW9IeU94WmlZODFmVnlYUUZMelg1Z3FyX2JYMjRnV21UTWc0MHBHZkRQc2M2Qm0yVkNGTkhaX2xuNFBqZVppNDJxN2l4RHBqV0s4YzNzcFVwdVE0eC1kMTVWUjdBbndIZ1FpQ29JQ2JiS2JZWDJhbUZNRnBIRkw4Ry04REFLd1hVY0dnZkRsNG5GdnNBQ2VTbkpKUTRiNXg4VXRGQjBvVS0wcXBXTlU4NGQtelliVDBrRWxMSGphakZVUzlPRTdsMkxFOXlRV01MN2NSX3BfOU1LVk5fMWt1elc2NjA1aUHSAeoBQVVfeXFMTk8wa0VvSHlPeFppWTgxZlZ5WFFGTHpYNWdxcl9iWDI0Z1dtVE1nNDBwR2ZEUHNjNkJtMlZDRk5IWl9sbjRQamVaaTQycTdpeERwaldLOGMzc3BVcHVRNHgtZDE1VlI3QW53SGdRaUNvSUNiYktiWVgyYW1GTUZwSEZMOEctOERBS3dYVWNHZ2ZEbDRuRnZzQUNlU25KSlE0YjV4OFV0RkIwb1UtMHFwV05VODRkLXpZYlQwa0VsTEhqYWpGVVM5T0U3bDJMRTl5UVdNTDdjUl9wXzlNS1ZOXzFrdXpXNjYwNWlB?oc=5",
-      "published": "2026-10-16T10:17:16+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -76,6 +78,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Fadnavis praises AstraZeneca for opening Mumbai office, thanks pharma company for COVID-19 vaccine - The Statesman",
+      "description": "Fadnavis praises AstraZeneca for opening Mumbai office, thanks pharma company for COVID-19 vaccine The Statesman",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc1VpMkZuM016Z2ZlSURpNDRDbTdsbmVkb2tiZGxtSklmdXBvUW9vUk1jWGtBeGhwLVF0aTB0enJWWGhDQ21aV3Ixc2g1TThzRnBPOXVmdU1XZUNNczhZRnRqM2VzODFZVUQyVk5yNWtMMXd6MzlZLWRYZldNd0EwT1lIeWh6dVNxenZ0dm5ucGYxTU1hVUl6WFJkcmh4SzJkOXoxeDF2bWg2a1JRQmlSVTRUMllmNHA2dERhT0dHcHY0SGdiMzU1YjB3TlJPMkRQWUw5Z0p2eTFmRTF5Q3NtVjNB0gHnAUFVX3lxTFBvOHVrcTBZODJzUjh2ZUNNcjVRVkV0Q2hKTUg0R1BmMHg3eDFWZWJhWVl6SEJ5NE4zNkFiVnpUMVhGVzJHSXNyNlp5VjZXVnFDR0FnS2RocXRTV2RIcnlBcngwaVhyLWMwcnhhR2dEU3lpRXgxdzRWZ3VrandEeFlrTzFaZVRfQm05REx5bVhMdXBCVnpxV2x6ZHZLejlkb2NsczdPTURBTlNSZkZZYmhJN0NiekhCYUZiakN3aHFHSVFjck82NlJVUHVsWlNveFhzVW5RX0x3Q0o4N24yNFh3WUhyMU81TQ?oc=5",
+      "published": "2026-10-16T15:16:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Goa keen to attract pharma investments in manufacturing, research: CM - The Goan",
@@ -97,6 +116,25 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "FM Sitharaman discusses investment opportunities in energy storage, logistics with Curacao counterpart - www.indiagazette.com",
+      "description": "FM Sitharaman discusses investment opportunities in energy storage, logistics with Curacao counterpart www.indiagazette.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaERWdDZRNEUxZEFKLXM4SHJFMjdYZkNmMXQtRXB4bFRuVVhUSUJSR3lvOXdNSHlXa2xxcEo2QjBYUVBjSnNfTEY4WGpQTV9Wam0xRW1ZNWFNY19FcmI1UXM3cGREaWRoZ2RXaHFkQy1ZblZBZ0NsYngtR3kxQUZzODBxdDAtYlNsb2pPTDJBbHh5X0lFV2lRZDNZRmdxRXhiOTE5YnVyZmxYdjBzQUMzNm9fU0tBVGF6Uk1LdlF5ajFVTUFLd0JsRnNrcUlKNTVMdVVnVFJiZFZHMVp2R0E?oc=5",
+      "published": "2026-10-16T10:39:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
       "category": "Hyderabad",
       "title": "Altimetrik launches PharmaOS AI platform at Hyderabad life sciences centre - BusinessLine",
       "description": "Altimetrik launches PharmaOS AI platform at Hyderabad life sciences centre BusinessLine",
@@ -110,6 +148,26 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India’s pharma tech leaders to convene at 15th Pharma IT Summit in Mumbai - Indian Pharma Post",
+      "description": "India’s pharma tech leaders to convene at 15th Pharma IT Summit in Mumbai Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWVKejRBRnczcGc4VU51VHdSZlM3Ti1JTU43bVlvejJ3OTVIWE91Zl9HTDFHWTM2WWRkZUkxS3l1LW1XZjVibmtNb1hWSmcyc2JyM1dJaHRLMTBsa29LQld4Mmlldm5Gbkc1LTd4SExoTVk2ak15ZXptZC1WWGpEaDBlYnQ4TnRva1NCN1o2SGhhX2JmenFDWVhJc1RuOXQ0dHdZbGRsOHR0VnlOUzdSd205cXVFREXSAb4BQVVfeXFMTWRiOTlKMDJVS2oxOUo0TXE1cXNEMHBvOGNHdE1MdFlFMm4yeWtqN0N4OUk3QVdJRWtlMk5DWnU0S1B3cVFYWS03NEZ2YnRZeHFsV1pEcnhycGIyR29ndnFqSWJBM0NWWWtwN05IZUJRSURON2VTZGVlbzNEcXlOVTBEaUhtNHBuX3lLcHVJRVV6Y1FOZFlsQVRFSEMzQnFYeEdlZ2h2M2kxQUNNblp3TWR1YjN0REFvQWpkS3Ytdw?oc=5",
+      "published": "2026-10-16T09:58:58+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Pharma IT Summit in Mumbai - Indian Pharma",
+        "Pharma IT Summit in Mumbai Indian Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
