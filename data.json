@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:50:00.264396+00:00",
+  "updated": "2026-10-17T08:50:54.034478+00:00",
   "article_count": 10,
   "opportunity_count": 2,
   "risk_count": 0,
@@ -80,6 +80,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "3 India Pharma Export Stocks Retail Investors Are Watching As US Demand Comes Into Focus - Simply Wall Street",
+      "description": "3 India Pharma Export Stocks Retail Investors Are Watching As US Demand Comes Into Focus Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTWZNd0VYNTRhcmpSV3kwVFZkTTh1VGtFWVIyMFhXMTZ1T2hXZHY2MVpnbFl2RU5CcWphelItNHRfMVVUem5vVUI3SHdyS3pxS3BTNU1NMV9HZDNHNFBKN29oa01FWVBUYWMzUjQwekstS09pRktkYlpqSjlrTWZfZWdYMVJCZW9Xa21zLVMyUk52VUVMVVByaWo5blZBSjBnRHltelNYNXlGVk9zMFlhMFV3QWhYdVVyLTdhTnlreW9CTkdZcHZfUTBWWFNuWlc3d3ZTTjBNblFZdFVsc21faNIB5gFBVV95cUxNYU5JWU82Z2Y4QnBZTEdseXR4VEhoYi14LTYtQTVaWXJ1TW8xSzVIWHRDdmwwT1RIRndKV04xazlzTXZOdkpRU1lKYnBoUlFmNWdkWVhMb2pFcmQ0Q19hM2dHVDg4cFpEVTlzSGZWRkdjY2RJZnhHUFRTUTFrMzJ5OEhFQmZqN001UjRBa0pCZDBsNENDS0JqZWZaRWFJSmtOdjRzNTloOC0xbllXOWdkVjNQNGtLU0k4dFRnUXdoVnJoRno3N3Z2LUpSbXBWOXdlQTZWTFJuUWlVSGpJcTlTcDlUaVF2QQ?oc=5",
+      "published": "2026-10-17T08:45:23+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Biocon’s Kiran Mazumdar-Shaw Calls for India’s Pharma Industry to Shift from Generics to Innovation - Chemical Industry Digest",
@@ -238,23 +255,6 @@
       "description": "Altimetrik launches PharmaOS AI platform at Hyderabad life sciences centre BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTBoWjF5WlUtTmJYRFRkdFF0bGI0b2lTSDljNUhpc1RMNXBaN2F2Q0Y0SndWSlp2X3BXV2tLZFF3UGI3NXloVlNlWVlySVdObjBhaGJ3N1NLbHZ4R2VsZTZpREJudUF2VFFaVy1uNDRPNExSWWpMamRGaktBV3lGQXNmT2IzSkNwREZhQ3FEWGdIcmlyTWZ3WUpVV3NHV3dUSjlYRnJISVczdDNkUmxQYW5IbGZZODFtRVJ6amhVbGRwQTFzb0tIOVJsemJlWTNSX0Z0NDFQV0ZRNkN2MDFPNDB1SdIB6gFBVV95cUxOTzBrRW9IeU94WmlZODFmVnlYUUZMelg1Z3FyX2JYMjRnV21UTWc0MHBHZkRQc2M2Qm0yVkNGTkhaX2xuNFBqZVppNDJxN2l4RHBqV0s4YzNzcFVwdVE0eC1kMTVWUjdBbndIZ1FpQ29JQ2JiS2JZWDJhbUZNRnBIRkw4Ry04REFLd1hVY0dnZkRsNG5GdnNBQ2VTbkpKUTRiNXg4VXRGQjBvVS0wcXBXTlU4NGQtelliVDBrRWxMSGphakZVUzlPRTdsMkxFOXlRV01MN2NSX3BfOU1LVk5fMWt1elc2NjA1aUE?oc=5",
       "published": "2026-10-16T10:17:16+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics - Livemint",
-      "description": "India overhauls drug patent guidelines to curb evergreening and speed up cheap generics Livemint",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHhDcHdaZjZtWWhFdEF0M2liMEtjRUtPaG52U1UxWnlMeDdTZ3JVYWxYR2wzVTA4TjJDN1lMVzktbWxkUXg3d1NFaVh1QlNCUTE2cFJXTFJaLVVKSnNsTTlXRTQzeUdkQUF1Z2ltdzJhR3h5cTBkVG5BVnpYMGpWdlBYajQ3d2hwd2NTR0E2ejhNclpQeDc3MlNCdUVvWkxrNWRuNXVzN2JrNjA1Y0xTQ213MUVmREHSAbwBQVVfeXFMTjhfZjJHNE10dmRBYzFGWDNCWkRMenozdGNDdWdKVU90a0ozSTlObW5xNUMtbldOd0JMVWRvRTdvdHRJeURFaTFDYWZ6dU40Mm5CQUhYbER4NDhFTkRfOVkzb3dKZXNxM19MNFJORlB3VWtXa2tjM1ROOV9OdmFIbUV2cGFXeG51aXFFUDN0ekJCSDI1a2EtRkxSNXFQT1lnb0l4bEpMYVIxWjRlR3lTbE1vWGJpb0ZKdzlRc2Q?oc=5",
-      "published": "2026-10-16T08:14:03+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
