@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T17:45:37.655030+00:00",
-  "article_count": 6,
+  "updated": "2026-10-17T18:51:08.104951+00:00",
+  "article_count": 7,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -74,6 +74,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Pharma & Healthcare Hiring Up 20% for Specialized Talent - Rediff MoneyWiz",
+      "description": "Pharma & Healthcare Hiring Up 20% for Specialized Talent Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3V3NVJucEtRMTdDdmJiUDNiT1NWX1QydVV4dFk5alRtYW1VV0FrcXZiLVRTS09GRXM0QkVJdXpac1BHY2xWMXdkUHNVaENfLWtkVElfcDRFUXF0UnFqbHIzTS1lTGVsdXlDNGIzVzRoelU1blJqUGpJRVl4N3ZuWjUyUWdQblhTRnVvZEppVVkxNlhzbUU5YVA4QTVPQkFtRTRIakF6a3Q?oc=5",
+      "published": "2026-10-17T16:10:18+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Pharma & Healthcare",
+        "Specialized Talent - Rediff MoneyWiz Pharma & Healthcare"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "OrbiMed raises $3 billion across two new healthcare investment funds - Indian Pharma Post",
