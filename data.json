@@ -1,33 +1,12 @@
 {
-  "updated": "2026-10-17T18:51:08.104951+00:00",
-  "article_count": 7,
+  "updated": "2026-10-17T19:43:53.765074+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 1,
+  "watch_count": 0,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "OrbiMed raises $3 billion across two new healthcare investment funds - Indian Pharma Post",
-      "description": "OrbiMed raises $3 billion across two new healthcare investment funds Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5",
-      "published": "2026-10-17T14:53:41+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "3 billion"
-      ]
-    },
     {
       "category": "Vizag / AP",
       "title": "5 workers killed in explosion at Gujarat chemical plant; operations suspended - The Indian Express",
@@ -59,6 +38,26 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Alembic Pharma Rallies as U.S. FDA Gives Clean Chit to its Panelav Plant - NDTV Profit",
+      "description": "Alembic Pharma Rallies as U.S. FDA Gives Clean Chit to its Panelav Plant NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnRMVm5mZzRQWXNTX1BSMkpLQ29lZTJSMlMxSjBuS0FuZVNnbG0wREtGOGF5UnBLdUk3Y3VuT08zd25IT183X0lITWxmTFR6QW5GdFFiSmlHNk91NGw4NUFuWmY5S2FBWldORm5XSlZlUVZyWU0waUphOW9aM2xGSVRLVXdTclRKdWN2Ym9sTldvSGpQVUFKVWFQNXV6bElVOVBRTkJqZnJvS3B3bklVTHVlWkk1UQ?oc=5",
+      "published": "2026-10-17T03:02:13+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Alembic Pharma",
+        "Chit to its Panelav Plant - NDTV Profit Alembic Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -93,27 +92,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "OrbiMed raises $3 billion across two new healthcare investment funds - Indian Pharma Post",
-      "description": "OrbiMed raises $3 billion across two new healthcare investment funds Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5",
-      "published": "2026-10-17T14:53:41+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "3 billion"
-      ]
     },
     {
       "category": "India",
@@ -186,23 +164,6 @@
         "Alembic Pharma",
         "Chit to its Panelav Plant - NDTV Profit Alembic Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry - The Economic Times",
-      "description": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMVBWcy12TlQyVlRLYlBwYjhRa2VmZXdiaVRZc3BRUXVfWk1QMC1PZ282UHMtY0ptSHdqLVhNZHBjLTdaNEdWMllMWkRFRGxiV2ZzYk9TN1lrZGNoRlFiU0QzTkZ5OE5YeUYxZXBEeHk3Ty1JWkQ2bFh1MXpfT0hRYzBmRVdTQWtOV2RlZjRWTktjWkhRRWJwVVNnMnA5NnJlTW5fX3ZUVi13UGZIZzFLX3g4cDl0VmJhalRocnlYM1lSTTI3NnF0dWZ5QkpWamMyUHVJWkQzU1piTVlOekJzMi1mUlMtV2VYVE5MeTROYXFDMm43aGlxMC1vT1l2SF9BZWROWFJZQXEtbjEyMGlPU3BfcGvSAZoCQVVfeXFMTzFGVjcyN0V0NjcwTjBTQVJXbXBVak1DbmJpUEM3anNTWWdBR0h4Snp5UExsX0pnOVlnekJhaWlfV0NXbVEtZGxTeUhaQ2NpbFR2TVo3QWdRdmxkakktYXZyVDVlSTZfV29meVAwaXEyMDVUakpJLWNFbFNRMzNvRFpmbGMycFZHYy1FNVczVkFHQVBpYURrNkJqMlU3cHZQSm9jYmt5YWE1N1JNTG02R0o3Y0xSaWVXREpXbHJUV2hGTURPLXA0Y3ZndzBpSVFRd0M1YWgwQlo5U0tKeldNeFM1S2ZLUXk3NDVZanZGUXcxZ0wzcEVCQ0xUQThsX05qRExYT0FySGpKVXNyRkhWVlhUcmJEMXJlQkh3?oc=5",
-      "published": "2026-10-16T19:04:41+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
