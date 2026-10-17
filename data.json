@@ -1,32 +1,12 @@
 {
-  "updated": "2026-10-17T10:48:07.212158+00:00",
+  "updated": "2026-10-17T11:46:25.717904+00:00",
   "article_count": 8,
-  "opportunity_count": 2,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
-  "high_priority_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Goa keen to attract pharma investments in manufacturing, research: CM - The Goan",
-      "description": "Goa keen to attract pharma investments in manufacturing, research: CM The Goan",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOF81Y0xtVktaMHdqc3AyLV9hMDFIR0ZydUdoUmdtQTB0U3lTUFozNXVwOFktaWZSMU9qaFk2ZWxzdEJySDBBVjhrdGllOGljQ0ZyekJPZUtWS3d2clUtOXZPaFpCZjJxMDVxRHpCNVhXVHh3YThTQVJRS25jZ1I3dWljQ3lFdlY4ZDZKZ0d6X3hvVmZZYXhZRGxEWEVydWNxa28zNk41SlVvUUwtWHY4TWVn?oc=5",
-      "published": "2026-10-16T11:17:33+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": []
-    },
     {
       "category": "Global",
       "title": "Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition - Yahoo Finance",
@@ -65,12 +45,29 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry - The Economic Times",
+      "description": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMVBWcy12TlQyVlRLYlBwYjhRa2VmZXdiaVRZc3BRUXVfWk1QMC1PZ282UHMtY0ptSHdqLVhNZHBjLTdaNEdWMllMWkRFRGxiV2ZzYk9TN1lrZGNoRlFiU0QzTkZ5OE5YeUYxZXBEeHk3Ty1JWkQ2bFh1MXpfT0hRYzBmRVdTQWtOV2RlZjRWTktjWkhRRWJwVVNnMnA5NnJlTW5fX3ZUVi13UGZIZzFLX3g4cDl0VmJhalRocnlYM1lSTTI3NnF0dWZ5QkpWamMyUHVJWkQzU1piTVlOekJzMi1mUlMtV2VYVE5MeTROYXFDMm43aGlxMC1vT1l2SF9BZWROWFJZQXEtbjEyMGlPU3BfcGvSAZoCQVVfeXFMTzFGVjcyN0V0NjcwTjBTQVJXbXBVak1DbmJpUEM3anNTWWdBR0h4Snp5UExsX0pnOVlnekJhaWlfV0NXbVEtZGxTeUhaQ2NpbFR2TVo3QWdRdmxkakktYXZyVDVlSTZfV29meVAwaXEyMDVUakpJLWNFbFNRMzNvRFpmbGMycFZHYy1FNVczVkFHQVBpYURrNkJqMlU3cHZQSm9jYmt5YWE1N1JNTG02R0o3Y0xSaWVXREpXbHJUV2hGTURPLXA0Y3ZndzBpSVFRd0M1YWgwQlo5U0tKeldNeFM1S2ZLUXk3NDVZanZGUXcxZ0wzcEVCQ0xUQThsX05qRExYT0FySGpKVXNyRkhWVlhUcmJEMXJlQkh3?oc=5",
+      "published": "2026-10-16T19:04:41+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 2,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -150,6 +147,26 @@
       "numbers": []
     },
     {
+      "category": "Global",
+      "title": "Trump Profited From His Giveaway to Big Pharma While Jacking Up Drug Costs - Truthout",
+      "description": "Trump Profited From His Giveaway to Big Pharma While Jacking Up Drug Costs Truthout",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDFhX2tVdkNWS0xLLU00cGNic2l5eUR4NEJmWjlya2Z2N3RubVBJTDFVNHFoUjB2NjQ2VjBMZmN4clBKNUlHY1hXMDNObnFiN1dsWFhCV2NvWjBPd0JDVWhBOWVqWUpWdUR3eDJkOWlaT0Z3dGUwVDRZZ2hMOS1fYllZQTdDdXlvX3cwbGh2VzRueFI4RS1oblNELTZrbV9YM2Njc0IwbUc?oc=5",
+      "published": "2026-10-16T15:48:50+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Trump Profited From His Giveaway to Big Pharma",
+        "Truthout Trump Profited From His Giveaway to Big Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "Fadnavis praises AstraZeneca for opening Mumbai office, thanks pharma company for COVID-19 vaccine - The Statesman",
       "description": "Fadnavis praises AstraZeneca for opening Mumbai office, thanks pharma company for COVID-19 vaccine The Statesman",
@@ -206,26 +223,6 @@
         "Pharma IT Summit in Mumbai Indian Pharma"
       ],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Goa keen to attract pharma investments in manufacturing, research: CM - The Goan",
-      "description": "Goa keen to attract pharma investments in manufacturing, research: CM The Goan",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOF81Y0xtVktaMHdqc3AyLV9hMDFIR0ZydUdoUmdtQTB0U3lTUFozNXVwOFktaWZSMU9qaFk2ZWxzdEJySDBBVjhrdGllOGljQ0ZyekJPZUtWS3d2clUtOXZPaFpCZjJxMDVxRHpCNVhXVHh3YThTQVJRS25jZ1I3dWljQ3lFdlY4ZDZKZ0d6X3hvVmZZYXhZRGxEWEVydWNxa28zNk41SlVvUUwtWHY4TWVn?oc=5",
-      "published": "2026-10-16T11:17:33+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
       "numbers": []
     }
   ]
