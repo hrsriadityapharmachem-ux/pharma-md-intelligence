@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T04:52:15.376514+00:00",
-  "article_count": 9,
+  "updated": "2026-10-17T05:50:16.335656+00:00",
+  "article_count": 10,
   "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 1,
@@ -80,6 +80,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Biocon’s Kiran Mazumdar-Shaw Calls for India’s Pharma Industry to Shift from Generics to Innovation - Chemical Industry Digest",
+      "description": "Biocon’s Kiran Mazumdar-Shaw Calls for India’s Pharma Industry to Shift from Generics to Innovation Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3RYcmtzby1mTF9kNW1LanpWak5lMWczSnpNR19aZ19iLXlVRDJySmFJcUtVOUpIZGxMdTdySFFnT3hObVEzZFh6X2V3VmlwQ20weklXVk9yb2F4dDJ1dHhNbTNrNzE0ckFWVlM2Q1BaelRxaG1ETWoyU2h5UWVHRjJ4V3BwUElndXoyYklHZHg5NzlfM01oTUQwdDg5cHoyaERXSlJiWWFKdTBHWWJiNnNjUGFkZjlFMFNBVFJ1YWU?oc=5",
+      "published": "2026-10-17T05:40:32+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Specialty Chemicals",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Industry to Shift from Generics to Innovation - Chemical",
+        "Industry to Shift from Generics to Innovation Chemical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry - The Economic Times",
