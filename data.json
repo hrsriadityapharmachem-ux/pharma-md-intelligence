@@ -1,33 +1,12 @@
 {
-  "updated": "2026-10-18T14:48:48.243526+00:00",
-  "article_count": 6,
+  "updated": "2026-10-18T15:47:58.028910+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 1,
+  "watch_count": 0,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "OrbiMed raises $3 billion across two new healthcare investment funds - Indian Pharma Post",
-      "description": "OrbiMed raises $3 billion across two new healthcare investment funds Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5",
-      "published": "2026-10-17T15:06:20+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "3 billion"
-      ]
-    },
     {
       "category": "Hyderabad",
       "title": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India - Dealroom",
@@ -69,6 +48,23 @@
       "numbers": [
         "48 million"
       ]
+    },
+    {
+      "category": "India",
+      "title": "India’s Pharma Sector Must Go Beyond Generics, Pursue Greater R&D and Innovation: Piyush Goyal - DD News",
+      "description": "India’s Pharma Sector Must Go Beyond Generics, Pursue Greater R&D and Innovation: Piyush Goyal DD News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzRZQ2x6RV9xRnFWWTNyc19jZTBfRE9fdVc5Umx5c1dkOFl3QnZaZ09OYktGNFlJdGdpbGFWQVo4NlVtTEoxQkp4YzBmRW5heThkdlhCclZXWWQ3RjVUaXFtSlF1bGhRZnd4c1M1UXR6TmZUZ2pjWkdDREpIcmJISGZKVlpLZGY0a0RjN2t6cXkyWDBEWGpaLVpaZElNb0hzTDRQNERXbU5Gc3ZqaC0xQzZqYjQ3WTg?oc=5",
+      "published": "2026-10-18T04:01:16+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
@@ -177,27 +173,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "OrbiMed raises $3 billion across two new healthcare investment funds - Indian Pharma Post",
-      "description": "OrbiMed raises $3 billion across two new healthcare investment funds Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5",
-      "published": "2026-10-17T15:06:20+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "3 billion"
-      ]
     }
   ]
 }
