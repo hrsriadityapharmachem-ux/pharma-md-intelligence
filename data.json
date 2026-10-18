@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T12:57:51.316718+00:00",
-  "article_count": 5,
+  "updated": "2026-10-18T13:49:04.291468+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -29,6 +29,25 @@
       ]
     },
     {
+      "category": "Hyderabad",
+      "title": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India - Dealroom",
+      "description": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFJsc1gtdDhkMG9vN0FwUVRndWhMaGtHZVVaSzN3azNwb3JBM2RpUm9zanIzeUtrV1dlOTNackNsYzlvUUhuNXJkclI1WVJHNjFoQ2VKci0zaVF6NUtVM3d5Z1BrR0h4QUVFaGpBWjBMTmJPVTlvSDFWQkpJRnROckhIelVmRjgyd2NyM1lPN2dVQ1hBVUJPRDhWRmEyLWRGQTFjMlBfSVk?oc=5",
+      "published": "2026-10-18T13:15:12+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Energon Labs"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "Mankind Pharma Enters Next-Generation Cancer Therapy Market With €48 Million Belgian Biotech Deal - www.nationpathindia.com",
       "description": "Mankind Pharma Enters Next-Generation Cancer Therapy Market With €48 Million Belgian Biotech Deal www.nationpathindia.com",
@@ -50,23 +69,6 @@
       "numbers": [
         "48 million"
       ]
-    },
-    {
-      "category": "India",
-      "title": "India’s Pharma Sector Must Go Beyond Generics, Pursue Greater R&D and Innovation: Piyush Goyal - DD News",
-      "description": "India’s Pharma Sector Must Go Beyond Generics, Pursue Greater R&D and Innovation: Piyush Goyal DD News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzRZQ2x6RV9xRnFWWTNyc19jZTBfRE9fdVc5Umx5c1dkOFl3QnZaZ09OYktGNFlJdGdpbGFWQVo4NlVtTEoxQkp4YzBmRW5heThkdlhCclZXWWQ3RjVUaXFtSlF1bGhRZnd4c1M1UXR6TmZUZ2pjWkdDREpIcmJISGZKVlpLZGY0a0RjN2t6cXkyWDBEWGpaLVpaZElNb0hzTDRQNERXbU5Gc3ZqaC0xQzZqYjQ3WTg?oc=5",
-      "published": "2026-10-18T04:01:16+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -80,6 +82,25 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India - Dealroom",
+      "description": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFJsc1gtdDhkMG9vN0FwUVRndWhMaGtHZVVaSzN3azNwb3JBM2RpUm9zanIzeUtrV1dlOTNackNsYzlvUUhuNXJkclI1WVJHNjFoQ2VKci0zaVF6NUtVM3d5Z1BrR0h4QUVFaGpBWjBMTmJPVTlvSDFWQkpJRnROckhIelVmRjgyd2NyM1lPN2dVQ1hBVUJPRDhWRmEyLWRGQTFjMlBfSVk?oc=5",
+      "published": "2026-10-18T13:15:12+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Energon Labs"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Mankind Pharma Enters Next-Generation Cancer Therapy Market With €48 Million Belgian Biotech Deal - www.nationpathindia.com",
