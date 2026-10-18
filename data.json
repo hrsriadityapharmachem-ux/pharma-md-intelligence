@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T22:45:28.009950+00:00",
-  "article_count": 3,
+  "updated": "2026-10-18T23:42:33.328078+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -27,6 +27,25 @@
       "numbers": []
     },
     {
+      "category": "Global",
+      "title": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk - 아시아경제",
+      "description": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yTWhoTkttcEFucUdrdENEakt6bDRLdThxRGlBcTFoczEtc3hrb1p3RFFmSXI5MVZEeko2azVCcE1jZm56cGhpY1hWeFVVeUdDOWNWZF95MjRyZ3BVNnFNXzlyLTU?oc=5",
+      "published": "2026-10-18T23:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Big Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "Mankind Pharma Enters Next-Generation Cancer Therapy Market With €48 Million Belgian Biotech Deal - www.nationpathindia.com",
       "description": "Mankind Pharma Enters Next-Generation Cancer Therapy Market With €48 Million Belgian Biotech Deal www.nationpathindia.com",
@@ -48,23 +67,6 @@
       "numbers": [
         "48 million"
       ]
-    },
-    {
-      "category": "India",
-      "title": "India’s Pharma Sector Must Go Beyond Generics, Pursue Greater R&D and Innovation: Piyush Goyal - DD News",
-      "description": "India’s Pharma Sector Must Go Beyond Generics, Pursue Greater R&D and Innovation: Piyush Goyal DD News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzRZQ2x6RV9xRnFWWTNyc19jZTBfRE9fdVc5Umx5c1dkOFl3QnZaZ09OYktGNFlJdGdpbGFWQVo4NlVtTEoxQkp4YzBmRW5heThkdlhCclZXWWQ3RjVUaXFtSlF1bGhRZnd4c1M1UXR6TmZUZ2pjWkdDREpIcmJISGZKVlpLZGY0a0RjN2t6cXkyWDBEWGpaLVpaZElNb0hzTDRQNERXbU5Gc3ZqaC0xQzZqYjQ3WTg?oc=5",
-      "published": "2026-10-18T04:01:16+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -78,6 +80,25 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk - 아시아경제",
+      "description": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yTWhoTkttcEFucUdrdENEakt6bDRLdThxRGlBcTFoczEtc3hrb1p3RFFmSXI5MVZEeko2azVCcE1jZm56cGhpY1hWeFVVeUdDOWNWZF95MjRyZ3BVNnFNXzlyLTU?oc=5",
+      "published": "2026-10-18T23:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Big Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Hyderabad",
       "title": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India - Dealroom",
