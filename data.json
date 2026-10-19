@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T01:06:10.244685+00:00",
-  "article_count": 6,
+  "updated": "2026-10-19T01:53:56.702657+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 1,
   "watch_count": 0,
@@ -46,20 +46,20 @@
       "numbers": []
     },
     {
-      "category": "Global",
-      "title": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk - 아시아경제",
-      "description": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yTWhoTkttcEFucUdrdENEakt6bDRLdThxRGlBcTFoczEtc3hrb1p3RFFmSXI5MVZEeko2azVCcE1jZm56cGhpY1hWeFVVeUdDOWNWZF95MjRyZ3BVNnFNXzlyLTU?oc=5",
-      "published": "2026-10-18T23:00:00+00:00",
+      "category": "India",
+      "title": "Pharma haircare market in India finds its growth roots in young patients - Business Standard",
+      "description": "Pharma haircare market in India finds its growth roots in young patients Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa0R3S2hkTVZKaW1fUExFWkc0ZWYzakRGb1l5aEZ3d2gtNDNHLW9hUENmV2NLLXpaRVZOV2d1LUljNzh0WjBiYjgtcDNfS2RBc2NyQmFHbGdESzduR3ZBcVNzMmsxRmhDVnhIN3JxQ1RJZFpkRGxUalNzdnVMOWZwTTJMYWRQb2hGSlpJcjk3ZWRjVnVNb3U2TFNUeVh1a3BTNXNaTUdOeTI5Q3JYZzZoMHBlUXBfU3k1V2JqcUc3UnlpRXl5YW9WZWltRFdlSjJkSW1IVGIxTdIB3AFBVV95cUxNS1JoejdMdHR2Mkw3c0p2Zm82N0VNdU1GVnQ3X0lmZmhEVUlrUGRkVUluY0Z5M2ZmUENoYXV6TmxwUHNERm82ZUl4V3JMNGtfamh6ZThHUDRkMGVyTVBRcmxzUGNObnhDNldYTEk2bEVXd3BCcEVULV9FNUluMmZGZVV2LWQxTzhrQkdZMlRlYXFrVWYwdlJOd0RsU0hFdGxSWnNCcTJlazRmSFRmV1hDSUpkS3JSV0NfcmJMcTdpbkU1WElvbDAwWFd2bHY5Wng3bXU1LXV6Nkc4enNB?oc=5",
+      "published": "2026-10-18T18:24:58+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Exports / Markets",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Big Pharma"
+        "Business Standard Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -91,25 +91,6 @@
       "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
       "companies": [
         "The Economic Times Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk - 아시아경제",
-      "description": "[China Shock, K-Industry on the Brink | Biotech] 1. Big Pharma Sweeps Up Chinese Drug Candidates in Bulk 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yTWhoTkttcEFucUdrdENEakt6bDRLdThxRGlBcTFoczEtc3hrb1p3RFFmSXI5MVZEeko2azVCcE1jZm56cGhpY1hWeFVVeUdDOWNWZF95MjRyZ3BVNnFNXzlyLTU?oc=5",
-      "published": "2026-10-18T23:00:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Big Pharma"
       ],
       "project_signals": [],
       "numbers": []
