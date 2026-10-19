@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T10:20:24.908271+00:00",
-  "engine_version": "3.5.0",
-  "article_count": 5,
+  "updated": "2026-10-19T10:27:52.312424+00:00",
+  "engine_version": "3.6.0",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 4,
+  "watch_count": 3,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
@@ -20,8 +20,9 @@
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
+      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
       "companies": [
+        "Cotecna",
         "Energon Labs"
       ],
       "project_signals": [],
@@ -33,7 +34,7 @@
       "what_happened": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "High",
       "confidence": 65,
       "importance_score": 13,
@@ -69,7 +70,7 @@
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
+      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
       "companies": [
         "Citi Pharma",
         "Pakheim International Pharma"
@@ -83,7 +84,7 @@
       "what_happened": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "High",
       "confidence": 65,
       "importance_score": 9,
@@ -170,11 +171,11 @@
     "investigate": [
       {
         "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
-        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       },
       {
         "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
-        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
@@ -192,7 +193,7 @@
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
+      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
       "companies": [
         "Citi Pharma",
         "Pakheim International Pharma"
@@ -206,7 +207,7 @@
       "what_happened": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "High",
       "confidence": 65,
       "importance_score": 9,
@@ -238,8 +239,9 @@
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
+      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
       "companies": [
+        "Cotecna",
         "Energon Labs"
       ],
       "project_signals": [],
@@ -251,7 +253,7 @@
       "what_happened": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "High",
       "confidence": 65,
       "importance_score": 13,
@@ -311,41 +313,6 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Europe turns to China as biotech partner while urging Korea to revamp funding - CHOSUNBIZ",
-      "description": "Europe turns to China as biotech partner while urging Korea to revamp funding - CHOSUNBIZ Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTc3S3k3SFQ3QTNQRDBDZDFkemdqeUlWX3hqYjUwNmtFdXFZX09qQkUxRDZZS1lmRkVmZ3l3MWh4bWRUUXpRZ09TZjI3R1R1dXpVbUNVMW5RMDBKMlpKZEk0OTBMU2lmZ0lhWVVUb2NoRTBhTURqcjVNVWlxZ0M1RNIBlAFBVV95cUxQdW1rQ2poSHRpckpRUUxoelluVU1ySWZSOVNzZC1ZeWtsQndSVVAyalpGaHpVN3FhaG9ZQUcyUkZGSUNUb2IzSC1UMFpza3ppUHctdDZpWHF0UDU5U1NqaHVRdTNIUTgzVG9mOExTU0RORVhHbnoybHE2Qms0aVQwblFrOHFsQWZ5bURoVXU0ZHQtVjBq?oc=5",
-      "published": "2026-10-18T21:00:00+00:00",
-      "source": "Chosunbiz",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The reported shift in biotech partnerships may indicate changes in global collaboration and funding priorities, but the headline alone does not establish an API/CDMO opportunity for Sri Aditya. Relevance depends on the products, geographies and counterparties involved.",
-      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Chosunbiz",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Europe turns to China as biotech partner while urging Korea to revamp funding - CHOSUNBIZ.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "High",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
-      "related_sources": [
-        {
-          "source": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTc3S3k3SFQ3QTNQRDBDZDFkemdqeUlWX3hqYjUwNmtFdXFZX09qQkUxRDZZS1lmRkVmZ3l3MWh4bWRUUXpRZ09TZjI3R1R1dXpVbUNVMW5RMDBKMlpKZEk0OTBMU2lmZ0lhWVVUb2NoRTBhTURqcjVNVWlxZ0M1RNIBlAFBVV95cUxQdW1rQ2poSHRpckpRUUxoelluVU1ySWZSOVNzZC1ZeWtsQndSVVAyalpGaHpVN3FhaG9ZQUcyUkZGSUNUb2IzSC1UMFpza3ppUHctdDZpWHF0UDU5U1NqaHVRdTNIUTgzVG9mOExTU0RORVhHbnoybHE2Qms0aVQwblFrOHFsQWZ5bURoVXU0ZHQtVjBq?oc=5"
-        }
-      ]
-    },
-    {
       "category": "India",
       "title": "OrbiMed raises $3 billion across two new healthcare investment funds",
       "description": "OrbiMed raises $3 billion across two new healthcare investment funds Indian Pharma Post",
@@ -356,7 +323,7 @@
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "Healthcare fund-raising can increase available capital for selected healthcare investments, but it does not establish demand for Sri Aditya's products or indicate that the fund will invest in the company. The fund mandate and portfolio strategy are the relevant evidence.",
+      "why_it_matters": "Fundraising increases the capital available to the fund or organisation, but does not establish demand for Sri Aditya's products or mean Sri Aditya is an eligible investment target. The official mandate and portfolio strategy must be checked first.",
       "md_action": "Check the fund's stated investment mandate and India/API/CDMO focus; only pursue outreach if the mandate and Sri Aditya's funding needs align.",
       "companies": [],
       "project_signals": [
@@ -369,11 +336,11 @@
       "source_name": "Indian Pharma Post",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Investment / Acquisition",
+      "event_type": "Fundraising / Capital",
       "what_happened": "OrbiMed raises $3 billion across two new healthcare investment funds.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "investigation_question": "What is the fund mandate, and does it explicitly include India-based API/CDMO businesses at Sri Aditya's scale?",
       "evidence_level": "High",
       "confidence": 65,
       "importance_score": 9,
