@@ -47,7 +47,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.6.0"
+ENGINE_VERSION = "3.7.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -628,13 +628,25 @@ def determine_confidence(signal, source_name, event_type):
 
 
 def determine_evidence_level(source_name):
-    return "High" if source_name != "Google News RSS" else "Medium"
+    """Rate evidence conservatively: publisher reputation is not primary evidence."""
+    name = (source_name or "").strip().lower()
+    primary_source_markers = [
+        "fda", "ema", "cdsco", "us securities and exchange commission",
+        "securities and exchange commission", "ministry of", "competition commission",
+        "official company announcement", "company newsroom", "press release"
+    ]
+    if any(marker in name for marker in primary_source_markers):
+        return "High"
+    if name and name != "google news rss":
+        return "Medium"
+    return "Low"
 
 
 def determine_fact_status(source_name):
-    if source_name != "Google News RSS":
-        return "Reported by established source - verify primary source before commercial action"
-    return "Reported development - verify primary source before commercial action"
+    name = (source_name or "Google News RSS").strip()
+    if name.lower() == "google news rss":
+        return "Headline surfaced via Google News RSS; publisher and primary evidence not confirmed"
+    return f"Reported by {name}; primary source or underlying documents not independently verified"
 
 
 def build_what_happened(title):
@@ -1022,9 +1034,12 @@ def generate_md_action(
             "Consider outreach only if there is a credible fit with Sri Aditya's capital requirement."
         )
     if event_type == "Investment / Acquisition" and signal == "Watch":
+        buyer = companies[0] if companies else "the reported buyer"
+        target = companies[1] if companies and len(companies) > 1 else "the target company"
         return (
-            "Verify buyer, target, transaction status, products and facilities, then assess whether ownership "
-            "or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya."
+            f"Confirm the reported transaction between {buyer} and {target}, including regulatory/closing status. "
+            "Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific "
+            "customer, supplier, competitor or capacity link is evidenced."
         )
     if "pricing pressure" in title_lower or "competition" in title_lower:
         return (
@@ -1195,6 +1210,14 @@ def generate_why_it_matters(
             "The reported shift in biotech partnerships may indicate changes in global collaboration and funding priorities, "
             "but the headline alone does not establish an API/CDMO opportunity for Sri Aditya. Relevance depends on the "
             "products, geographies and counterparties involved."
+        )
+    if event_type == "Investment / Acquisition":
+        buyer = companies[0] if companies else "the reported buyer"
+        target = companies[1] if companies and len(companies) > 1 else "the target company"
+        return (
+            f"The report concerns an ownership change involving {buyer} and {target}. It could alter product ownership, "
+            "facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. "
+            "Confirm transaction status and the companies' product and facility portfolios before acting."
         )
     subject = ""
     if companies:
