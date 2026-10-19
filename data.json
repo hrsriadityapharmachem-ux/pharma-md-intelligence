@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T10:27:52.312424+00:00",
-  "engine_version": "3.6.0",
+  "updated": "2026-10-19T10:32:17.875860+00:00",
+  "engine_version": "3.7.0",
   "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 1,
@@ -19,8 +19,8 @@
       "business_area": "Manufacturing / Plants",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
+      "why_it_matters": "The report concerns an ownership change involving Cotecna and Energon Labs. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Cotecna and Energon Labs, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [
         "Cotecna",
         "Energon Labs"
@@ -35,10 +35,10 @@
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "High",
+      "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 13,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "fact_status": "Reported by BioPharma APAC; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "BioPharma APAC",
@@ -69,8 +69,8 @@
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
+      "why_it_matters": "The report concerns an ownership change involving Citi Pharma and Pakheim International Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Citi Pharma and Pakheim International Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [
         "Citi Pharma",
         "Pakheim International Pharma"
@@ -85,10 +85,10 @@
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "High",
+      "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "fact_status": "Reported by Investify; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "Investify",
@@ -128,10 +128,10 @@
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential business or operational risk requires verification.",
       "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "High",
+      "evidence_level": "Medium",
       "confidence": 75,
       "importance_score": 11,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "The Economic Times",
@@ -155,12 +155,12 @@
       {
         "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
         "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+        "why": "The report concerns an ownership change involving Cotecna and Energon Labs. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       },
       {
         "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
         "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+        "why": "The report concerns an ownership change involving Citi Pharma and Pakheim International Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       },
       {
         "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
@@ -192,8 +192,8 @@
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
+      "why_it_matters": "The report concerns an ownership change involving Citi Pharma and Pakheim International Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Citi Pharma and Pakheim International Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [
         "Citi Pharma",
         "Pakheim International Pharma"
@@ -208,10 +208,10 @@
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "High",
+      "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "fact_status": "Reported by Investify; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "Investify",
@@ -238,8 +238,8 @@
       "business_area": "Manufacturing / Plants",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Verify buyer, target, transaction status, products and facilities, then assess whether ownership or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya.",
+      "why_it_matters": "The report concerns an ownership change involving Cotecna and Energon Labs. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Cotecna and Energon Labs, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [
         "Cotecna",
         "Energon Labs"
@@ -254,10 +254,10 @@
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "High",
+      "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 13,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "fact_status": "Reported by BioPharma APAC; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "BioPharma APAC",
@@ -301,10 +301,10 @@
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential business or operational risk requires verification.",
       "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "High",
+      "evidence_level": "Medium",
       "confidence": 75,
       "importance_score": 11,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "The Economic Times",
@@ -341,10 +341,10 @@
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What is the fund mandate, and does it explicitly include India-based API/CDMO businesses at Sri Aditya's scale?",
-      "evidence_level": "High",
+      "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "fact_status": "Reported by Indian Pharma Post; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "Indian Pharma Post",
