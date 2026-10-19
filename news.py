@@ -47,7 +47,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.4.0"
+ENGINE_VERSION = "3.5.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -741,84 +741,47 @@ def determine_business_area(text):
 # ============================================================
 
 def detect_companies(title, description):
+    """Conservative company extraction: avoid treating headline fragments as entities."""
+    text = clean_text(f"{title} {description}")
+    candidates = []
 
-    text = (
-        title
-        + " "
-        + description
-    )
-
-    text = clean_text(text)
-
-    companies = []
-
-    known_patterns = [
-
-        r"\b[A-Z][A-Za-z&.\- ]{2,50}"
-        r"(?:Pharma|Pharmaceuticals|Pharmaceutical|"
-        r"Life Sciences|Biotech|Biotechnology|"
-        r"Healthcare|Chemicals|Chemical|"
-        r"CDMO|Laboratories|Labs)\b",
-
-        r"\b[A-Z][A-Za-z&.\-]{2,40}"
-        r"\s+(?:Ltd|Limited|Inc|Corp|Corporation|"
-        r"PLC|LLP|Pvt Ltd)\b"
+    # Strong legal-entity suffixes are the safest signal.
+    legal_patterns = [
+        r"\b[A-Z][A-Za-z0-9&.'-]*(?:\s+[A-Z][A-Za-z0-9&.'-]*){0,5}\s+(?:Ltd\.?|Limited|Inc\.?|Corp\.?|Corporation|PLC|LLP|Pvt\.?\s*Ltd\.?)\b",
     ]
+    for pattern in legal_patterns:
+        candidates.extend(re.findall(pattern, text))
 
-    for pattern in known_patterns:
+    # Brand names with industry suffixes. Restrict the prefix to 1–3 words and
+    # reject common headline verbs/connectors that caused sentence fragments.
+    industry_pattern = r"\b([A-Z][A-Za-z0-9&.'-]*(?:\s+[A-Z][A-Za-z0-9&.'-]*){0,2}\s+(?:Pharma|Pharmaceuticals|Biotech|Biotechnology|Healthcare|Chemicals|Laboratories|Labs))\b"
+    candidates.extend(re.findall(industry_pattern, text))
 
-        matches = re.findall(
-            pattern,
-            text
-        )
-
-        for match in matches:
-
-            cleaned = " ".join(
-                match.split()
-            ).strip()
-
-            if len(cleaned) > 3:
-                companies.append(
-                    cleaned
-                )
-
-    # Remove obvious false positives
+    stop_prefixes = {
+        "with acquisition", "acquisition of", "expansion with", "accelerates india",
+        "india life sciences", "europe turns to", "pharma q2 outlook",
+        "us competition", "global pharma", "indian pharma", "the pharma"
+    }
     blacklist = {
-        "Google News RSS",
-        "Times Of India",
-        "Financial Express",
-        "Business Standard",
-        "Business Wire",
-        "The Pharma Letter",
-        "Hindustan Times",
-        "Pharma Industry",
-        "Indian Pharma",
-        "India Pharma",
-        "Global Pharma"
+        "Google News RSS", "Times Of India", "Financial Express", "Business Standard",
+        "Business Wire", "The Pharma Letter", "Hindustan Times", "Pharma Industry",
+        "Indian Pharma", "India Pharma", "Global Pharma", "BioPharma APAC",
+        "Pharma Q2 Outlook", "US Competition"
     }
 
-    final = []
-
-    for company in companies:
-
-        if company not in blacklist:
-            final.append(company)
-
-    # Unique
     output = []
-
-    for company in final:
-
-        if company not in output:
-            output.append(company)
-
+    for candidate in candidates:
+        cleaned = " ".join(candidate.split()).strip(" ,.;:-")
+        cleaned = re.sub(r"^(?:Hyderabad-Based|Hyderabad based|India-Based|India based|US-Based|UK-Based)\s+", "", cleaned, flags=re.IGNORECASE)
+        low = cleaned.lower()
+        if len(cleaned) < 4 or low in stop_prefixes or cleaned in blacklist:
+            continue
+        words = low.split()
+        if words and words[0] in {"with", "after", "amid", "following", "as", "the", "a", "an", "from", "while"}:
+            continue
+        if cleaned not in output:
+            output.append(cleaned)
     return output[:5]
-
-
-# ============================================================
-# PROJECT / INVESTMENT DETECTION
-# ============================================================
 
 def detect_project_signal(text):
 
@@ -878,6 +841,7 @@ def detect_numbers(text):
                 found.append(cleaned)
 
     return found[:5]
+
 
 # ============================================================
 # PRIORITY SCORE
@@ -948,6 +912,16 @@ def calculate_priority_score(
     if detect_project_signal(text):
         score += 2
 
+    # Generic investment/acquisition headlines are not automatically high-priority
+    # for Sri Aditya unless the text indicates material risk or a specific agreement.
+    generic_watch_event = (
+        signal == "Watch"
+        and any(term in lower_text for term in ["acquisition", "acquires", "acquired", "investment", "funding", "raises "])
+        and not any(term in lower_text for term in ["supply agreement", "contract manufacturing agreement", "recall", "warning letter", "shortage", "plant closure", "regulatory action"])
+    )
+    if generic_watch_event:
+        score = min(score, 8)
+
     if score >= 12:
         return "High"
 
@@ -966,8 +940,33 @@ def generate_md_action(
     business_area,
     category,
     companies,
-    project_signals
+    project_signals,
+    event_type="Industry Development",
+    title=""
 ):
+    title_lower = title.lower()
+    subject = companies[0] if companies else "the reported organization"
+
+    if "raises" in title_lower and any(x in title_lower for x in ["fund", "billion", "capital"]):
+        return (
+            "Check the fund's stated investment mandate and India/API/CDMO focus; only pursue outreach "
+            "if the mandate and Sri Aditya's funding needs align."
+        )
+    if event_type == "Investment / Acquisition" and signal == "Watch":
+        return (
+            f"Verify the transaction status, target's actual product and facility portfolio, "
+            f"and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet."
+        )
+    if "pricing pressure" in title_lower or "competition" in title_lower:
+        return (
+            "Identify which product categories and export markets face pricing pressure, then compare "
+            "Sri Aditya's exposure using internal product-wise sales and margin data."
+        )
+    if "partnership" in title_lower and ("china" in title_lower or "korea" in title_lower or "europe" in title_lower):
+        return (
+            "Determine whether the reported partnership concerns APIs, intermediates or contract manufacturing "
+            "relevant to Sri Aditya's target markets; otherwise keep it as general market context."
+        )
 
     if signal == "Risk":
 
@@ -1094,8 +1093,28 @@ def generate_why_it_matters(
     business_area,
     category,
     event_type,
-    companies=None
+    companies=None,
+    title=""
 ):
+    title_lower = title.lower()
+    if "raises" in title_lower and any(x in title_lower for x in ["fund", "billion", "capital"]):
+        return (
+            "Healthcare fund-raising can increase available capital for selected healthcare investments, "
+            "but it does not establish demand for Sri Aditya's products or indicate that the fund will invest in the company. "
+            "The fund mandate and portfolio strategy are the relevant evidence."
+        )
+    if "pricing pressure" in title_lower or "competition" in title_lower:
+        return (
+            "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. "
+            "The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, "
+            "customer and market mix before treating this as a company-specific risk."
+        )
+    if "china" in title_lower and ("biotech partner" in title_lower or "korea" in title_lower):
+        return (
+            "The reported shift in biotech partnerships may indicate changes in global collaboration and funding priorities, "
+            "but the headline alone does not establish an API/CDMO opportunity for Sri Aditya. Relevance depends on the "
+            "products, geographies and counterparties involved."
+        )
     subject = ""
     if companies:
         subject = f"{companies[0]}: "
@@ -1479,7 +1498,8 @@ def collect_news():
                     business_area,
                     category,
                     event_type,
-                    companies
+                    companies,
+                    analysis_title
                 )
 
 
@@ -1488,7 +1508,9 @@ def collect_news():
                     business_area,
                     category,
                     companies,
-                    project_signals
+                    project_signals,
+                    event_type,
+                    analysis_title
                 )
 
 
