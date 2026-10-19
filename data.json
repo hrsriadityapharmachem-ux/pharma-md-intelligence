@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T09:24:32.896878+00:00",
-  "engine_version": "3.3.0",
-  "article_count": 6,
-  "opportunity_count": 5,
+  "updated": "2026-10-19T10:03:46.058473+00:00",
+  "engine_version": "3.4.0",
+  "article_count": 5,
+  "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 0,
-  "high_priority_count": 3,
+  "watch_count": 4,
+  "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
     {
@@ -15,12 +15,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
       "published": "2026-10-19T02:48:29+00:00",
       "source": "BioPharma APAC",
-      "signal": "Opportunity",
+      "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "High",
-      "relevance": "Hyderabad investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "Cotecna Accelerates India Life Sciences: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
         "Cotecna Accelerates India Life Sciences",
         "With Acquisition of Hyderabad-Based Energon Labs",
@@ -33,46 +33,31 @@
       "location": "India",
       "event_type": "Investment / Acquisition",
       "what_happened": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs.",
-      "business_opportunity": "Investigate new capacity, supplier, raw-material, API or intermediate requirements.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 19,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Global",
-      "title": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma",
-      "description": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma Investify",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHY1a3M0bUY2c1VYSnpCdlhQUThfVWhMd2hfSm9MdFBOTFFIVXc3UW0zU2RUUFZJSWNTSVIwcjZmVWFXeFlyUW5QVzZYTHpDdHBHSVVxYmlzYVNaMEhrUkVjRmlhc2ZKaEl3RkdoVEJSUnNRODZaWGl3b2xCYS1EZmNyZnE4SzMwcUR4cXZUSDMxd1VSWG9LYkNmNEphYUpxRHZhLUZJdVVLcUlJblk1ZGFqeVdMT2c1TTN3?oc=5",
-      "published": "2026-10-19T05:46:22+00:00",
-      "source": "Investify",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Global investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "Citi Pharma: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Citi Pharma",
-        "Pakheim International Pharma Citi Pharma",
-        "Pakheim International Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Investify",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma.",
-      "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 15,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
+      "confidence": 65,
+      "importance_score": 18,
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "BioPharma APAC",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5"
+        },
+        {
+          "source": "Telugu Times",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelZhTTBrT3BPU0Q3UkJmbV96T1h4RGw5ZE55cUxKVzhmUTdSTGNtem1tUVBDMEhlM1JFb25GaGtZSUFoOVJFeEo1aXY5UHN5U0RSdFVsdGJuMGR6RWk0dDNxR3c1ZXpnMHgyVVh0MGxhYlVyNWRzUWdoaGpmNjVhdkphS3ktZVI1cFo4bldCQzZIT2Nxa1lsVk1EMjB2ZGwyQVZ1OGp5TmJMTER2MVk2aG5oVm1Pd3BLcUNia3hMT3hRWVFRal9TaVN5US10T3M5dDRrdmRDcU1kRW9S?oc=5"
+        },
+        {
+          "source": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMVhfUW9hNUpIRjZjeDlNdlBub2JHTFRQZUVwdWo3LTdqS0kyVDRsVEU5S2NxeUNFODl3Y2ZwWXF2YU12dVpPN0NxSkZHVDJnWVJMWGk0cnQ0b19RbmM2TlIyUWd4djJRVENjUTRQc3c3NW9xZzlURjNtb3hZWjlwNzBKRDBFdVRJcl9sZ19fVmZvSmdHaGRJR2ZkbFQ5QnlwY0IzWUF2UFc1d3FGSTJubkxZLUcyVU91VVltX0RkeWJyYXIzVlpablhLb1djOXRkWnFzWXFVQ0JGQnFBbHlON2piU0FmRUkzUFd5enEtLXBnTUhfajA0UWJSMnA3M1RMeWR6UVBNYkNfazRk?oc=5"
+        },
+        {
+          "source": "BioSpectrum India",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRk45LWZ0UlFDQWNERk5vYTJsal9KYlJhcVBoVHJyQVB2c0luZ3R4Sks0M3BtRzcwVklIdWRHbFluVFI0VUd3dm5QQ0VTdy1HX0NtRmt4ZlVkNmN4SnVaUExod3V3Qk5BclNwSUM4T1VVVW5OU1FJTmxOMkRGMXpLSXNFeUdvd0lwSHZtaldnTi1KbGpuYUZ0VTYyUHJWOGVna2pZQlZwaC0wTnF3NzhvM3RIWDVxU0FOYXhYdHZhSlFSdHBNWWUwbDJyb0kxX2RZb2c?oc=5"
+        }
+      ]
     },
     {
       "category": "Global",
@@ -81,152 +66,12 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5",
       "published": "2026-10-19T03:11:13+00:00",
       "source": "Investify",
-      "signal": "Opportunity",
+      "signal": "Watch",
       "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Global investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "CCP authorizes Citi Pharma: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "CCP authorizes Citi Pharma",
-        "Pakheim International Pharma CCP authorizes Citi Pharma",
-        "Pakheim International Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Investify",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma.",
-      "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 15,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    }
-  ],
-  "business_signals": {
-    "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 3,
-    "Manufacturing / Plants": 1,
-    "Supply Chain": 0,
-    "Regulatory": 0,
-    "Exports / Markets": 0,
-    "Specialty Chemicals": 0
-  },
-  "daily_brief": {
-    "attention": [
-      {
-        "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
-        "signal": "Opportunity",
-        "why": "Cotecna Accelerates India Life Sciences: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified."
-      },
-      {
-        "title": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma",
-        "signal": "Opportunity",
-        "why": "Citi Pharma: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified."
-      },
-      {
-        "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
-        "signal": "Opportunity",
-        "why": "CCP authorizes Citi Pharma: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified."
-      }
-    ],
-    "investigate": [
-      {
-        "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
-        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
-      },
-      {
-        "title": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma",
-        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
-      }
-    ],
-    "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
-  },
-  "articles": [
-    {
-      "category": "Global",
-      "title": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma",
-      "description": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma Investify",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHY1a3M0bUY2c1VYSnpCdlhQUThfVWhMd2hfSm9MdFBOTFFIVXc3UW0zU2RUUFZJSWNTSVIwcjZmVWFXeFlyUW5QVzZYTHpDdHBHSVVxYmlzYVNaMEhrUkVjRmlhc2ZKaEl3RkdoVEJSUnNRODZaWGl3b2xCYS1EZmNyZnE4SzMwcUR4cXZUSDMxd1VSWG9LYkNmNEphYUpxRHZhLUZJdVVLcUlJblk1ZGFqeVdMT2c1TTN3?oc=5",
-      "published": "2026-10-19T05:46:22+00:00",
-      "source": "Investify",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Global investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "Citi Pharma: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Citi Pharma",
-        "Pakheim International Pharma Citi Pharma",
-        "Pakheim International Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Investify",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Citi Pharma gets CCP Nod for 100% acquisition of Pakheim International Pharma.",
-      "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 15,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Global",
-      "title": "Citi Pharma gets CCP Nod for Pakheim acquisition",
-      "description": "Citi Pharma gets CCP Nod for Pakheim acquisition Mettis Global",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa09fbGVYV1BwMk1SY3NIVVpfX1hjbWc4c3dNMEFIZ0pjZkJpbnNyRDNSemZuZ19BV3F5TmhLd1ZlR2o0NHV6c0VMSno3bGo1SmF0MVBMNHhNbzIzek9hbXk5Q012M0dmX3Y2N2dLd1dJdmRVWUZubzNTYVZCLWVQc3hRQTZUTXM1NldRSHloZGpHQ3ByVTQ1eDJIbEhwNTlPWEk4OW9IV0RpTi00?oc=5",
-      "published": "2026-10-19T04:53:00+00:00",
-      "source": "Mettis Global",
-      "signal": "Opportunity",
-      "business_area": "Pharma Industry",
       "priority": "Medium",
-      "relevance": "Global investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "Citi Pharma: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Review the development for potential products, customers, suppliers, markets or partnerships.",
-      "companies": [
-        "Citi Pharma",
-        "CCP Nod for Pakheim acquisition Citi Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Mettis Global",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Citi Pharma gets CCP Nod for Pakheim acquisition.",
-      "business_opportunity": "Investigate the commercial requirement before treating this as a confirmed opportunity.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 10,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Global",
-      "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
-      "description": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma Investify",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5",
-      "published": "2026-10-19T03:11:13+00:00",
-      "source": "Investify",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Global investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "CCP authorizes Citi Pharma: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
         "CCP authorizes Citi Pharma",
         "Pakheim International Pharma CCP authorizes Citi Pharma",
@@ -239,46 +84,27 @@
       "location": "Global",
       "event_type": "Investment / Acquisition",
       "what_happened": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma.",
-      "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 15,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
-      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
-      "published": "2026-10-19T02:48:29+00:00",
-      "source": "BioPharma APAC",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Hyderabad investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "Cotecna Accelerates India Life Sciences: the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "Cotecna Accelerates India Life Sciences",
-        "With Acquisition of Hyderabad-Based Energon Labs",
-        "BioPharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BioPharma APAC",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs.",
-      "business_opportunity": "Investigate new capacity, supplier, raw-material, API or intermediate requirements.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
-      "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 19,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "Investify",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHY1a3M0bUY2c1VYSnpCdlhQUThfVWhMd2hfSm9MdFBOTFFIVXc3UW0zU2RUUFZJSWNTSVIwcjZmVWFXeFlyUW5QVzZYTHpDdHBHSVVxYmlzYVNaMEhrUkVjRmlhc2ZKaEl3RkdoVEJSUnNRODZaWGl3b2xCYS1EZmNyZnE4SzMwcUR4cXZUSDMxd1VSWG9LYkNmNEphYUpxRHZhLUZJdVVLcUlJblk1ZGFqeVdMT2c1TTN3?oc=5"
+        },
+        {
+          "source": "Mettis Global",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa09fbGVYV1BwMk1SY3NIVVpfX1hjbWc4c3dNMEFIZ0pjZkJpbnNyRDNSemZuZ19BV3F5TmhLd1ZlR2o0NHV6c0VMSno3bGo1SmF0MVBMNHhNbzIzek9hbXk5Q012M0dmX3Y2N2dLd1dJdmRVWUZubzNTYVZCLWVQc3hRQTZUTXM1NldRSHloZGpHQ3ByVTQ1eDJIbEhwNTlPWEk4OW9IV0RpTi00?oc=5"
+        },
+        {
+          "source": "Investify",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5"
+        }
+      ]
     },
     {
       "category": "India",
@@ -309,7 +135,190 @@
       "evidence_level": "High",
       "confidence": 75,
       "importance_score": 11,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5"
+        }
+      ]
+    }
+  ],
+  "business_signals": {
+    "API / Intermediates": 0,
+    "CDMO / Contract Manufacturing": 0,
+    "Investment / Expansion": 0,
+    "Manufacturing / Plants": 0,
+    "Supply Chain": 0,
+    "Regulatory": 0,
+    "Exports / Markets": 0,
+    "Specialty Chemicals": 0
+  },
+  "daily_brief": {
+    "attention": [
+      {
+        "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
+        "signal": "Risk",
+        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+      }
+    ],
+    "investigate": [
+      {
+        "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
+        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
+      },
+      {
+        "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
+        "question": "What products, molecules, facilities or markets are behind the investment or acquisition?"
+      }
+    ],
+    "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
+  },
+  "articles": [
+    {
+      "category": "Global",
+      "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
+      "description": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma Investify",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5",
+      "published": "2026-10-19T03:11:13+00:00",
+      "source": "Investify",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "CCP authorizes Citi Pharma",
+        "Pakheim International Pharma CCP authorizes Citi Pharma",
+        "Pakheim International Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Investify",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "evidence_level": "High",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "Investify",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHY1a3M0bUY2c1VYSnpCdlhQUThfVWhMd2hfSm9MdFBOTFFIVXc3UW0zU2RUUFZJSWNTSVIwcjZmVWFXeFlyUW5QVzZYTHpDdHBHSVVxYmlzYVNaMEhrUkVjRmlhc2ZKaEl3RkdoVEJSUnNRODZaWGl3b2xCYS1EZmNyZnE4SzMwcUR4cXZUSDMxd1VSWG9LYkNmNEphYUpxRHZhLUZJdVVLcUlJblk1ZGFqeVdMT2c1TTN3?oc=5"
+        },
+        {
+          "source": "Mettis Global",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa09fbGVYV1BwMk1SY3NIVVpfX1hjbWc4c3dNMEFIZ0pjZkJpbnNyRDNSemZuZ19BV3F5TmhLd1ZlR2o0NHV6c0VMSno3bGo1SmF0MVBMNHhNbzIzek9hbXk5Q012M0dmX3Y2N2dLd1dJdmRVWUZubzNTYVZCLWVQc3hRQTZUTXM1NldRSHloZGpHQ3ByVTQ1eDJIbEhwNTlPWEk4OW9IV0RpTi00?oc=5"
+        },
+        {
+          "source": "Investify",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
+      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
+      "published": "2026-10-19T02:48:29+00:00",
+      "source": "BioPharma APAC",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Cotecna Accelerates India Life Sciences",
+        "With Acquisition of Hyderabad-Based Energon Labs",
+        "BioPharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "BioPharma APAC",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "evidence_level": "High",
+      "confidence": 65,
+      "importance_score": 18,
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "BioPharma APAC",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5"
+        },
+        {
+          "source": "Telugu Times",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelZhTTBrT3BPU0Q3UkJmbV96T1h4RGw5ZE55cUxKVzhmUTdSTGNtem1tUVBDMEhlM1JFb25GaGtZSUFoOVJFeEo1aXY5UHN5U0RSdFVsdGJuMGR6RWk0dDNxR3c1ZXpnMHgyVVh0MGxhYlVyNWRzUWdoaGpmNjVhdkphS3ktZVI1cFo4bldCQzZIT2Nxa1lsVk1EMjB2ZGwyQVZ1OGp5TmJMTER2MVk2aG5oVm1Pd3BLcUNia3hMT3hRWVFRal9TaVN5US10T3M5dDRrdmRDcU1kRW9S?oc=5"
+        },
+        {
+          "source": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMVhfUW9hNUpIRjZjeDlNdlBub2JHTFRQZUVwdWo3LTdqS0kyVDRsVEU5S2NxeUNFODl3Y2ZwWXF2YU12dVpPN0NxSkZHVDJnWVJMWGk0cnQ0b19RbmM2TlIyUWd4djJRVENjUTRQc3c3NW9xZzlURjNtb3hZWjlwNzBKRDBFdVRJcl9sZ19fVmZvSmdHaGRJR2ZkbFQ5QnlwY0IzWUF2UFc1d3FGSTJubkxZLUcyVU91VVltX0RkeWJyYXIzVlpablhLb1djOXRkWnFzWXFVQ0JGQnFBbHlON2piU0FmRUkzUFd5enEtLXBnTUhfajA0UWJSMnA3M1RMeWR6UVBNYkNfazRk?oc=5"
+        },
+        {
+          "source": "BioSpectrum India",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRk45LWZ0UlFDQWNERk5vYTJsal9KYlJhcVBoVHJyQVB2c0luZ3R4Sks0M3BtRzcwVklIdWRHbFluVFI0VUd3dm5QQ0VTdy1HX0NtRmt4ZlVkNmN4SnVaUExod3V3Qk5BclNwSUM4T1VVVW5OU1FJTmxOMkRGMXpLSXNFeUdvd0lwSHZtaldnTi1KbGpuYUZ0VTYyUHJWOGVna2pZQlZwaC0wTnF3NzhvM3RIWDVxU0FOYXhYdHZhSlFSdHBNWWUwbDJyb0kxX2RZb2c?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
+      "description": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5",
+      "published": "2026-10-19T00:29:30+00:00",
+      "source": "The Economic Times",
+      "signal": "Risk",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [
+        "US competition to weigh on select players Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Economic Times",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "High",
+      "confidence": 75,
+      "importance_score": 11,
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5"
+        }
+      ]
     },
     {
       "category": "Global",
@@ -318,12 +327,12 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTc3S3k3SFQ3QTNQRDBDZDFkemdqeUlWX3hqYjUwNmtFdXFZX09qQkUxRDZZS1lmRkVmZ3l3MWh4bWRUUXpRZ09TZjI3R1R1dXpVbUNVMW5RMDBKMlpKZEk0OTBMU2lmZ0lhWVVUb2NoRTBhTURqcjVNVWlxZ0M1RNIBlAFBVV95cUxQdW1rQ2poSHRpckpRUUxoelluVU1ySWZSOVNzZC1ZeWtsQndSVVAyalpGaHpVN3FhaG9ZQUcyUkZGSUNUb2IzSC1UMFpza3ppUHctdDZpWHF0UDU5U1NqaHVRdTNIUTgzVG9mOExTU0RORVhHbnoybHE2Qms0aVQwblFrOHFsQWZ5bURoVXU0ZHQtVjBq?oc=5",
       "published": "2026-10-18T21:00:00+00:00",
       "source": "Chosunbiz",
-      "signal": "Opportunity",
+      "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
-      "relevance": "Global investment/acquisition signal requiring verification of products, facilities, capacity and counterparties.",
-      "why_it_matters": "the reported investment or acquisition may change product ownership, capacity, market access or sourcing needs. The target's products, facilities and integration plans should be verified.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
@@ -332,13 +341,59 @@
       "location": "Global",
       "event_type": "Investment / Acquisition",
       "what_happened": "Europe turns to China as biotech partner while urging Korea to revamp funding - CHOSUNBIZ.",
-      "business_opportunity": "Investigate the investment's product portfolio, capacity plans and potential sourcing needs.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "High",
-      "confidence": 75,
-      "importance_score": 10,
-      "fact_status": "Reported by established source - verify primary source before commercial action"
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTc3S3k3SFQ3QTNQRDBDZDFkemdqeUlWX3hqYjUwNmtFdXFZX09qQkUxRDZZS1lmRkVmZ3l3MWh4bWRUUXpRZ09TZjI3R1R1dXpVbUNVMW5RMDBKMlpKZEk0OTBMU2lmZ0lhWVVUb2NoRTBhTURqcjVNVWlxZ0M1RNIBlAFBVV95cUxQdW1rQ2poSHRpckpRUUxoelluVU1ySWZSOVNzZC1ZeWtsQndSVVAyalpGaHpVN3FhaG9ZQUcyUkZGSUNUb2IzSC1UMFpza3ppUHctdDZpWHF0UDU5U1NqaHVRdTNIUTgzVG9mOExTU0RORVhHbnoybHE2Qms0aVQwblFrOHFsQWZ5bURoVXU0ZHQtVjBq?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "OrbiMed raises $3 billion across two new healthcare investment funds",
+      "description": "OrbiMed raises $3 billion across two new healthcare investment funds Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5",
+      "published": "2026-10-17T15:06:20+00:00",
+      "source": "Indian Pharma Post",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [
+        "3 billion",
+        "$3 billion"
+      ],
+      "source_name": "Indian Pharma Post",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "OrbiMed raises $3 billion across two new healthcare investment funds.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
+      "evidence_level": "High",
+      "confidence": 65,
+      "importance_score": 14,
+      "fact_status": "Reported by established source - verify primary source before commercial action",
+      "related_sources": [
+        {
+          "source": "Indian Pharma Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5"
+        }
+      ]
     }
   ]
 }
