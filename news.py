@@ -5,6 +5,7 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from html import unescape
 from urllib.parse import unquote
+from difflib import SequenceMatcher
 import re
 import time
 
@@ -46,7 +47,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.3.0"
+ENGINE_VERSION = "3.4.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -647,6 +648,7 @@ def calculate_importance_score(signal, priority, category, business_area, text):
 # ============================================================
 
 def determine_signal(text):
+    """Classify the reported development, not an assumed Sri Aditya opportunity."""
     lower = text.lower()
 
     potential_regulatory = [
@@ -654,16 +656,11 @@ def determine_signal(text):
         "likely to review", "reportedly considering", "proposed action",
         "possible action", "plans to review", "considering action"
     ]
-
     regulatory_context = [
         "regulator", "regulatory", "fda", "ema", "cdsco", "inspection",
         "compliance", "warning", "non-compliance"
     ]
-
-    if (
-        any(x in lower for x in potential_regulatory)
-        and any(x in lower for x in regulatory_context)
-    ):
+    if any(x in lower for x in potential_regulatory) and any(x in lower for x in regulatory_context):
         return "Watch"
 
     confirmed_risk = [
@@ -673,45 +670,31 @@ def determine_signal(text):
         "contamination", "regulatory action", "regulatory warning",
         "sanction", "ban on", "suspended", "suspension of manufacturing"
     ]
-
     if any(x in lower for x in confirmed_risk):
         return "Risk"
 
-    strong_opportunity = [
+    # Only explicit commercial agreements qualify as an Opportunity signal.
+    # Investment, acquisitions and capacity announcements are industry signals,
+    # not evidence of a Sri Aditya lead.
+    explicit_agreement = [
         "cdmo contract", "contract manufacturing agreement",
-        "supply agreement", "strategic partnership",
-        "commercial agreement", "capacity expansion", "new plant",
-        "new facility", "manufacturing facility", "plant expansion",
-        "facility expansion", "greenfield", "brownfield",
-        "market entry", "new market", "production expansion"
+        "supply agreement", "commercial agreement",
+        "signed manufacturing agreement", "awarded contract",
+        "wins contract", "won contract", "long-term supply contract"
     ]
-
-    if any(x in lower for x in strong_opportunity):
+    if any(x in lower for x in explicit_agreement):
         return "Opportunity"
 
-    investment_terms = [
-        "acquisition", "acquires", "acquired", "investment",
-        "invests", "funding", "merger", "stake"
-    ]
-
-    if any(x in lower for x in investment_terms):
-        opportunity_terms = [
-            "manufacturing", "capacity", "api", "intermediate", "cdmo",
-            "contract", "supply", "supplier", "partnership", "facility",
-            "plant", "production", "pharma", "pharmaceutical", "biotech",
-            "drug", "medicines"
-        ]
-        # Investment/acquisition is a commercial signal when the story is
-        # clearly connected to pharma/biotech/manufacturing, even if the
-        # headline does not spell out the exact capacity implication.
-        if any(x in lower for x in opportunity_terms):
-            return "Opportunity"
-        return "Watch"
-
-    if any(x in lower for x in [
+    industry_development = [
+        "strategic partnership", "capacity expansion", "new plant",
+        "new facility", "plant expansion", "facility expansion",
+        "greenfield", "brownfield", "market entry", "new market",
+        "production expansion", "acquisition", "acquires", "acquired",
+        "investment", "invests", "funding", "merger", "stake",
         "fda approval", "ema approval", "cdsco approval",
         "approved by", "regulatory approval"
-    ]):
+    ]
+    if any(x in lower for x in industry_development):
         return "Watch"
 
     if any(keyword.lower() in lower for keyword in RISK_KEYWORDS):
@@ -1345,7 +1328,7 @@ def collect_news():
 
     now = datetime.now(timezone.utc)
 
-    cutoff = now - timedelta(hours=36)
+    cutoff = now - timedelta(hours=48)
 
     articles = []
 
@@ -1636,131 +1619,69 @@ def collect_news():
 # SMART DEDUPLICATION
 # ============================================================
 
-def deduplicate_articles(
-    articles
-):
+def deduplicate_articles(articles):
+    """Merge only likely reports of the same development; never group by broad topic alone."""
+    priority_rank = {"Critical": 4, "High": 3, "Medium": 2, "Low": 1}
+    unique = []
 
-    unique = {}
-
-    for article in articles:
-
-        normalized = normalize_title(
-            article["title"]
-        )
-
-        # Strong duplicate detection
-        key = normalized
-
-        if key not in unique:
-
-            unique[key] = article
-
-        else:
-
-            existing = unique[key]
-
-            # Prefer higher priority
-            priority_rank = {
-                "High": 3,
-                "Medium": 2,
-                "Low": 1
-            }
-
-            if priority_rank.get(
-                article["priority"],
-                0
-            ) > priority_rank.get(
-                existing["priority"],
-                0
-            ):
-
-                unique[key] = article
-
-
-    articles = list(
-        unique.values()
-    )
-
-
-    # --------------------------------------------------------
-    # Group similar PLI / investment stories
-    # --------------------------------------------------------
-
-    grouped = {}
+    def title_tokens(title):
+        ignored = {"pharma", "pharmaceutical", "industry", "india", "indian", "reports", "report", "says", "new", "gets", "get", "receives", "received", "nod", "approval"}
+        tokens = {t for t in normalize_title(title).split() if len(t) > 2 and t not in ignored}
+        synonyms = {"acquire": "acquisition", "acquires": "acquisition", "acquired": "acquisition", "acquiring": "acquisition", "merger": "merger", "merges": "merger", "invests": "investment", "invested": "investment", "investing": "investment"}
+        return {synonyms.get(t, t) for t in tokens}
 
     for article in articles:
+        title = article.get("title", "")
+        normalized = normalize_title(title)
+        tokens = title_tokens(title)
+        duplicate_index = None
 
-        title = (
-            article["title"]
-            + " "
-            + article["description"]
-        ).lower()
+        for i, existing in enumerate(unique):
+            existing_title = existing.get("title", "")
+            existing_normalized = normalize_title(existing_title)
+            if normalized == existing_normalized:
+                duplicate_index = i
+                break
+            ratio = SequenceMatcher(None, normalized, existing_normalized).ratio()
+            other_tokens = title_tokens(existing_title)
+            overlap = len(tokens & other_tokens) / max(1, len(tokens | other_tokens))
+            # Require strong headline similarity or substantial specific-token overlap.
+            shared = tokens & other_tokens
+            shared_event = bool(shared & {"acquisition", "merger", "investment", "contract", "recall", "warning", "shortage", "expansion", "agreement", "approval"})
+            same_specific_event = len(shared) >= 3 and shared_event
+            if ratio >= 0.86 or overlap >= 0.72 or same_specific_event:
+                duplicate_index = i
+                break
 
-        if (
-            "pli" in title
-            and (
-                "bulk drug" in title
-                or "pharma" in title
-                or "api" in title
-            )
-        ):
+        if duplicate_index is None:
+            article.setdefault("related_sources", [])
+            if article.get("link"):
+                article["related_sources"].append({"source": article.get("source", ""), "link": article["link"]})
+            unique.append(article)
+            continue
 
-            key = "pli_bulk_drug"
+        existing = unique[duplicate_index]
+        sources = list(existing.get("related_sources", []))
+        candidate_sources = article.get("related_sources", [])
+        if not candidate_sources and article.get("link"):
+            candidate_sources = [{"source": article.get("source", ""), "link": article["link"]}]
+        known_links = {x.get("link") for x in sources}
+        for source in candidate_sources:
+            if source.get("link") and source.get("link") not in known_links:
+                sources.append(source)
+                known_links.add(source.get("link"))
 
-        elif (
-            "cdmo" in title
-            and (
-                "india" in title
-                or "indian" in title
-            )
-        ):
-
-            key = "indian_cdmo"
-
+        # Keep the strongest article record while preserving all discovered source links.
+        existing_rank = priority_rank.get(existing.get("priority"), 0)
+        candidate_rank = priority_rank.get(article.get("priority"), 0)
+        if candidate_rank > existing_rank or (candidate_rank == existing_rank and len(article.get("description", "")) > len(existing.get("description", ""))):
+            article["related_sources"] = sources
+            unique[duplicate_index] = article
         else:
+            existing["related_sources"] = sources
 
-            key = normalize_title(
-                article["title"]
-            )
-
-
-        if key not in grouped:
-
-            grouped[key] = article
-
-        else:
-
-            existing = grouped[key]
-
-            priority_rank = {
-                "High": 3,
-                "Medium": 2,
-                "Low": 1
-            }
-
-            if priority_rank.get(
-                article["priority"],
-                0
-            ) > priority_rank.get(
-                existing["priority"],
-                0
-            ):
-
-                grouped[key] = article
-
-
-    articles = list(
-        grouped.values()
-    )
-
-
-    articles.sort(
-        key=lambda x: x["published"],
-        reverse=True
-    )
-
-
-    return articles
+    unique.sort(key=lambda x: x.get("published", ""), reverse=True)
+    return unique
 
 
 # ============================================================
