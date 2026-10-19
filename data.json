@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T10:03:46.058473+00:00",
-  "engine_version": "3.4.0",
+  "updated": "2026-10-19T10:20:24.908271+00:00",
+  "engine_version": "3.5.0",
   "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 1,
   "watch_count": 4,
-  "high_priority_count": 2,
+  "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
     {
@@ -17,14 +17,12 @@
       "source": "BioPharma APAC",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
-      "priority": "High",
+      "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
       "companies": [
-        "Cotecna Accelerates India Life Sciences",
-        "With Acquisition of Hyderabad-Based Energon Labs",
-        "BioPharma"
+        "Energon Labs"
       ],
       "project_signals": [],
       "numbers": [],
@@ -38,7 +36,7 @@
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "High",
       "confidence": 65,
-      "importance_score": 18,
+      "importance_score": 13,
       "fact_status": "Reported by established source - verify primary source before commercial action",
       "related_sources": [
         {
@@ -71,10 +69,9 @@
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
       "companies": [
-        "CCP authorizes Citi Pharma",
-        "Pakheim International Pharma CCP authorizes Citi Pharma",
+        "Citi Pharma",
         "Pakheim International Pharma"
       ],
       "project_signals": [],
@@ -117,11 +114,9 @@
       "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
-      "companies": [
-        "US competition to weigh on select players Pharma"
-      ],
+      "why_it_matters": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk.",
+      "md_action": "Identify which product categories and export markets face pricing pressure, then compare Sri Aditya's exposure using internal product-wise sales and margin data.",
+      "companies": [],
       "project_signals": [],
       "numbers": [],
       "source_name": "The Economic Times",
@@ -169,7 +164,7 @@
       {
         "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
         "signal": "Risk",
-        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+        "why": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk."
       }
     ],
     "investigate": [
@@ -197,10 +192,9 @@
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
       "companies": [
-        "CCP authorizes Citi Pharma",
-        "Pakheim International Pharma CCP authorizes Citi Pharma",
+        "Citi Pharma",
         "Pakheim International Pharma"
       ],
       "project_signals": [],
@@ -241,14 +235,12 @@
       "source": "BioPharma APAC",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
-      "priority": "High",
+      "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
       "companies": [
-        "Cotecna Accelerates India Life Sciences",
-        "With Acquisition of Hyderabad-Based Energon Labs",
-        "BioPharma"
+        "Energon Labs"
       ],
       "project_signals": [],
       "numbers": [],
@@ -262,7 +254,7 @@
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "High",
       "confidence": 65,
-      "importance_score": 18,
+      "importance_score": 13,
       "fact_status": "Reported by established source - verify primary source before commercial action",
       "related_sources": [
         {
@@ -294,11 +286,9 @@
       "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
-      "companies": [
-        "US competition to weigh on select players Pharma"
-      ],
+      "why_it_matters": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk.",
+      "md_action": "Identify which product categories and export markets face pricing pressure, then compare Sri Aditya's exposure using internal product-wise sales and margin data.",
+      "companies": [],
       "project_signals": [],
       "numbers": [],
       "source_name": "The Economic Times",
@@ -331,8 +321,8 @@
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "why_it_matters": "The reported shift in biotech partnerships may indicate changes in global collaboration and funding priorities, but the headline alone does not establish an API/CDMO opportunity for Sri Aditya. Relevance depends on the products, geographies and counterparties involved.",
+      "md_action": "Verify the transaction status, target's actual product and facility portfolio, and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
@@ -364,10 +354,10 @@
       "source": "Indian Pharma Post",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
-      "priority": "High",
+      "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "why_it_matters": "Healthcare fund-raising can increase available capital for selected healthcare investments, but it does not establish demand for Sri Aditya's products or indicate that the fund will invest in the company. The fund mandate and portfolio strategy are the relevant evidence.",
+      "md_action": "Check the fund's stated investment mandate and India/API/CDMO focus; only pursue outreach if the mandate and Sri Aditya's funding needs align.",
       "companies": [],
       "project_signals": [
         "investment"
@@ -386,7 +376,7 @@
       "investigation_question": "What products, molecules, facilities or markets are behind the investment or acquisition?",
       "evidence_level": "High",
       "confidence": 65,
-      "importance_score": 14,
+      "importance_score": 9,
       "fact_status": "Reported by established source - verify primary source before commercial action",
       "related_sources": [
         {
