@@ -1,12 +1,34 @@
 {
-  "updated": "2026-10-19T01:53:56.702657+00:00",
-  "article_count": 5,
+  "updated": "2026-10-19T02:54:43.164511+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 0,
-  "high_priority_count": 0,
+  "watch_count": 1,
+  "high_priority_count": 1,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Hyderabad",
+      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs - BioPharma APAC",
+      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
+      "published": "2026-10-19T02:48:29+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Cotecna Accelerates India Life Sciences",
+        "With Acquisition of Hyderabad-Based Energon Labs",
+        "BioPharma APAC Cotecna Accelerates India Life Sciences",
+        "BioPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players - The Economic Times",
@@ -44,25 +66,6 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Pharma haircare market in India finds its growth roots in young patients - Business Standard",
-      "description": "Pharma haircare market in India finds its growth roots in young patients Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa0R3S2hkTVZKaW1fUExFWkc0ZWYzakRGb1l5aEZ3d2gtNDNHLW9hUENmV2NLLXpaRVZOV2d1LUljNzh0WjBiYjgtcDNfS2RBc2NyQmFHbGdESzduR3ZBcVNzMmsxRmhDVnhIN3JxQ1RJZFpkRGxUalNzdnVMOWZwTTJMYWRQb2hGSlpJcjk3ZWRjVnVNb3U2TFNUeVh1a3BTNXNaTUdOeTI5Q3JYZzZoMHBlUXBfU3k1V2JqcUc3UnlpRXl5YW9WZWltRFdlSjJkSW1IVGIxTdIB3AFBVV95cUxNS1JoejdMdHR2Mkw3c0p2Zm82N0VNdU1GVnQ3X0lmZmhEVUlrUGRkVUluY0Z5M2ZmUENoYXV6TmxwUHNERm82ZUl4V3JMNGtfamh6ZThHUDRkMGVyTVBRcmxzUGNObnhDNldYTEk2bEVXd3BCcEVULV9FNUluMmZGZVV2LWQxTzhrQkdZMlRlYXFrVWYwdlJOd0RsU0hFdGxSWnNCcTJlazRmSFRmV1hDSUpkS3JSV0NfcmJMcTdpbkU1WElvbDAwWFd2bHY5Wng3bXU1LXV6Nkc4enNB?oc=5",
-      "published": "2026-10-18T18:24:58+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Business Standard Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -76,6 +79,28 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs - BioPharma APAC",
+      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
+      "published": "2026-10-19T02:48:29+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Cotecna Accelerates India Life Sciences",
+        "With Acquisition of Hyderabad-Based Energon Labs",
+        "BioPharma APAC Cotecna Accelerates India Life Sciences",
+        "BioPharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players - The Economic Times",
