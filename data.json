@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T13:10:55.355799+00:00",
-  "article_count": 6,
+  "updated": "2026-10-19T14:05:20.880872+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 1,
   "watch_count": 1,
@@ -49,20 +49,21 @@
       "numbers": []
     },
     {
-      "category": "Hyderabad",
-      "title": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India - Dealroom",
-      "description": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFJsc1gtdDhkMG9vN0FwUVRndWhMaGtHZVVaSzN3azNwb3JBM2RpUm9zanIzeUtrV1dlOTNackNsYzlvUUhuNXJkclI1WVJHNjFoQ2VKci0zaVF6NUtVM3d5Z1BrR0h4QUVFaGpBWjBMTmJPVTlvSDFWQkpJRnROckhIelVmRjgyd2NyM1lPN2dVQ1hBVUJPRDhWRmEyLWRGQTFjMlBfSVk?oc=5",
-      "published": "2026-10-18T13:15:12+00:00",
+      "category": "India",
+      "title": "Duopharma settles trademark suit with Sun Pharma - The Malaysian Reserve",
+      "description": "Duopharma settles trademark suit with Sun Pharma The Malaysian Reserve",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFBDeW5vRWREdURiUXNnS3VNX0g2WHVGa2xHZDdMVkZDeE1DcmJnSms5Tm5iSHVPOXRxSUZWVzJJQXJxazZBN21TM2JwaXpqc3piRjA4RjA2bHBBQ3poYnhwRXlmMlR1MGtLdFlBMWdmazltOWNsWmN3eHdRelhJYnRGTVZuMmdmMXJzM1RMUHpsMG8yLURN?oc=5",
+      "published": "2026-10-19T10:55:48+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Regulatory",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Energon Labs"
+        "Duopharma settles trademark suit with Sun Pharma",
+        "Reserve Duopharma settles trademark suit with Sun Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -175,25 +176,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Business Standard Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India - Dealroom",
-      "description": "Cotecna buys Hyderabad's Energon Labs to expand pharma testing in India Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFJsc1gtdDhkMG9vN0FwUVRndWhMaGtHZVVaSzN3azNwb3JBM2RpUm9zanIzeUtrV1dlOTNackNsYzlvUUhuNXJkclI1WVJHNjFoQ2VKci0zaVF6NUtVM3d5Z1BrR0h4QUVFaGpBWjBMTmJPVTlvSDFWQkpJRnROckhIelVmRjgyd2NyM1lPN2dVQ1hBVUJPRDhWRmEyLWRGQTFjMlBfSVk?oc=5",
-      "published": "2026-10-18T13:15:12+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Energon Labs"
       ],
       "project_signals": [],
       "numbers": []
