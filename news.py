@@ -47,7 +47,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.5.0"
+ENGINE_VERSION = "3.6.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -549,25 +549,70 @@ def extract_source(title, description="", source_hint=""):
 
 
 def determine_event_type(text):
+    """Classify the event described by the headline without overcalling acquisitions."""
     lower = text.lower()
-    if any(x in lower for x in ["may review", "may investigate", "could review", "could investigate", "warning letter", "import alert", "regulatory action", "non-compliance", "failed inspection"]):
+
+    if any(x in lower for x in [
+        "may review", "may investigate", "could review", "could investigate",
+        "warning letter", "import alert", "regulatory action", "non-compliance",
+        "failed inspection", "fda warning", "ema warning"
+    ]):
         return "Regulatory Action"
-    if any(x in lower for x in ["shortage", "supply disruption", "supply chain disruption", "production halt", "plant closure", "recall"]):
+
+    if any(x in lower for x in [
+        "shortage", "supply disruption", "supply chain disruption",
+        "production halt", "plant closure", "recall", "export restriction"
+    ]):
         return "Supply Disruption"
-    if any(x in lower for x in ["supply agreement", "commercial agreement", "contract manufacturing agreement", "strategic partnership", "partnership", "collaboration"]):
+
+    # Fund formation / fundraising is not the same event as an acquisition.
+    if any(x in lower for x in [
+        "raises $", "raises £", "raises €", "raises ₹", "raises usd",
+        "raises in funding", "fundraising", "fund-raising", "investment fund",
+        "healthcare investment funds", "closes fund", "fund close", "fund launch"
+    ]):
+        return "Fundraising / Capital"
+
+    # Partnership language must be checked before generic investment terms.
+    if any(x in lower for x in [
+        "strategic partnership", "partnership", "biotech partner",
+        "partners with", "partnered with", "collaboration", "collaborates with",
+        "joint venture", "memorandum of understanding", "mou with"
+    ]):
+        return "Partnership / Collaboration"
+
+    if any(x in lower for x in [
+        "supply agreement", "commercial agreement", "contract manufacturing agreement",
+        "signed manufacturing agreement", "long-term supply contract", "wins contract",
+        "won contract", "awarded contract"
+    ]):
         return "Commercial Agreement"
-    if any(x in lower for x in ["capacity expansion", "new plant", "new facility", "plant expansion", "facility expansion", "manufacturing facility", "production capacity"]):
+
+    if any(x in lower for x in [
+        "capacity expansion", "new plant", "new facility", "plant expansion",
+        "facility expansion", "manufacturing facility", "production capacity",
+        "greenfield", "brownfield"
+    ]):
         return "Capacity Expansion"
-    if any(x in lower for x in ["acquisition", "acquires", "acquired", "investment", "invests", "funding", "merger", "stake"]):
+
+    if any(x in lower for x in [
+        "acquisition", "acquires", "acquired", "merger", "merges with",
+        "stake acquisition", "buys majority stake", "takes over"
+    ]):
         return "Investment / Acquisition"
+
     if any(x in lower for x in ["export", "exports", "market entry", "new market", "international market"]):
         return "Market / Export Move"
+
     if any(x in lower for x in ["fda approval", "ema approval", "cdsco approval", "approved by", "regulatory approval"]):
         return "Regulatory Approval"
+
     if any(x in lower for x in ["joins", "appointed", "appoints", "chief executive", "chief business officer", "ceo"]):
         return "Leadership Change"
+
     if any(x in lower for x in ["conference", "summit", "expo", "exhibition", "cphi"]):
         return "Industry Event"
+
     return "Industry Development"
 
 
@@ -623,14 +668,22 @@ def build_risk(signal, business_area, text):
 
 
 def build_investigation_question(event_type, business_area):
+    if event_type == "Partnership / Collaboration":
+        return "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?"
+    if event_type == "Fundraising / Capital":
+        return "What is the fund mandate, and does it explicitly include India-based API/CDMO businesses at Sri Aditya's scale?"
     if event_type == "Investment / Acquisition":
-        return "What products, molecules, facilities or markets are behind the investment or acquisition?"
-    if event_type == "Regulatory Action":
-        return "Which company, product and market are affected, and could the action create supply or customer disruption?"
-    if event_type == "Supply Disruption":
-        return "Which products, raw materials or suppliers are affected, and is there a potential supply gap?"
+        return "What are the buyer, target, transaction status, product portfolio and facility implications?"
     if event_type == "Capacity Expansion":
-        return "What capacity is being added, for which products, and what supplier or customer demand could follow?"
+        return "Which products, capacity, location and commissioning timeline are confirmed?"
+    if event_type == "Commercial Agreement":
+        return "Which products, volumes, counterparties and territories are covered by the agreement?"
+    if event_type == "Supply Disruption":
+        return "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
+    if event_type in ["Regulatory Action", "Regulatory Approval"]:
+        return "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+    if event_type == "Market / Export Move":
+        return "Which target market and product categories are involved, and what access requirements apply?"
     return f"What evidence would link this {business_area} development to Sri Aditya's products, customers or suppliers?"
 
 
@@ -686,7 +739,7 @@ def determine_signal(text):
         return "Opportunity"
 
     industry_development = [
-        "strategic partnership", "capacity expansion", "new plant",
+        "strategic partnership", "partnership", "biotech partner", "partners with", "partnered with", "collaboration", "collaborates with", "capacity expansion", "new plant",
         "new facility", "plant expansion", "facility expansion",
         "greenfield", "brownfield", "market entry", "new market",
         "production expansion", "acquisition", "acquires", "acquired",
@@ -744,6 +797,11 @@ def detect_companies(title, description):
     """Conservative company extraction: avoid treating headline fragments as entities."""
     text = clean_text(f"{title} {description}")
     candidates = []
+
+    # Explicitly recognised organisation names that lack a legal suffix in headlines.
+    # Keep this list small and evidence-based to avoid inventing entities.
+    if re.search(r"\bCotecna\b", text, re.IGNORECASE):
+        candidates.append("Cotecna")
 
     # Strong legal-entity suffixes are the safest signal.
     legal_patterns = [
@@ -952,10 +1010,21 @@ def generate_md_action(
             "Check the fund's stated investment mandate and India/API/CDMO focus; only pursue outreach "
             "if the mandate and Sri Aditya's funding needs align."
         )
+    if event_type == "Partnership / Collaboration":
+        return (
+            "Identify the organisations, technology or product scope, geography and whether the arrangement "
+            "covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct "
+            "customer, supplier or product link is evidenced."
+        )
+    if event_type == "Fundraising / Capital":
+        return (
+            "Check the fund's official mandate, investment stage, India exposure and healthcare/API/CDMO focus. "
+            "Consider outreach only if there is a credible fit with Sri Aditya's capital requirement."
+        )
     if event_type == "Investment / Acquisition" and signal == "Watch":
         return (
-            f"Verify the transaction status, target's actual product and facility portfolio, "
-            f"and whether it changes supplier or customer requirements; do not treat it as a Sri Aditya lead yet."
+            "Verify buyer, target, transaction status, products and facilities, then assess whether ownership "
+            "or capacity changes create a specific supplier, customer or competitive implication for Sri Aditya."
         )
     if "pricing pressure" in title_lower or "competition" in title_lower:
         return (
@@ -1097,6 +1166,18 @@ def generate_why_it_matters(
     title=""
 ):
     title_lower = title.lower()
+    if event_type == "Partnership / Collaboration":
+        return (
+            "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance "
+            "to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, "
+            "intermediates or contract manufacturing are involved; no direct commercial opportunity is established."
+        )
+    if event_type == "Fundraising / Capital":
+        return (
+            "Fundraising increases the capital available to the fund or organisation, but does not establish "
+            "demand for Sri Aditya's products or mean Sri Aditya is an eligible investment target. The official "
+            "mandate and portfolio strategy must be checked first."
+        )
     if "raises" in title_lower and any(x in title_lower for x in ["fund", "billion", "capital"]):
         return (
             "Healthcare fund-raising can increase available capital for selected healthcare investments, "
