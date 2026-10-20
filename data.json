@@ -1,31 +1,26 @@
 {
-  "updated": "2026-10-20T01:54:35.609529+00:00",
+  "updated": "2026-10-20T02:55:35.088667+00:00",
   "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 1,
+  "watch_count": 0,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "Hyderabad",
-      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs - BioPharma APAC",
-      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
-      "published": "2026-10-19T02:48:29+00:00",
+      "category": "India",
+      "title": "Indian oncology drug price shakeup: How NPPA price cap on 137 cancer drugs could ease treatment costs - ThePrint",
+      "description": "Indian oncology drug price shakeup: How NPPA price cap on 137 cancer drugs could ease treatment costs ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFRjUU9nUTBkLTZVX3BKT2ZhYUFJeHNIWHB3dC05SGF0YWlVVEdzSG5zckNGLVEzWnhNMnlDVDh1b1BYV3Zkcmc0WFFTbGtSRnhnYXk4VjRENFR4cWE5bUVOYjZxd2lVdjlpeEJrdGNVajZQMnAwcFpLYWlrUGZnQ21iUlBxYk1rUFJuWWJOWVl5QTFNcFJhUy1KLWdmTXRIX0VyWVdOUk53WFRRSU16Szk3Sm12NldVRGxEQkdONUhfMUgwbVFMbUZ2QWIyYkhGbVHSAdcBQVVfeXFMTTFOZHpuVmY2NnNFTDRDMU9CcDUzTGpaY2x4c3dpOTA2TkY3aUpBNVA1T3VoalNYUlQzMUxlWklYbzdHY1ZONGk1ZUlqblFjbFVEcGZlYVJoUzF4T1ItUklGV0lzbV9QaUs5MVRYejdKZHVKSkllWDg4QzZrX1Ffb0pBRnlUbFJKNHFzWjBab0dVdjJWTE50WllESVhla1RQZkRmd0FEQmNpLTlITTFyN2I4NDdIOEltY2NfLUp1NFR6bEVUczRTaVZCUkQya2xROW1oSzVxNWM?oc=5",
+      "published": "2026-10-20T01:30:21+00:00",
       "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Cotecna Accelerates India Life Sciences",
-        "With Acquisition of Hyderabad-Based Energon Labs",
-        "BioPharma APAC Cotecna Accelerates India Life Sciences",
-        "BioPharma"
-      ],
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
@@ -62,6 +57,23 @@
   },
   "articles": [
     {
+      "category": "India",
+      "title": "Indian oncology drug price shakeup: How NPPA price cap on 137 cancer drugs could ease treatment costs - ThePrint",
+      "description": "Indian oncology drug price shakeup: How NPPA price cap on 137 cancer drugs could ease treatment costs ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFRjUU9nUTBkLTZVX3BKT2ZhYUFJeHNIWHB3dC05SGF0YWlVVEdzSG5zckNGLVEzWnhNMnlDVDh1b1BYV3Zkcmc0WFFTbGtSRnhnYXk4VjRENFR4cWE5bUVOYjZxd2lVdjlpeEJrdGNVajZQMnAwcFpLYWlrUGZnQ21iUlBxYk1rUFJuWWJOWVl5QTFNcFJhUy1KLWdmTXRIX0VyWVdOUk53WFRRSU16Szk3Sm12NldVRGxEQkdONUhfMUgwbVFMbUZ2QWIyYkhGbVHSAdcBQVVfeXFMTTFOZHpuVmY2NnNFTDRDMU9CcDUzTGpaY2x4c3dpOTA2TkY3aUpBNVA1T3VoalNYUlQzMUxlWklYbzdHY1ZONGk1ZUlqblFjbFVEcGZlYVJoUzF4T1ItUklGV0lzbV9QaUs5MVRYejdKZHVKSkllWDg4QzZrX1Ffb0pBRnlUbFJKNHFzWjBab0dVdjJWTE50WllESVhla1RQZkRmd0FEQmNpLTlITTFyN2I4NDdIOEltY2NfLUp1NFR6bEVUczRTaVZCUkQya2xROW1oSzVxNWM?oc=5",
+      "published": "2026-10-20T01:30:21+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Reading EPARs and FDA reviews beyond the approval announcement - The Pharma Letter",
       "description": "Reading EPARs and FDA reviews beyond the approval announcement The Pharma Letter",
@@ -77,28 +89,6 @@
       "companies": [
         "FDA reviews beyond the approval announcement - The Pharma",
         "FDA reviews beyond the approval announcement The Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs - BioPharma APAC",
-      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
-      "published": "2026-10-19T02:48:29+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Cotecna Accelerates India Life Sciences",
-        "With Acquisition of Hyderabad-Based Energon Labs",
-        "BioPharma APAC Cotecna Accelerates India Life Sciences",
-        "BioPharma"
       ],
       "project_signals": [],
       "numbers": []
