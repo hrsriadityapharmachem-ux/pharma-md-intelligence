@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T19:54:07.215256+00:00",
+  "updated": "2026-10-21T20:55:31.042788+00:00",
   "article_count": 10,
-  "opportunity_count": 4,
+  "opportunity_count": 3,
   "risk_count": 0,
   "watch_count": 1,
-  "high_priority_count": 3,
+  "high_priority_count": 2,
   "successful_feeds": 13,
   "must_know": [
     {
@@ -23,28 +23,6 @@
       "companies": [
         "Major Investment in a new site in China by Esteve CDMO",
         "The Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China - Voice of ASIA",
-      "description": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China Voice of ASIA",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW04enFnT3pyZTY1TW0tVEk0WHZVV0pNOW92THY1QzNPSWtveHRFZGZiYnlwT3hFRFFLTUtlX2k1S011c2tDV2tVTmpIamJadng1VzZNR2Y0ejEtZzRIdVpsRTdNSzJZdGtWd2t0Q0R1YlhhZ3ZzN0VTZTY3VFpuLS1RbUFldGFhSFBUVzNhd0h1aVFGNmtrbmxrdWFtQk5IcGZsdWVPR2puMlVfMi0zLVJhdFlvNmtyZ0YzcWM2cmtaUlQ2SFRXdENHeG1RM0w2em9MdG5zM3NyZw?oc=5",
-      "published": "2026-10-21T10:41:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - Voice of ASIA ESTEVE CDMO"
       ],
       "project_signals": [
         "investment"
@@ -72,12 +50,33 @@
         "investment"
       ],
       "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint - Contract Pharma",
+      "description": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajdFekZTeUp3YWVFRkFmcHNLX3JkZlp4SkFGS1dqQzRLRDdMVTRTWkFSTEVBRU5hWlFSX1M4d3lQT004dVJKRnd1M19uS1gyN0FnN3NhX0FzTjVjMkxZMy0xOXZBMEt4RXYtU2xfb0s4eHB1NGlWZWFYc2E1WWxYWXZmZXN1NGJXMUd5YVVUeHRVSWNGTG1aYV9YdzByMWtrb1dqYXFoT0xTZjN2dDBuTWZ6VllfblFfRjNF?oc=5",
+      "published": "2026-10-21T15:56:20+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "ESTEVE CDMO",
+        "Expand Global Manufacturing Footprint - Contract Pharma",
+        "Expand Global Manufacturing Footprint Contract Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 3,
+    "Investment / Expansion": 2,
     "Manufacturing / Plants": 1,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -144,9 +143,28 @@
     },
     {
       "category": "Global",
-      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and - GlobeNewswire",
-      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYmhDdXR1SERKNkZ3X3JQSU1LWVY1cHlLN2YwSnc0WnlyOTlMVVJlbWNqUzhqZTA2Skt1SExrd1N0N2YweWZ3TEdMa2FYcnRKMzl1Wnd3bXBOMVhYZEFkSWYyVnFfMW9vNWJtMVFMQVptaUtxTzNJaFU5ejdYd1llNkpoM0xMaWwtc1M1YTRwdHpMSFZpVXFFaUpQYVlnMUU1eWpuaWFQSTlLd0J6bTZvekR4dW9HTTl1N2REQUNWTnhubE4zQnNsemY5TUhLbWQyRlFqUF9YdHRBMS1PQmdFanFlM25wekVyU0xPYVVBZDZ3M1RfX1B1RHZKU0NrNGJDT210bl9FME9FbkpfalpaZGUtbw?oc=5",
+      "title": "[PRNewswire] ESTEVE CDMO expands its presence in Asia - Yonhap News Agency",
+      "description": "[PRNewswire] ESTEVE CDMO expands its presence in Asia Yonhap News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRENBYzF5NkFEN0FUNG9kZkFYUUtLc2xhcHM5MkNkRmIwV0x1OEdQdUpRYzdVbWd6TU5rVDZBdS0tZlVoOVVOWVpoUWkzSDI3NGtIb0ZKUHc4UQ?oc=5",
+      "published": "2026-10-21T12:16:36+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "ESTEVE CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and EMA on Phase 3 Program for Naronapride in Gastroparesis - Yahoo Finance",
+      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and EMA on Phase 3 Program for Naronapride in Gastroparesis Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDJCWXhTdGpVdklFdm4yd0hGX1BnZEZqZFFUcUhlVUVlUzhFMU9lVWdTUHI1NE9KVFBnSWlBY2ZNNERmdTFEaVM0WU1KdHFLMjRqWEY2Vkg2MVNEY1g0UTBuTUJBZEg4TWxyRTdBX0F3UXN5Y1BWZUpKUk5XLVhvMGIwM3J1YjlGTlVLU2FyNHVncW1vbXc?oc=5",
       "published": "2026-10-21T12:00:00+00:00",
       "source": "Google News RSS",
       "signal": "General",
@@ -157,7 +175,7 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Dr. Falk Pharma",
-        "Alignment with FDA and - GlobeNewswire Dr. Falk Pharma"
+        "Gastroparesis - Yahoo Finance Dr. Falk Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -198,28 +216,6 @@
       "companies": [
         "Major Investment in a new site in China by Esteve CDMO",
         "The Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China - Voice of ASIA",
-      "description": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China Voice of ASIA",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW04enFnT3pyZTY1TW0tVEk0WHZVV0pNOW92THY1QzNPSWtveHRFZGZiYnlwT3hFRFFLTUtlX2k1S011c2tDV2tVTmpIamJadng1VzZNR2Y0ejEtZzRIdVpsRTdNSzJZdGtWd2t0Q0R1YlhhZ3ZzN0VTZTY3VFpuLS1RbUFldGFhSFBUVzNhd0h1aVFGNmtrbmxrdWFtQk5IcGZsdWVPR2puMlVfMi0zLVJhdFlvNmtyZ0YzcWM2cmtaUlQ2SFRXdENHeG1RM0w2em9MdG5zM3NyZw?oc=5",
-      "published": "2026-10-21T10:41:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - Voice of ASIA ESTEVE CDMO"
       ],
       "project_signals": [
         "investment"
