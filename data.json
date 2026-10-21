@@ -1,18 +1,40 @@
 {
-  "updated": "2026-10-21T08:02:43.558562+00:00",
-  "article_count": 3,
-  "opportunity_count": 0,
+  "updated": "2026-10-21T09:00:26.199264+00:00",
+  "article_count": 4,
+  "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
+      "category": "Global",
+      "title": "“From Drug Development to Manufacturing”: Global Big Pharma Expands Investment in China, Accelerating Its Rise as a Biotech and Pharmaceutical Powerhouse - economy.ac",
+      "description": "“From Drug Development to Manufacturing”: Global Big Pharma Expands Investment in China, Accelerating Its Rise as a Biotech and Pharmaceutical Powerhouse economy.ac",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWRHA4d2xNVGFzcmlfTGtlOFhmTUxiOU00Z2ZhMkVOcXdGM2RxZDlUaEx6Q0lrNUl1a3duakJMM2trUzVFWE5SdE9IQVpheFN2Ul9MOXBLajZUZw?oc=5",
+      "published": "2026-10-21T08:29:57+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Global Big Pharma",
+        "Accelerating Its Rise as a Biotech and Pharmaceutical"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "India must build resilient, globally integrated healthcare supply chains - Medical Buyer",
       "description": "India must build resilient, globally integrated healthcare supply chains Medical Buyer",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVVSQm8wRWpjT2h3Zk0tTFJTV3NvTE9HSXJNd1ZLa183NnczZVppZXU0cE50RDUxOHhuTEU2RWp2YldWZHhjcDdVZ1UzM2NjTGkyTXB6YmtrX1k5RHpQMllCTXdCQnltZzFCRTZ0SUpFVFM1UkRObU8yNzV3aVNEcTBIQ29XLWJ5Z3F6MjY2aExONXN1ODY5RlpMUmVoSlFm?oc=5",
-      "published": "2026-10-21T02:32:57+00:00",
+      "published": "2026-10-21T02:34:37+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Supply Chain",
@@ -43,29 +65,12 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce - The Week",
-      "description": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce The Week",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW1Wd0pKdlhYNFRQcXZmb1dkdUJaeGZvSFlVNjNfZlJ0bjRnb19FSWlSTEhwaHJIZVpicmF1SF9mQ2J4Q0tfaVlwajJZWkJ2YWFqZ1dLeFcxZXJKb3VTUzVSRXR0TXo2V1pWd0JJWnZkUXpzN3o2UmJoNHZnVUEtWThqRy1xdzVucTVEZXdjdGtQMUhZcEHSAZsBQVVfeXFMUDVDMFFZcHREa0lPRmdrWW9qX2tvbWNtaVJwNkJMOFp0U2F3U24xQ1J3MGJ0N2hvUl9QTVlSSW1GbTR3dFV0bUlYZkU4Yy1TSkpDZXYteGotbVo3eE1wVnJWNV9HeURtTFByeHVsbVBLTXRuaVIzeVpHdXR5VnlYcXBWd01OZ3pYNTJ2UjYxejdqVTctbVVSYVFnb0k?oc=5",
-      "published": "2026-10-20T10:10:23+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 0,
+    "Investment / Expansion": 1,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -74,11 +79,33 @@
   },
   "articles": [
     {
+      "category": "Global",
+      "title": "“From Drug Development to Manufacturing”: Global Big Pharma Expands Investment in China, Accelerating Its Rise as a Biotech and Pharmaceutical Powerhouse - economy.ac",
+      "description": "“From Drug Development to Manufacturing”: Global Big Pharma Expands Investment in China, Accelerating Its Rise as a Biotech and Pharmaceutical Powerhouse economy.ac",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWRHA4d2xNVGFzcmlfTGtlOFhmTUxiOU00Z2ZhMkVOcXdGM2RxZDlUaEx6Q0lrNUl1a3duakJMM2trUzVFWE5SdE9IQVpheFN2Ul9MOXBLajZUZw?oc=5",
+      "published": "2026-10-21T08:29:57+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Global Big Pharma",
+        "Accelerating Its Rise as a Biotech and Pharmaceutical"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "India must build resilient, globally integrated healthcare supply chains - Medical Buyer",
       "description": "India must build resilient, globally integrated healthcare supply chains Medical Buyer",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVVSQm8wRWpjT2h3Zk0tTFJTV3NvTE9HSXJNd1ZLa183NnczZVppZXU0cE50RDUxOHhuTEU2RWp2YldWZHhjcDdVZ1UzM2NjTGkyTXB6YmtrX1k5RHpQMllCTXdCQnltZzFCRTZ0SUpFVFM1UkRObU8yNzV3aVNEcTBIQ29XLWJ5Z3F6MjY2aExONXN1ODY5RlpMUmVoSlFm?oc=5",
-      "published": "2026-10-21T02:32:57+00:00",
+      "published": "2026-10-21T02:34:37+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Supply Chain",
