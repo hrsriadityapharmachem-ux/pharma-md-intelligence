@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T11:56:34.060174+00:00",
-  "article_count": 6,
-  "opportunity_count": 4,
+  "updated": "2026-10-21T13:11:41.359162+00:00",
+  "article_count": 11,
+  "opportunity_count": 3,
   "risk_count": 0,
-  "watch_count": 0,
-  "high_priority_count": 3,
+  "watch_count": 1,
+  "high_priority_count": 2,
   "successful_feeds": 13,
   "must_know": [
     {
@@ -31,10 +31,10 @@
     },
     {
       "category": "Global",
-      "title": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China - PR Newswire UK",
-      "description": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRjdUVkJ3bUptMDVVR0xMNEtydWJWVXMycHRjb3VBeWdPOHQtWDNmbmF2bHNPQmJGMTF3MGNvZWZrYWZhOEpKQm9RYVM0RnVEd25YVDVKeFFEaXJxd3l6RzBxNzBwcXl4UERDcUxCTjR4THpWMzB6c1pGNG44WnRFbHp6VFpYdmEzNUFETXdoYlRPNVFDbnI3Z2ZUS181SHJSX0hXajBmNmJnaFJUeXRYdmoxZ085Vkg2bTFMN1JmNWFNeS0yU3Z5VTlIWGh6U0xOTnlMYWEySlZINXFqNkdoc21qUmhKVW9JQ1ZZblZhQQ?oc=5",
-      "published": "2026-10-21T10:30:00+00:00",
+      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - PR Newswire",
+      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGQ1a0tqaldKOGQ0TksyeDRlMWJudXZvQ1VqNHkyNlk3RDRrTDM4YzVuRzlELURQNDhScDhsaUUxM25GcmlkSThPeVhjZkZLZ1ZEb0NSWXMwWXNkbjdNbXpnZkRNM2Z4NzRYTGVkSS1kVy1kN2FIM3VtZ0NDSEZvV3RuU2FVMnFwemVoeGxDUjZVRlh0UUE5UVdRcUI3dmZGMW9yTGU5QTZfb3ZNR2J0Q3VOUTBoSXpQVllVTHdCM19lQklNRmVtRmVaVVBwN3J1RWZ4YnBKYkRCYlNaZjNrRDJqMVhWQUl1aWhwR2cwV1BFZw?oc=5",
+      "published": "2026-10-21T10:05:00+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "Investment / Expansion",
@@ -44,107 +44,7 @@
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
         "ESTEVE CDMO",
-        "China - PR Newswire UK ESTEVE CDMO"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
-      "published": "2026-10-21T10:09:36+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - StreetInsider ESTEVE CDMO"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    }
-  ],
-  "business_signals": {
-    "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 4,
-    "Manufacturing / Plants": 0,
-    "Supply Chain": 0,
-    "Regulatory": 0,
-    "Exports / Markets": 0,
-    "Specialty Chemicals": 0
-  },
-  "articles": [
-    {
-      "category": "Global",
-      "title": "Major Investment in a new site in China by Esteve CDMO - The Pharma Letter",
-      "description": "Major Investment in a new site in China by Esteve CDMO The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDVEeUNnZ0JtWk8yLWhERU1KVVptaFN5OHJCendxZzNMTlRocTJPMjE0N25pYmR6ckxuOXg5UDE5TmNqZXdXeDZEYTRZZ3VSNFQzaFJIdnZOTUhsTkIybF93REY2bzFaVkhWX25IQlgxVVdiZnBzanVQUHFTX04zRElEOTYxdDVRRVd4cWFacjRSd21xaVV2Z0ZtRUg?oc=5",
-      "published": "2026-10-21T10:41:31+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Major Investment in a new site in China by Esteve CDMO",
-        "The Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China - PR Newswire UK",
-      "description": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRjdUVkJ3bUptMDVVR0xMNEtydWJWVXMycHRjb3VBeWdPOHQtWDNmbmF2bHNPQmJGMTF3MGNvZWZrYWZhOEpKQm9RYVM0RnVEd25YVDVKeFFEaXJxd3l6RzBxNzBwcXl4UERDcUxCTjR4THpWMzB6c1pGNG44WnRFbHp6VFpYdmEzNUFETXdoYlRPNVFDbnI3Z2ZUS181SHJSX0hXajBmNmJnaFJUeXRYdmoxZ085Vkg2bTFMN1JmNWFNeS0yU3Z5VTlIWGh6U0xOTnlMYWEySlZINXFqNkdoc21qUmhKVW9JQ1ZZblZhQQ?oc=5",
-      "published": "2026-10-21T10:30:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - PR Newswire UK ESTEVE CDMO"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
-      "published": "2026-10-21T10:09:36+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - StreetInsider ESTEVE CDMO"
+        "China - PR Newswire ESTEVE CDMO"
       ],
       "project_signals": [
         "investment"
@@ -171,6 +71,182 @@
       "project_signals": [
         "investment"
       ],
+      "numbers": []
+    }
+  ],
+  "business_signals": {
+    "API / Intermediates": 0,
+    "CDMO / Contract Manufacturing": 0,
+    "Investment / Expansion": 3,
+    "Manufacturing / Plants": 0,
+    "Supply Chain": 0,
+    "Regulatory": 0,
+    "Exports / Markets": 0,
+    "Specialty Chemicals": 0
+  },
+  "articles": [
+    {
+      "category": "India",
+      "title": "Argentina eases drug import rules, creating new export avenues for India - Livemint",
+      "description": "Argentina eases drug import rules, creating new export avenues for India Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVY2cFphLWtQNXRSajVNbENxS1RYSDdEeUVxdVNKWFJxOFRzY0h0enc1c2NQNk5SNGFFenRFTDBRU3BGWjRhQkNWd1ppMXFlSjdYMTZWNGhGaWV4SkhvNXdrOGFxSl9jalFhbExya1Zxc1lDcExLNGxYSldsTGhxbGJlWXlGd2tpUkJOVDc4ZE1pU2FNeU9wUU5xeWVpbEZlU1VCNE9NYUFQUHM4ODZQbkRVTFZOWEhtQzR30gHAAUFVX3lxTE14cXhMOG1JanFVQnhzbWptaTlfZTE2cmJaVGEta0dHZnBZczF5RDdFcXJiMlk0UTZ6cE9IdXQ5UVpZS2FtcG0wWlpQdDFiekZMQ25yOVYta0hBcl8ybDZUSFRHdTdxOG85d0phMVpxMTlZUFV4MDJWV3pJQ2ItbHVDV0szMzZ0ZTg4Y1BnYnVBWjZ0cU04TDJkMWMtSG0xQThfSkt3N0xDVGRxaW1aOGJyN1F2TUVoN0lRaUFPQ1VpUA?oc=5",
+      "published": "2026-10-21T12:44:32+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        ", cr"
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "[PRNewswire] ESTEVE CDMO expands its presence in Asia - Yonhap News Agency",
+      "description": "[PRNewswire] ESTEVE CDMO expands its presence in Asia Yonhap News Agency",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XZEthNXpHZWFFN2VzSmd3Zk9JR29WbnJhVzRVSzBoQlFObC1Ib3BhZHdWXzlLeDhDV09haFVWZXBfRnZrc3kxMFN5ckNkenF1NDB1LV9HaHdlNEZXdXoybC1COFJ1NGJtVzhwRC1DNG1yMElCVi1SRVd6Z2d0d0k?oc=5",
+      "published": "2026-10-21T12:16:36+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "ESTEVE CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and - GlobeNewswire",
+      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYmhDdXR1SERKNkZ3X3JQSU1LWVY1cHlLN2YwSnc0WnlyOTlMVVJlbWNqUzhqZTA2Skt1SExrd1N0N2YweWZ3TEdMa2FYcnRKMzl1Wnd3bXBOMVhYZEFkSWYyVnFfMW9vNWJtMVFMQVptaUtxTzNJaFU5ejdYd1llNkpoM0xMaWwtc1M1YTRwdHpMSFZpVXFFaUpQYVlnMUU1eWpuaWFQSTlLd0J6bTZvekR4dW9HTTl1N2REQUNWTnhubE4zQnNsemY5TUhLbWQyRlFqUF9YdHRBMS1PQmdFanFlM25wekVyU0xPYVVBZDZ3M1RfX1B1RHZKU0NrNGJDT210bl9FME9FbkpfalpaZGUtbw?oc=5",
+      "published": "2026-10-21T12:00:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Dr. Falk Pharma",
+        "Alignment with FDA and - GlobeNewswire Dr. Falk Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Major Investment in a new site in China by Esteve CDMO - The Pharma Letter",
+      "description": "Major Investment in a new site in China by Esteve CDMO The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDVEeUNnZ0JtWk8yLWhERU1KVVptaFN5OHJCendxZzNMTlRocTJPMjE0N25pYmR6ckxuOXg5UDE5TmNqZXdXeDZEYTRZZ3VSNFQzaFJIdnZOTUhsTkIybF93REY2bzFaVkhWX25IQlgxVVdiZnBzanVQUHFTX04zRElEOTYxdDVRRVd4cWFacjRSd21xaVV2Z0ZtRUg?oc=5",
+      "published": "2026-10-21T10:41:31+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Major Investment in a new site in China by Esteve CDMO",
+        "The Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - PR Newswire",
+      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGQ1a0tqaldKOGQ0TksyeDRlMWJudXZvQ1VqNHkyNlk3RDRrTDM4YzVuRzlELURQNDhScDhsaUUxM25GcmlkSThPeVhjZkZLZ1ZEb0NSWXMwWXNkbjdNbXpnZkRNM2Z4NzRYTGVkSS1kVy1kN2FIM3VtZ0NDSEZvV3RuU2FVMnFwemVoeGxDUjZVRlh0UUE5UVdRcUI3dmZGMW9yTGU5QTZfb3ZNR2J0Q3VOUTBoSXpQVllVTHdCM19lQklNRmVtRmVaVVBwN3J1RWZ4YnBKYkRCYlNaZjNrRDJqMVhWQUl1aWhwR2cwV1BFZw?oc=5",
+      "published": "2026-10-21T10:05:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "ESTEVE CDMO",
+        "China - PR Newswire ESTEVE CDMO"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "“From Drug Development to Manufacturing”: Global Big Pharma Expands Investment in China, Accelerating Its Rise as a Biotech and Pharmaceutical Powerhouse - economy.ac",
+      "description": "“From Drug Development to Manufacturing”: Global Big Pharma Expands Investment in China, Accelerating Its Rise as a Biotech and Pharmaceutical Powerhouse economy.ac",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWRHA4d2xNVGFzcmlfTGtlOFhmTUxiOU00Z2ZhMkVOcXdGM2RxZDlUaEx6Q0lrNUl1a3duakJMM2trUzVFWE5SdE9IQVpheFN2Ul9MOXBLajZUZw?oc=5",
+      "published": "2026-10-21T08:29:57+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
+      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
+      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
+      "companies": [
+        "Global Big Pharma",
+        "Accelerating Its Rise as a Biotech and Pharmaceutical"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "US FDA Issues Guidance on Apps Used Alongside Prescription Drugs - Voice of Healthcare",
+      "description": "US FDA Issues Guidance on Apps Used Alongside Prescription Drugs Voice of Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWdPcW00UXdhdDVYRVFORElHR1Z0XzgwWXJJSmxOclFybjAxRW5YU3IxcU9JUk15LUZ0RVhzY0MxN2c3ZFFhSEdMLVhtVU84cEo3UHE3cFVnam9vSzRuX29SVTN6LV9ocm1HaVgyUmRMRlQ4RXpmMWJLMHdpMXF5RllvemczSTZXRENGcjZWRktSWDlGMHhrcWdoUkY4TkFV?oc=5",
+      "published": "2026-10-21T07:37:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Apps Used Alongside Prescription Drugs - Voice of Healthcare",
+        "Apps Used Alongside Prescription Drugs Voice of Healthcare"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Dr. Reddy’s gets CDSCO approval for Zytorvi in advanced esophageal cancer - Express Pharma",
+      "description": "Dr. Reddy’s gets CDSCO approval for Zytorvi in advanced esophageal cancer Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXlHeUhSV2NUX3hvQy04Nm5QWTdNcTlFTk04TUZvejZBTjQ3TjZHYzlDUDhrMm5HZW5uSEMwUkdvZ0E5VFU5R01UeGVYOXZkVThpck1jaDZqOUJrTklGbVhZVW1EdnF4MWJzbms1MDM1TGpqSE5aYkpfNURqUU5VZjM0azdaYzN5eF9MNXpuYnVwM2U1bW1fbXFQR3ViUDIzYzRv?oc=5",
+      "published": "2026-10-21T06:34:49+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Zytorvi in advanced esophageal cancer - Express Pharma",
+        "Zytorvi in advanced esophageal cancer Express Pharma"
+      ],
+      "project_signals": [],
       "numbers": []
     },
     {
@@ -206,6 +282,26 @@
       "companies": [
         "PharmExec - Pharmaceutical",
         "PharmExec Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "FDA Finalizes Guidance on Prescription Drug Companion Apps - Pharmaceutical Commerce",
+      "description": "FDA Finalizes Guidance on Prescription Drug Companion Apps Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdU5JNWFla256TVloYWZYRU1senZ6UHFDX251MkpWRTdtNFhaR3JXRFl5YXkxWThWbFFraGNIVzlwdHBabWhMeFVfVHlZczZyUDF3Z2o4ZFVkenhUdzAwZWFMSUowVHZ0UzdKdDYyaWU4bi1nMHRRX1J6ck9aelFfaTZncXpZVTUzS1RySENobk41eTBhVWlqb2VCVjhqUjgzWGRvMQ?oc=5",
+      "published": "2026-10-20T14:36:10+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Guidance on Prescription Drug Companion Apps - Pharmaceutical",
+        "Guidance on Prescription Drug Companion Apps Pharmaceutical"
       ],
       "project_signals": [],
       "numbers": []
