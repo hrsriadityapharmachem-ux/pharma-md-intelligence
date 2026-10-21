@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T02:55:48.047527+00:00",
-  "article_count": 3,
+  "updated": "2026-10-21T03:57:56.749118+00:00",
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -45,19 +45,22 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce - The Week",
-      "description": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce The Week",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW1Wd0pKdlhYNFRQcXZmb1dkdUJaeGZvSFlVNjNfZlJ0bjRnb19FSWlSTEhwaHJIZVpicmF1SF9mQ2J4Q0tfaVlwajJZWkJ2YWFqZ1dLeFcxZXJKb3VTUzVSRXR0TXo2V1pWd0JJWnZkUXpzN3o2UmJoNHZnVUEtWThqRy1xdzVucTVEZXdjdGtQMUhZcEHSAZsBQVVfeXFMUDVDMFFZcHREa0lPRmdrWW9qX2tvbWNtaVJwNkJMOFp0U2F3U24xQ1J3MGJ0N2hvUl9QTVlSSW1GbTR3dFV0bUlYZkU4Yy1TSkpDZXYteGotbVo3eE1wVnJWNV9HeURtTFByeHVsbVBLTXRuaVIzeVpHdXR5VnlYcXBWd01OZ3pYNTJ2UjYxejdqVTctbVVSYVFnb0k?oc=5",
-      "published": "2026-10-20T10:10:23+00:00",
+      "category": "Global",
+      "title": "FDA Finalizes Guidance on Prescription Drug Companion Apps - Pharmaceutical Commerce",
+      "description": "FDA Finalizes Guidance on Prescription Drug Companion Apps Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdU5JNWFla256TVloYWZYRU1senZ6UHFDX251MkpWRTdtNFhaR3JXRFl5YXkxWThWbFFraGNIVzlwdHBabWhMeFVfVHlZczZyUDF3Z2o4ZFVkenhUdzAwZWFMSUowVHZ0UzdKdDYyaWU4bi1nMHRRX1J6ck9aelFfaTZncXpZVTUzS1RySENobk41eTBhVWlqb2VCVjhqUjgzWGRvMQ?oc=5",
+      "published": "2026-10-20T14:36:10+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Regulatory",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
+      "companies": [
+        "Guidance on Prescription Drug Companion Apps - Pharmaceutical",
+        "Guidance on Prescription Drug Companion Apps Pharmaceutical"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -107,6 +110,43 @@
         "PharmExec - Pharmaceutical",
         "PharmExec Pharmaceutical"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "FDA Finalizes Guidance on Prescription Drug Companion Apps - Pharmaceutical Commerce",
+      "description": "FDA Finalizes Guidance on Prescription Drug Companion Apps Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdU5JNWFla256TVloYWZYRU1senZ6UHFDX251MkpWRTdtNFhaR3JXRFl5YXkxWThWbFFraGNIVzlwdHBabWhMeFVfVHlZczZyUDF3Z2o4ZFVkenhUdzAwZWFMSUowVHZ0UzdKdDYyaWU4bi1nMHRRX1J6ck9aelFfaTZncXpZVTUzS1RySENobk41eTBhVWlqb2VCVjhqUjgzWGRvMQ?oc=5",
+      "published": "2026-10-20T14:36:10+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Guidance on Prescription Drug Companion Apps - Pharmaceutical",
+        "Guidance on Prescription Drug Companion Apps Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "(cevimeline HCl) Oral Solution, Marking Cosette’s First New Drug Application (NDA) Approval - Business Wire",
+      "description": "(cevimeline HCl) Oral Solution, Marking Cosette’s First New Drug Application (NDA) Approval Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOalBYNDdwdUhHNlpZaXk1bTJMM0NrbHRndzJidFpQTWhvZ3g5dkZWMWdDamZuS3FUYmQ3Y1JzT2lPU2h4ODNTaEprUmx3cHNFMXltcjZud2ltMHdiZWdFclE4dmhRTWs5VkpwZDhCanNvQkJOV0xyUlZZN3NFTWd0R3JMeV9TUEF6ZzRfVDRhVkk3dUt2OHAzOVMwSGhsUHRJV2ZqVmdyb0ZLd2tnWUFNZy04aG1Zc3RBQ20tbzNHQjlkVnlHakZ1ZGVDUmF6dGtLRHhSQjZaWWZpV1hqekhmRXhHaHZtbElWS0JBbmFVcld2MGhUYW11WHBsbDlpQlI4X0lHMHpoeDg2dEFMVE0tTmd2UVkzUy1hZkx3NHgtN3hvUDdTMFE?oc=5",
+      "published": "2026-10-20T12:11:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
