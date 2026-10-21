@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T05:54:31.690037+00:00",
-  "article_count": 2,
+  "updated": "2026-10-21T07:13:01.345385+00:00",
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
@@ -41,6 +41,23 @@
         "PharmExec - Pharmaceutical",
         "PharmExec Pharmaceutical"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce - The Week",
+      "description": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce The Week",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW1Wd0pKdlhYNFRQcXZmb1dkdUJaeGZvSFlVNjNfZlJ0bjRnb19FSWlSTEhwaHJIZVpicmF1SF9mQ2J4Q0tfaVlwajJZWkJ2YWFqZ1dLeFcxZXJKb3VTUzVSRXR0TXo2V1pWd0JJWnZkUXpzN3o2UmJoNHZnVUEtWThqRy1xdzVucTVEZXdjdGtQMUhZcEHSAZsBQVVfeXFMUDVDMFFZcHREa0lPRmdrWW9qX2tvbWNtaVJwNkJMOFp0U2F3U24xQ1J3MGJ0N2hvUl9QTVlSSW1GbTR3dFV0bUlYZkU4Yy1TSkpDZXYteGotbVo3eE1wVnJWNV9HeURtTFByeHVsbVBLTXRuaVIzeVpHdXR5VnlYcXBWd01OZ3pYNTJ2UjYxejdqVTctbVVSYVFnb0k?oc=5",
+      "published": "2026-10-20T10:10:23+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     }
@@ -90,6 +107,23 @@
         "PharmExec - Pharmaceutical",
         "PharmExec Pharmaceutical"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce - The Week",
+      "description": "OPINION | How HR tech can help India’s pharma industry build a more efficient workforce The Week",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW1Wd0pKdlhYNFRQcXZmb1dkdUJaeGZvSFlVNjNfZlJ0bjRnb19FSWlSTEhwaHJIZVpicmF1SF9mQ2J4Q0tfaVlwajJZWkJ2YWFqZ1dLeFcxZXJKb3VTUzVSRXR0TXo2V1pWd0JJWnZkUXpzN3o2UmJoNHZnVUEtWThqRy1xdzVucTVEZXdjdGtQMUhZcEHSAZsBQVVfeXFMUDVDMFFZcHREa0lPRmdrWW9qX2tvbWNtaVJwNkJMOFp0U2F3U24xQ1J3MGJ0N2hvUl9QTVlSSW1GbTR3dFV0bUlYZkU4Yy1TSkpDZXYteGotbVo3eE1wVnJWNV9HeURtTFByeHVsbVBLTXRuaVIzeVpHdXR5VnlYcXBWd01OZ3pYNTJ2UjYxejdqVTctbVVSYVFnb0k?oc=5",
+      "published": "2026-10-20T10:10:23+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     }
