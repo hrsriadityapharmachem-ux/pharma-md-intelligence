@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T14:57:11.117752+00:00",
-  "article_count": 11,
+  "updated": "2026-10-21T15:59:33.698969+00:00",
+  "article_count": 9,
   "opportunity_count": 4,
   "risk_count": 0,
   "watch_count": 1,
-  "high_priority_count": 4,
+  "high_priority_count": 3,
   "successful_feeds": 13,
   "must_know": [
     {
@@ -53,10 +53,10 @@
     },
     {
       "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
-      "published": "2026-10-21T10:09:36+00:00",
+      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - PR Newswire",
+      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGQ1a0tqaldKOGQ0TksyeDRlMWJudXZvQ1VqNHkyNlk3RDRrTDM4YzVuRzlELURQNDhScDhsaUUxM25GcmlkSThPeVhjZkZLZ1ZEb0NSWXMwWXNkbjdNbXpnZkRNM2Z4NzRYTGVkSS1kVy1kN2FIM3VtZ0NDSEZvV3RuU2FVMnFwemVoeGxDUjZVRlh0UUE5UVdRcUI3dmZGMW9yTGU5QTZfb3ZNR2J0Q3VOUTBoSXpQVllVTHdCM19lQklNRmVtRmVaVVBwN3J1RWZ4YnBKYkRCYlNaZjNrRDJqMVhWQUl1aWhwR2cwV1BFZw?oc=5",
+      "published": "2026-10-21T10:05:00+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "Investment / Expansion",
@@ -66,7 +66,7 @@
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
         "ESTEVE CDMO",
-        "China - StreetInsider ESTEVE CDMO"
+        "China - PR Newswire ESTEVE CDMO"
       ],
       "project_signals": [
         "investment"
@@ -77,14 +77,35 @@
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 4,
-    "Manufacturing / Plants": 0,
+    "Investment / Expansion": 3,
+    "Manufacturing / Plants": 1,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint - Contract Pharma",
+      "description": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajdFekZTeUp3YWVFRkFmcHNLX3JkZlp4SkFGS1dqQzRLRDdMVTRTWkFSTEVBRU5hWlFSX1M4d3lQT004dVJKRnd1M19uS1gyN0FnN3NhX0FzTjVjMkxZMy0xOXZBMEt4RXYtU2xfb0s4eHB1NGlWZWFYc2E1WWxYWXZmZXN1NGJXMUd5YVVUeHRVSWNGTG1aYV9YdzByMWtrb1dqYXFoT0xTZjN2dDBuTWZ6VllfblFfRjNF?oc=5",
+      "published": "2026-10-21T15:56:20+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "ESTEVE CDMO",
+        "Expand Global Manufacturing Footprint - Contract Pharma",
+        "Expand Global Manufacturing Footprint Contract Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Argentina eases drug import rules, creating new export avenues for India - Livemint",
@@ -170,10 +191,10 @@
     },
     {
       "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
-      "published": "2026-10-21T10:09:36+00:00",
+      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - PR Newswire",
+      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGQ1a0tqaldKOGQ0TksyeDRlMWJudXZvQ1VqNHkyNlk3RDRrTDM4YzVuRzlELURQNDhScDhsaUUxM25GcmlkSThPeVhjZkZLZ1ZEb0NSWXMwWXNkbjdNbXpnZkRNM2Z4NzRYTGVkSS1kVy1kN2FIM3VtZ0NDSEZvV3RuU2FVMnFwemVoeGxDUjZVRlh0UUE5UVdRcUI3dmZGMW9yTGU5QTZfb3ZNR2J0Q3VOUTBoSXpQVllVTHdCM19lQklNRmVtRmVaVVBwN3J1RWZ4YnBKYkRCYlNaZjNrRDJqMVhWQUl1aWhwR2cwV1BFZw?oc=5",
+      "published": "2026-10-21T10:05:00+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "Investment / Expansion",
@@ -183,51 +204,11 @@
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
         "ESTEVE CDMO",
-        "China - StreetInsider ESTEVE CDMO"
+        "China - PR Newswire ESTEVE CDMO"
       ],
       "project_signals": [
         "investment"
       ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Active Pharmaceutical Ingredient (API) Intermediate Market - openPR.com",
-      "description": "Active Pharmaceutical Ingredient (API) Intermediate Market openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlB4OHJyY09KN2UyR3RtWDJEdHVtMkFvdFc1azBUZnBfenBtaThnaW1yMzY3Q0k4cGE5ZlJiT01GN2tmUTd3OFhDSExsblVPbVZwVmhkRXlYeTdXbTBhaUVVM29fbjlBNTkyYVJ1ZWFScnhlMVVwR3BWWEtzYWhTTE1STHc2aTZSTGNHWG4ycTNpVXVWVWtj?oc=5",
-      "published": "2026-10-21T08:19:37+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Active Pharmaceutical",
-        "Intermediate Market - openPR.com Active Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "US FDA Issues Guidance on Apps Used Alongside Prescription Drugs - Voice of Healthcare",
-      "description": "US FDA Issues Guidance on Apps Used Alongside Prescription Drugs Voice of Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWdPcW00UXdhdDVYRVFORElHR1Z0XzgwWXJJSmxOclFybjAxRW5YU3IxcU9JUk15LUZ0RVhzY0MxN2c3ZFFhSEdMLVhtVU84cEo3UHE3cFVnam9vSzRuX29SVTN6LV9ocm1HaVgyUmRMRlQ4RXpmMWJLMHdpMXF5RllvemczSTZXRENGcjZWRktSWDlGMHhrcWdoUkY4TkFV?oc=5",
-      "published": "2026-10-21T07:37:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Apps Used Alongside Prescription Drugs - Voice of Healthcare",
-        "Apps Used Alongside Prescription Drugs Voice of Healthcare"
-      ],
-      "project_signals": [],
       "numbers": []
     },
     {
@@ -248,28 +229,6 @@
         "Zytorvi in advanced esophageal cancer Express Pharma"
       ],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China - www.malaysiasun.com",
-      "description": "ESTEVE CDMO expands its presence in Asia with a major investment and new manufacturing site in China www.malaysiasun.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkZjVExWelU2VTJzQUlsbEhZZTZaNWszQkJGVENHRzVVSDlaSUlPVTNzbjdPVU4zMThnY3lnUzR6ckplYW05aHJHaUFSTVQ3V0dQY2Jsem1HUkNnQlFYMTY3ZFd5WkhIcW9nTnIyUm5MbEVJekRHYm9La1VEWEUySTJZZGRGTVV6THJWV1JKYzRYZy15VE9PNUg4b3piM2NTcjZhMXRmVU1ULS1zR0g4dTRac24zaWpZdVNTZGlzY0h2YjMxUFRwVG1jXy1rNUlaRFUydXowOW9sdw?oc=5",
-      "published": "2026-10-21T06:11:00+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - www.malaysiasun.com ESTEVE CDMO"
-      ],
-      "project_signals": [
-        "investment"
-      ],
       "numbers": []
     },
     {
