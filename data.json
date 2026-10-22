@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T10:56:23.937967+00:00",
-  "article_count": 7,
-  "opportunity_count": 2,
+  "updated": "2026-10-22T11:55:56.772705+00:00",
+  "article_count": 8,
+  "opportunity_count": 3,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
@@ -9,9 +9,30 @@
   "must_know": [
     {
       "category": "Global",
+      "title": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site - Pulse 2.0",
+      "description": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUZSTE5UdmNpSVNWV1o4czdqUTR3ejF0MHlMZG1SQUt2ckF0anhNblotZUkzeV9iX3FtbkdQUHdaS191RDRLYUJYb2duRERtbEtrbllIcGRIVXpvLVlWYWI2YzQ2bUVTR1RfcTFqLVgzQ1FKb3RfSDVCYmxIVVZfak5mUzhsUW5hMmZnMUduT0VSUWZCUlEw?oc=5",
+      "published": "2026-10-22T11:27:49+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "ESTEVE CDMO"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "80 million"
+      ]
+    },
+    {
+      "category": "Global",
       "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
       "description": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekFWVG9vYzNKWHl1OXEtUUNBbUpuSXczNFZUdk9wdnZsYTc0VndlNVZWaVMtOXhmajVqNTRDRnhxV2ZrZjY0TXhFRHk1Vy1Xdm9zMW5qLUVGNU9nR18xVU5PbVVmYW1GYmRNelE4SmVhS2RGNjJDZnhTd1hTdUQweWF5Y3p6cmE1OXFWUjJNRFFsX3djN2lZMjRyMHZDc0hZRmJtS2x1OFcycC1fSEVJTERLd1B1SF9IU1haNWFjQkRmcVMyckRNNm1URUhFSUxSbHlUVlpPU2E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmNIaXhzNVZiUURPbTg3Ym9iQmdCN3o1VlBacmZFOFgtNDdyeWM5X0g1aUFnSjltUmFOV1F5YnJSRFgtQUN2WkhiVklETDJTS0NWc2JneG16ODNwOTZELWRmQkQtSGlRUlZaLVVpMWdGdkVsaWZjWUdoQXA4TU5rSkI5Rkc4T0FZZE1rTWlOWVZBR2Uzc25fbGRMNWlHdXJCX292UjRRN2pReGhXaV92YnlSaHhkZkZ3dWxadUNPSVJFR1Foc21uRVNoSXg3S1BQSTBLTklxaw?oc=5",
       "published": "2026-10-22T03:47:32+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
@@ -52,36 +73,40 @@
       ],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 - The Guardian",
-      "description": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXM1ZzFDWDQyMXloWElaMUxuWWg1bkZmQU1QUFc3THctSFctZ3drWmJSaXdlUHh4bzh2WllDdFh1VFRiVkN1UnNpMkdEczh0QVdVWDZ0dnNKbEhhQjZYeWJCXzVQZHFWcUMyYk1Hb3g4SWRiY25TaXZnamtVUE5hQ25YRHF3bGk0Z1VCLVhQbzd1SE1yb2VHVDQ1dVNLbXRRdVpnZkJMV1BLWE9OYWk0ZS1OQXFzMTVk?oc=5",
-      "published": "2026-10-22T09:03:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
-    "Manufacturing / Plants": 2,
+    "Manufacturing / Plants": 3,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site - Pulse 2.0",
+      "description": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUZSTE5UdmNpSVNWV1o4czdqUTR3ejF0MHlMZG1SQUt2ckF0anhNblotZUkzeV9iX3FtbkdQUHdaS191RDRLYUJYb2duRERtbEtrbllIcGRIVXpvLVlWYWI2YzQ2bUVTR1RfcTFqLVgzQ1FKb3RfSDVCYmxIVVZfak5mUzhsUW5hMmZnMUduT0VSUWZCUlEw?oc=5",
+      "published": "2026-10-22T11:27:49+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "ESTEVE CDMO"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "80 million"
+      ]
+    },
     {
       "category": "Global",
       "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 - The Guardian",
@@ -103,7 +128,7 @@
       "category": "Global",
       "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
       "description": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekFWVG9vYzNKWHl1OXEtUUNBbUpuSXczNFZUdk9wdnZsYTc0VndlNVZWaVMtOXhmajVqNTRDRnhxV2ZrZjY0TXhFRHk1Vy1Xdm9zMW5qLUVGNU9nR18xVU5PbVVmYW1GYmRNelE4SmVhS2RGNjJDZnhTd1hTdUQweWF5Y3p6cmE1OXFWUjJNRFFsX3djN2lZMjRyMHZDc0hZRmJtS2x1OFcycC1fSEVJTERLd1B1SF9IU1haNWFjQkRmcVMyckRNNm1URUhFSUxSbHlUVlpPU2E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmNIaXhzNVZiUURPbTg3Ym9iQmdCN3o1VlBacmZFOFgtNDdyeWM5X0g1aUFnSjltUmFOV1F5YnJSRFgtQUN2WkhiVklETDJTS0NWc2JneG16ODNwOTZELWRmQkQtSGlRUlZaLVVpMWdGdkVsaWZjWUdoQXA4TU5rSkI5Rkc4T0FZZE1rTWlOWVZBR2Uzc25fbGRMNWlHdXJCX292UjRRN2pReGhXaV92YnlSaHhkZkZ3dWxadUNPSVJFR1Foc21uRVNoSXg3S1BQSTBLTklxaw?oc=5",
       "published": "2026-10-22T03:47:32+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
