@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T14:01:19.532293+00:00",
-  "article_count": 7,
+  "updated": "2026-10-22T14:57:48.770399+00:00",
+  "article_count": 8,
   "opportunity_count": 3,
   "risk_count": 0,
   "watch_count": 0,
@@ -86,6 +86,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Esteve earmarks $80M to revamp CDMO operations in China - Fierce Pharma",
+      "description": "Esteve earmarks $80M to revamp CDMO operations in China Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWpDX01Tc3NKQ0ZBRUhzanlFc3VEeFd3N2dNUXc5WnNzem1yQXF4R0UyWmN6djlheVAzNFNIeXNpS3drVWdMcmZEQmc2R21hS1oxUWY3aE9QalE4UkotQ1c1eG9mTDV3cWo1NlphX0ZlWF9ZWnBUOTgxQUFZT3NvZjRrV0xBUQ?oc=5",
+      "published": "2026-10-22T14:52:48+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "CDMO operations in China - Fierce Pharma",
+        "CDMO operations in China Fierce Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "A brain drug-delivery platform gets its first order from a drugmaker - Stock Titan",
