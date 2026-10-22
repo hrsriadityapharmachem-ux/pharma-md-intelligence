@@ -1,35 +1,12 @@
 {
-  "updated": "2026-10-22T02:56:29.202589+00:00",
-  "article_count": 14,
+  "updated": "2026-10-22T03:59:09.066177+00:00",
+  "article_count": 11,
   "opportunity_count": 4,
   "risk_count": 0,
   "watch_count": 2,
-  "high_priority_count": 3,
+  "high_priority_count": 2,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra - Sahi",
-      "description": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra Sahi",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWduLXpUaWdPMklIaXBGOVRFQTdERDRHMm9oUnk2U0lxZk93d1Z5dnlfa0pKb1h6bXBRamxzS053eFlxYjhsNTVOUnFPWDRTemNOSFJGUFFvcGRhdU1EOXNNYk5qaldTU2NMQ3B3MWZHVGxwUTA1clJtb1FvWnhCSWExRW0tcXptYXZTZHlUREJLN00wa0ZQLWVpc2xzcE1iaHRpTg?oc=5",
-      "published": "2026-10-21T13:24:02+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "Anuh Pharma Takes Over Vanquest Pharma",
-        "Manufacturing Facility In Maharashtra - Sahi Anuh Pharma",
-        "Takes Over Vanquest Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": []
-    },
     {
       "category": "Global",
       "title": "Major Investment in a new site in China by Esteve CDMO - The Pharma Letter",
@@ -73,6 +50,31 @@
         "investment"
       ],
       "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
+      "description": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekFWVG9vYzNKWHl1OXEtUUNBbUpuSXczNFZUdk9wdnZsYTc0VndlNVZWaVMtOXhmajVqNTRDRnhxV2ZrZjY0TXhFRHk1Vy1Xdm9zMW5qLUVGNU9nR18xVU5PbVVmYW1GYmRNelE4SmVhS2RGNjJDZnhTd1hTdUQweWF5Y3p6cmE1OXFWUjJNRFFsX3djN2lZMjRyMHZDc0hZRmJtS2x1OFcycC1fSEVJTERLd1B1SF9IU1haNWFjQkRmcVMyckRNNm1URUhFSUxSbHlUVlpPU2E?oc=5",
+      "published": "2026-10-22T03:47:32+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "ESTEVE CDMO",
+        "Million to Expand Pharmaceutical",
+        "Manufacturing Capabilities in China - BioPharma",
+        "APAC ESTEVE CDMO",
+        "Manufacturing Capabilities in China BioPharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "80 million"
+      ]
     }
   ],
   "business_signals": {
@@ -86,6 +88,31 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
+      "description": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekFWVG9vYzNKWHl1OXEtUUNBbUpuSXczNFZUdk9wdnZsYTc0VndlNVZWaVMtOXhmajVqNTRDRnhxV2ZrZjY0TXhFRHk1Vy1Xdm9zMW5qLUVGNU9nR18xVU5PbVVmYW1GYmRNelE4SmVhS2RGNjJDZnhTd1hTdUQweWF5Y3p6cmE1OXFWUjJNRFFsX3djN2lZMjRyMHZDc0hZRmJtS2x1OFcycC1fSEVJTERLd1B1SF9IU1haNWFjQkRmcVMyckRNNm1URUhFSUxSbHlUVlpPU2E?oc=5",
+      "published": "2026-10-22T03:47:32+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "ESTEVE CDMO",
+        "Million to Expand Pharmaceutical",
+        "Manufacturing Capabilities in China - BioPharma",
+        "APAC ESTEVE CDMO",
+        "Manufacturing Capabilities in China BioPharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "80 million"
+      ]
+    },
     {
       "category": "Global",
       "title": "FDA Approves Hibsago | PharmExec - Pharmaceutical Executive",
@@ -146,29 +173,6 @@
     },
     {
       "category": "India",
-      "title": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra - Sahi",
-      "description": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra Sahi",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWduLXpUaWdPMklIaXBGOVRFQTdERDRHMm9oUnk2U0lxZk93d1Z5dnlfa0pKb1h6bXBRamxzS053eFlxYjhsNTVOUnFPWDRTemNOSFJGUFFvcGRhdU1EOXNNYk5qaldTU2NMQ3B3MWZHVGxwUTA1clJtb1FvWnhCSWExRW0tcXptYXZTZHlUREJLN00wa0ZQLWVpc2xzcE1iaHRpTg?oc=5",
-      "published": "2026-10-21T13:24:02+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "Anuh Pharma Takes Over Vanquest Pharma",
-        "Manufacturing Facility In Maharashtra - Sahi Anuh Pharma",
-        "Takes Over Vanquest Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "India",
       "title": "Argentina eases drug import rules, creating new export avenues for India - Livemint",
       "description": "Argentina eases drug import rules, creating new export avenues for India Livemint",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVY2cFphLWtQNXRSajVNbENxS1RYSDdEeUVxdVNKWFJxOFRzY0h0enc1c2NQNk5SNGFFenRFTDBRU3BGWjRhQkNWd1ppMXFlSjdYMTZWNGhGaWV4SkhvNXdrOGFxSl9jalFhbExya1Zxc1lDcExLNGxYSldsTGhxbGJlWXlGd2tpUkJOVDc4ZE1pU2FNeU9wUU5xeWVpbEZlU1VCNE9NYUFQUHM4ODZQbkRVTFZOWEhtQzR30gHAAUFVX3lxTE14cXhMOG1JanFVQnhzbWptaTlfZTE2cmJaVGEta0dHZnBZczF5RDdFcXJiMlk0UTZ6cE9IdXQ5UVpZS2FtcG0wWlpQdDFiekZMQ25yOVYta0hBcl8ybDZUSFRHdTdxOG85d0phMVpxMTlZUFV4MDJWV3pJQ2ItbHVDV0szMzZ0ZTg4Y1BnYnVBWjZ0cU04TDJkMWMtSG0xQThfSkt3N0xDVGRxaW1aOGJyN1F2TUVoN0lRaUFPQ1VpUA?oc=5",
@@ -187,48 +191,10 @@
       ]
     },
     {
-      "category": "India",
-      "title": "Paracetamol Manufacturing Plant Setup in India - IMARC Group",
-      "description": "Paracetamol Manufacturing Plant Setup in India IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM05pQ2hMaEVScW9FYXNyNXRlbmlYUzE0NzRZM09GYlVOaENLdTZHZmhCa2YtSjJOTnV4N01JLVYzWXBjaFBNaFVWdGJKSC1JSzBkNTNlZGVZNjVaZ21vQ2ZuUWlwY0JGTVFOMkhINlRqZ04wTG9aaXJlQ2cwUnJ3cDkwSUY1d2Ezazlz?oc=5",
-      "published": "2026-10-21T12:40:57+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [
-        "manufacturing plant"
-      ],
-      "numbers": []
-    },
-    {
       "category": "Global",
-      "title": "[PRNewswire] ESTEVE CDMO expands its presence in Asia - Yonhap News Agency",
-      "description": "[PRNewswire] ESTEVE CDMO expands its presence in Asia Yonhap News Agency",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRENBYzF5NkFEN0FUNG9kZkFYUUtLc2xhcHM5MkNkRmIwV0x1OEdQdUpRYzdVbWd6TU5rVDZBdS0tZlVoOVVOWVpoUWkzSDI3NGtIb0ZKUHc4UQ?oc=5",
-      "published": "2026-10-21T12:16:36+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "ESTEVE CDMO"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and - GlobeNewswire",
-      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYmhDdXR1SERKNkZ3X3JQSU1LWVY1cHlLN2YwSnc0WnlyOTlMVVJlbWNqUzhqZTA2Skt1SExrd1N0N2YweWZ3TEdMa2FYcnRKMzl1Wnd3bXBOMVhYZEFkSWYyVnFfMW9vNWJtMVFMQVptaUtxTzNJaFU5ejdYd1llNkpoM0xMaWwtc1M1YTRwdHpMSFZpVXFFaUpQYVlnMUU1eWpuaWFQSTlLd0J6bTZvekR4dW9HTTl1N2REQUNWTnhubE4zQnNsemY5TUhLbWQyRlFqUF9YdHRBMS1PQmdFanFlM25wekVyU0xPYVVBZDZ3M1RfX1B1RHZKU0NrNGJDT210bl9FME9FbkpfalpaZGUtbw?oc=5",
+      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and EMA on Phase 3 Program for Naronapride in Gastroparesis - Yahoo Finance",
+      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and EMA on Phase 3 Program for Naronapride in Gastroparesis Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDJCWXhTdGpVdklFdm4yd0hGX1BnZEZqZFFUcUhlVUVlUzhFMU9lVWdTUHI1NE9KVFBnSWlBY2ZNNERmdTFEaVM0WU1KdHFLMjRqWEY2Vkg2MVNEY1g0UTBuTUJBZEg4TWxyRTdBX0F3UXN5Y1BWZUpKUk5XLVhvMGIwM3J1YjlGTlVLU2FyNHVncW1vbXc?oc=5",
       "published": "2026-10-21T12:00:00+00:00",
       "source": "Google News RSS",
       "signal": "General",
@@ -239,7 +205,7 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Dr. Falk Pharma",
-        "Alignment with FDA and - GlobeNewswire Dr. Falk Pharma"
+        "Gastroparesis - Yahoo Finance Dr. Falk Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -323,26 +289,6 @@
       "project_signals": [
         "investment"
       ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "US FDA Issues Guidance on Apps Used Alongside Prescription Drugs - Voice of Healthcare",
-      "description": "US FDA Issues Guidance on Apps Used Alongside Prescription Drugs Voice of Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWdPcW00UXdhdDVYRVFORElHR1Z0XzgwWXJJSmxOclFybjAxRW5YU3IxcU9JUk15LUZ0RVhzY0MxN2c3ZFFhSEdMLVhtVU84cEo3UHE3cFVnam9vSzRuX29SVTN6LV9ocm1HaVgyUmRMRlQ4RXpmMWJLMHdpMXF5RllvemczSTZXRENGcjZWRktSWDlGMHhrcWdoUkY4TkFV?oc=5",
-      "published": "2026-10-21T07:37:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Apps Used Alongside Prescription Drugs - Voice of Healthcare",
-        "Apps Used Alongside Prescription Drugs Voice of Healthcare"
-      ],
-      "project_signals": [],
       "numbers": []
     },
     {
