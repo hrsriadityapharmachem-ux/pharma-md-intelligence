@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T14:57:48.770399+00:00",
-  "article_count": 8,
-  "opportunity_count": 3,
+  "updated": "2026-10-22T15:56:41.353227+00:00",
+  "article_count": 7,
+  "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
@@ -55,21 +55,20 @@
     },
     {
       "category": "Global",
-      "title": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint - Contract Pharma",
-      "description": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajdFekZTeUp3YWVFRkFmcHNLX3JkZlp4SkFGS1dqQzRLRDdMVTRTWkFSTEVBRU5hWlFSX1M4d3lQT004dVJKRnd1M19uS1gyN0FnN3NhX0FzTjVjMkxZMy0xOXZBMEt4RXYtU2xfb0s4eHB1NGlWZWFYc2E1WWxYWXZmZXN1NGJXMUd5YVVUeHRVSWNGTG1aYV9YdzByMWtrb1dqYXFoT0xTZjN2dDBuTWZ6VllfblFfRjNF?oc=5",
-      "published": "2026-10-21T15:56:20+00:00",
+      "title": "Esteve earmarks $80M to revamp CDMO operations in China - Fierce Pharma",
+      "description": "Esteve earmarks $80M to revamp CDMO operations in China Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWpDX01Tc3NKQ0ZBRUhzanlFc3VEeFd3N2dNUXc5WnNzem1yQXF4R0UyWmN6djlheVAzNFNIeXNpS3drVWdMcmZEQmc2R21hS1oxUWY3aE9QalE4UkotQ1c1eG9mTDV3cWo1NlphX0ZlWF9ZWnBUOTgxQUFZT3NvZjRrV0xBUQ?oc=5",
+      "published": "2026-10-22T14:52:48+00:00",
       "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "ESTEVE CDMO",
-        "Expand Global Manufacturing Footprint - Contract Pharma",
-        "Expand Global Manufacturing Footprint Contract Pharma"
+        "CDMO operations in China - Fierce Pharma",
+        "CDMO operations in China Fierce Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -79,7 +78,7 @@
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
-    "Manufacturing / Plants": 3,
+    "Manufacturing / Plants": 2,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -220,27 +219,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint - Contract Pharma",
-      "description": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajdFekZTeUp3YWVFRkFmcHNLX3JkZlp4SkFGS1dqQzRLRDdMVTRTWkFSTEVBRU5hWlFSX1M4d3lQT004dVJKRnd1M19uS1gyN0FnN3NhX0FzTjVjMkxZMy0xOXZBMEt4RXYtU2xfb0s4eHB1NGlWZWFYc2E1WWxYWXZmZXN1NGJXMUd5YVVUeHRVSWNGTG1aYV9YdzByMWtrb1dqYXFoT0xTZjN2dDBuTWZ6VllfblFfRjNF?oc=5",
-      "published": "2026-10-21T15:56:20+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "Expand Global Manufacturing Footprint - Contract Pharma",
-        "Expand Global Manufacturing Footprint Contract Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     }
