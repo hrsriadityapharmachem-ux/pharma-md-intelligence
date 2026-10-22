@@ -1,57 +1,31 @@
 {
-  "updated": "2026-10-22T22:53:18.980695+00:00",
-  "article_count": 7,
-  "opportunity_count": 2,
+  "updated": "2026-10-22T23:49:19.506752+00:00",
+  "article_count": 6,
+  "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "Global",
-      "title": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site - Pulse 2.0",
-      "description": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUZSTE5UdmNpSVNWV1o4czdqUTR3ejF0MHlMZG1SQUt2ckF0anhNblotZUkzeV9iX3FtbkdQUHdaS191RDRLYUJYb2duRERtbEtrbllIcGRIVXpvLVlWYWI2YzQ2bUVTR1RfcTFqLVgzQ1FKb3RfSDVCYmxIVVZfak5mUzhsUW5hMmZnMUduT0VSUWZCUlEw?oc=5",
-      "published": "2026-10-22T11:27:49+00:00",
+      "category": "India",
+      "title": "Sai Life Sciences in Focus as Pharma CDMO Outsourcing Theme Gains Ground (NSE:SAILIFE) - Kalkine India",
+      "description": "Sai Life Sciences in Focus as Pharma CDMO Outsourcing Theme Gains Ground (NSE:SAILIFE) Kalkine India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlpUc29GVjdjTHJCS2RfSzBQbkYtYjV2XzdyYzFtWXZwdFhPeGYzd3l3OWNPSmpVUl9yeXUzYXNyTjQ3OFhRenRHNElLaDE3ZE4wMU9PN0pscEZPSlJ2ZUk2RmpUSTg3OWVWeXo2NkN5REp2QnV0alE1Z3VCVVFPNHBLdUVmSTdyWkladDdkRG1aLUZ0Vkhwa3FJQkpXM2VHQW1pR3R4b0pOaHpuaEh0Ty1jVUJzRVFwVXU3b28ySldHa04yNUdF?oc=5",
+      "published": "2026-10-22T15:33:00+00:00",
       "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
       "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "ESTEVE CDMO"
+        "Sai Life Sciences in Focus as Pharma CDMO",
+        "Kalkine India Sai Life Sciences in Focus as Pharma CDMO"
       ],
       "project_signals": [],
-      "numbers": [
-        "80 million"
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
-      "description": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmNIaXhzNVZiUURPbTg3Ym9iQmdCN3o1VlBacmZFOFgtNDdyeWM5X0g1aUFnSjltUmFOV1F5YnJSRFgtQUN2WkhiVklETDJTS0NWc2JneG16ODNwOTZELWRmQkQtSGlRUlZaLVVpMWdGdkVsaWZjWUdoQXA4TU5rSkI5Rkc4T0FZZE1rTWlOWVZBR2Uzc25fbGRMNWlHdXJCX292UjRRN2pReGhXaV92YnlSaHhkZkZ3dWxadUNPSVJFR1Foc21uRVNoSXg3S1BQSTBLTklxaw?oc=5",
-      "published": "2026-10-22T03:47:32+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "Million to Expand Pharmaceutical",
-        "Manufacturing Capabilities in China - BioPharma",
-        "APAC ESTEVE CDMO",
-        "Manufacturing Capabilities in China BioPharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "80 million"
-      ]
+      "numbers": []
     },
     {
       "category": "Global",
@@ -72,13 +46,30 @@
       ],
       "project_signals": [],
       "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Sri Lankan pharma firms explore global markets at Milan exhibition - Ceylon Daily News",
+      "description": "Sri Lankan pharma firms explore global markets at Milan exhibition Ceylon Daily News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnhYVVVaOXN3SVdDcjBaRWJkXzYyaEpubjd0dUd3WUhSZ19rRVJOYXJpeXh4TkRDSjlKalJRNFI2Wk9pM0lWM1AxWEtrWUZ4RWlOMXRpMDBjSlVROVRDQ2I0a3FXbl9neU1Yd3BRNkg5Ujc4X2hGY3gxY19PNEtUazhIU0NkemRYX0M3OXRyeTItZHJCN0w5bEdWZk0xNUNpcXhObU85eWUtMk93eXNKQmVxQ2JnVUk?oc=5",
+      "published": "2026-10-22T19:54:49+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
-    "Manufacturing / Plants": 2,
+    "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -140,6 +131,26 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "Sai Life Sciences in Focus as Pharma CDMO Outsourcing Theme Gains Ground (NSE:SAILIFE) - Kalkine India",
+      "description": "Sai Life Sciences in Focus as Pharma CDMO Outsourcing Theme Gains Ground (NSE:SAILIFE) Kalkine India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlpUc29GVjdjTHJCS2RfSzBQbkYtYjV2XzdyYzFtWXZwdFhPeGYzd3l3OWNPSmpVUl9yeXUzYXNyTjQ3OFhRenRHNElLaDE3ZE4wMU9PN0pscEZPSlJ2ZUk2RmpUSTg3OWVWeXo2NkN5REp2QnV0alE1Z3VCVVFPNHBLdUVmSTdyWkladDdkRG1aLUZ0Vkhwa3FJQkpXM2VHQW1pR3R4b0pOaHpuaEh0Ty1jVUJzRVFwVXU3b28ySldHa04yNUdF?oc=5",
+      "published": "2026-10-22T15:33:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Sai Life Sciences in Focus as Pharma CDMO",
+        "Kalkine India Sai Life Sciences in Focus as Pharma CDMO"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Esteve earmarks $80M to revamp CDMO operations in China - Fierce Pharma",
       "description": "Esteve earmarks $80M to revamp CDMO operations in China Fierce Pharma",
@@ -175,52 +186,6 @@
       "companies": [],
       "project_signals": [],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site - Pulse 2.0",
-      "description": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUZSTE5UdmNpSVNWV1o4czdqUTR3ejF0MHlMZG1SQUt2ckF0anhNblotZUkzeV9iX3FtbkdQUHdaS191RDRLYUJYb2duRERtbEtrbllIcGRIVXpvLVlWYWI2YzQ2bUVTR1RfcTFqLVgzQ1FKb3RfSDVCYmxIVVZfak5mUzhsUW5hMmZnMUduT0VSUWZCUlEw?oc=5",
-      "published": "2026-10-22T11:27:49+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "ESTEVE CDMO"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "80 million"
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
-      "description": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmNIaXhzNVZiUURPbTg3Ym9iQmdCN3o1VlBacmZFOFgtNDdyeWM5X0g1aUFnSjltUmFOV1F5YnJSRFgtQUN2WkhiVklETDJTS0NWc2JneG16ODNwOTZELWRmQkQtSGlRUlZaLVVpMWdGdkVsaWZjWUdoQXA4TU5rSkI5Rkc4T0FZZE1rTWlOWVZBR2Uzc25fbGRMNWlHdXJCX292UjRRN2pReGhXaV92YnlSaHhkZkZ3dWxadUNPSVJFR1Foc21uRVNoSXg3S1BQSTBLTklxaw?oc=5",
-      "published": "2026-10-22T03:47:32+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "Million to Expand Pharmaceutical",
-        "Manufacturing Capabilities in China - BioPharma",
-        "APAC ESTEVE CDMO",
-        "Manufacturing Capabilities in China BioPharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "80 million"
-      ]
     }
   ]
 }
