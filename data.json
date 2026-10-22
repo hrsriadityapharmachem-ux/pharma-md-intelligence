@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T17:52:29.502950+00:00",
-  "article_count": 7,
+  "updated": "2026-10-22T19:05:19.891883+00:00",
+  "article_count": 6,
   "opportunity_count": 2,
   "risk_count": 0,
   "watch_count": 0,
@@ -107,6 +107,23 @@
     },
     {
       "category": "Global",
+      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 - The Guardian",
+      "description": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXM1ZzFDWDQyMXloWElaMUxuWWg1bkZmQU1QUFc3THctSFctZ3drWmJSaXdlUHh4bzh2WllDdFh1VFRiVkN1UnNpMkdEczh0QVdVWDZ0dnNKbEhhQjZYeWJCXzVQZHFWcUMyYk1Hb3g4SWRiY25TaXZnamtVUE5hQ25YRHF3bGk0Z1VCLVhQbzd1SE1yb2VHVDQ1dVNLbXRRdVpnZkJMV1BLWE9OYWk0ZS1OQXFzMTVk?oc=5",
+      "published": "2026-10-22T17:32:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
       "title": "Esteve earmarks $80M to revamp CDMO operations in China - Fierce Pharma",
       "description": "Esteve earmarks $80M to revamp CDMO operations in China Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWpDX01Tc3NKQ0ZBRUhzanlFc3VEeFd3N2dNUXc5WnNzem1yQXF4R0UyWmN6djlheVAzNFNIeXNpS3drVWdMcmZEQmc2R21hS1oxUWY3aE9QalE4UkotQ1c1eG9mTDV3cWo1NlphX0ZlWF9ZWnBUOTgxQUFZT3NvZjRrV0xBUQ?oc=5",
@@ -165,23 +182,6 @@
     },
     {
       "category": "Global",
-      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 - The Guardian",
-      "description": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXM1ZzFDWDQyMXloWElaMUxuWWg1bkZmQU1QUFc3THctSFctZ3drWmJSaXdlUHh4bzh2WllDdFh1VFRiVkN1UnNpMkdEczh0QVdVWDZ0dnNKbEhhQjZYeWJCXzVQZHFWcUMyYk1Hb3g4SWRiY25TaXZnamtVUE5hQ25YRHF3bGk0Z1VCLVhQbzd1SE1yb2VHVDQ1dVNLbXRRdVpnZkJMV1BLWE9OYWk0ZS1OQXFzMTVk?oc=5",
-      "published": "2026-10-22T09:03:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
       "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
       "description": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China BioPharma APAC",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmNIaXhzNVZiUURPbTg3Ym9iQmdCN3o1VlBacmZFOFgtNDdyeWM5X0g1aUFnSjltUmFOV1F5YnJSRFgtQUN2WkhiVklETDJTS0NWc2JneG16ODNwOTZELWRmQkQtSGlRUlZaLVVpMWdGdkVsaWZjWUdoQXA4TU5rSkI5Rkc4T0FZZE1rTWlOWVZBR2Uzc25fbGRMNWlHdXJCX292UjRRN2pReGhXaV92YnlSaHhkZkZ3dWxadUNPSVJFR1Foc21uRVNoSXg3S1BQSTBLTklxaw?oc=5",
@@ -204,26 +204,6 @@
       "numbers": [
         "80 million"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "FDA Approves Hibsago | PharmExec - Pharmaceutical Executive",
-      "description": "FDA Approves Hibsago | PharmExec Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HN0FYbmczUXRSTm5NQzVHZXZ3RTNZUV92TThyVmdzaFBMU3hPLVcxRTZVMGZ4QVBoaWZ6cFBFNjFLa21kZTNEemFsQ0o1dXFweGhkbllRNy02WlVMTHpsZXI1c0owQWVR?oc=5",
-      "published": "2026-10-21T18:51:49+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "PharmExec - Pharmaceutical",
-        "PharmExec Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ]
 }
