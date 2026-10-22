@@ -1,12 +1,35 @@
 {
-  "updated": "2026-10-21T23:50:10.829400+00:00",
-  "article_count": 12,
-  "opportunity_count": 3,
+  "updated": "2026-10-22T01:05:48.201314+00:00",
+  "article_count": 14,
+  "opportunity_count": 4,
   "risk_count": 0,
   "watch_count": 2,
-  "high_priority_count": 2,
+  "high_priority_count": 3,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra - Sahi",
+      "description": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra Sahi",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWduLXpUaWdPMklIaXBGOVRFQTdERDRHMm9oUnk2U0lxZk93d1Z5dnlfa0pKb1h6bXBRamxzS053eFlxYjhsNTVOUnFPWDRTemNOSFJGUFFvcGRhdU1EOXNNYk5qaldTU2NMQ3B3MWZHVGxwUTA1clJtb1FvWnhCSWExRW0tcXptYXZTZHlUREJLN00wa0ZQLWVpc2xzcE1iaHRpTg?oc=5",
+      "published": "2026-10-21T13:24:02+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "Anuh Pharma Takes Over Vanquest Pharma",
+        "Manufacturing Facility In Maharashtra - Sahi Anuh Pharma",
+        "Takes Over Vanquest Pharma"
+      ],
+      "project_signals": [
+        "manufacturing facility"
+      ],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Major Investment in a new site in China by Esteve CDMO - The Pharma Letter",
@@ -50,34 +73,13 @@
         "investment"
       ],
       "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint - Contract Pharma",
-      "description": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajdFekZTeUp3YWVFRkFmcHNLX3JkZlp4SkFGS1dqQzRLRDdMVTRTWkFSTEVBRU5hWlFSX1M4d3lQT004dVJKRnd1M19uS1gyN0FnN3NhX0FzTjVjMkxZMy0xOXZBMEt4RXYtU2xfb0s4eHB1NGlWZWFYc2E1WWxYWXZmZXN1NGJXMUd5YVVUeHRVSWNGTG1aYV9YdzByMWtrb1dqYXFoT0xTZjN2dDBuTWZ6VllfblFfRjNF?oc=5",
-      "published": "2026-10-21T15:56:20+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "Expand Global Manufacturing Footprint - Contract Pharma",
-        "Expand Global Manufacturing Footprint Contract Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 2,
-    "Manufacturing / Plants": 1,
+    "Manufacturing / Plants": 2,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -144,6 +146,29 @@
     },
     {
       "category": "India",
+      "title": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra - Sahi",
+      "description": "Anuh Pharma Takes Over Vanquest Pharma Manufacturing Facility In Maharashtra Sahi",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWduLXpUaWdPMklIaXBGOVRFQTdERDRHMm9oUnk2U0lxZk93d1Z5dnlfa0pKb1h6bXBRamxzS053eFlxYjhsNTVOUnFPWDRTemNOSFJGUFFvcGRhdU1EOXNNYk5qaldTU2NMQ3B3MWZHVGxwUTA1clJtb1FvWnhCSWExRW0tcXptYXZTZHlUREJLN00wa0ZQLWVpc2xzcE1iaHRpTg?oc=5",
+      "published": "2026-10-21T13:24:02+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "Anuh Pharma Takes Over Vanquest Pharma",
+        "Manufacturing Facility In Maharashtra - Sahi Anuh Pharma",
+        "Takes Over Vanquest Pharma"
+      ],
+      "project_signals": [
+        "manufacturing facility"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "Argentina eases drug import rules, creating new export avenues for India - Livemint",
       "description": "Argentina eases drug import rules, creating new export avenues for India Livemint",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVY2cFphLWtQNXRSajVNbENxS1RYSDdEeUVxdVNKWFJxOFRzY0h0enc1c2NQNk5SNGFFenRFTDBRU3BGWjRhQkNWd1ppMXFlSjdYMTZWNGhGaWV4SkhvNXdrOGFxSl9jalFhbExya1Zxc1lDcExLNGxYSldsTGhxbGJlWXlGd2tpUkJOVDc4ZE1pU2FNeU9wUU5xeWVpbEZlU1VCNE9NYUFQUHM4ODZQbkRVTFZOWEhtQzR30gHAAUFVX3lxTE14cXhMOG1JanFVQnhzbWptaTlfZTE2cmJaVGEta0dHZnBZczF5RDdFcXJiMlk0UTZ6cE9IdXQ5UVpZS2FtcG0wWlpQdDFiekZMQ25yOVYta0hBcl8ybDZUSFRHdTdxOG85d0phMVpxMTlZUFV4MDJWV3pJQ2ItbHVDV0szMzZ0ZTg4Y1BnYnVBWjZ0cU04TDJkMWMtSG0xQThfSkt3N0xDVGRxaW1aOGJyN1F2TUVoN0lRaUFPQ1VpUA?oc=5",
@@ -160,6 +185,25 @@
       "numbers": [
         ", cr"
       ]
+    },
+    {
+      "category": "India",
+      "title": "Paracetamol Manufacturing Plant Setup in India - IMARC Group",
+      "description": "Paracetamol Manufacturing Plant Setup in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM05pQ2hMaEVScW9FYXNyNXRlbmlYUzE0NzRZM09GYlVOaENLdTZHZmhCa2YtSjJOTnV4N01JLVYzWXBjaFBNaFVWdGJKSC1JSzBkNTNlZGVZNjVaZ21vQ2ZuUWlwY0JGTVFOMkhINlRqZ04wTG9aaXJlQ2cwUnJ3cDkwSUY1d2Ezazlz?oc=5",
+      "published": "2026-10-21T12:40:57+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": []
     },
     {
       "category": "Global",
