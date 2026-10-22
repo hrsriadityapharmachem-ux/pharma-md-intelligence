@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T07:15:10.356845+00:00",
-  "article_count": 9,
+  "updated": "2026-10-22T08:04:32.535291+00:00",
+  "article_count": 10,
   "opportunity_count": 4,
   "risk_count": 0,
   "watch_count": 1,
@@ -31,10 +31,10 @@
     },
     {
       "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - PR Newswire",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGQ1a0tqaldKOGQ0TksyeDRlMWJudXZvQ1VqNHkyNlk3RDRrTDM4YzVuRzlELURQNDhScDhsaUUxM25GcmlkSThPeVhjZkZLZ1ZEb0NSWXMwWXNkbjdNbXpnZkRNM2Z4NzRYTGVkSS1kVy1kN2FIM3VtZ0NDSEZvV3RuU2FVMnFwemVoeGxDUjZVRlh0UUE5UVdRcUI3dmZGMW9yTGU5QTZfb3ZNR2J0Q3VOUTBoSXpQVllVTHdCM19lQklNRmVtRmVaVVBwN3J1RWZ4YnBKYkRCYlNaZjNrRDJqMVhWQUl1aWhwR2cwV1BFZw?oc=5",
-      "published": "2026-10-21T10:05:00+00:00",
+      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
+      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
+      "published": "2026-10-21T10:09:36+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "Investment / Expansion",
@@ -44,7 +44,7 @@
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
         "ESTEVE CDMO",
-        "China - PR Newswire ESTEVE CDMO"
+        "China - StreetInsider ESTEVE CDMO"
       ],
       "project_signals": [
         "investment"
@@ -211,6 +211,26 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "CDSCO approves Sanofi’s Qfitlia for haemophilia A and B in India - Express Pharma",
+      "description": "CDSCO approves Sanofi’s Qfitlia for haemophilia A and B in India Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlZJRmhvSTFESkUzaFFGYWtjaXlBSFBzRmd4V3FZMkxTVjBPekxpcnI2S3JtQlpEak5obzdiVm0zandjaE1mZXFSQlloLXAtajB0ZV9zYmM5Wl9KLTNWVVcwcVJOUTRucS1ERU4tTXhZRmpRSGFrRmR5eXNTS0hxX2dYbmJfb28wOExPWDNtSjFGUENvTEhzRg?oc=5",
+      "published": "2026-10-21T10:55:28+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Qfitlia for haemophilia A and B in India - Express Pharma",
+        "Qfitlia for haemophilia A and B in India Express Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Major Investment in a new site in China by Esteve CDMO - The Pharma Letter",
       "description": "Major Investment in a new site in China by Esteve CDMO The Pharma Letter",
@@ -251,10 +271,10 @@
     },
     {
       "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - PR Newswire",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGQ1a0tqaldKOGQ0TksyeDRlMWJudXZvQ1VqNHkyNlk3RDRrTDM4YzVuRzlELURQNDhScDhsaUUxM25GcmlkSThPeVhjZkZLZ1ZEb0NSWXMwWXNkbjdNbXpnZkRNM2Z4NzRYTGVkSS1kVy1kN2FIM3VtZ0NDSEZvV3RuU2FVMnFwemVoeGxDUjZVRlh0UUE5UVdRcUI3dmZGMW9yTGU5QTZfb3ZNR2J0Q3VOUTBoSXpQVllVTHdCM19lQklNRmVtRmVaVVBwN3J1RWZ4YnBKYkRCYlNaZjNrRDJqMVhWQUl1aWhwR2cwV1BFZw?oc=5",
-      "published": "2026-10-21T10:05:00+00:00",
+      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
+      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
+      "published": "2026-10-21T10:09:36+00:00",
       "source": "Google News RSS",
       "signal": "Opportunity",
       "business_area": "Investment / Expansion",
@@ -264,7 +284,7 @@
       "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
       "companies": [
         "ESTEVE CDMO",
-        "China - PR Newswire ESTEVE CDMO"
+        "China - StreetInsider ESTEVE CDMO"
       ],
       "project_signals": [
         "investment"
