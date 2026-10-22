@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:57:45.618669+00:00",
+  "updated": "2026-10-22T17:52:29.502950+00:00",
   "article_count": 7,
   "opportunity_count": 2,
   "risk_count": 0,
@@ -85,6 +85,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "FDA Grants Ultomiris Accelerated Approval in the U.S. | PharmExec - Pharmaceutical Executive",
+      "description": "FDA Grants Ultomiris Accelerated Approval in the U.S. | PharmExec Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVZ2OVQ0RDIybkZhWEYxbHgxeUpKRTVnS3RsbVBjUmdaS2dnY1BRYThQQzNGODBPa3pmSEt4cjd5dGEwV3lmRWVmcWlIQkIya01RRThQUDRMX3pwenY1WjJNRjQzZWQtZFFqS0ZEdDlBQUNET1Zhc1ZaR3o4eDdENHYxN1lIaVRsSFE?oc=5",
+      "published": "2026-10-22T17:36:58+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "PharmExec - Pharmaceutical",
+        "PharmExec Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Esteve earmarks $80M to revamp CDMO operations in China - Fierce Pharma",
@@ -202,23 +222,6 @@
         "PharmExec - Pharmaceutical",
         "PharmExec Pharmaceutical"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Over 70 Pharma Companies to Participate in Vijayawada Fair - Deccan Chronicle",
-      "description": "Over 70 Pharma Companies to Participate in Vijayawada Fair Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjhQMFpLN3ZuRHZNME1Xc0VQN09PSC1aSDJuSV82QTI3ZWh6VkloYm91T0EzbVZVcnVkbWUybVdiQkp4R0V2Q0pKR2c2WTZwcTZKb0pmRTBNNWFtd0NMWUo1aDNlRE56ME9semxvNm9nMEJRUl8yVDlPMTZUSk9zd2hDV2NOaEEtWTNtNDZBcmRpbWI2dGliVFE4Yi1kU3BYMmkwY2JuS2hzYzBlUGZ1Z3llRTdEeDdROHpsOWhobHpRT1g5NzI5NNIBzgFBVV95cUxONEhQSzhBc1JtSE1VeldDeXFObFJfMmVyWU1QU2tfeEhWd0xOekd4bW84dVlrblItNm0ybUd4a0VVX2RjZnJiWjR4N1A1T1R3WGFuM3ZBNnRMYlNuZjBsVi1tTm5IWUFBS09XMWhFMXlXTTVSamRETXZVcmJMYm9kdFZqazNJaTItbVdpMDFRSDlCSE40N1loNmJmQkhRelE3WVVCYXVoRU9WUGJpX3BTRzRTV0FVUncycjhLOGRZcUIzYUdTM0N0UUVGU2dyZw?oc=5",
-      "published": "2026-10-21T17:38:56+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     }
