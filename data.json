@@ -1,56 +1,12 @@
 {
-  "updated": "2026-10-22T09:58:58.082476+00:00",
-  "article_count": 11,
-  "opportunity_count": 4,
+  "updated": "2026-10-22T10:56:23.937967+00:00",
+  "article_count": 7,
+  "opportunity_count": 2,
   "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 2,
+  "watch_count": 0,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "Global",
-      "title": "Major Investment in a new site in China by Esteve CDMO - The Pharma Letter",
-      "description": "Major Investment in a new site in China by Esteve CDMO The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDVEeUNnZ0JtWk8yLWhERU1KVVptaFN5OHJCendxZzNMTlRocTJPMjE0N25pYmR6ckxuOXg5UDE5TmNqZXdXeDZEYTRZZ3VSNFQzaFJIdnZOTUhsTkIybF93REY2bzFaVkhWX25IQlgxVVdiZnBzanVQUHFTX04zRElEOTYxdDVRRVd4cWFacjRSd21xaVV2Z0ZtRUg?oc=5",
-      "published": "2026-10-21T10:41:31+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Major Investment in a new site in China by Esteve CDMO",
-        "The Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
-      "published": "2026-10-21T10:09:36+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - StreetInsider ESTEVE CDMO"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
     {
       "category": "Global",
       "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China - BioPharma APAC",
@@ -75,12 +31,50 @@
       "numbers": [
         "80 million"
       ]
+    },
+    {
+      "category": "Global",
+      "title": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint - Contract Pharma",
+      "description": "ESTEVE CDMO Invests $80M in China to Expand Global Manufacturing Footprint Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajdFekZTeUp3YWVFRkFmcHNLX3JkZlp4SkFGS1dqQzRLRDdMVTRTWkFSTEVBRU5hWlFSX1M4d3lQT004dVJKRnd1M19uS1gyN0FnN3NhX0FzTjVjMkxZMy0xOXZBMEt4RXYtU2xfb0s4eHB1NGlWZWFYc2E1WWxYWXZmZXN1NGJXMUd5YVVUeHRVSWNGTG1aYV9YdzByMWtrb1dqYXFoT0xTZjN2dDBuTWZ6VllfblFfRjNF?oc=5",
+      "published": "2026-10-21T15:56:20+00:00",
+      "source": "Google News RSS",
+      "signal": "Opportunity",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Potential business opportunity requiring management review.",
+      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
+      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
+      "companies": [
+        "ESTEVE CDMO",
+        "Expand Global Manufacturing Footprint - Contract Pharma",
+        "Expand Global Manufacturing Footprint Contract Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 - The Guardian",
+      "description": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000 The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXM1ZzFDWDQyMXloWElaMUxuWWg1bkZmQU1QUFc3THctSFctZ3drWmJSaXdlUHh4bzh2WllDdFh1VFRiVkN1UnNpMkdEczh0QVdVWDZ0dnNKbEhhQjZYeWJCXzVQZHFWcUMyYk1Hb3g4SWRiY25TaXZnamtVUE5hQ25YRHF3bGk0Z1VCLVhQbzd1SE1yb2VHVDQ1dVNLbXRRdVpnZkJMV1BLWE9OYWk0ZS1OQXFzMTVk?oc=5",
+      "published": "2026-10-22T09:03:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 2,
+    "Investment / Expansion": 0,
     "Manufacturing / Plants": 2,
     "Supply Chain": 0,
     "Regulatory": 0,
@@ -209,9 +203,9 @@
     },
     {
       "category": "Global",
-      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and EMA on Phase 3 Program for Naronapride in Gastroparesis - Yahoo Finance",
-      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and EMA on Phase 3 Program for Naronapride in Gastroparesis Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDJCWXhTdGpVdklFdm4yd0hGX1BnZEZqZFFUcUhlVUVlUzhFMU9lVWdTUHI1NE9KVFBnSWlBY2ZNNERmdTFEaVM0WU1KdHFLMjRqWEY2Vkg2MVNEY1g0UTBuTUJBZEg4TWxyRTdBX0F3UXN5Y1BWZUpKUk5XLVhvMGIwM3J1YjlGTlVLU2FyNHVncW1vbXc?oc=5",
+      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and - GlobeNewswire",
+      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYmhDdXR1SERKNkZ3X3JQSU1LWVY1cHlLN2YwSnc0WnlyOTlMVVJlbWNqUzhqZTA2Skt1SExrd1N0N2YweWZ3TEdMa2FYcnRKMzl1Wnd3bXBOMVhYZEFkSWYyVnFfMW9vNWJtMVFMQVptaUtxTzNJaFU5ejdYd1llNkpoM0xMaWwtc1M1YTRwdHpMSFZpVXFFaUpQYVlnMUU1eWpuaWFQSTlLd0J6bTZvekR4dW9HTTl1N2REQUNWTnhubE4zQnNsemY5TUhLbWQyRlFqUF9YdHRBMS1PQmdFanFlM25wekVyU0xPYVVBZDZ3M1RfX1B1RHZKU0NrNGJDT210bl9FME9FbkpfalpaZGUtbw?oc=5",
       "published": "2026-10-21T12:00:00+00:00",
       "source": "Google News RSS",
       "signal": "General",
@@ -222,90 +216,9 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Dr. Falk Pharma",
-        "Gastroparesis - Yahoo Finance Dr. Falk Pharma"
+        "Alignment with FDA and - GlobeNewswire Dr. Falk Pharma"
       ],
       "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "CDSCO approves Sanofi’s Qfitlia for haemophilia A and B in India - Express Pharma",
-      "description": "CDSCO approves Sanofi’s Qfitlia for haemophilia A and B in India Express Pharma",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlZJRmhvSTFESkUzaFFGYWtjaXlBSFBzRmd4V3FZMkxTVjBPekxpcnI2S3JtQlpEak5obzdiVm0zandjaE1mZXFSQlloLXAtajB0ZV9zYmM5Wl9KLTNWVVcwcVJOUTRucS1ERU4tTXhZRmpRSGFrRmR5eXNTS0hxX2dYbmJfb28wOExPWDNtSjFGUENvTEhzRg?oc=5",
-      "published": "2026-10-21T10:55:28+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Qfitlia for haemophilia A and B in India - Express Pharma",
-        "Qfitlia for haemophilia A and B in India Express Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Major Investment in a new site in China by Esteve CDMO - The Pharma Letter",
-      "description": "Major Investment in a new site in China by Esteve CDMO The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDVEeUNnZ0JtWk8yLWhERU1KVVptaFN5OHJCendxZzNMTlRocTJPMjE0N25pYmR6ckxuOXg5UDE5TmNqZXdXeDZEYTRZZ3VSNFQzaFJIdnZOTUhsTkIybF93REY2bzFaVkhWX25IQlgxVVdiZnBzanVQUHFTX04zRElEOTYxdDVRRVd4cWFacjRSd21xaVV2Z0ZtRUg?oc=5",
-      "published": "2026-10-21T10:41:31+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "Major Investment in a new site in China by Esteve CDMO",
-        "The Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Sanofi healthcare receives CDSCO approval for Qftilia therapy for haemophilia patients in India - The Economic Times",
-      "description": "Sanofi healthcare receives CDSCO approval for Qftilia therapy for haemophilia patients in India The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQVzRkUkRKTnhPN3UtQ24yc2pqMXV1dFVZdE9WTmlOOUJwNHZpMDlLZTFRQU5NUXZFcHd6a0xuclhFOTBremdFWjBVX21tbFF4NWNTX25OdmFTa2F5aGZDUXZhN3NBS2VWYjlxeWNSU1VmV0tfQUotRnU3Q2xjaWgwcHlRZlVHSndxcVRudjZBZ2U2MVZtOHFoRl9DNFVvaW94OG5nZWgxUVlFWHAyV2hBanRfQ1RqZm5NVk1wV0lPZHhQaWRUekFZeXpjbWJ3QkhUSzhKa0NFZkFEZXloWEsySmxSMFFIOENXOFkzaDdYdHFKZWtOaFdTaWJKWlc3UWxHV1h3WllCbDd6ZWFIT2RGQjN2ckVNblZsLW1LTFVn0gGjAkFVX3lxTFBaVlpZa1JCU292alhJdnBYYnhmSWgySXN3U3VtNV9VMGhNNmVTU2p4VmlnLWtLbFJ2V0JIOGYxNk9yeUQ1alhBS0xsMTd0WFpGeU1yRmRWeF83aV9qLVBQYkpaeFBhNDJYWjc2VUVfTEVSbndlNHNkU1FBc2N1dnVYUjFNNXN4VDVFSkZLWkdMQ3Y1dkRSY2RRWDBjQW1TajM1cWhxWEZ1dlhNNmdaU0ZBU2ZaUHRsM0oyYzRtclhraUh1ZzdqNU5xYTlOaThoYmdXYTZnTHlKY1JlUjNDQWVIMmVmQzh0VUtENXR1aVRKaEZJNjNhWEhGaTJvZ2pTSmhIM2dZZ0ZsY2t0QkpFMkxGZGxBd2poNk5PQWRDaUhmdEVKNA?oc=5",
-      "published": "2026-10-21T10:09:50+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China - StreetInsider",
-      "description": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMkt1Z1c1ZTQyMTRsM0l4WXkzcW5ZUkVobVRXQ1RkMFBHWkhTMDM4VFo4cGoxTjB4UFJtd3NrSmFaUzFJNW9Ta2dSRHVPRU90ejdhQVd4aXdSZnIyNjRkT3Y4UFpYWHQ5ZmtDMFBBNi10ZmJ3R3JEbVc5Z1V2aXRjQTM4M3Fid0tUenI3MTlDME1XYkpGTTc5dHJXQUpncFU4Q2RUWjlpTFJWVGRrRmpEVE9MSENidFZxeVdrMGtRdmRvNzdWcHc5MGZfSTVhcnBueUM0cF9Wdl9WcWxxMEY4Q3Z6NzlrckV6RUpjQzlVNVA?oc=5",
-      "published": "2026-10-21T10:09:36+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "New investment or expansion may create potential supplier, customer or partnership opportunities.",
-      "why_it_matters": "New investment or expansion can create opportunities around manufacturing, chemicals, APIs, suppliers, customers or partnerships.",
-      "md_action": "Track the investment/project and identify possible supplier, customer, manufacturing or partnership opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "China - StreetInsider ESTEVE CDMO"
-      ],
-      "project_signals": [
-        "investment"
-      ],
       "numbers": []
     }
   ]
