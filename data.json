@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T11:55:56.772705+00:00",
-  "article_count": 8,
+  "updated": "2026-10-22T13:11:54.356331+00:00",
+  "article_count": 7,
   "opportunity_count": 3,
   "risk_count": 0,
   "watch_count": 0,
@@ -86,6 +86,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "A brain drug-delivery platform gets its first order from a drugmaker - Stock Titan",
+      "description": "A brain drug-delivery platform gets its first order from a drugmaker Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTTJCTmhjSm0wa1Rrc2daNDN6NDZXdDI3Z3k2bXhrajh4TzJZX1MwTnhUWHBpS3pvMnFlSnItcDhXNm01VHZCaDIzS1Y1MTZBME5jLTdCTWJsdlVSeUlIQXRnRTFkdGtqb1dfQlJYY3Zldm5IYldpZzRvVEdiYWN0M1JDUU90dFNDbzJvZ2djR01pSDVyMVRJMnRsak01OF9vd0s2THB0YUNwb3NwWjFFVUxHcW9vdGltR3Q5VVZn?oc=5",
+      "published": "2026-10-22T12:31:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "ESTEVE CDMO Invests More Than $80 Million In New China Manufacturing Site - Pulse 2.0",
@@ -203,45 +220,6 @@
         "ESTEVE CDMO",
         "Expand Global Manufacturing Footprint - Contract Pharma",
         "Expand Global Manufacturing Footprint Contract Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Argentina eases drug import rules, creating new export avenues for India - Livemint",
-      "description": "Argentina eases drug import rules, creating new export avenues for India Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVY2cFphLWtQNXRSajVNbENxS1RYSDdEeUVxdVNKWFJxOFRzY0h0enc1c2NQNk5SNGFFenRFTDBRU3BGWjRhQkNWd1ppMXFlSjdYMTZWNGhGaWV4SkhvNXdrOGFxSl9jalFhbExya1Zxc1lDcExLNGxYSldsTGhxbGJlWXlGd2tpUkJOVDc4ZE1pU2FNeU9wUU5xeWVpbEZlU1VCNE9NYUFQUHM4ODZQbkRVTFZOWEhtQzR30gHAAUFVX3lxTE14cXhMOG1JanFVQnhzbWptaTlfZTE2cmJaVGEta0dHZnBZczF5RDdFcXJiMlk0UTZ6cE9IdXQ5UVpZS2FtcG0wWlpQdDFiekZMQ25yOVYta0hBcl8ybDZUSFRHdTdxOG85d0phMVpxMTlZUFV4MDJWV3pJQ2ItbHVDV0szMzZ0ZTg4Y1BnYnVBWjZ0cU04TDJkMWMtSG0xQThfSkt3N0xDVGRxaW1aOGJyN1F2TUVoN0lRaUFPQ1VpUA?oc=5",
-      "published": "2026-10-21T12:44:32+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        ", cr"
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and - GlobeNewswire",
-      "description": "Dr. Falk Pharma and Renexxion Reach Alignment with FDA and GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYmhDdXR1SERKNkZ3X3JQSU1LWVY1cHlLN2YwSnc0WnlyOTlMVVJlbWNqUzhqZTA2Skt1SExrd1N0N2YweWZ3TEdMa2FYcnRKMzl1Wnd3bXBOMVhYZEFkSWYyVnFfMW9vNWJtMVFMQVptaUtxTzNJaFU5ejdYd1llNkpoM0xMaWwtc1M1YTRwdHpMSFZpVXFFaUpQYVlnMUU1eWpuaWFQSTlLd0J6bTZvekR4dW9HTTl1N2REQUNWTnhubE4zQnNsemY5TUhLbWQyRlFqUF9YdHRBMS1PQmdFanFlM25wekVyU0xPYVVBZDZ3M1RfX1B1RHZKU0NrNGJDT210bl9FME9FbkpfalpaZGUtbw?oc=5",
-      "published": "2026-10-21T12:00:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Dr. Falk Pharma",
-        "Alignment with FDA and - GlobeNewswire Dr. Falk Pharma"
       ],
       "project_signals": [],
       "numbers": []
