@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T19:03:21.295881+00:00",
-  "article_count": 7,
+  "updated": "2026-10-23T19:51:19.932166+00:00",
+  "article_count": 9,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
@@ -28,6 +28,23 @@
       "numbers": []
     },
     {
+      "category": "Hyderabad",
+      "title": "2 workers killed in gas leak at chemical plant in Telangana - The Times of India",
+      "description": "2 workers killed in gas leak at chemical plant in Telangana The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVEJTWGtScDZQZHE5Ym5rM2tWd1lDZzlRTDl5Q1c3MTJxZzdVTHZLZDFDY2s2eDRPam1HbVJ6NmNFcHNYZWIxTlBmMWI1dU5IYmhsbTBXZUMyUzFvZnJYMzVfS254X3FTQlFhVjFiaDlHenhyR3pLeGdTTlpVYk1BOWVQcFNwdEJkN3JzenFOMWctbXk4TWlJREdCTW5lTFJaNDNXU05qSzRObTZMRWwzWFlzUTFoZzRsSWt1SERLYkxZVXVRUGFEaDFIQlN3OFRkdUHSAdcBQVVfeXFMTmVNUlhsRk0tN2pQQWtRMjBJUFA3Rk5pbTdScjA3Zlowd2VxRnB0VkNCT0d0SWExaVU1bkk3amhpWGhpNUtuS0U3Q3FVNUZRTVJDeU41OWVPTDlRVXRTbGR5TWZETUlqYTRBZy1YZjFYS3VvclkzVXMwT1VVclE5RGRGV3Q0dW1rdUhsZzR6bjdCd0s4QnZIOUtYeVljSjZFWUo4WjV3MTkwaTduWE9wblFaMWQyUkFuUTA3cG5IQUl1QURrUmVxSzdvTXhEZEJTYWlGZUNDTXM?oc=5",
+      "published": "2026-10-23T07:39:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "“Healthcare and pharma GCCs are increasingly looking for biomedical engineers, embedded architects, cloud engineers, data scientists clinical, cybersecurity, and regulatory experts” - BioSpectrum India",
       "description": "“Healthcare and pharma GCCs are increasingly looking for biomedical engineers, embedded architects, cloud engineers, data scientists clinical, cybersecurity, and regulatory experts” BioSpectrum India",
@@ -45,23 +62,6 @@
       "numbers": [
         "rs,"
       ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Habit-forming drug misuse raises concern across Hyderabad and Telangana - Telangana Today",
-      "description": "Habit-forming drug misuse raises concern across Hyderabad and Telangana Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnhHdmRvOTVUVEtfVGpWaFZkQ1c0Y1Uyb3NQRlFTemd1ZU85a0NpUjlSTXVuVjkwdmNleWExT09TSmRXUGN4OEdfWDhDMkhUcThxMURkbkd1SHMxaTdIMy1GbnowYmRFcUstY3g2dlZfVnZoQ0ltaEtjdWhsVURlbTFpekI2M2p4VGEzTU9KYld2MndFN0lDRlU2WmZ2M3M?oc=5",
-      "published": "2026-10-23T07:56:13+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -152,6 +152,28 @@
       "numbers": []
     },
     {
+      "category": "India",
+      "title": "ChemPharma R&D Summit 2026: Experts to decipher the “Rise of Pharma & Agrochemicals CDMO Partnerships” - Indian Chemical News",
+      "description": "ChemPharma R&D Summit 2026: Experts to decipher the “Rise of Pharma & Agrochemicals CDMO Partnerships” Indian Chemical News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEMwQ0VRUnlWUUFTcTktdHhka0xVb0dna004N3RpcWgzTTd4M0V5eGpzQThKS3ZBbWtKNmluNFRoNkdmNkdwT0RPNHJCaEh3LU0zMEFJTFYyZnczZ1BDb0haYmR2SDZhd0ZjaHZLdE8zc0VDc0FBNHhMOHZ5ekNIZE96b0FpOE41bkxhTk8tbzJSQlRFYkN5bElGRktrT1RyS0t3TWFIcGw2el9YYTF0SjNOZlFzX2ljNWQ2LUZGbWRoSHZFanVsajA3NTVFalhneGZybHpwb9IB3gFBVV95cUxPTDdpYjFSZE9nWHpvVU8yTmh1SXlBZlFKbEpLdVhHRUg2R2JORW1Tb1p6VVBWWkZGUnduN29ZZktiWUdoeUVwSGN3b252RFZ1VUtsUmdNczJoLXc5ajFqMW9PbjIwNk83N2pYRTRTRnM0em9XV1dTUlpIa3YzQXNxWlNHRHN3eGZsRnhveXAwcE9pVjZOTUI4WEtMa2J0dWZJQXlDSkdNck1kTDZxTldfS1FxWnl4d2gxeDFkMmU1cHVSZFNpTjJabm1GMlBzM2NGLVlGVTVJNHZoY1BlMmc?oc=5",
+      "published": "2026-10-23T13:21:06+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Specialty Chemicals",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "ChemPharma",
+        "Rise of Pharma & Agrochemicals CDMO",
+        "Indian Chemical News ChemPharma",
+        "Indian Chemical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Hyderabad",
       "title": "Habit-forming drug misuse raises concern across Hyderabad and Telangana - Telangana Today",
       "description": "Habit-forming drug misuse raises concern across Hyderabad and Telangana Telangana Today",
@@ -161,6 +183,23 @@
       "signal": "General",
       "business_area": "Pharma Industry",
       "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Hyderabad",
+      "title": "2 workers killed in gas leak at chemical plant in Telangana - The Times of India",
+      "description": "2 workers killed in gas leak at chemical plant in Telangana The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVEJTWGtScDZQZHE5Ym5rM2tWd1lDZzlRTDl5Q1c3MTJxZzdVTHZLZDFDY2s2eDRPam1HbVJ6NmNFcHNYZWIxTlBmMWI1dU5IYmhsbTBXZUMyUzFvZnJYMzVfS254X3FTQlFhVjFiaDlHenhyR3pLeGdTTlpVYk1BOWVQcFNwdEJkN3JzenFOMWctbXk4TWlJREdCTW5lTFJaNDNXU05qSzRObTZMRWwzWFlzUTFoZzRsSWt1SERLYkxZVXVRUGFEaDFIQlN3OFRkdUHSAdcBQVVfeXFMTmVNUlhsRk0tN2pQQWtRMjBJUFA3Rk5pbTdScjA3Zlowd2VxRnB0VkNCT0d0SWExaVU1bkk3amhpWGhpNUtuS0U3Q3FVNUZRTVJDeU41OWVPTDlRVXRTbGR5TWZETUlqYTRBZy1YZjFYS3VvclkzVXMwT1VVclE5RGRGV3Q0dW1rdUhsZzR6bjdCd0s4QnZIOUtYeVljSjZFWUo4WjV3MTkwaTduWE9wblFaMWQyUkFuUTA3cG5IQUl1QURrUmVxSzdvTXhEZEJTYWlGZUNDTXM?oc=5",
+      "published": "2026-10-23T07:39:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
