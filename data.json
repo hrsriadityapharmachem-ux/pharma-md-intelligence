@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T15:59:45.677102+00:00",
-  "article_count": 8,
+  "updated": "2026-10-23T16:57:57.898776+00:00",
+  "article_count": 10,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
@@ -46,22 +46,22 @@
     },
     {
       "category": "India",
-      "title": "“Healthcare and pharma GCCs are increasingly looking for biomedical engineers, embedded architects, cloud engineers, data scientists clinical, cybersecurity, and regulatory experts” - BioSpectrum India",
-      "description": "“Healthcare and pharma GCCs are increasingly looking for biomedical engineers, embedded architects, cloud engineers, data scientists clinical, cybersecurity, and regulatory experts” BioSpectrum India",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQOWxiUm9RTEFSUVFTaTBlYTNJMGtZMUhCQTdyX2JNNndTcUsxczFHNHZCQXJaOWlDTHNiVzhWX05JWjg5aHgtQVFtNjdXUG9Za3prdjYxYi12NWZzbUk4SklIcHpVZkNuZUdkWXdhdjRaSlB2NEpQdVcwYnJuRWtXU1k3WnlqMmt4em5nOExHSERpU0M4RXdVV0J5MFpVOGFjTU5fRVZwT0hOeHlJby1BWVh3QVYyQ2xJUTkwM2FnVGRsNkhOU0NsUVc5bGdINF9KN0pRLTlxU3RUSms5OXN0TmZVbU1TYjBjNVBKWHh2cDBqVElOcUF6blB6VTR2eGJDbnZWc3lYdVNGRGh1OVZyVkQ4YUdyajZ4RXU2bmJ1TGV5d3dRaEozbl9aQUIzV1pkMDQ5VTRfbk9LVXJNRUlTSXMtclM5S1BOdDRB?oc=5",
-      "published": "2026-10-23T14:39:05+00:00",
+      "title": "IV Solutions Manufacturing Plant Setup in India - IMARC Group",
+      "description": "IV Solutions Manufacturing Plant Setup in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjJ2N3NlSUNnb2xrQ1F2VWtuOFFUeW1CQmpPVGFnLTdrUVFnaFRyY0hmeWJ0SEQ4VEV1S0FVeXUtdGpQRHdDWWd2akpsSDRacERWOTNEMG1oTUhfNDB6c0dPYmFXZFc4MWpLT3VHZUJGZFRLb1JpMjh6ZWhYMWdCd0ctOWpfWmlnWFhsQw?oc=5",
+      "published": "2026-10-23T12:16:17+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Regulatory",
+      "business_area": "Manufacturing / Plants",
       "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "rs,"
-      ]
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": []
     }
   ],
   "business_signals": {
@@ -132,6 +132,47 @@
         "India - The Financial World Uniform Code for Pharmaceutical"
       ],
       "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "ChemPharma R&D Summit 2026: Experts to decipher the “Rise of Pharma & Agrochemicals CDMO Partnerships” - Indian Chemical News",
+      "description": "ChemPharma R&D Summit 2026: Experts to decipher the “Rise of Pharma & Agrochemicals CDMO Partnerships” Indian Chemical News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEMwQ0VRUnlWUUFTcTktdHhka0xVb0dna004N3RpcWgzTTd4M0V5eGpzQThKS3ZBbWtKNmluNFRoNkdmNkdwT0RPNHJCaEh3LU0zMEFJTFYyZnczZ1BDb0haYmR2SDZhd0ZjaHZLdE8zc0VDc0FBNHhMOHZ5ekNIZE96b0FpOE41bkxhTk8tbzJSQlRFYkN5bElGRktrT1RyS0t3TWFIcGw2el9YYTF0SjNOZlFzX2ljNWQ2LUZGbWRoSHZFanVsajA3NTVFalhneGZybHpwb9IB3gFBVV95cUxPTDdpYjFSZE9nWHpvVU8yTmh1SXlBZlFKbEpLdVhHRUg2R2JORW1Tb1p6VVBWWkZGUnduN29ZZktiWUdoeUVwSGN3b252RFZ1VUtsUmdNczJoLXc5ajFqMW9PbjIwNk83N2pYRTRTRnM0em9XV1dTUlpIa3YzQXNxWlNHRHN3eGZsRnhveXAwcE9pVjZOTUI4WEtMa2J0dWZJQXlDSkdNck1kTDZxTldfS1FxWnl4d2gxeDFkMmU1cHVSZFNpTjJabm1GMlBzM2NGLVlGVTVJNHZoY1BlMmc?oc=5",
+      "published": "2026-10-23T13:21:06+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Specialty Chemicals",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "ChemPharma",
+        "Rise of Pharma & Agrochemicals CDMO",
+        "Indian Chemical News ChemPharma",
+        "Indian Chemical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "IV Solutions Manufacturing Plant Setup in India - IMARC Group",
+      "description": "IV Solutions Manufacturing Plant Setup in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjJ2N3NlSUNnb2xrQ1F2VWtuOFFUeW1CQmpPVGFnLTdrUVFnaFRyY0hmeWJ0SEQ4VEV1S0FVeXUtdGpQRHdDWWd2akpsSDRacERWOTNEMG1oTUhfNDB6c0dPYmFXZFc4MWpLT3VHZUJGZFRLb1JpMjh6ZWhYMWdCd0ctOWpfWmlnWFhsQw?oc=5",
+      "published": "2026-10-23T12:16:17+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
       "numbers": []
     },
     {
