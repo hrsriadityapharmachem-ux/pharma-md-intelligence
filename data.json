@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T16:57:57.898776+00:00",
-  "article_count": 10,
+  "updated": "2026-10-23T17:52:34.549223+00:00",
+  "article_count": 9,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 1,
@@ -46,22 +46,22 @@
     },
     {
       "category": "India",
-      "title": "IV Solutions Manufacturing Plant Setup in India - IMARC Group",
-      "description": "IV Solutions Manufacturing Plant Setup in India IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjJ2N3NlSUNnb2xrQ1F2VWtuOFFUeW1CQmpPVGFnLTdrUVFnaFRyY0hmeWJ0SEQ4VEV1S0FVeXUtdGpQRHdDWWd2akpsSDRacERWOTNEMG1oTUhfNDB6c0dPYmFXZFc4MWpLT3VHZUJGZFRLb1JpMjh6ZWhYMWdCd0ctOWpfWmlnWFhsQw?oc=5",
-      "published": "2026-10-23T12:16:17+00:00",
+      "title": "“Healthcare and pharma GCCs are increasingly looking for biomedical engineers, embedded architects, cloud engineers, data scientists clinical, cybersecurity, and regulatory experts” - BioSpectrum India",
+      "description": "“Healthcare and pharma GCCs are increasingly looking for biomedical engineers, embedded architects, cloud engineers, data scientists clinical, cybersecurity, and regulatory experts” BioSpectrum India",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQOWxiUm9RTEFSUVFTaTBlYTNJMGtZMUhCQTdyX2JNNndTcUsxczFHNHZCQXJaOWlDTHNiVzhWX05JWjg5aHgtQVFtNjdXUG9Za3prdjYxYi12NWZzbUk4SklIcHpVZkNuZUdkWXdhdjRaSlB2NEpQdVcwYnJuRWtXU1k3WnlqMmt4em5nOExHSERpU0M4RXdVV0J5MFpVOGFjTU5fRVZwT0hOeHlJby1BWVh3QVYyQ2xJUTkwM2FnVGRsNkhOU0NsUVc5bGdINF9KN0pRLTlxU3RUSms5OXN0TmZVbU1TYjBjNVBKWHh2cDBqVElOcUF6blB6VTR2eGJDbnZWc3lYdVNGRGh1OVZyVkQ4YUdyajZ4RXU2bmJ1TGV5d3dRaEozbl9aQUIzV1pkMDQ5VTRfbk9LVXJNRUlTSXMtclM5S1BOdDRB?oc=5",
+      "published": "2026-10-23T14:39:05+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Manufacturing / Plants",
+      "business_area": "Regulatory",
       "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [
-        "manufacturing plant"
-      ],
-      "numbers": []
+      "project_signals": [],
+      "numbers": [
+        "rs,"
+      ]
     }
   ],
   "business_signals": {
@@ -92,6 +92,23 @@
         "ESTEVE CDMO",
         "Manufacturing Chemist ESTEVE CDMO"
       ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Indian pharma: Unethical practices, marketing rules under lens; new review body set up - The Economic Times",
+      "description": "Indian pharma: Unethical practices, marketing rules under lens; new review body set up The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbTdYRXBJRWVYRm50QV9NVHRQSkRIakx1ekprbnJrQS1EVHdBaVR0MG8yOGNNdF9CRHRuY0ZWT1lGTTQwRkVpeHJYQmhmYlo0dlBvcVMzWGNoYlFQUnlELXB1VjVyNGxtc0Y0NERRREpNOGZuNURTam12Zk83UWxsR19HOXdTT0ttbXprR0lTc3hYem1fX2xKd0dxZjZ3MzQ2OVZxMXBMci1OQjBZSjhZZkxIWEdRUF9OQjVJaWJ4NTBDTDN3MV9seEVxNVhHUURoSW9kRTZNQUhNTFZfREJwNGtBNzZWMmVTSVNCNldINWJlZUphSXhiSVh2OTJVZnVFSDBIcFBFX3NveGpqWHfSAZMCQVVfeXFMTWFyeWZ3cDVpSTJNODY3dmU4bUxENlBiSmpwTDNPb3k0dVVWeFY0Z08ydUNsalUwdW1ubHBiVDI4ZnR2elhBLUhnTk9jSV9aREpWaXJaRGt4UDlkdFpxWTdvUVNqMXRtYzdxbUhjZ3pycVY4U3NYVlMyVkNMdWJHZ201YlVKb0pVdXp6TG5LSl84M01KSEVNaExfUFBQV2pIaE5Ec2p6dmRoVGRXLW1qNVB6dm55Y2xBbW9vOC1LN1pPWlc5ZUNXQXhlcTNSRE9DelRWTGxadGd0UWxLVENubVhiS2gzY1hPWS0ybC11TE54ZFlYekxqYk00Sk4tWFJfZFJDdnlGTm4zZjJJOFhtS3R5UjA?oc=5",
+      "published": "2026-10-23T15:12:48+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": []
     },
@@ -157,25 +174,6 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "IV Solutions Manufacturing Plant Setup in India - IMARC Group",
-      "description": "IV Solutions Manufacturing Plant Setup in India IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjJ2N3NlSUNnb2xrQ1F2VWtuOFFUeW1CQmpPVGFnLTdrUVFnaFRyY0hmeWJ0SEQ4VEV1S0FVeXUtdGpQRHdDWWd2akpsSDRacERWOTNEMG1oTUhfNDB6c0dPYmFXZFc4MWpLT3VHZUJGZFRLb1JpMjh6ZWhYMWdCd0ctOWpfWmlnWFhsQw?oc=5",
-      "published": "2026-10-23T12:16:17+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [
-        "manufacturing plant"
-      ],
-      "numbers": []
-    },
-    {
       "category": "Hyderabad",
       "title": "Habit-forming drug misuse raises concern across Hyderabad and Telangana - Telangana Today",
       "description": "Habit-forming drug misuse raises concern across Hyderabad and Telangana Telangana Today",
@@ -234,7 +232,7 @@
       "category": "Vizag / AP",
       "title": "Fire at Parawada pharma unit’s metformin block; all workers evacuated safely - The Hindu",
       "description": "Fire at Parawada pharma unit’s metformin block; all workers evacuated safely The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDVfeXdoUFBmSF9TZGdBTXl4ZkVyRTBxSDlDc001T1dYOEZxN3JoYVNZaG9YbEJpdXEzTmxKMVhDQm9vRjV0VzJZZEM3dVYwa2ZsNlk5Z1VseGxYRGZFd1RrUkhDLTJmWi1YcDd5Z01wcVRVbDg3RGdPYzFqeVA2UUhPZDY1Y2ZqM2ZxZlAtdGgzZnVCRExZdWc4YVI5VU1OQkpBZGxtLVdkZjg2dTd4cVlVeW9kdVAzMUxWdC1jT3VHM3VlQ0s3VC0xVU5iRXBLUlF3TWxtR0hxVXhTQ3hUcFpMSGnSAeQBQVVfeXFMT0w1X3l3aFBQZkhfU2RnQU15eGZFckUwcUg5Q3NNNU9XWDhGcTdyaGFTWWhvWGxCaXVxM05sSjFYQ0Jvb0Y1dFcyWWRDN3VWMGtmbDZZOWdVbHhsWERmRXdUa1JIQy0yZlotWHA3eWdNcHFUVWw4N0RnT2MxanlQNlFIT2Q2NWNmajNmcWZQLXRoM2Z1QkRMWXVnOGFSOVVNTkJKQWRsbS1XZGY4NnU3eHFZVXlvZHVQMzFMVnQtY091RzN1ZUNLN1QtMVVOYkVwS1JRd01sbUdIcVV4U0N4VHBaTEhp?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVTZmMEtWMHU2c01KcUwyaHlackVJaWxHZlp5UXI4eVpuUHpWeloxUDRmal8xSGNtWnhGeG4ySG5iLUhUb1d5OEFCNHR2aVF5bFdRWUZyOXllRDRzWTd0UEVEM2RIMzdfNG5fUWNNcUlwVzFXY1lNOXFIT2NFckNQQkhjd2ZVUVBPdEtTaUgwYVIwWHNnWENORmZobGFLMUdaUzhSOXNLZU01aWNvQ2JyNlJLeUNuVGM5VDlxQTByT3I2bDhtYkphSmVZT25iTnp5NkhXMWJnd2U1UEViMWfSAeQBQVVfeXFMT0w1X3l3aFBQZkhfU2RnQU15eGZFckUwcUg5Q3NNNU9XWDhGcTdyaGFTWWhvWGxCaXVxM05sSjFYQ0Jvb0Y1dFcyWWRDN3VWMGtmbDZZOWdVbHhsWERmRXdUa1JIQy0yZlotWHA3eWdNcHFUVWw4N0RnT2MxanlQNlFIT2Q2NWNmajNmcWZQLXRoM2Z1QkRMWXVnOGFSOVVNTkJKQWRsbS1XZGY4NnU3eHFZVXlvZHVQMzFMVnQtY091RzN1ZUNLN1QtMVVOYkVwS1JRd01sbUdIcVV4U0N4VHBaTEhp?oc=5",
       "published": "2026-10-23T06:27:55+00:00",
       "source": "Google News RSS",
       "signal": "General",
@@ -244,26 +242,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "FDA Grants Ultomiris Accelerated Approval in the U.S. | PharmExec - Pharmaceutical Executive",
-      "description": "FDA Grants Ultomiris Accelerated Approval in the U.S. | PharmExec Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVZ2OVQ0RDIybkZhWEYxbHgxeUpKRTVnS3RsbVBjUmdaS2dnY1BRYThQQzNGODBPa3pmSEt4cjd5dGEwV3lmRWVmcWlIQkIya01RRThQUDRMX3pwenY1WjJNRjQzZWQtZFFqS0ZEdDlBQUNET1Zhc1ZaR3o4eDdENHYxN1lIaVRsSFE?oc=5",
-      "published": "2026-10-22T17:36:58+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "PharmExec - Pharmaceutical",
-        "PharmExec Pharmaceutical"
-      ],
       "project_signals": [],
       "numbers": []
     }
