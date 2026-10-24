@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T07:07:09.263120+00:00",
+  "updated": "2026-10-24T07:53:34.383640+00:00",
   "article_count": 7,
   "opportunity_count": 1,
   "risk_count": 0,
@@ -28,6 +28,26 @@
       "numbers": []
     },
     {
+      "category": "Hyderabad",
+      "title": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad - The Hindu",
+      "description": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUkdpR3lpcFVrVGpRNlBEcGpsQ3BYSnZ2RHZrZl9JUm1qdDYxWnM0NlIxQ2dHVDR1cklKU1ZZUHk3NFJNZi1Db3pPR1Vtb052bThId2xEam9NbERIc2I2eWtIYWt0Qm13VjBMbXp4NkhzNG44S1NwMEVmbWZGb1dITVVBRzBBUHFTMF9OYUc1NTNXS05fOEZVX0ZVVF9rWVBQUjU3WXlGcTBWRW1mNENCQmJXYVR1dV9TbzczNU5wWlZWSkxvSnVOZkdSeGgzVmhXT1ZOWEN2ZlFZSzdPZDhkN2MyTkdXQdIB5gFBVV95cUxNUkdpR3lpcFVrVGpRNlBEcGpsQ3BYSnZ2RHZrZl9JUm1qdDYxWnM0NlIxQ2dHVDR1cklKU1ZZUHk3NFJNZi1Db3pPR1Vtb052bThId2xEam9NbERIc2I2eWtIYWt0Qm13VjBMbXp4NkhzNG44S1NwMEVmbWZGb1dITVVBRzBBUHFTMF9OYUc1NTNXS05fOEZVX0ZVVF9rWVBQUjU3WXlGcTBWRW1mNENCQmJXYVR1dV9TbzczNU5wWlZWSkxvSnVOZkdSeGgzVmhXT1ZOWEN2ZlFZSzdPZDhkN2MyTkdXQQ?oc=5",
+      "published": "2026-10-24T05:36:56+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "U.S. FDA issues four observations to Gland Pharma",
+        "Hindu U.S. FDA issues four observations to Gland Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "Gujarat pharma industry sees limited US-ties disruption: Calls for greater R&D investment, regulatory frame... - Bhaskar English",
       "description": "Gujarat pharma industry sees limited US-ties disruption: Calls for greater R&D investment, regulatory frame... Bhaskar English",
@@ -45,23 +65,6 @@
         "investment"
       ],
       "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "2 workers killed in gas leak at chemical plant in Telangana - The Times of India",
-      "description": "2 workers killed in gas leak at chemical plant in Telangana The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVEJTWGtScDZQZHE5Ym5rM2tWd1lDZzlRTDl5Q1c3MTJxZzdVTHZLZDFDY2s2eDRPam1HbVJ6NmNFcHNYZWIxTlBmMWI1dU5IYmhsbTBXZUMyUzFvZnJYMzVfS254X3FTQlFhVjFiaDlHenhyR3pLeGdTTlpVYk1BOWVQcFNwdEJkN3JzenFOMWctbXk4TWlJREdCTW5lTFJaNDNXU05qSzRObTZMRWwzWFlzUTFoZzRsSWt1SERLYkxZVXVRUGFEaDFIQlN3OFRkdUHSAdcBQVVfeXFMTmVNUlhsRk0tN2pQQWtRMjBJUFA3Rk5pbTdScjA3Zlowd2VxRnB0VkNCT0d0SWExaVU1bkk3amhpWGhpNUtuS0U3Q3FVNUZRTVJDeU41OWVPTDlRVXRTbGR5TWZETUlqYTRBZy1YZjFYS3VvclkzVXMwT1VVclE5RGRGV3Q0dW1rdUhsZzR6bjdCd0s4QnZIOUtYeVljSjZFWUo4WjV3MTkwaTduWE9wblFaMWQyUkFuUTA3cG5IQUl1QURrUmVxSzdvTXhEZEJTYWlGZUNDTXM?oc=5",
-      "published": "2026-10-23T07:39:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ],
   "business_signals": {
@@ -75,6 +78,26 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad - The Hindu",
+      "description": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUkdpR3lpcFVrVGpRNlBEcGpsQ3BYSnZ2RHZrZl9JUm1qdDYxWnM0NlIxQ2dHVDR1cklKU1ZZUHk3NFJNZi1Db3pPR1Vtb052bThId2xEam9NbERIc2I2eWtIYWt0Qm13VjBMbXp4NkhzNG44S1NwMEVmbWZGb1dITVVBRzBBUHFTMF9OYUc1NTNXS05fOEZVX0ZVVF9rWVBQUjU3WXlGcTBWRW1mNENCQmJXYVR1dV9TbzczNU5wWlZWSkxvSnVOZkdSeGgzVmhXT1ZOWEN2ZlFZSzdPZDhkN2MyTkdXQdIB5gFBVV95cUxNUkdpR3lpcFVrVGpRNlBEcGpsQ3BYSnZ2RHZrZl9JUm1qdDYxWnM0NlIxQ2dHVDR1cklKU1ZZUHk3NFJNZi1Db3pPR1Vtb052bThId2xEam9NbERIc2I2eWtIYWt0Qm13VjBMbXp4NkhzNG44S1NwMEVmbWZGb1dITVVBRzBBUHFTMF9OYUc1NTNXS05fOEZVX0ZVVF9rWVBQUjU3WXlGcTBWRW1mNENCQmJXYVR1dV9TbzczNU5wWlZWSkxvSnVOZkdSeGgzVmhXT1ZOWEN2ZlFZSzdPZDhkN2MyTkdXQQ?oc=5",
+      "published": "2026-10-24T05:36:56+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "U.S. FDA issues four observations to Gland Pharma",
+        "Hindu U.S. FDA issues four observations to Gland Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "Gujarat pharma industry sees limited US-ties disruption: Calls for greater R&D investment, regulatory frame... - Bhaskar English",
@@ -182,23 +205,6 @@
       "signal": "General",
       "business_area": "Pharma Industry",
       "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "2 workers killed in gas leak at chemical plant in Telangana - The Times of India",
-      "description": "2 workers killed in gas leak at chemical plant in Telangana The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVEJTWGtScDZQZHE5Ym5rM2tWd1lDZzlRTDl5Q1c3MTJxZzdVTHZLZDFDY2s2eDRPam1HbVJ6NmNFcHNYZWIxTlBmMWI1dU5IYmhsbTBXZUMyUzFvZnJYMzVfS254X3FTQlFhVjFiaDlHenhyR3pLeGdTTlpVYk1BOWVQcFNwdEJkN3JzenFOMWctbXk4TWlJREdCTW5lTFJaNDNXU05qSzRObTZMRWwzWFlzUTFoZzRsSWt1SERLYkxZVXVRUGFEaDFIQlN3OFRkdUHSAdcBQVVfeXFMTmVNUlhsRk0tN2pQQWtRMjBJUFA3Rk5pbTdScjA3Zlowd2VxRnB0VkNCT0d0SWExaVU1bkk3amhpWGhpNUtuS0U3Q3FVNUZRTVJDeU41OWVPTDlRVXRTbGR5TWZETUlqYTRBZy1YZjFYS3VvclkzVXMwT1VVclE5RGRGV3Q0dW1rdUhsZzR6bjdCd0s4QnZIOUtYeVljSjZFWUo4WjV3MTkwaTduWE9wblFaMWQyUkFuUTA3cG5IQUl1QURrUmVxSzdvTXhEZEJTYWlGZUNDTXM?oc=5",
-      "published": "2026-10-23T07:39:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
