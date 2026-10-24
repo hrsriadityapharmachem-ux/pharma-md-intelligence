@@ -1,32 +1,12 @@
 {
-  "updated": "2026-10-24T14:50:28.880236+00:00",
-  "article_count": 5,
-  "opportunity_count": 1,
+  "updated": "2026-10-24T15:51:21.065794+00:00",
+  "article_count": 4,
+  "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 2,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO invests $80m in new China API manufacturing site - Manufacturing Chemist",
-      "description": "ESTEVE CDMO invests $80m in new China API manufacturing site Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFVkSUpJSTkwNUlsbWxUNlcxM3hZSWthUDY0U3FXU3ZCX2VyelJmUDg3OURxSFhtWFNlVHNwLUpkVjl5cXdZb2VfdTdoNE8tQ2hXYTd2akxjVU1zRVJHakJERkJ0R2JJX3BaV2VmWFdYRVhqeUU4eVFSeWl0WU0yZGQxUW40Ylk3SUEzcw?oc=5",
-      "published": "2026-10-23T15:25:54+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "Manufacturing Chemist ESTEVE CDMO"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
     {
       "category": "Hyderabad",
       "title": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad - The Hindu",
@@ -65,10 +45,27 @@
         "investment"
       ],
       "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com - Pharmabiz.com",
+      "description": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com Pharmabiz.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERVJiZ2ZCaU1NbHFEdU9ZRFRzZkdvUnloaEFTYTBTbTNVSzJicV9wcnlBRVNnaFlWYjhwUTRzRXZrMkhsTERvNnFHSWxIbFJqRkg5TjhqYk1DZnM3Zk9QTGd1ajY1d0hETUxn?oc=5",
+      "published": "2026-10-24T06:30:10+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
-    "API / Intermediates": 1,
+    "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
@@ -149,26 +146,6 @@
       "project_signals": [
         "investment"
       ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "ESTEVE CDMO invests $80m in new China API manufacturing site - Manufacturing Chemist",
-      "description": "ESTEVE CDMO invests $80m in new China API manufacturing site Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFVkSUpJSTkwNUlsbWxUNlcxM3hZSWthUDY0U3FXU3ZCX2VyelJmUDg3OURxSFhtWFNlVHNwLUpkVjl5cXdZb2VfdTdoNE8tQ2hXYTd2akxjVU1zRVJHakJERkJ0R2JJX3BaV2VmWFdYRVhqeUU4eVFSeWl0WU0yZGQxUW40Ylk3SUEzcw?oc=5",
-      "published": "2026-10-23T15:25:54+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Potential API/intermediate demand, manufacturing requirement or supply opportunity.",
-      "why_it_matters": "Relevant to API/intermediate demand, manufacturing capacity, sourcing and potential customer or supplier opportunities.",
-      "md_action": "Identify potential API/intermediate demand, products, manufacturers and customer/supplier opportunities.",
-      "companies": [
-        "ESTEVE CDMO",
-        "Manufacturing Chemist ESTEVE CDMO"
-      ],
-      "project_signals": [],
       "numbers": []
     }
   ]
