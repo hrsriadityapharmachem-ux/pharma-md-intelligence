@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:48:15.379572+00:00",
+  "updated": "2026-10-24T21:49:51.239224+00:00",
   "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 0,
@@ -28,23 +28,6 @@
       "numbers": []
     },
     {
-      "category": "Hyderabad",
-      "title": "Two workers die in gas leak at chemical facility in Hyderabad - The New Indian Express",
-      "description": "Two workers die in gas leak at chemical facility in Hyderabad The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkE2d3ZUQVNoQmxsRk50ZTRjLW5HRUZPSEJQQzJPdVoxbVBNdWNzNU40NkNfc0RvQTlUNVFHRlR1c3NUTDdmWHBZODhFOV9RYW40SHFwMnFGSzBHeU1fNW1LbEdtbHNyd0xzVC1kX0htOHJiMEgwWkptdHJKTG1NS3dQN3VlUkxlWDl3MzZiUlZ2bDRTY0FTS1NZY2R4Q2FPSkh1Ni16Nzc5ZDZZWVVlRGpXbTZBaG94NVZKZkRkTl_SAc4BQVVfeXFMTTNpQjB1QkUza05QdE5NX0ZITlFDaThIYjNmQ09tcGFaT24zTVYtX0ZjYnFFdURmZmZDYVN3dDdIcGFJc3ZqTWduXzZZRFB2THpYdDAtU1BHN0xaR3lFdV80bVBpSVctU2xPYmhOQUN5Vk9zNG10OGpKWkZWZzhpUXJqYmlla3lTV1RyYkFQeVhZazhjUkNJWTVnTHdVelBwZk1rQXRWUHI3QmFrRmREOS05TE11eFUtdU1jWnlrejJ3RjlQVFZ1RGU0OHA0Wmc?oc=5",
-      "published": "2026-10-24T02:38:11+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
       "category": "India",
       "title": "Gujarat pharma industry sees limited US-ties disruption: Calls for greater R&D investment, regulatory frame... - Bhaskar English",
       "description": "Gujarat pharma industry sees limited US-ties disruption: Calls for greater R&D investment, regulatory frame... Bhaskar English",
@@ -62,6 +45,23 @@
         "investment"
       ],
       "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com - Pharmabiz.com",
+      "description": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com Pharmabiz.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERVJiZ2ZCaU1NbHFEdU9ZRFRzZkdvUnloaEFTYTBTbTNVSzJicV9wcnlBRVNnaFlWYjhwUTRzRXZrMkhsTERvNnFHSWxIbFJqRkg5TjhqYk1DZnM3Zk9QTGd1ajY1d0hETUxn?oc=5",
+      "published": "2026-10-24T06:30:10+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
     }
   ],
   "business_signals": {
@@ -75,6 +75,23 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Panama positions itself as Latin American trade gateway for Tamil Nadu’s maritime and pharma industries - ET Government",
+      "description": "Panama positions itself as Latin American trade gateway for Tamil Nadu’s maritime and pharma industries ET Government",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPLW5oU3kyRUNKV2t3cDNReTMwR1pWbHgybkczbF8tdGtxYU5BRDUzVjZZbDBDdE96QldHSU9WLV9pQ2hXS2dtanU3aXJvNEZ1Tkd0b1AyVVVPZ005dDQ5SWRyY2lKTm1LTnptMDlCY19LQXNuQkp2S09oc1VfWXU5VHlIOXJBVjZnYjV5bEhfOWJPUFUySTM1X0VMaTBEamlKdWdrbVk0QVlCU2NrdzN4U05BczlVWjFqNnFkbmpvNTVaS0VRTmV1eExReHQzbHJtMWRUSE43MnF4NEJLSzBLQUFGM3R2aXhxTjdzSGJ5dkljVG55S1BrUEIwUmRlekg0R015Tzh30gGLAkFVX3lxTE5LWjA4U0RIdHBXOHJOVkRia3NRaHRabi1kWHNPdWhpYTF2dEgyYkYzWDZBZktpSGRsTGV4Y29vb0dXMVFqWGJReVhKQldydHgwNTIyZkthcjhPeThPRmpTZWlSMl9YZy1BN2dJb21pdVAyYUd5bHpZdHVTVHh2UnhBUXhpaFFna284UkxwMkFRZmNGeXJ3ZVJMOFdBbFZMeGhtYnRRTWc3ZlY5Mkp4ZVFMRkk4c2ZVTkI2VDN6cjJ6QjktZWY2Wnk0QUE3eFNhMWtCa2dJdVhkOE9udFc0Vmoxd3E4TGdJWTloMDlXMDJmR2RRbFlBWmJDcUw1S2ZYeFZMMjRSZ0FQeXgzQQ?oc=5",
+      "published": "2026-10-24T21:20:56+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "India",
       "title": "How contest between Chinese and Indian firms could reshape African drug markets - South China Morning Post",
@@ -126,23 +143,6 @@
         "U.S. FDA issues four observations to Gland Pharma",
         "Hindu U.S. FDA issues four observations to Gland Pharma"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Two workers die in gas leak at chemical facility in Hyderabad - The New Indian Express",
-      "description": "Two workers die in gas leak at chemical facility in Hyderabad The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkE2d3ZUQVNoQmxsRk50ZTRjLW5HRUZPSEJQQzJPdVoxbVBNdWNzNU40NkNfc0RvQTlUNVFHRlR1c3NUTDdmWHBZODhFOV9RYW40SHFwMnFGSzBHeU1fNW1LbEdtbHNyd0xzVC1kX0htOHJiMEgwWkptdHJKTG1NS3dQN3VlUkxlWDl3MzZiUlZ2bDRTY0FTS1NZY2R4Q2FPSkh1Ni16Nzc5ZDZZWVVlRGpXbTZBaG94NVZKZkRkTl_SAc4BQVVfeXFMTTNpQjB1QkUza05QdE5NX0ZITlFDaThIYjNmQ09tcGFaT24zTVYtX0ZjYnFFdURmZmZDYVN3dDdIcGFJc3ZqTWduXzZZRFB2THpYdDAtU1BHN0xaR3lFdV80bVBpSVctU2xPYmhOQUN5Vk9zNG10OGpKWkZWZzhpUXJqYmlla3lTV1RyYkFQeVhZazhjUkNJWTVnTHdVelBwZk1rQXRWUHI3QmFrRmREOS05TE11eFUtdU1jWnlrejJ3RjlQVFZ1RGU0OHA0Wmc?oc=5",
-      "published": "2026-10-24T02:38:11+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     },
