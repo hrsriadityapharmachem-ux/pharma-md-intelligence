@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-25T05:52:42.503805+00:00",
-  "article_count": 4,
+  "updated": "2026-10-25T07:08:23.879265+00:00",
+  "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
@@ -23,23 +23,6 @@
       "companies": [
         "API Quality at Intas Pharmaceuticals"
       ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com - Pharmabiz.com",
-      "description": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com Pharmabiz.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERVJiZ2ZCaU1NbHFEdU9ZRFRzZkdvUnloaEFTYTBTbTNVSzJicV9wcnlBRVNnaFlWYjhwUTRzRXZrMkhsTERvNnFHSWxIbFJqRkg5TjhqYk1DZnM3Zk9QTGd1ajY1d0hETUxn?oc=5",
-      "published": "2026-10-24T06:30:10+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
       "project_signals": [],
       "numbers": []
     },
@@ -104,40 +87,6 @@
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "China faces fresh Indian duties on titanium dioxide imports: Anti-dumping levy of $460-$681 per tonne reim - The Economic Times",
-      "description": "China faces fresh Indian duties on titanium dioxide imports: Anti-dumping levy of $460-$681 per tonne reim The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQT203UFN6TkZxTDlxb3dDUWVwbEw5ZUZNTFhaVUlQMUdGMlhwVkkzYzNlUzA4Zm9LaHd6cHY4ck5hdnlud0tOYTJRNW1kc3ZqOF9ENTc0N1l1aTJPNl82NWllazR3N1RKOXpLcURSOXc3VmpiRk4tVnVNQkJ6aWgtZG1sU0hYeUQ4QTJnS1pwczYzMktaWXoxaXFDcWNtUDNlcDBwVGZWblgtdU5jdmlad3k0MFROUnNfeVhKck1iN0NGWWVhbGdfbnNNLVVzYVZXNmVsenFDWXMxM2Nhc2U0SWd5QWdsVU80SkpSWWs1UG8zb0RsdFJOSG45bm0yM3k2THJjRXg4aXhBRldPLXRnZXZ6Vl84elA3NGFTc0pCcFQtTmROS0VOWWtEZF95eWxk0gG2AkFVX3lxTE1EUGFZUGJEY1k4QVZhQXRFakZuWFlVNXpqS29YZDNtNjk3R25WSFhKbWpFQ2UtSDNuR09WMWZyb0ZjTy1FM3JBUWdiTDMtbTktTFpXRE5DdHpRVGRoVXBzQWhHVnltTmlYRVdqRnRrMGE0N2xoVkRtRzlpUk00V0s5UW1lU3VhNHRSSmlMaWUyeFYyVkV0RGJhOU9hUUF2cEdwTzFUNXJlUUJGMFVSb2tfV0VjT2ZFZjN6a0RyMXhfX1ROeE92elFPTVlWLXFxNmwzamRsUzJjSjdSdGlGdlVPc05DNUNXUWFaVUZ3dnJCendCcTF6Nkg5eGZvT3ZVd2FYYTRDdHlzSmVBSGxIQUVfQ3hEMHZodWc4NVlDdzBVVHBIUDBER24zT2R0M0kxa1B6SHFGbGc?oc=5",
-      "published": "2026-10-24T12:27:27+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com - Pharmabiz.com",
-      "description": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com Pharmabiz.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERVJiZ2ZCaU1NbHFEdU9ZRFRzZkdvUnloaEFTYTBTbTNVSzJicV9wcnlBRVNnaFlWYjhwUTRzRXZrMkhsTERvNnFHSWxIbFJqRkg5TjhqYk1DZnM3Zk9QTGd1ajY1d0hETUxn?oc=5",
-      "published": "2026-10-24T06:30:10+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
       "project_signals": [],
       "numbers": []
