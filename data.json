@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T04:56:32.626264+00:00",
-  "article_count": 5,
+  "updated": "2026-10-25T05:52:42.503805+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -8,21 +8,20 @@
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "Hyderabad",
-      "title": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad - The Hindu",
-      "description": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajVwamQzSjJqVTg2eXJvQ0FwbFhfSnNnVjdFbjBrZDIzVmN5dWZ1TG05VEN3eTRIcXdUd3dObzF2cUVRdEpaMEFLNnRyQ1ZMQ0JzV3o1cmNPM25xQUk1ZTV2WkgxSEZudjFhaHlWT0F6TW5zTnAwUVhuMVAtSnloWEJCaVBSM0dLbHVfUm1tZGMxZ21IaTdkMHhiZmNmRTJ2T1cydl9sN1FCcXgzc2lHeGM0S0lWbUozS0JhdVZTVjBiMjN4QlNZb0NBMl9yTjF4aXZZUDZWalRqZHJDUWJB0gHmAUFVX3lxTE1SR2lHeWlwVWtUalE2UERwamxDcFhKdnZEdmtmX0lSbWp0NjFaczQ2UjFDZ0dUNHVySUpTVllQeTc0Uk1mLUNvek9HVW1vTnZtOEh3bERqb01sREhzYjZ5a0hha3RCbXdWMExteng2SHM0bjhLU3AwRWZtZkZvV0hNVUFHMEFQcVMwX05hRzU1M1dLTl84RlVfRlVUX2tZUFBSNTdZeUZxMFZFbWY0Q0JCYldhVHV1X1NvNzM1TnBaVlZKTG9KdU5mR1J4aDNWaFdPVk5YQ3ZmUVlLN09kOGQ3YzJOR1dB?oc=5",
-      "published": "2026-10-24T05:36:56+00:00",
+      "category": "Global",
+      "title": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals - https://hrtoday.in/",
+      "description": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals https://hrtoday.in/",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEhSLWE1YldfT3A4dTZNTmVDY3VQeWUyRmRBOHhvelVFS0loOG1CSk9zbHBheVZBRlR3VGxTbXhqTHNxNDJXUEQ3bmRxUW4xYU5sQ3dadWI2TDdJbm95MGRRaml6a3ZsZU5LakdBQUlKVUh4YjhDWUtVM3JnUE50bU94WEVrTW5KNDNSc1VPWm1ra1kySmZUQm83dw?oc=5",
+      "published": "2026-10-25T05:32:18+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
+      "business_area": "API / Intermediates",
+      "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "U.S. FDA issues four observations to Gland Pharma",
-        "Hindu U.S. FDA issues four observations to Gland Pharma"
+        "API Quality at Intas Pharmaceuticals"
       ],
       "project_signals": [],
       "numbers": []
@@ -74,6 +73,25 @@
   },
   "articles": [
     {
+      "category": "Global",
+      "title": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals - https://hrtoday.in/",
+      "description": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals https://hrtoday.in/",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEhSLWE1YldfT3A4dTZNTmVDY3VQeWUyRmRBOHhvelVFS0loOG1CSk9zbHBheVZBRlR3VGxTbXhqTHNxNDJXUEQ3bmRxUW4xYU5sQ3dadWI2TDdJbm95MGRRaml6a3ZsZU5LakdBQUlKVUh4YjhDWUtVM3JnUE50bU94WEVrTW5KNDNSc1VPWm1ra1kySmZUQm83dw?oc=5",
+      "published": "2026-10-25T05:32:18+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "API Quality at Intas Pharmaceuticals"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "Panama positions itself as Latin American trade gateway for Tamil Nadu’s maritime and pharma industries - ET Government",
       "description": "Panama positions itself as Latin American trade gateway for Tamil Nadu’s maritime and pharma industries ET Government",
@@ -109,23 +127,6 @@
     },
     {
       "category": "India",
-      "title": "How contest between Chinese and Indian firms could reshape African drug markets - South China Morning Post",
-      "description": "How contest between Chinese and Indian firms could reshape African drug markets South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVzU4TzJYdTlpTTRPZ2xpTU9wU1Y2Vm1NSDFCdlJ6ZW1mMndMWUF6OWVGMkJRWFo3Umw4d3JHMXBYanVsU19wbGdVZDc3Q0tIcUR2MHJwYkl3Ujk1dEltLVQ1NTJTNkE1eld5WkdrcXkyN0trYUtVOEh3ZUhfTmVTZDF6aVFlX1RrVlY2aDJ1TVNuajZYRklGYlFkQlRiMUQzbzFxeUU1S1lqeWdLdzBuazk2Zzlra3VQcEhBbzJhVjVCWjFscUNEQUNCS3RMaVgyZFlISV9FYVPSAdgBQVVfeXFMT0R0UXhTWEZ1UnplX1haNkg5enc5SmREWUNjVFpaTTNJTDNWTXZsSS00NFFFWjZwV3BNNk0zYWNqSl9EdHRBM19GSXBPWE5XQ0hFVzA1WkU0T05aZ3BSaTN2YnhrbkRKUldpTkF2N0VUQ0ZNbHNvZzhLY2lqOXBQS1JGTEhpaXNRM3pBVGI0Z3RjcnpjcHFiaklucm9sNm9yOEJYRTI0VzBIM2prQzhUbmpwbHNOQy1valJaMkQyNHNiVmdpbmQ1UENvTnJwLVRYal9jc0N3ZDZv?oc=5",
-      "published": "2026-10-24T07:00:10+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
       "title": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com - Pharmabiz.com",
       "description": "Messe Muenchen India acquires PharmaTech Expo from PharmaTechnologyindex.com Pharmabiz.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERVJiZ2ZCaU1NbHFEdU9ZRFRzZkdvUnloaEFTYTBTbTNVSzJicV9wcnlBRVNnaFlWYjhwUTRzRXZrMkhsTERvNnFHSWxIbFJqRkg5TjhqYk1DZnM3Zk9QTGd1ajY1d0hETUxn?oc=5",
@@ -138,26 +139,6 @@
       "why_it_matters": "Industry development that should be monitored for potential business impact.",
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Hyderabad",
-      "title": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad - The Hindu",
-      "description": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajVwamQzSjJqVTg2eXJvQ0FwbFhfSnNnVjdFbjBrZDIzVmN5dWZ1TG05VEN3eTRIcXdUd3dObzF2cUVRdEpaMEFLNnRyQ1ZMQ0JzV3o1cmNPM25xQUk1ZTV2WkgxSEZudjFhaHlWT0F6TW5zTnAwUVhuMVAtSnloWEJCaVBSM0dLbHVfUm1tZGMxZ21IaTdkMHhiZmNmRTJ2T1cydl9sN1FCcXgzc2lHeGM0S0lWbUozS0JhdVZTVjBiMjN4QlNZb0NBMl9yTjF4aXZZUDZWalRqZHJDUWJB0gHmAUFVX3lxTE1SR2lHeWlwVWtUalE2UERwamxDcFhKdnZEdmtmX0lSbWp0NjFaczQ2UjFDZ0dUNHVySUpTVllQeTc0Uk1mLUNvek9HVW1vTnZtOEh3bERqb01sREhzYjZ5a0hha3RCbXdWMExteng2SHM0bjhLU3AwRWZtZkZvV0hNVUFHMEFQcVMwX05hRzU1M1dLTl84RlVfRlVUX2tZUFBSNTdZeUZxMFZFbWY0Q0JCYldhVHV1X1NvNzM1TnBaVlZKTG9KdU5mR1J4aDNWaFdPVk5YQ3ZmUVlLN09kOGQ3YzJOR1dB?oc=5",
-      "published": "2026-10-24T05:36:56+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "U.S. FDA issues four observations to Gland Pharma",
-        "Hindu U.S. FDA issues four observations to Gland Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     }
