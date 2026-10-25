@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-25T22:46:28.089327+00:00",
-  "article_count": 1,
+  "updated": "2026-10-25T23:44:39.475978+00:00",
+  "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "India",
+      "title": "India’s Kilitch Drugs to Sell Ethiopian Pharmaceutical Plant for $14 Million - Birr Metrics",
+      "description": "India’s Kilitch Drugs to Sell Ethiopian Pharmaceutical Plant for $14 Million Birr Metrics",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RcHdBcno1Y1o0UzBEOVJLWUJqMk9iMVBLeHY3TC1MQTV4bHJpa0puYVlrN2tscktBamI3V0hqYWs5WmJkaWVfN195Q2xEOG9QS3N6azcxSFBpalVuYVJpYVp6QjctZUU1dmhNdk0zdy0?oc=5",
+      "published": "2026-10-25T07:45:26+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Kilitch Drugs to Sell Ethiopian Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "14 million"
+      ]
+    },
     {
       "category": "Global",
       "title": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals - https://hrtoday.in/",
@@ -38,6 +59,27 @@
     "Specialty Chemicals": 0
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "India’s Kilitch Drugs to Sell Ethiopian Pharmaceutical Plant for $14 Million - Birr Metrics",
+      "description": "India’s Kilitch Drugs to Sell Ethiopian Pharmaceutical Plant for $14 Million Birr Metrics",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RcHdBcno1Y1o0UzBEOVJLWUJqMk9iMVBLeHY3TC1MQTV4bHJpa0puYVlrN2tscktBamI3V0hqYWs5WmJkaWVfN195Q2xEOG9QS3N6azcxSFBpalVuYVJpYVp6QjctZUU1dmhNdk0zdy0?oc=5",
+      "published": "2026-10-25T07:45:26+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Kilitch Drugs to Sell Ethiopian Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "14 million"
+      ]
+    },
     {
       "category": "Global",
       "title": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals - https://hrtoday.in/",
