@@ -1,12 +1,48 @@
 {
-  "updated": "2026-10-26T08:11:30.564249+00:00",
-  "article_count": 2,
+  "updated": "2026-10-26T15:18:54.055400+00:00",
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "What Are Oncology, Respiratory and API Pharma Stocks? - Univest",
+      "description": "What Are Oncology, Respiratory and API Pharma Stocks? Univest",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjdyeXF2VTlTX051UE5TY0kyX1RXb0ZqUUZKdG1kNUN6VGR5R19NbkVWUXlPdjFheVliM1ZacnZSUWxzdVZFaXBRb3dzT1c2NVBXczlyQ1ZFUG1ENy13UnVsZ0plalA3dFVFTUxQVFZXTmI3cXppUU5wdUs0OXpkQjVUT3NwNktNTmplSF9QZGo1TmM2R1dDUDhHQWtVOUlFN3VTVS0xWFJOY1FDUlhZXzJycEdFWjJyMENxc3dneDFGMGZVN0NJOTg5U2ZXMlYxSlJUQlJ5Szk?oc=5",
+      "published": "2026-10-26T06:04:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Respiratory and API Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "INDIA HEALTHCARE (PHARMA) INDUSTRY THREAT LANDSCAPE REPORT 2026 - Cyfirma",
+      "description": "INDIA HEALTHCARE (PHARMA) INDUSTRY THREAT LANDSCAPE REPORT 2026 Cyfirma",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUo5LVowdlRjYUNySG9KcHUycUdsQXdDS2NrUlg2QTM3aXJwRDZmRGZCVEtQWnE2WUFxQlB3SHZiZHVibVN4NFdmM3U4NlcxT01DQ0Z1QzY4TV9kWDJEX0xScEV4YUNZR1V5MnhXdk9kMFpvT1FqWGRqQ3lZYzkwVS12R2w0d3JMMDIzdk15Y3E3b0EzYkRQR3NpYw?oc=5",
+      "published": "2026-10-26T11:15:11+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
     {
       "category": "Global",
       "title": "Aparajita Nandita Raychaudhuri Elevated to Senior Vice President and Head – API Sales & Marketing at Mankind Pharma - https://hrtoday.in/",
@@ -22,25 +58,6 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "API Sales & Marketing at Mankind Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing - Social Samosa",
-      "description": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing Social Samosa",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQdIBzgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQQ?oc=5",
-      "published": "2026-10-26T06:41:10+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Aparajita Nandita Raychaudhuri joins Mankind Pharma"
       ],
       "project_signals": [],
       "numbers": []
@@ -58,6 +75,23 @@
   },
   "articles": [
     {
+      "category": "India",
+      "title": "INDIA HEALTHCARE (PHARMA) INDUSTRY THREAT LANDSCAPE REPORT 2026 - Cyfirma",
+      "description": "INDIA HEALTHCARE (PHARMA) INDUSTRY THREAT LANDSCAPE REPORT 2026 Cyfirma",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUo5LVowdlRjYUNySG9KcHUycUdsQXdDS2NrUlg2QTM3aXJwRDZmRGZCVEtQWnE2WUFxQlB3SHZiZHVibVN4NFdmM3U4NlcxT01DQ0Z1QzY4TV9kWDJEX0xScEV4YUNZR1V5MnhXdk9kMFpvT1FqWGRqQ3lZYzkwVS12R2w0d3JMMDIzdk15Y3E3b0EzYkRQR3NpYw?oc=5",
+      "published": "2026-10-26T11:15:11+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Aparajita Nandita Raychaudhuri Elevated to Senior Vice President and Head – API Sales & Marketing at Mankind Pharma - https://hrtoday.in/",
       "description": "Aparajita Nandita Raychaudhuri Elevated to Senior Vice President and Head – API Sales & Marketing at Mankind Pharma https://hrtoday.in/",
@@ -91,6 +125,25 @@
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
         "Aparajita Nandita Raychaudhuri joins Mankind Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "What Are Oncology, Respiratory and API Pharma Stocks? - Univest",
+      "description": "What Are Oncology, Respiratory and API Pharma Stocks? Univest",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjdyeXF2VTlTX051UE5TY0kyX1RXb0ZqUUZKdG1kNUN6VGR5R19NbkVWUXlPdjFheVliM1ZacnZSUWxzdVZFaXBRb3dzT1c2NVBXczlyQ1ZFUG1ENy13UnVsZ0plalA3dFVFTUxQVFZXTmI3cXppUU5wdUs0OXpkQjVUT3NwNktNTmplSF9QZGo1TmM2R1dDUDhHQWtVOUlFN3VTVS0xWFJOY1FDUlhZXzJycEdFWjJyMENxc3dneDFGMGZVN0NJOTg5U2ZXMlYxSlJUQlJ5Szk?oc=5",
+      "published": "2026-10-26T06:04:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Respiratory and API Pharma"
       ],
       "project_signals": [],
       "numbers": []
