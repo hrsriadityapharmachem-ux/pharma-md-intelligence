@@ -1,49 +1,12 @@
 {
-  "updated": "2026-10-26T05:00:31.342682+00:00",
-  "article_count": 2,
+  "updated": "2026-10-26T05:57:41.189778+00:00",
+  "article_count": 0,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
-  "must_know": [
-    {
-      "category": "India",
-      "title": "Indian chemical manufacturers poised to benefit as India emerges as a global chemical manufacturing hub - Indiatimes",
-      "description": "Indian chemical manufacturers poised to benefit as India emerges as a global chemical manufacturing hub Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQOVAxVVlCMmw5dTZkNEEtQXI2aXdLVlpaN29vc0lyZlAwSFVkWkhabnFFUW9HTEROMmFFTHRIdVNnYm9NWVJ0NDF0aFdVelVyS090RkRXdENycV9uVi1xNVZZMm9EUDFYTWl3UGhEeHpEYjVWN0V0SDBlWXRTTGJVd3gxajA4UFlwZkRQODZvd1J0UjkxRVB6Vkh5Umg2V2FFZnBnTTF0RmtYOVpGdTRCU253MUt3Z0dsbkM0NU9TTXdEZ0RrN3Y5VmJYNWEzeGlneHpmTVUyUjh1TUpieGl6S2VOSTIxOHpFdVhjRlVKWWxQekJ1bVY4eEV5RmFrRHVreE56MWQ1d2Y1d2VsaVI4ZkxrbnpkYmRINHRkdy05Z2RNYTJHRGNmNGpZbmtxSnItZGVnNzZtOGZBWEpOQ1RQaGVLVVd2NTNh0gGXAkFVX3lxTE1XTjMtZWVLUTZtaGZ6VTZOTXB1QWVTY3FwSUtFSDBselFyTDlRQjFEdGNUV3kyVGxmRFFWeV95NElfUGtCRXNIenVCYXlVTUNIWG9aLXZkeVpXUC1pUzJWS1ZBOTltUndtWDRHM0NiRS1rM0ppT04yX3V6eDhBbWRLZzh4ckN1UFpNQm14M0RwcV9FWW5ZTlUyRE5lSldJR2o4Q3R3c1ZyNWFNa0d2V1JvdDJ4dUpTalhzbXBoVUFCYmQwY3ZIcVFTODVyRTJLU0tlLVZMdEtUTEIxZTF1YU9SNzJmSTFTczFlaEQyNzdMUWEtMzR0OGU5Mmt5Mzk0QVFidFFVa1V0Umdkc2xzX001ZVRFZG1udw?oc=5",
-      "published": "2026-10-25T16:48:46+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals - https://hrtoday.in/",
-      "description": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals https://hrtoday.in/",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEhSLWE1YldfT3A4dTZNTmVDY3VQeWUyRmRBOHhvelVFS0loOG1CSk9zbHBheVZBRlR3VGxTbXhqTHNxNDJXUEQ3bmRxUW4xYU5sQ3dadWI2TDdJbm95MGRRaml6a3ZsZU5LakdBQUlKVUh4YjhDWUtVM3JnUE50bU94WEVrTW5KNDNSc1VPWm1ra1kySmZUQm83dw?oc=5",
-      "published": "2026-10-25T05:32:18+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "API Quality at Intas Pharmaceuticals"
-      ],
-      "project_signals": [],
-      "numbers": []
-    }
-  ],
+  "must_know": [],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
@@ -54,42 +17,5 @@
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
-  "articles": [
-    {
-      "category": "India",
-      "title": "Indian chemical manufacturers poised to benefit as India emerges as a global chemical manufacturing hub - Indiatimes",
-      "description": "Indian chemical manufacturers poised to benefit as India emerges as a global chemical manufacturing hub Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQOVAxVVlCMmw5dTZkNEEtQXI2aXdLVlpaN29vc0lyZlAwSFVkWkhabnFFUW9HTEROMmFFTHRIdVNnYm9NWVJ0NDF0aFdVelVyS090RkRXdENycV9uVi1xNVZZMm9EUDFYTWl3UGhEeHpEYjVWN0V0SDBlWXRTTGJVd3gxajA4UFlwZkRQODZvd1J0UjkxRVB6Vkh5Umg2V2FFZnBnTTF0RmtYOVpGdTRCU253MUt3Z0dsbkM0NU9TTXdEZ0RrN3Y5VmJYNWEzeGlneHpmTVUyUjh1TUpieGl6S2VOSTIxOHpFdVhjRlVKWWxQekJ1bVY4eEV5RmFrRHVreE56MWQ1d2Y1d2VsaVI4ZkxrbnpkYmRINHRkdy05Z2RNYTJHRGNmNGpZbmtxSnItZGVnNzZtOGZBWEpOQ1RQaGVLVVd2NTNh0gGXAkFVX3lxTE1XTjMtZWVLUTZtaGZ6VTZOTXB1QWVTY3FwSUtFSDBselFyTDlRQjFEdGNUV3kyVGxmRFFWeV95NElfUGtCRXNIenVCYXlVTUNIWG9aLXZkeVpXUC1pUzJWS1ZBOTltUndtWDRHM0NiRS1rM0ppT04yX3V6eDhBbWRLZzh4ckN1UFpNQm14M0RwcV9FWW5ZTlUyRE5lSldJR2o4Q3R3c1ZyNWFNa0d2V1JvdDJ4dUpTalhzbXBoVUFCYmQwY3ZIcVFTODVyRTJLU0tlLVZMdEtUTEIxZTF1YU9SNzJmSTFTczFlaEQyNzdMUWEtMzR0OGU5Mmt5Mzk0QVFidFFVa1V0Umdkc2xzX001ZVRFZG1udw?oc=5",
-      "published": "2026-10-25T16:48:46+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals - https://hrtoday.in/",
-      "description": "Dr. Kiran Kota Appointed Vice President – API Quality at Intas Pharmaceuticals https://hrtoday.in/",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEhSLWE1YldfT3A4dTZNTmVDY3VQeWUyRmRBOHhvelVFS0loOG1CSk9zbHBheVZBRlR3VGxTbXhqTHNxNDJXUEQ3bmRxUW4xYU5sQ3dadWI2TDdJbm95MGRRaml6a3ZsZU5LakdBQUlKVUh4YjhDWUtVM3JnUE50bU94WEVrTW5KNDNSc1VPWm1ra1kySmZUQm83dw?oc=5",
-      "published": "2026-10-25T05:32:18+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "API Quality at Intas Pharmaceuticals"
-      ],
-      "project_signals": [],
-      "numbers": []
-    }
-  ]
+  "articles": []
 }
