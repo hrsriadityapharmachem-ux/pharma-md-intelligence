@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-26T05:57:41.189778+00:00",
-  "article_count": 0,
+  "updated": "2026-10-26T07:20:09.318223+00:00",
+  "article_count": 1,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 13,
-  "must_know": [],
+  "must_know": [
+    {
+      "category": "Global",
+      "title": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing - Social Samosa",
+      "description": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing Social Samosa",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQdIBzgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQQ?oc=5",
+      "published": "2026-10-26T06:41:10+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Aparajita Nandita Raychaudhuri joins Mankind Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    }
+  ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
@@ -17,5 +37,25 @@
     "Exports / Markets": 0,
     "Specialty Chemicals": 0
   },
-  "articles": []
+  "articles": [
+    {
+      "category": "Global",
+      "title": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing - Social Samosa",
+      "description": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing Social Samosa",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQdIBzgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQQ?oc=5",
+      "published": "2026-10-26T06:41:10+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Aparajita Nandita Raychaudhuri joins Mankind Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    }
+  ]
 }
