@@ -1,12 +1,58 @@
 {
-  "updated": "2026-10-26T20:38:22.159838+00:00",
-  "article_count": 8,
+  "updated": "2026-10-27T00:37:10.317220+00:00",
+  "article_count": 13,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 0,
-  "high_priority_count": 0,
+  "watch_count": 2,
+  "high_priority_count": 2,
   "successful_feeds": 13,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat - InvestyWise",
+      "description": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat InvestyWise",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFJ0QVc3WnRPZlhmeWJqNmtDN01Pd0FNNlFrSnEyRlpVM2hVaE9mdkRLMnI1ajZ0QzBWaDFJU0MxMmZCc1NiS3B2TEdKVDJDWlFiQkJMQWM2MmJkNDR1RU5PQ0dxQk1BWFFaVGFvejBkOWR6dTR2NjZXNTJ0QUdIaUZtTFBuZ21pOHd4QXRhT1dVSzgyclE?oc=5",
+      "published": "2026-10-26T07:45:23+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sudeep Pharma",
+        "Facility in Gujarat - InvestyWise Sudeep Pharma"
+      ],
+      "project_signals": [
+        "greenfield"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari - Sahi",
+      "description": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari Sahi",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGRqa1dTbzZ1eHpZMFFPZnpBWlR5Q1VlSmQ5R00yS3pPaDBQMUNlVjN4Y1p6TFByTlBqSklaeEFsa2Qyc2lVYl9yMl9KNkw5NkY5Um93V3ljV3dQOEhGMGNGc0FtY1lpaTRPSy1Bb1o1cWtETXQxSS00QjZ1SlNXZ0xrU1ZkNWNuYUE1c0thblZCa0g4TEFlLWtmREEwSUpsRVdTT3pZdGg3bVZ4?oc=5",
+      "published": "2026-10-26T09:24:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sudeep Pharma",
+        "MT Greenfield Facility In Nandesari - Sahi Sudeep Pharma"
+      ],
+      "project_signals": [
+        "greenfield"
+      ],
+      "numbers": [
+        "51,200 mt"
+      ]
+    },
     {
       "category": "India",
       "title": "Peptide Contract Manufacturing Market (2026 - 2033) - Grand View Research",
@@ -17,42 +63,6 @@
       "signal": "General",
       "business_area": "CDMO / Contract Manufacturing",
       "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Peptide Therapeutics Contract Active Pharmaceutical - openPR.com",
-      "description": "Peptide Therapeutics Contract Active Pharmaceutical openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGNsdU1BcmpGUFZvR3JaTUpUT3lCX2NrMGNPSjgwVFBGVG1uUlRPSHItVGdLcEpXUGtfUzRsQm9rTldhdXd2N1pKMWl1a3ctUG9Yc3drWVVCcHFJdlQ3blRhNWNXSjFVTnlTSnI2dlY5NWlDN2VfZVJ6a1BYZUdFbTY0Yks1STJYUXU5Z3JNbWs?oc=5",
-      "published": "2026-10-26T18:02:07+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Peptide Therapeutics Contract Active Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Pakistan launches programme to help pharma industry meet US FDA standards - The Nation (Pakistan )",
-      "description": "Pakistan launches programme to help pharma industry meet US FDA standards The Nation (Pakistan )",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWJFZk5VUTMyVnhnbFFjeUw0VHJhVTdjZHJPck9zS2tEcFZrZUNlZnFQMWJBelBEMTQydDgySV91aGR3bXlYZ0xkOGhkQVdianRVNkJBeU15MVNUZ2RjSVdFRFFNZnU5WkhDYXR2eFFDNEhmSWNXVmpQRElmRjlCZzdiMElMdTducXd0M05LS2xoRlRBTVZvNjZhdHJoT3I3TGc1TzVnWGRocDFD?oc=5",
-      "published": "2026-10-26T17:52:00+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
@@ -73,6 +83,23 @@
   },
   "articles": [
     {
+      "category": "Hyderabad",
+      "title": "UoH hosts international drug discovery programme with over 250 participants - The Hans India",
+      "description": "UoH hosts international drug discovery programme with over 250 participants The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGJHZTBVV3lzYUg3eU0tSWNQVF9TeFlNSXNFa3VqNnFNVHpiaFlaSTFGUmkzSDFJLXNoVEZweHlzeXMxcnlseEpsSGloX2FvS3o1Nk90c0J5TDFtX194TUY3UU5QRF9fSUdnNFFGbTBZdnZiVUVXdFRZTEZDMFp5LTdraWk1SDhYa3FXU3RxT3E0aTFocWx4Yndmc2FjaXNGNFZRODYzN2tJYzlTTmNHb00zOWhtc3FQME1wMkZEVWNRTHBUMkdn?oc=5",
+      "published": "2026-10-26T20:50:28+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Peptide Therapeutics Contract Active Pharmaceutical - openPR.com",
       "description": "Peptide Therapeutics Contract Active Pharmaceutical openPR.com",
@@ -109,11 +136,45 @@
       "numbers": []
     },
     {
+      "category": "Global",
+      "title": "Pakistan launches initiative to boost pharma exports, global compliance - ARYnews.tv",
+      "description": "Pakistan launches initiative to boost pharma exports, global compliance ARYnews.tv",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRlpDNFduUVBFbzc4bWt5V3dNdmR4a0M5T1k5aUlKYXZIckw1RTJvWmRtZXVmZl82Um9UQmNTSFlNakJDaUJMUUNySmVtUHo1alVyZnYtQ1FKN3RVR3BLVnE3bHIxSG4ya1NIX0oxSzAxaUhpLUdWX1gycHBJM3ZfeHVhR0txR0RFcDlLQjYwbURmUk0?oc=5",
+      "published": "2026-10-26T17:07:04+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "India",
       "title": "'India needs reimbursement mechanisms, predictable policies to drive pharma innovation': OPPI chief Anil Matai - The Week",
       "description": "'India needs reimbursement mechanisms, predictable policies to drive pharma innovation': OPPI chief Anil Matai The Week",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdl9iSkJXTmt2MkI1c2ZXR0M3UlhzdjgtMWowX2pMQjJGWFhmaFFrWEV0X3E4TmY0b0h1N0o3UmVNZ2JqTzVteFVvczZUSlBySzc3WlhrVHB2TTN0bEFDenpRdjZwbnFaSmluNV94VW82Rk04LWpqSEFRWllCcVdfSExrNDV4Qnk1RUdpeVJxb2FoSVhXWDZuT3lWaVEyTWlnT1hBaHF5V0tkR2ZIdk5pOU9XdzVCRzAzWWIyS1FYX2RzVzNmdGs0bmE1dEFkcmh0U0pnZWRuTW4wTXJWc0xmS0o2OEs4OC1iUGdPOGZkZTc3cV9ZVkHSAfYBQVVfeXFMTXZfYkpCV05rdjJCNXNmV0dDN1JYc3Y4LTFqMF9qTEIyRlhYZmhRa1hFdF9xOE5mNG9IdTdKN1JlTWdiak81bXhVb3M2VEpQcks3N1pYa1Rwdk0zdGxBQ3p6UXY2cG5xWkppbjVfeFVvNkZNOC1qakhBUVpZQnFXX0hMazQ1eEJ5NUVHaXlScW9haElYV1g2bk95VmlRMk1pZ09YQWhxeVdLZEdmSHZOaTlPV3c1QkcwM1liMktRWF9kc1czZnRrNG5hNXRBZHJodFNKZ2Vkbk1uME1yVnNMZktKNjhLODgtYlBnTzhmZGU3N3FfWVZB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYzEwSGhSSTV6V3gwWngzNWV6ZmNtRndyVHpzVjZpTzJqT2lOdHd1TTJRZk1wcXVQVmgwV0F2MVpJQldFeFFBMi05RVk0bnRWNGlVT1VMTTVEQkUzS0JUSENVR0JCclBKSEd3dnlnQ1lQeU9rQmRtSGFZM25YTGpLVG1CaWtRcE8xNTdxdXJKRVZvTzN5dTc4elFWU0d1b0drY1BoR3E4d0FkY0NHaWtROFdJSGphTS1ZUXc2djcwSS1CZmRuVWsxOG5iQk9pcC1mYndNRzUwY0pKYXZQYS16RTB0TUN1WWE2dE53NEV5dWPSAfYBQVVfeXFMTXZfYkpCV05rdjJCNXNmV0dDN1JYc3Y4LTFqMF9qTEIyRlhYZmhRa1hFdF9xOE5mNG9IdTdKN1JlTWdiak81bXhVb3M2VEpQcks3N1pYa1Rwdk0zdGxBQ3p6UXY2cG5xWkppbjVfeFVvNkZNOC1qakhBUVpZQnFXX0hMazQ1eEJ5NUVHaXlScW9haElYV1g2bk95VmlRMk1pZ09YQWhxeVdLZEdmSHZOaTlPV3c1QkcwM1liMktRWF9kc1czZnRrNG5hNXRBZHJodFNKZ2Vkbk1uME1yVnNMZktKNjhLODgtYlBnTzhmZGU3N3FfWVZB?oc=5",
       "published": "2026-10-26T14:36:50+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Hyderabad",
+      "title": "University of Hyderabad hosts global drug discovery programme - The Siasat Daily",
+      "description": "University of Hyderabad hosts global drug discovery programme The Siasat Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkhnM2RUa0dwR3JLaVVSa2FJMWcxcDNDSnpFVE9CWWdjNkU4cEI0aEQ0RHVITmNuNGpqQWJOYVBTdFVETUJZWkdsNVJ6MTdrU2F4VzZzWU5RQ0dETGhVQXRjVFpBQm52NTdTZjdZcTVlYnZRcmNOUkxHREVKMlJJTjdqSlZyNmIxRlkzekxOdXRjUnVEN0Z1cdIBngFBVV95cUxOVzFQQ0FSUTg5bXQ2UllVN0hCMkYwbGl0aEh4cTJWdS1jeHlBMUd2YTRnNk1faW5DME5BUjJXU1lERnRjbjlqVU9HYjBKcEViYk1haTE1Z2huek9TcGt4WGw2TUhBakg2ckJQOUZGTmtJa2EtWlFUYkM4TEVaRURJd0dfRlR6ai00Y1FCSlRmOG9RdmJicWYyOGEzQlFKUQ?oc=5",
+      "published": "2026-10-26T13:07:23+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -177,6 +238,52 @@
         "India - Traders Union Mankind Pharma"
       ],
       "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari - Sahi",
+      "description": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari Sahi",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGRqa1dTbzZ1eHpZMFFPZnpBWlR5Q1VlSmQ5R00yS3pPaDBQMUNlVjN4Y1p6TFByTlBqSklaeEFsa2Qyc2lVYl9yMl9KNkw5NkY5Um93V3ljV3dQOEhGMGNGc0FtY1lpaTRPSy1Bb1o1cWtETXQxSS00QjZ1SlNXZ0xrU1ZkNWNuYUE1c0thblZCa0g4TEFlLWtmREEwSUpsRVdTT3pZdGg3bVZ4?oc=5",
+      "published": "2026-10-26T09:24:44+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sudeep Pharma",
+        "MT Greenfield Facility In Nandesari - Sahi Sudeep Pharma"
+      ],
+      "project_signals": [
+        "greenfield"
+      ],
+      "numbers": [
+        "51,200 mt"
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat - InvestyWise",
+      "description": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat InvestyWise",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFJ0QVc3WnRPZlhmeWJqNmtDN01Pd0FNNlFrSnEyRlpVM2hVaE9mdkRLMnI1ajZ0QzBWaDFJU0MxMmZCc1NiS3B2TEdKVDJDWlFiQkJMQWM2MmJkNDR1RU5PQ0dxQk1BWFFaVGFvejBkOWR6dTR2NjZXNTJ0QUdIaUZtTFBuZ21pOHd4QXRhT1dVSzgyclE?oc=5",
+      "published": "2026-10-26T07:45:23+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sudeep Pharma",
+        "Facility in Gujarat - InvestyWise Sudeep Pharma"
+      ],
+      "project_signals": [
+        "greenfield"
+      ],
       "numbers": []
     },
     {
