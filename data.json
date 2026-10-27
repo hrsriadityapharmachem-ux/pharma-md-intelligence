@@ -1,72 +1,62 @@
 {
-  "updated": "2026-10-27T06:27:24.191986+00:00",
-  "article_count": 11,
+  "updated": "2026-10-27T12:30:54.310593+00:00",
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 2,
-  "high_priority_count": 2,
+  "watch_count": 0,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "India",
-      "title": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat - InvestyWise",
-      "description": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat InvestyWise",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFJ0QVc3WnRPZlhmeWJqNmtDN01Pd0FNNlFrSnEyRlpVM2hVaE9mdkRLMnI1ajZ0QzBWaDFJU0MxMmZCc1NiS3B2TEdKVDJDWlFiQkJMQWM2MmJkNDR1RU5PQ0dxQk1BWFFaVGFvejBkOWR6dTR2NjZXNTJ0QUdIaUZtTFBuZ21pOHd4QXRhT1dVSzgyclE?oc=5",
-      "published": "2026-10-26T07:45:23+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Sudeep Pharma",
-        "Facility in Gujarat - InvestyWise Sudeep Pharma"
-      ],
-      "project_signals": [
-        "greenfield"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari - Sahi",
-      "description": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari Sahi",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGRqa1dTbzZ1eHpZMFFPZnpBWlR5Q1VlSmQ5R00yS3pPaDBQMUNlVjN4Y1p6TFByTlBqSklaeEFsa2Qyc2lVYl9yMl9KNkw5NkY5Um93V3ljV3dQOEhGMGNGc0FtY1lpaTRPSy1Bb1o1cWtETXQxSS00QjZ1SlNXZ0xrU1ZkNWNuYUE1c0thblZCa0g4TEFlLWtmREEwSUpsRVdTT3pZdGg3bVZ4?oc=5",
-      "published": "2026-10-26T09:24:44+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Sudeep Pharma",
-        "MT Greenfield Facility In Nandesari - Sahi Sudeep Pharma"
-      ],
-      "project_signals": [
-        "greenfield"
-      ],
-      "numbers": [
-        "51,200 mt"
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Peptide Contract Manufacturing Market (2026 - 2033) - Grand View Research",
-      "description": "Peptide Contract Manufacturing Market (2026 - 2033) Grand View Research",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSklSZFhDcDhUdlY1SnhFc0wwNENKR0tlMHlpRUJNZURMVWpjWTdSSDlTQVc2U2Vpc0xfRzFFSlRpS2tVZzd4RzNSLVlEMGZMT0ZsUTN1QlBEVzZwOEVMNHJia2NkZl9wTklxOG96ZU5sTWZkdW9BM0MwNGkzeW40dU1lWHJZS1o0M2VEYXgzeGJnNXRGQlRyZU9YVnI?oc=5",
-      "published": "2026-10-26T10:40:17+00:00",
+      "category": "Hyderabad",
+      "title": "University of Hyderabad hosts global drug discovery programme - The Siasat Daily",
+      "description": "University of Hyderabad hosts global drug discovery programme The Siasat Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkhnM2RUa0dwR3JLaVVSa2FJMWcxcDNDSnpFVE9CWWdjNkU4cEI0aEQ0RHVITmNuNGpqQWJOYVBTdFVETUJZWkdsNVJ6MTdrU2F4VzZzWU5RQ0dETGhVQXRjVFpBQm52NTdTZjdZcTVlYnZRcmNOUkxHREVKMlJJTjdqSlZyNmIxRlkzekxOdXRjUnVEN0Z1cdIBngFBVV95cUxOVzFQQ0FSUTg5bXQ2UllVN0hCMkYwbGl0aEh4cTJWdS1jeHlBMUd2YTRnNk1faW5DME5BUjJXU1lERnRjbjlqVU9HYjBKcEViYk1haTE1Z2huek9TcGt4WGw2TUhBakg2ckJQOUZGTmtJa2EtWlFUYkM4TEVaRURJd0dfRlR6ai00Y1FCSlRmOG9RdmJicWYyOGEzQlFKUQ?oc=5",
+      "published": "2026-10-26T13:07:23+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Drug price caps can’t stop at cancer medicines. India needs to regulate pharma margins - ThePrint",
+      "description": "Drug price caps can’t stop at cancer medicines. India needs to regulate pharma margins ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1VeGNHam14ZzVadTRDcmJQWTZ5SFJTNFhmX2ZJSGVyb3A5RVgtVnF5NkZBbTRraTR1WHhWam5SR3pxVkU1TGFPajRiVXo2TW85YlllTmRsN2pEaTJ2MWExSENFNXhUMkxmNnAwd1VGZTE5ejY1aFBib1dPOVlGTnB5aUdpWDdySllvQzJFZGnSAZYBQVVfeXFMTVZMeVFwcVpJSG52ZTVvZDRISGQ0UFhLSldyaDJRRWl6MTEyanVMaTdVMEgxbFdlUXlVekZOMkxOYjhPZkxPeEoyVkZIRDM3a2JHNmJqRmlJNThtMG5xTW9JaDZxNVVQcElvVnAtR3lkVmtHTmFXbEFYTk5aTDJUTmpXZ3lYbUMtS3BMT1NtNmVENVU3cHN3?oc=5",
+      "published": "2026-10-27T03:33:41+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
+      "title": "Peptide Therapeutics Contract Active Pharmaceutical - openPR.com",
+      "description": "Peptide Therapeutics Contract Active Pharmaceutical openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGNsdU1BcmpGUFZvR3JaTUpUT3lCX2NrMGNPSjgwVFBGVG1uUlRPSHItVGdLcEpXUGtfUzRsQm9rTldhdXd2N1pKMWl1a3ctUG9Yc3drWVVCcHFJdlQ3blRhNWNXSjFVTnlTSnI2dlY5NWlDN2VfZVJ6a1BYZUdFbTY0Yks1STJYUXU5Z3JNbWs?oc=5",
+      "published": "2026-10-26T18:02:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Peptide Therapeutics Contract Active Pharmaceutical"
+      ],
       "project_signals": [],
       "numbers": []
     }
@@ -101,6 +91,25 @@
     },
     {
       "category": "Global",
+      "title": "Peptide Therapeutics Contract Active Pharmaceutical - openPR.com",
+      "description": "Peptide Therapeutics Contract Active Pharmaceutical openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGNsdU1BcmpGUFZvR3JaTUpUT3lCX2NrMGNPSjgwVFBGVG1uUlRPSHItVGdLcEpXUGtfUzRsQm9rTldhdXd2N1pKMWl1a3ctUG9Yc3drWVVCcHFJdlQ3blRhNWNXSjFVTnlTSnI2dlY5NWlDN2VfZVJ6a1BYZUdFbTY0Yks1STJYUXU5Z3JNbWs?oc=5",
+      "published": "2026-10-26T18:02:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Peptide Therapeutics Contract Active Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "Global",
       "title": "Pakistan launches programme to help pharma industry meet US FDA standards - The Nation (Pakistan )",
       "description": "Pakistan launches programme to help pharma industry meet US FDA standards The Nation (Pakistan )",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWJFZk5VUTMyVnhnbFFjeUw0VHJhVTdjZHJPck9zS2tEcFZrZUNlZnFQMWJBelBEMTQydDgySV91aGR3bXlYZ0xkOGhkQVdianRVNkJBeU15MVNUZ2RjSVdFRFFNZnU5WkhDYXR2eFFDNEhmSWNXVmpQRElmRjlCZzdiMElMdTducXd0M05LS2xoRlRBTVZvNjZhdHJoT3I3TGc1TzVnWGRocDFD?oc=5",
@@ -120,7 +129,7 @@
       "category": "India",
       "title": "'India needs reimbursement mechanisms, predictable policies to drive pharma innovation': OPPI chief Anil Matai - The Week",
       "description": "'India needs reimbursement mechanisms, predictable policies to drive pharma innovation': OPPI chief Anil Matai The Week",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYzEwSGhSSTV6V3gwWngzNWV6ZmNtRndyVHpzVjZpTzJqT2lOdHd1TTJRZk1wcXVQVmgwV0F2MVpJQldFeFFBMi05RVk0bnRWNGlVT1VMTTVEQkUzS0JUSENVR0JCclBKSEd3dnlnQ1lQeU9rQmRtSGFZM25YTGpLVG1CaWtRcE8xNTdxdXJKRVZvTzN5dTc4elFWU0d1b0drY1BoR3E4d0FkY0NHaWtROFdJSGphTS1ZUXc2djcwSS1CZmRuVWsxOG5iQk9pcC1mYndNRzUwY0pKYXZQYS16RTB0TUN1WWE2dE53NEV5dWPSAfYBQVVfeXFMTXZfYkpCV05rdjJCNXNmV0dDN1JYc3Y4LTFqMF9qTEIyRlhYZmhRa1hFdF9xOE5mNG9IdTdKN1JlTWdiak81bXhVb3M2VEpQcks3N1pYa1Rwdk0zdGxBQ3p6UXY2cG5xWkppbjVfeFVvNkZNOC1qakhBUVpZQnFXX0hMazQ1eEJ5NUVHaXlScW9haElYV1g2bk95VmlRMk1pZ09YQWhxeVdLZEdmSHZOaTlPV3c1QkcwM1liMktRWF9kc1czZnRrNG5hNXRBZHJodFNKZ2Vkbk1uME1yVnNMZktKNjhLODgtYlBnTzhmZGU3N3FfWVZB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdl9iSkJXTmt2MkI1c2ZXR0M3UlhzdjgtMWowX2pMQjJGWFhmaFFrWEV0X3E4TmY0b0h1N0o3UmVNZ2JqTzVteFVvczZUSlBySzc3WlhrVHB2TTN0bEFDenpRdjZwbnFaSmluNV94VW82Rk04LWpqSEFRWllCcVdfSExrNDV4Qnk1RUdpeVJxb2FoSVhXWDZuT3lWaVEyTWlnT1hBaHF5V0tkR2ZIdk5pOU9XdzVCRzAzWWIyS1FYX2RzVzNmdGs0bmE1dEFkcmh0U0pnZWRuTW4wTXJWc0xmS0o2OEs4OC1iUGdPOGZkZTc3cV9ZVkHSAfYBQVVfeXFMTXZfYkpCV05rdjJCNXNmV0dDN1JYc3Y4LTFqMF9qTEIyRlhYZmhRa1hFdF9xOE5mNG9IdTdKN1JlTWdiak81bXhVb3M2VEpQcks3N1pYa1Rwdk0zdGxBQ3p6UXY2cG5xWkppbjVfeFVvNkZNOC1qakhBUVpZQnFXX0hMazQ1eEJ5NUVHaXlScW9haElYV1g2bk95VmlRMk1pZ09YQWhxeVdLZEdmSHZOaTlPV3c1QkcwM1liMktRWF9kc1czZnRrNG5hNXRBZHJodFNKZ2Vkbk1uME1yVnNMZktKNjhLODgtYlBnTzhmZGU3N3FfWVZB?oc=5",
       "published": "2026-10-26T14:36:50+00:00",
       "source": "Google News RSS",
       "signal": "General",
@@ -151,11 +160,11 @@
       "numbers": []
     },
     {
-      "category": "India",
-      "title": "INDIA HEALTHCARE (PHARMA) INDUSTRY THREAT LANDSCAPE REPORT 2026 - Cyfirma",
-      "description": "INDIA HEALTHCARE (PHARMA) INDUSTRY THREAT LANDSCAPE REPORT 2026 Cyfirma",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUo5LVowdlRjYUNySG9KcHUycUdsQXdDS2NrUlg2QTM3aXJwRDZmRGZCVEtQWnE2WUFxQlB3SHZiZHVibVN4NFdmM3U4NlcxT01DQ0Z1QzY4TV9kWDJEX0xScEV4YUNZR1V5MnhXdk9kMFpvT1FqWGRqQ3lZYzkwVS12R2w0d3JMMDIzdk15Y3E3b0EzYkRQR3NpYw?oc=5",
-      "published": "2026-10-26T11:15:11+00:00",
+      "category": "Hyderabad",
+      "title": "University of Hyderabad hosts global drug discovery programme - The Siasat Daily",
+      "description": "University of Hyderabad hosts global drug discovery programme The Siasat Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkhnM2RUa0dwR3JLaVVSa2FJMWcxcDNDSnpFVE9CWWdjNkU4cEI0aEQ0RHVITmNuNGpqQWJOYVBTdFVETUJZWkdsNVJ6MTdrU2F4VzZzWU5RQ0dETGhVQXRjVFpBQm52NTdTZjdZcTVlYnZRcmNOUkxHREVKMlJJTjdqSlZyNmIxRlkzekxOdXRjUnVEN0Z1cdIBngFBVV95cUxOVzFQQ0FSUTg5bXQ2UllVN0hCMkYwbGl0aEh4cTJWdS1jeHlBMUd2YTRnNk1faW5DME5BUjJXU1lERnRjbjlqVU9HYjBKcEViYk1haTE1Z2huek9TcGt4WGw2TUhBakg2ckJQOUZGTmtJa2EtWlFUYkM4TEVaRURJd0dfRlR6ai00Y1FCSlRmOG9RdmJicWYyOGEzQlFKUQ?oc=5",
+      "published": "2026-10-26T13:07:23+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -164,127 +173,6 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Peptide Contract Manufacturing Market (2026 - 2033) - Grand View Research",
-      "description": "Peptide Contract Manufacturing Market (2026 - 2033) Grand View Research",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSklSZFhDcDhUdlY1SnhFc0wwNENKR0tlMHlpRUJNZURMVWpjWTdSSDlTQVc2U2Vpc0xfRzFFSlRpS2tVZzd4RzNSLVlEMGZMT0ZsUTN1QlBEVzZwOEVMNHJia2NkZl9wTklxOG96ZU5sTWZkdW9BM0MwNGkzeW40dU1lWHJZS1o0M2VEYXgzeGJnNXRGQlRyZU9YVnI?oc=5",
-      "published": "2026-10-26T10:40:17+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Mankind Pharma quarterly profit rises on chronic drug demand in India - Traders Union",
-      "description": "Mankind Pharma quarterly profit rises on chronic drug demand in India Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWVhPQnYxeXlQd3BvR0FDTkpLOXRKcUxnOW1ZQUxJaDNncWVyWm4wZEYwZmwzMl9sSWp1M2pFRVZQUmVlamFPVUxPRW1iakNMX2lkeGFmNjEwRHNvVzZrQ19CTGdXWjRLTER6Nk5WZ2NDRGljd1RIb0ZUMzg3YzlZdWdqSUFkQUt3ZnNkSmVOMExCbGluQWYtVzlR?oc=5",
-      "published": "2026-10-26T10:27:27+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Regulatory",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Mankind Pharma",
-        "India - Traders Union Mankind Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari - Sahi",
-      "description": "Sudeep Pharma Receives FDA Approval For 51,200 MT Greenfield Facility In Nandesari Sahi",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGRqa1dTbzZ1eHpZMFFPZnpBWlR5Q1VlSmQ5R00yS3pPaDBQMUNlVjN4Y1p6TFByTlBqSklaeEFsa2Qyc2lVYl9yMl9KNkw5NkY5Um93V3ljV3dQOEhGMGNGc0FtY1lpaTRPSy1Bb1o1cWtETXQxSS00QjZ1SlNXZ0xrU1ZkNWNuYUE1c0thblZCa0g4TEFlLWtmREEwSUpsRVdTT3pZdGg3bVZ4?oc=5",
-      "published": "2026-10-26T09:24:44+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Sudeep Pharma",
-        "MT Greenfield Facility In Nandesari - Sahi Sudeep Pharma"
-      ],
-      "project_signals": [
-        "greenfield"
-      ],
-      "numbers": [
-        "51,200 mt"
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat - InvestyWise",
-      "description": "Sudeep Pharma: FDA Approval for New Greenfield Facility in Gujarat InvestyWise",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFJ0QVc3WnRPZlhmeWJqNmtDN01Pd0FNNlFrSnEyRlpVM2hVaE9mdkRLMnI1ajZ0QzBWaDFJU0MxMmZCc1NiS3B2TEdKVDJDWlFiQkJMQWM2MmJkNDR1RU5PQ0dxQk1BWFFaVGFvejBkOWR6dTR2NjZXNTJ0QUdIaUZtTFBuZ21pOHd4QXRhT1dVSzgyclE?oc=5",
-      "published": "2026-10-26T07:45:23+00:00",
-      "source": "Google News RSS",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
-      "why_it_matters": "Industry development that should be monitored for potential business impact.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Sudeep Pharma",
-        "Facility in Gujarat - InvestyWise Sudeep Pharma"
-      ],
-      "project_signals": [
-        "greenfield"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Aparajita Nandita Raychaudhuri Elevated to Senior Vice President and Head – API Sales & Marketing at Mankind Pharma - https://hrtoday.in/",
-      "description": "Aparajita Nandita Raychaudhuri Elevated to Senior Vice President and Head – API Sales & Marketing at Mankind Pharma https://hrtoday.in/",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdDk2a2JZRWxMRGRSNUlxYWNFbDlUbnZaNXFiWGRtY2VTU2xMeXVpY3RUMS1LSUREN2x1d09qbXFhWENacjREUnpFRW5Cam5uY3lfTktDM2VmbFA4bWlQVFE5M09TWm4xTFJnN0xHOEJoOEcwMUpueGN6b292SkpyVGx1bjRVd1FSQV94UGdkM1dsWFVMVXI0ejBGdUVVZktuMTNSNjBZSkRQUlpzb2RZUlNMVVRqQkJxVEdCMUExdUJoc1lsVXFPUENjOA?oc=5",
-      "published": "2026-10-26T07:10:49+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "API Sales & Marketing at Mankind Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing - Social Samosa",
-      "description": "Aparajita Nandita Raychaudhuri joins Mankind Pharma as SVP and Head of API Sales and Marketing Social Samosa",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQdIBzgFBVV95cUxOc21lcmtkSTFmZ19HemkxWWMwZmJXNVc3UnJoZTBVQTd6VEZDZnJiQ2xlYlloV1VUUC0xbmVTRjAwcW96VTNwZ01FV1o3bE1TdWd6TUVYZ21DR205dnNkdXZ5ZTlGR3M3cnBGUERXdzBZa2o5eTUtbV82TDNfc1R2STFmdy1IbjJEbTZVakRycS10a3dGTVFDV3A2cndpMkttUmRnVGlpY2JFc1FFT3FKRDZlUncyMmxKdm04Tnl2SUxnM1NDTjd5T0ZJeS0wQQ?oc=5",
-      "published": "2026-10-26T06:41:10+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Aparajita Nandita Raychaudhuri joins Mankind Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     }
