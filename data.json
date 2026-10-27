@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T18:46:41.638367+00:00",
-  "article_count": 6,
+  "updated": "2026-10-27T23:01:40.218628+00:00",
+  "article_count": 8,
   "opportunity_count": 1,
   "risk_count": 0,
   "watch_count": 0,
@@ -51,25 +51,23 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken - Patch",
-      "description": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken Patch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUx1dkpmMFpiNTFEeEV4bkF0ZXVwWTBUMldVelJhWC11TmZSdTZHa0NQR0xBamZMc2k3X1UtazlwOEtmYl9QYnFRUkxoekdtTUVMMFhmdGpCQmZQcXlRMmZFT0VLS3VWMm8zSzZkd1N1ajNuVmpNemZTVFVHUE9xcU9wTnFjSnliUkRZbF9nSi16T3dIRnQ0bUJ0S2hFTGtVeGo0VkxUdTlCZlhkcHVF0gHWAUFVX3lxTFBCTFpkN0RYcGk4NDdwSEFsdVdLbW1FQzIzOEY5a29JYmdTR095WHRRdXZ4RkFXVUQ4TjUxWXJmNXFWTzRqQUZOa295bFhlTjFZLTNMclNXemk3RlM5N2MyR3dHdnV4QWE1LWN3bHNaR2FEV2dLQ3lobTJaTjFRMG5JY3lsSVRkNVJOTFNJLUk5SjZXaUpUZ25HMF9PaVJOM2NqQTBTU1J4NlVRTFhNQzlOY1dEb0t0dG8wV1RwNUFWakNmRlRfLTlSOWc2LXl2c0c0Rms4X3c?oc=5",
-      "published": "2026-10-27T16:12:39+00:00",
+      "category": "India",
+      "title": "Disposable Syringe Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Disposable Syringe Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnVwY3owX2swRklVLWE1NjF2SEhGeU5PTVhnTWpiNEdXdmw5Z3Y1X01lR1hnV2VBMlNWSkdSRWNuYm1aVE9vWVYyQ2dpNVEwSjNWNXNncHNwRFVQNWxtTHBEM0pFTDlia3FWc3ZEVXppLWl5RGN1M1BNNm4wWjFQSTFDemVDTnhqTEpDWHRGbjFHQUpZ?oc=5",
+      "published": "2026-10-27T12:31:09+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Billion Global Pharma"
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
       ],
-      "project_signals": [],
-      "numbers": [
-        "10 billion"
-      ]
+      "numbers": []
     }
   ],
   "business_signals": {
@@ -85,10 +83,10 @@
   "articles": [
     {
       "category": "Global",
-      "title": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken - Patch",
-      "description": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken Patch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUx1dkpmMFpiNTFEeEV4bkF0ZXVwWTBUMldVelJhWC11TmZSdTZHa0NQR0xBamZMc2k3X1UtazlwOEtmYl9QYnFRUkxoekdtTUVMMFhmdGpCQmZQcXlRMmZFT0VLS3VWMm8zSzZkd1N1ajNuVmpNemZTVFVHUE9xcU9wTnFjSnliUkRZbF9nSi16T3dIRnQ0bUJ0S2hFTGtVeGo0VkxUdTlCZlhkcHVF0gHWAUFVX3lxTFBCTFpkN0RYcGk4NDdwSEFsdVdLbW1FQzIzOEY5a29JYmdTR095WHRRdXZ4RkFXVUQ4TjUxWXJmNXFWTzRqQUZOa295bFhlTjFZLTNMclNXemk3RlM5N2MyR3dHdnV4QWE1LWN3bHNaR2FEV2dLQ3lobTJaTjFRMG5JY3lsSVRkNVJOTFNJLUk5SjZXaUpUZ25HMF9PaVJOM2NqQTBTU1J4NlVRTFhNQzlOY1dEb0t0dG8wV1RwNUFWakNmRlRfLTlSOWc2LXl2c0c0Rms4X3c?oc=5",
-      "published": "2026-10-27T16:12:39+00:00",
+      "title": "FE Leadership Awards | Company of the Year: Sun Pharma – From Rs 10,000 loan to global giant - The Financial Express",
+      "description": "FE Leadership Awards | Company of the Year: Sun Pharma – From Rs 10,000 loan to global giant The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLUJJMU5UYVJqalFzTllIVkUyVmJPNFpmbU9ieWswdE9YRHdfR21LQWc3N1RqcDNHVjB2NTZGRmNxV2pBWUlIc1ZvZ2JfS3prcDRtbGFmLWNGYlJES2pOdXJrTl9TNHFVUlo1eXV2R3ZkRjU2VW9uRFYyMVRxXzJ2NDF6Wm9nWE5zZXp4Qk9mMHh2VGt6ZEk5ek1EWTFUVHBoemo3dHlNN0xHZ0pHNFpqUjQtZlFOSVN4SUkzc1hmRmpYVjJ0R3d5b0pnZDNaWkp6TFdyUzhKRFRCN3Z6Y1Fn0gHmAUFVX3lxTE9aNjZzOG54NllYWHVHX21WNGM3bENpcy1vQU42MmJIbG05WHp0STh1ODMxc01tWXhpeHhCRUhiUVB5ckl5RHNEaURVSnhqX1hRcDNVYm9TdjcxVFRlMW5XQ3dzczVpampXbjFvbno0N2lwMW92MHNhcnZjYlgzVmNnczNfbE9sVW44OGRlT3JaWkE3ZGpaNHJFRmwyQUhJblMxbzJ4aklSb3BVWkZVQ1Bad0Q0ckV0VVVhRDdmd0NaY2VOM2lKcVE3QU1VQWV6TTlyRm51dXJpandHcFJzc1JyVjVJNklB?oc=5",
+      "published": "2026-10-27T18:39:36+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -97,11 +95,11 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Billion Global Pharma"
+        "Sun Pharma"
       ],
       "project_signals": [],
       "numbers": [
-        "10 billion"
+        "rs 10,000"
       ]
     },
     {
@@ -127,38 +125,56 @@
     },
     {
       "category": "India",
-      "title": "Why is entire system working to help pharma companies, asks SC - Rediff",
-      "description": "Why is entire system working to help pharma companies, asks SC Rediff",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQW5WZGhzZWZ4eFlJUlNJLWFGVHg5SFYxYURkVlZoV0MtQ2Y3MWp0MnhDRFhrQXN5dlZJMkxNMG1uODRMdzl5bURYeWJWbGRvQlAtZkNGQTF2blBYZXQySVVVUDdFTF9SU2R4ZUZVdjVoank4VFp5SENjZ1ZKNERueElqeDd4amN1ZVJ0c1NJX1dzMG5vMlVzQmdXZkVoaTUxZnlQX0ptUFFHVVB1b3fSAbABQVVfeXFMT0JQbkR4WEVJbU9pcTBFcFRfTm0tY3M1NXZCdlNoWVlCbFc2U0Jtb1JjTEEtVF9Cakp6MkFZLU1QVHFSc1g4anFGbjk3MG9jYTJib2NRSC1EODlUelZqVE1MZ0lSSUU1WkY5WlQ1NlFfb1owRlFQY3BiNy15ZlhlUlctSHU4NE5NRzhiWUpFVlhxMlNfdHhxZDc3dC1nWlBlakE0SUdsRmppdXFTaFo3STE?oc=5",
-      "published": "2026-10-27T11:31:33+00:00",
+      "title": "Disposable Syringe Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Disposable Syringe Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnVwY3owX2swRklVLWE1NjF2SEhGeU5PTVhnTWpiNEdXdmw5Z3Y1X01lR1hnV2VBMlNWSkdSRWNuYm1aVE9vWVYyQ2dpNVEwSjNWNXNncHNwRFVQNWxtTHBEM0pFTDlia3FWc3ZEVXppLWl5RGN1M1BNNm4wWjFQSTFDemVDTnhqTEpDWHRGbjFHQUpZ?oc=5",
+      "published": "2026-10-27T12:31:09+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Surgical Cotton Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Surgical Cotton Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVldWU2RGcFdSeDR6dTQ0SjE1MWl2S2JxblJianNoM0xVVTl6bW80M0daNFk2MnVJRXNnMFJOc1JYZ1dtSS1MQlBBMFM4Vk1vM01RWmlvbnRwX0ZmR0xuZy1DLTRIOXZtYTBndlFHN1p3Wm92NUR6NzBCa0o4MmZMRVBjYk9qRW5pdkxqV3NYMHk?oc=5",
+      "published": "2026-10-27T10:46:09+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "OneSource Q2: Revenue Up 37% and EBITDA Up 53% as New Drug-Device Capacity Starts Paying Off - Trade Brains",
+      "description": "OneSource Q2: Revenue Up 37% and EBITDA Up 53% as New Drug-Device Capacity Starts Paying Off Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOU1HWmlSdjBnTUF0OWZ1RVVIdHcwbmM1Z3lWdkF0TEszVFNJTzJkb0JWOEIzR19lWklyQUc2b2pVbmFZdTk4VmNfT0ZTelB4UjZ0NDJWUDlTbVNRR1BFZEpPMFZVSUk2dVJ4YVR2TEdVd1pJejBrYlQyYU82OXZ4Qk1nenlxN3VXNFJJWlhpQUJ4dnQxc1NFSDFnTU1iUS1oNVJaZVowM2t5andzSU0yMHgtQndmazF1WnpKX0RYQ2l3Z0V3LUdRTHpHSVZ6c3F5bnc?oc=5",
+      "published": "2026-10-27T09:34:57+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Torrent Pharma Q2 FY27: India, Brazil, US or Germany; Which Market Led Growth? - Trade Brains",
-      "description": "Torrent Pharma Q2 FY27: India, Brazil, US or Germany; Which Market Led Growth? Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0ZjTVB5SElnQkFLWUF3RHc5ZE5UR1BsOHJNQXdlRmFFS0lwUDRRZU5RZ2xaV3NSaHRsbTdIZjNJT2lWcWFHcGQ2N1d0ZXdjZjctdWRGUGVTZUJjeGFrb1F2cFZwYlluTHZmYWxZRmw4dHp5NUFHVjdvc2pyWHI5TTN2NnYxMTdMejRWYlZQTXVSMlgzbWszX1M2LWFRTzg4OGNFVmNkQVJudDVNdTNpUThhM0Q5Z0ZHXzJ5aw?oc=5",
-      "published": "2026-10-27T11:28:57+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Torrent Pharma",
-        "Trade Brains Torrent Pharma"
-      ],
       "project_signals": [],
       "numbers": []
     },
@@ -181,6 +197,25 @@
       ],
       "project_signals": [
         "manufacturing facility"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Drug Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Drug Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejNfSTFhaU5CQTV6ZkVhSk1DUjZJQ2x3UW5tcGZ2SjlmZUpmbmhKUmtFNmhsc3BNcjFZOUNCZV9xMWowT3pJVDJyY3lYSzZISDg5RFNtNnlRamhCTGxwWmJTc0RyZnY4MWJlNTJJdHY3Nnh2akhPdDF4UC1vTHVsYWtn?oc=5",
+      "published": "2026-10-27T06:46:07+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
       ],
       "numbers": []
     },
