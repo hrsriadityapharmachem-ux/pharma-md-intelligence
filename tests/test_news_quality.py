@@ -138,6 +138,12 @@ class NewsQualityRegressionTests(unittest.TestCase):
     def test_headquarters_news_is_not_mislabeled_as_risk(self):
         title = "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ"
         self.assertNotEqual(news.determine_signal(title), "Risk")
+        # The source suffix "Urban Acres" must not trip the keyword "ban".
+        self.assertNotEqual(news.determine_signal(title + " Urban Acres"), "Risk")
+        self.assertEqual(
+            news.determine_signal("Regulator issues a ban on pharmaceutical imports"),
+            "Risk",
+        )
 
     def test_critical_priority_is_included_in_must_know_ranking(self):
         articles = [
