@@ -93,7 +93,8 @@ def main():
     for index, article in enumerate(articles):
         label = f"articles[{index}]"
         if not isinstance(article, dict):
-            fail(f"{label} must be an object") missing_fields = sorted(REQUIRED_ARTICLE_FIELDS - article.keys())
+            fail(f"{label} must be an object")
+        missing_fields = sorted(REQUIRED_ARTICLE_FIELDS - article.keys())
         if missing_fields:
             fail(f"{label} missing fields: {', '.join(missing_fields)}")
         for field in ("title", "event_type", "business_area", "why_it_matters", "md_action", "fact_status"):
