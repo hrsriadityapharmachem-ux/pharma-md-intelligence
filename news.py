@@ -1772,7 +1772,8 @@ def deduplicate_articles(articles):
             "merger": "merger", "merges": "merger",
             "invests": "investment", "invested": "investment", "investing": "investment",
             "plant": "facility", "facility": "facility", "manufacturing": "facility",
-            "move": "expansion", "expansion": "expansion", "expands": "expansion"
+            "hq": "headquarters", "headquarters": "headquarters",
+            "gains": "expansion", "move": "expansion", "expansion": "expansion", "expands": "expansion"
         }
         return {synonyms.get(t, t) for t in tokens}
 
