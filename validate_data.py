@@ -117,8 +117,25 @@ def main():
 
     if not isinstance(data.get("must_know"), list):
         fail("must_know must be a list")
-    if not isinstance(data.get("business_signals"), dict):
+    business_signals = data.get("business_signals")
+    if not isinstance(business_signals, dict):
         fail("business_signals must be an object")
+    for area, count in business_signals.items():
+        if not isinstance(area, str) or not isinstance(count, int) or isinstance(count, bool) or count < 0:
+            fail("business_signals must map area names to non-negative integer counts")
+
+    expected_signals = {}
+    for article in articles:
+        if isinstance(article, dict) and article.get("signal") in {"Opportunity", "Risk"}:
+            area = article.get("business_area")
+            expected_signals[area] = expected_signals.get(area, 0) + 1
+    for area, expected in expected_signals.items():
+        if business_signals.get(area) != expected:
+            fail(
+                f"business_signals[{area!r}]={business_signals.get(area)!r} "
+                f"but article-derived count is {expected}"
+            )
+
     brief = data.get("daily_brief")
     if not isinstance(brief, dict) or not isinstance(brief.get("attention"), list) or not isinstance(brief.get("investigate"), list):
         fail("daily_brief must contain attention and investigate lists")
