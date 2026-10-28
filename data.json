@@ -1,141 +1,122 @@
 {
-  "updated": "2026-10-19T10:41:47.875959+00:00",
+  "updated": "2026-10-28T16:45:36.226501+00:00",
   "engine_version": "3.7.0",
-  "article_count": 4,
+  "article_count": 9,
   "opportunity_count": 0,
-  "risk_count": 1,
-  "watch_count": 3,
-  "high_priority_count": 0,
+  "risk_count": 2,
+  "watch_count": 5,
+  "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
     {
-      "category": "Hyderabad",
-      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
-      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
-      "published": "2026-10-19T02:48:29+00:00",
-      "source": "BioPharma APAC",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Cotecna and Energon Labs. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Cotecna and Energon Labs, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Cotecna",
-        "Energon Labs"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BioPharma APAC",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 13,
-      "fact_status": "Reported by BioPharma APAC; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "BioPharma APAC",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5"
-        },
-        {
-          "source": "Telugu Times",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelZhTTBrT3BPU0Q3UkJmbV96T1h4RGw5ZE55cUxKVzhmUTdSTGNtem1tUVBDMEhlM1JFb25GaGtZSUFoOVJFeEo1aXY5UHN5U0RSdFVsdGJuMGR6RWk0dDNxR3c1ZXpnMHgyVVh0MGxhYlVyNWRzUWdoaGpmNjVhdkphS3ktZVI1cFo4bldCQzZIT2Nxa1lsVk1EMjB2ZGwyQVZ1OGp5TmJMTER2MVk2aG5oVm1Pd3BLcUNia3hMT3hRWVFRal9TaVN5US10T3M5dDRrdmRDcU1kRW9S?oc=5"
-        },
-        {
-          "source": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMVhfUW9hNUpIRjZjeDlNdlBub2JHTFRQZUVwdWo3LTdqS0kyVDRsVEU5S2NxeUNFODl3Y2ZwWXF2YU12dVpPN0NxSkZHVDJnWVJMWGk0cnQ0b19RbmM2TlIyUWd4djJRVENjUTRQc3c3NW9xZzlURjNtb3hZWjlwNzBKRDBFdVRJcl9sZ19fVmZvSmdHaGRJR2ZkbFQ5QnlwY0IzWUF2UFc1d3FGSTJubkxZLUcyVU91VVltX0RkeWJyYXIzVlpablhLb1djOXRkWnFzWXFVQ0JGQnFBbHlON2piU0FmRUkzUFd5enEtLXBnTUhfajA0UWJSMnA3M1RMeWR6UVBNYkNfazRk?oc=5"
-        },
-        {
-          "source": "BioSpectrum India",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRk45LWZ0UlFDQWNERk5vYTJsal9KYlJhcVBoVHJyQVB2c0luZ3R4Sks0M3BtRzcwVklIdWRHbFluVFI0VUd3dm5QQ0VTdy1HX0NtRmt4ZlVkNmN4SnVaUExod3V3Qk5BclNwSUM4T1VVVW5OU1FJTmxOMkRGMXpLSXNFeUdvd0lwSHZtaldnTi1KbGpuYUZ0VTYyUHJWOGVna2pZQlZwaC0wTnF3NzhvM3RIWDVxU0FOYXhYdHZhSlFSdHBNWWUwbDJyb0kxX2RZb2c?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
-      "description": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma Investify",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5",
-      "published": "2026-10-19T03:11:13+00:00",
-      "source": "Investify",
+      "category": "India",
+      "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
+      "description": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27 eHealth Magazine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5",
+      "published": "2026-10-28T08:12:22+00:00",
+      "source": "eHealth Magazine",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
-      "priority": "Medium",
+      "priority": "High",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Citi Pharma and Pakheim International Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Citi Pharma and Pakheim International Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Citi Pharma",
-        "Pakheim International Pharma"
+        "Sudeep Pharma",
+        "H2 FY27 Sudeep Pharma"
       ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Investify",
+      "project_signals": [
+        "greenfield"
+      ],
+      "numbers": [
+        "51,200 mt"
+      ],
+      "source_name": "eHealth Magazine",
       "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma.",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
       "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Investify; primary source or underlying documents not independently verified",
+      "confidence": 70,
+      "importance_score": 14,
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Investify",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHY1a3M0bUY2c1VYSnpCdlhQUThfVWhMd2hfSm9MdFBOTFFIVXc3UW0zU2RUUFZJSWNTSVIwcjZmVWFXeFlyUW5QVzZYTHpDdHBHSVVxYmlzYVNaMEhrUkVjRmlhc2ZKaEl3RkdoVEJSUnNRODZaWGl3b2xCYS1EZmNyZnE4SzMwcUR4cXZUSDMxd1VSWG9LYkNmNEphYUpxRHZhLUZJdVVLcUlJblk1ZGFqeVdMT2c1TTN3?oc=5"
-        },
-        {
-          "source": "Mettis Global",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa09fbGVYV1BwMk1SY3NIVVpfX1hjbWc4c3dNMEFIZ0pjZkJpbnNyRDNSemZuZ19BV3F5TmhLd1ZlR2o0NHV6c0VMSno3bGo1SmF0MVBMNHhNbzIzek9hbXk5Q012M0dmX3Y2N2dLd1dJdmRVWUZubzNTYVZCLWVQc3hRQTZUTXM1NldRSHloZGpHQ3ByVTQ1eDJIbEhwNTlPWEk4OW9IV0RpTi00?oc=5"
-        },
-        {
-          "source": "Investify",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5"
+          "source": "eHealth Magazine",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
         }
       ]
     },
     {
-      "category": "India",
-      "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
-      "description": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5",
-      "published": "2026-10-19T00:29:30+00:00",
-      "source": "The Economic Times",
+      "category": "Hyderabad",
+      "title": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ",
+      "description": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WR1BQbUxXSnZzWG9Ic3E0SjdZLUk5RnlJcWNCZnJ3QzdSYk9jblNvUThkRVNwWjFZR2JtMW9Ic3NnenNiZUxsX0dCenI5SlNmV1Q3SmRROGpIYXplOWNFcmxmeU04Sk5CWkhKRzYxZldibktfbnhGXzh1Vk5tMFU?oc=5",
+      "published": "2026-10-27T10:42:18+00:00",
+      "source": "Urban Acres",
       "signal": "Risk",
       "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk.",
-      "md_action": "Identify which product categories and export markets face pricing pressure, then compare Sri Aditya's exposure using internal product-wise sales and margin data.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "The Economic Times",
-      "source_credibility": "Established",
+      "source_name": "Urban Acres",
+      "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players.",
+      "what_happened": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential business or operational risk requires verification.",
       "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 75,
-      "importance_score": 11,
-      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
+      "importance_score": 13,
+      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5"
+          "source": "Urban Acres",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WR1BQbUxXSnZzWG9Ic3E0SjdZLUk5RnlJcWNCZnJ3QzdSYk9jblNvUThkRVNwWjFZR2JtMW9Ic3NnenNiZUxsX0dCenI5SlNmV1Q3SmRROGpIYXplOWNFcmxmeU04Sk5CWkhKRzYxZldibktfbnhGXzh1Vk5tMFU?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "Agilisium Hyderabad Headquarters Move Explained",
+      "description": "Agilisium Hyderabad Headquarters Move Explained Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5",
+      "published": "2026-10-27T09:37:42+00:00",
+      "source": "Urban Acres",
+      "signal": "Risk",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Urban Acres",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Agilisium Hyderabad Headquarters Move Explained.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 13,
+      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Urban Acres",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5"
         }
       ]
     }
@@ -153,202 +134,369 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
+        "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
         "signal": "Watch",
-        "why": "The report concerns an ownership change involving Cotecna and Energon Labs. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
       {
-        "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
-        "signal": "Watch",
-        "why": "The report concerns an ownership change involving Citi Pharma and Pakheim International Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
-      },
-      {
-        "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
+        "title": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ",
         "signal": "Risk",
-        "why": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk."
+        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+      },
+      {
+        "title": "Agilisium Hyderabad Headquarters Move Explained",
+        "signal": "Risk",
+        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
       }
     ],
     "investigate": [
       {
-        "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
+        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       },
       {
-        "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ",
+        "question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
-      "category": "Global",
-      "title": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma",
-      "description": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma Investify",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5",
-      "published": "2026-10-19T03:11:13+00:00",
-      "source": "Investify",
+      "category": "Vizag / AP",
+      "title": "PM Asks AP CS to Expedite Land Acquisition of Errupalem-Amravati-Namburu Railway Line",
+      "description": "PM Asks AP CS to Expedite Land Acquisition of Errupalem-Amravati-Namburu Railway Line The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFhJS0oyOEZhb043Qnd4QnI1WGx5T3lURWc4dXZvNnVwOEF3ZnJoYUg3RFFDdTNLM0ZyRlUwRmp1c2NBSXZBWXhEclA5ME4td2lSTGQtQ1g4YmNFUnRXUG9kSU5EWWlxSjR2Tm1EQmJoWExjUmNiWEM3ZmJROGNnakJSTElRT1NrZXl4eXg1WmNWWVNTYUw2V1hTUEtjZlIwQk9GbDdfYXRzNHlmUF9TZU0zRk5CWGhKN0dMcVlCLUx5MV81ZWF3WVVnY1NuOXFVVWxR?oc=5",
+      "published": "2026-10-28T14:48:02+00:00",
+      "source": "The Hans India",
       "signal": "Watch",
-      "business_area": "Investment / Expansion",
+      "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Citi Pharma and Pakheim International Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Citi Pharma and Pakheim International Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Hans India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "PM Asks AP CS to Expedite Land Acquisition of Errupalem-Amravati-Namburu Railway Line.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by The Hans India; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "The Hans India",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFhJS0oyOEZhb043Qnd4QnI1WGx5T3lURWc4dXZvNnVwOEF3ZnJoYUg3RFFDdTNLM0ZyRlUwRmp1c2NBSXZBWXhEclA5ME4td2lSTGQtQ1g4YmNFUnRXUG9kSU5EWWlxSjR2Tm1EQmJoWExjUmNiWEM3ZmJROGNnakJSTElRT1NrZXl4eXg1WmNWWVNTYUw2V1hTUEtjZlIwQk9GbDdfYXRzNHlmUF9TZU0zRk5CWGhKN0dMcVlCLUx5MV81ZWF3WVVnY1NuOXFVVWxR?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs",
+      "description": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGU0WVAyZ0I5X0QyMkJtZ0ZsZ09jUGotd0h3bl91Y1ExR3J6WFVXQ0hZZTBrUWJvem13UmVEX3NfVmtYWWUwVmxqd2JmRnhNZkhMQmFzMVFvUTZRWjh2T1h6Q25PWjdwb2tTYk05djdhTElhc0QtWGl0NU9RZHM1dHA3MjZLZW9QT0hpSlZRZGZwQ3J3MWgzY2dkWVpiVUFpczBaQ1B5d1pOUUtzbTVMSWNDNFRSZVZGU2I2bW02bF9LaVdMSWtwUC1NbjBwS0N3Zkhpa3lPa2ZYODkxejAzLUw1SFNFSnRfa2szUFJmSWZxTEtwaFdxM1A5Tk9jLVRpbUHSAYcCQVVfeXFMUFRibnFCcmlZMndKcnI4MlplaGpYUjFYbm5icGR4MjlhY0xTMkIyZ0s1MkJGRnlORjBEQWpnTFR4aDYtdGoyWE1WZy1oSUVCNDFrNmJoUGxGdHRvcmhHd002dXZtbWpsc281WTloZWw3eUVEbjNrQ3g4V01lR19TUkpja2RHZzNBWng3R2tVTmJVNVluS3Z4TEc2eHF3Z0g2eURUanBEYTlKT1lZZkZaYVlrRENndTBDV283M2RyY2dfUkNfWXhVUGVIbUphQTYtQnJFYzhGTDRqNmZ4QW5IbDFtT1A5dmVEa1UzN004V0NxLVFGbUJxeHdiZVdwdl9tODdrbnNTVHM?oc=5",
+      "published": "2026-10-28T13:02:10+00:00",
+      "source": "Livemint",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "₹10,000 crore",
+        "10,000 crore"
+      ],
+      "source_name": "Livemint",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by Livemint; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGU0WVAyZ0I5X0QyMkJtZ0ZsZ09jUGotd0h3bl91Y1ExR3J6WFVXQ0hZZTBrUWJvem13UmVEX3NfVmtYWWUwVmxqd2JmRnhNZkhMQmFzMVFvUTZRWjh2T1h6Q25PWjdwb2tTYk05djdhTElhc0QtWGl0NU9RZHM1dHA3MjZLZW9QT0hpSlZRZGZwQ3J3MWgzY2dkWVpiVUFpczBaQ1B5d1pOUUtzbTVMSWNDNFRSZVZGU2I2bW02bF9LaVdMSWtwUC1NbjBwS0N3Zkhpa3lPa2ZYODkxejAzLUw1SFNFSnRfa2szUFJmSWZxTEtwaFdxM1A5Tk9jLVRpbUHSAYcCQVVfeXFMUFRibnFCcmlZMndKcnI4MlplaGpYUjFYbm5icGR4MjlhY0xTMkIyZ0s1MkJGRnlORjBEQWpnTFR4aDYtdGoyWE1WZy1oSUVCNDFrNmJoUGxGdHRvcmhHd002dXZtbWpsc281WTloZWw3eUVEbjNrQ3g4V01lR19TUkpja2RHZzNBWng3R2tVTmJVNVluS3Z4TEc2eHF3Z0g2eURUanBEYTlKT1lZZkZaYVlrRENndTBDV283M2RyY2dfUkNfWXhVUGVIbUphQTYtQnJFYzhGTDRqNmZ4QW5IbDFtT1A5dmVEa1UzN004V0NxLVFGbUJxeHdiZVdwdl9tODdrbnNTVHM?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
+      "description": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFRZTExySW5rbzBTY0J3cElGQUoxTU1rQ240ZGRtLVBPWU5tUW0tMGVmWE9zZEk3UzROemFodUQwbGN6U3UtZEl2ZmVRUlJsSEYzYnRhUXJLV3RETUw3V3c3MGRQdmZWc3hxZ0QwUVZuMG5KR3lGOHkwbG9obkpkc2tFMVpmb3RjbHIxUlVPN21pckJrRXNrQnAzWjB5U0pHVFozNFNtSHRESDZ4VU8xd3NwRkRuSjRpLWlvR3RZQ0x0QQ?oc=5",
+      "published": "2026-10-28T12:00:00+00:00",
+      "source": "Fierce Pharma",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving Fierce Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Fierce Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [
-        "Citi Pharma",
-        "Pakheim International Pharma"
+        "Fierce Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Investify",
-      "source_credibility": "Standard",
+      "source_name": "Fierce Pharma",
+      "source_credibility": "Established",
       "location": "Global",
       "event_type": "Investment / Acquisition",
-      "what_happened": "CCP authorizes Citi Pharma’s proposed acquisition of 100% of Pakheim International Pharma.",
+      "what_happened": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by Investify; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Investify",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHY1a3M0bUY2c1VYSnpCdlhQUThfVWhMd2hfSm9MdFBOTFFIVXc3UW0zU2RUUFZJSWNTSVIwcjZmVWFXeFlyUW5QVzZYTHpDdHBHSVVxYmlzYVNaMEhrUkVjRmlhc2ZKaEl3RkdoVEJSUnNRODZaWGl3b2xCYS1EZmNyZnE4SzMwcUR4cXZUSDMxd1VSWG9LYkNmNEphYUpxRHZhLUZJdVVLcUlJblk1ZGFqeVdMT2c1TTN3?oc=5"
-        },
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFRZTExySW5rbzBTY0J3cElGQUoxTU1rQ240ZGRtLVBPWU5tUW0tMGVmWE9zZEk3UzROemFodUQwbGN6U3UtZEl2ZmVRUlJsSEYzYnRhUXJLV3RETUw3V3c3MGRQdmZWc3hxZ0QwUVZuMG5KR3lGOHkwbG9obkpkc2tFMVpmb3RjbHIxUlVPN21pckJrRXNrQnAzWjB5U0pHVFozNFNtSHRESDZ4VU8xd3NwRkRuSjRpLWlvR3RZQ0x0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
+      "description": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27 eHealth Magazine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5",
+      "published": "2026-10-28T08:12:22+00:00",
+      "source": "eHealth Magazine",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sudeep Pharma",
+        "H2 FY27 Sudeep Pharma"
+      ],
+      "project_signals": [
+        "greenfield"
+      ],
+      "numbers": [
+        "51,200 mt"
+      ],
+      "source_name": "eHealth Magazine",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 14,
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
+      "related_sources": [
         {
-          "source": "Mettis Global",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa09fbGVYV1BwMk1SY3NIVVpfX1hjbWc4c3dNMEFIZ0pjZkJpbnNyRDNSemZuZ19BV3F5TmhLd1ZlR2o0NHV6c0VMSno3bGo1SmF0MVBMNHhNbzIzek9hbXk5Q012M0dmX3Y2N2dLd1dJdmRVWUZubzNTYVZCLWVQc3hRQTZUTXM1NldRSHloZGpHQ3ByVTQ1eDJIbEhwNTlPWEk4OW9IV0RpTi00?oc=5"
-        },
+          "source": "eHealth Magazine",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Beyond trade deals: What’s holding back India’s pharma exports?",
+      "description": "Beyond trade deals: What’s holding back India’s pharma exports? Indian Transport & Logistics",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzByaU4wVVFmMkRHbWlhWUREOGxKUEJ5a205cHdpZ2xYU2ZtT2dhZndzdGdKM256OGFDR1hpYVpqQnlSUzQ2VkVjRllXWnRCNW1zZzRRemRWb0xLRTFsVlVxZmN1cF9jTXNLRFVFSVptMTZyTy1CVG5idDFLQ3BVcU9pZWhEWEMxVFdLV05Va2pOQ1M3MmlpQWJiWXN0Q1nSAZ8BQVVfeXFMT18wcmlOMFVRZjJER21pYVlERDhsSlBCeWttOXB3aWdsWFNmbU9nYWZ3c3RnSjNuejhhQ0dYaWFaakJ5UlM0NlZFY0ZZV1p0QjVtc2c0UXpkVm9MS0UxbFZVcWZjdXBfY01zS0RVRUlabTE2ck8tQlRuYnQxS0NwVXFPaWVoRFhDMVRXS1dOVWtqTkNTNzJpaUFiYllzdENZ?oc=5",
+      "published": "2026-10-28T05:30:03+00:00",
+      "source": "Indian Transport & Logistics",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Indian Transport & Logistics",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "Beyond trade deals: What’s holding back India’s pharma exports?.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Indian Transport & Logistics; primary source or underlying documents not independently verified",
+      "related_sources": [
         {
-          "source": "Investify",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIckRGdnBITzlrdzhoaXNtbmpuMTJmaUV6Z2I0SVd3X01vZ00wdGc1TmJ5UDFPcEYtVm5zOTlaSXhKOWk3Uzd1dmVlb1plMU5kTFIwbm56YkVQcGQwRE5IWmx4SERPV1dQZHc?oc=5"
+          "source": "Indian Transport & Logistics",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzByaU4wVVFmMkRHbWlhWUREOGxKUEJ5a205cHdpZ2xYU2ZtT2dhZndzdGdKM256OGFDR1hpYVpqQnlSUzQ2VkVjRllXWnRCNW1zZzRRemRWb0xLRTFsVlVxZmN1cF9jTXNLRFVFSVptMTZyTy1CVG5idDFLQ3BVcU9pZWhEWEMxVFdLV05Va2pOQ1M3MmlpQWJiWXN0Q1nSAZ8BQVVfeXFMT18wcmlOMFVRZjJER21pYVlERDhsSlBCeWttOXB3aWdsWFNmbU9nYWZ3c3RnSjNuejhhQ0dYaWFaakJ5UlM0NlZFY0ZZV1p0QjVtc2c0UXpkVm9MS0UxbFZVcWZjdXBfY01zS0RVRUlabTE2ck8tQlRuYnQxS0NwVXFPaWVoRFhDMVRXS1dOVWtqTkNTNzJpaUFiYllzdENZ?oc=5"
         }
       ]
     },
     {
       "category": "Hyderabad",
-      "title": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs",
-      "description": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5",
-      "published": "2026-10-19T02:48:29+00:00",
-      "source": "BioPharma APAC",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Cotecna and Energon Labs. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Cotecna and Energon Labs, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Cotecna",
-        "Energon Labs"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BioPharma APAC",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 13,
-      "fact_status": "Reported by BioPharma APAC; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "BioPharma APAC",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNkX09VT3dOTUZqb2lINUFVeGMzNG42STBmMkpuWG51T1o0WndDWFBra09ieFBRWkUyXzBMLUtGUXpLcHJzdElQNGNuYVdiVktNelUxXzBycHZSdGpfSlhKdkhXRDFvZ0doWkVwNHJ5cnRGSUthUDRJYWhPREF1dmMzZXp6T3B2NmtHdEkwVURjc3ljeDc3dE43LTNVWjhEVEw3NGd1N1FqUWtRUTJseURPSlA2NGNOMkZ2elVEaTRCaVFnNW9ZX0VCYUN0c1UyeE9wRjV4NmNoQQ?oc=5"
-        },
-        {
-          "source": "Telugu Times",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelZhTTBrT3BPU0Q3UkJmbV96T1h4RGw5ZE55cUxKVzhmUTdSTGNtem1tUVBDMEhlM1JFb25GaGtZSUFoOVJFeEo1aXY5UHN5U0RSdFVsdGJuMGR6RWk0dDNxR3c1ZXpnMHgyVVh0MGxhYlVyNWRzUWdoaGpmNjVhdkphS3ktZVI1cFo4bldCQzZIT2Nxa1lsVk1EMjB2ZGwyQVZ1OGp5TmJMTER2MVk2aG5oVm1Pd3BLcUNia3hMT3hRWVFRal9TaVN5US10T3M5dDRrdmRDcU1kRW9S?oc=5"
-        },
-        {
-          "source": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMVhfUW9hNUpIRjZjeDlNdlBub2JHTFRQZUVwdWo3LTdqS0kyVDRsVEU5S2NxeUNFODl3Y2ZwWXF2YU12dVpPN0NxSkZHVDJnWVJMWGk0cnQ0b19RbmM2TlIyUWd4djJRVENjUTRQc3c3NW9xZzlURjNtb3hZWjlwNzBKRDBFdVRJcl9sZ19fVmZvSmdHaGRJR2ZkbFQ5QnlwY0IzWUF2UFc1d3FGSTJubkxZLUcyVU91VVltX0RkeWJyYXIzVlpablhLb1djOXRkWnFzWXFVQ0JGQnFBbHlON2piU0FmRUkzUFd5enEtLXBnTUhfajA0UWJSMnA3M1RMeWR6UVBNYkNfazRk?oc=5"
-        },
-        {
-          "source": "BioSpectrum India",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRk45LWZ0UlFDQWNERk5vYTJsal9KYlJhcVBoVHJyQVB2c0luZ3R4Sks0M3BtRzcwVklIdWRHbFluVFI0VUd3dm5QQ0VTdy1HX0NtRmt4ZlVkNmN4SnVaUExod3V3Qk5BclNwSUM4T1VVVW5OU1FJTmxOMkRGMXpLSXNFeUdvd0lwSHZtaldnTi1KbGpuYUZ0VTYyUHJWOGVna2pZQlZwaC0wTnF3NzhvM3RIWDVxU0FOYXhYdHZhSlFSdHBNWWUwbDJyb0kxX2RZb2c?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
-      "description": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5",
-      "published": "2026-10-19T00:29:30+00:00",
-      "source": "The Economic Times",
+      "title": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ",
+      "description": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WR1BQbUxXSnZzWG9Ic3E0SjdZLUk5RnlJcWNCZnJ3QzdSYk9jblNvUThkRVNwWjFZR2JtMW9Ic3NnenNiZUxsX0dCenI5SlNmV1Q3SmRROGpIYXplOWNFcmxmeU04Sk5CWkhKRzYxZldibktfbnhGXzh1Vk5tMFU?oc=5",
+      "published": "2026-10-27T10:42:18+00:00",
+      "source": "Urban Acres",
       "signal": "Risk",
       "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk.",
-      "md_action": "Identify which product categories and export markets face pricing pressure, then compare Sri Aditya's exposure using internal product-wise sales and margin data.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "The Economic Times",
-      "source_credibility": "Established",
+      "source_name": "Urban Acres",
+      "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players.",
+      "what_happened": "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential business or operational risk requires verification.",
       "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 75,
-      "importance_score": 11,
-      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
+      "importance_score": 13,
+      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5"
+          "source": "Urban Acres",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WR1BQbUxXSnZzWG9Ic3E0SjdZLUk5RnlJcWNCZnJ3QzdSYk9jblNvUThkRVNwWjFZR2JtMW9Ic3NnenNiZUxsX0dCenI5SlNmV1Q3SmRROGpIYXplOWNFcmxmeU04Sk5CWkhKRzYxZldibktfbnhGXzh1Vk5tMFU?oc=5"
         }
       ]
     },
     {
       "category": "India",
-      "title": "OrbiMed raises $3 billion across two new healthcare investment funds",
-      "description": "OrbiMed raises $3 billion across two new healthcare investment funds Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5",
-      "published": "2026-10-17T15:06:20+00:00",
-      "source": "Indian Pharma Post",
+      "title": "India-Liechtenstein ties get boost during Hereditary Prince Alois' visit; expanded trade, technology, and investment in focus",
+      "description": "India-Liechtenstein ties get boost during Hereditary Prince Alois' visit; expanded trade, technology, and investment in focus https://www.indiagazette.com/",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQTQxS0w1d25kSDlFeFRSRi05eVRMLWtoVEt4cExwQndpNTNRb3lBekZrMWxQeE1Md3pBVENLMUZfcDBtZmJ1YWtiYXVRS09jOEV6Z0dWYXQ2dDVpM3gzUTZhbGNHeTMtY0VDckZqNHFrUmViaFQ5cTg1NFJrZEVJNFZqLUVfOHExemU2MTJRbTRYMXJNdlVZRm9qQWp1M21tU29uQ3F6dHNEMGh5OXlNNEhEMk1IS29GamRYeWU2NFlJb2RGNVJiVzdCcDRlTmVZRVJBWHdPQy1wYV80NUtlbWFpWHpDcEttN3J4elZPRmJOT0VETVloVA?oc=5",
+      "published": "2026-10-27T10:34:00+00:00",
+      "source": "https://www.indiagazette.com/",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "Fundraising increases the capital available to the fund or organisation, but does not establish demand for Sri Aditya's products or mean Sri Aditya is an eligible investment target. The official mandate and portfolio strategy must be checked first.",
-      "md_action": "Check the fund's stated investment mandate and India/API/CDMO focus; only pursue outreach if the mandate and Sri Aditya's funding needs align.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
       "project_signals": [
         "investment"
       ],
-      "numbers": [
-        "3 billion",
-        "$3 billion"
-      ],
-      "source_name": "Indian Pharma Post",
+      "numbers": [],
+      "source_name": "https://www.indiagazette.com/",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Fundraising / Capital",
-      "what_happened": "OrbiMed raises $3 billion across two new healthcare investment funds.",
+      "event_type": "Industry Development",
+      "what_happened": "India-Liechtenstein ties get boost during Hereditary Prince Alois' visit; expanded trade, technology, and investment in focus.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What is the fund mandate, and does it explicitly include India-based API/CDMO businesses at Sri Aditya's scale?",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by Indian Pharma Post; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by https://www.indiagazette.com/; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Indian Pharma Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1d4LVVPdk9FSXRZZGpPd0FaZGFUcjZVQ3VwOUY5NVhhRHBNMEF0aDlpT0hGYkV0OVJxd1g2d0VSSFNZcm12ODZRNlF5WWlKdHBHMDA4M2dId1A2bGtOVHNRdWRqaktPQ2lHeWpVdl8xTXZ4U0tibWJMVG9sWjBTQ1FlTFR6N0VEY1o2dDVrc2hpczRZdjduMWR5dlRwNVN1QnVsU2lKNmY1RXVZUzAtdNIBtwFBVV95cUxOZVpYcXRPZVhzTG02alVaYzdmS2JiRUo0aUV4S096OG4wWVlTN1h3UnBpNVdtcEs4Y2Nvc1RMdkFuQlhKZ1hKUllqWmF3Q3BtWGczZkp5bmpod2IzM2N3Nm9rVzJGZmVEcmpZaFpGZjRjWGxrYU92S3B6X2phWUpHMHhsNHhaejJWRVZxVVB2WWVySnBIVTRRRXhJQTVzMlhPM2hEeDBMbXRqSlp2T212aHA0SmdNRlU?oc=5"
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSG5aZk5MR2N2Ql9xWWFsN0ZGY2FRV0JnTWlXQzJhVnRwQlpKUGxta0FnRVF4cE5Ebk9mMnl2aU4zZUZiRkZEblJNSGFNNjYwQXVCeFdWS3Z2VzVETlBfWGlBeEhZdnpZTGpQRHBBLWZXUFZQd3BpRVdSTHhzQmFoR0tMNThFSEUxdDRLZ3Npb2dXUXpVZEZ2WjF5Y1B2N1B0NmRTb2VGVHVRRW5VNVg0c3hveEJDbDRKUllwTTZrRnBhZmtDbmpWYkF5T180MnUwYml4OGJCWlJpQXdqUXBYRzdn0gHnAUFVX3lxTFB5cHFXZ2RKV2UwNlJ1LV9mcng2X0Fua2tMOXc0dWFlVzNoSFlTNV9GV19ETjhxb3hsYlNPbk9wNGJUYUtFQ1hmcnRKcU5fWFgzMHM5dGF1X09EekFLY091bGhZQkVMVUxWb0hpa1ZBVU9uMU5YWnFOWDNJVEtubmhSWURTMWNuWnZvRG11ZzFZelJLLWt4WmVWbG80N3E3LVNweTFLRGFhOHVRS2xWT18tOU43VUh0ZGpqdlNEWWF4cXJvOVRFbXJKM2cyVW9XaTQ0bWVlb2FJcWZtb3RUY200ek94TzZBbw?oc=5"
+        },
+        {
+          "source": "https://www.indiagazette.com/",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQTQxS0w1d25kSDlFeFRSRi05eVRMLWtoVEt4cExwQndpNTNRb3lBekZrMWxQeE1Md3pBVENLMUZfcDBtZmJ1YWtiYXVRS09jOEV6Z0dWYXQ2dDVpM3gzUTZhbGNHeTMtY0VDckZqNHFrUmViaFQ5cTg1NFJrZEVJNFZqLUVfOHExemU2MTJRbTRYMXJNdlVZRm9qQWp1M21tU29uQ3F6dHNEMGh5OXlNNEhEMk1IS29GamRYeWU2NFlJb2RGNVJiVzdCcDRlTmVZRVJBWHdPQy1wYV80NUtlbWFpWHpDcEttN3J4elZPRmJOT0VETVloVA?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "Agilisium Hyderabad Headquarters Move Explained",
+      "description": "Agilisium Hyderabad Headquarters Move Explained Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5",
+      "published": "2026-10-27T09:37:42+00:00",
+      "source": "Urban Acres",
+      "signal": "Risk",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Urban Acres",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Agilisium Hyderabad Headquarters Move Explained.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 13,
+      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Urban Acres",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility",
+      "description": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility Machine Maker",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5",
+      "published": "2026-10-27T07:15:47+00:00",
+      "source": "Machine Maker",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sudeep Pharma",
+        "Manufacturing Facility Sudeep Pharma"
+      ],
+      "project_signals": [
+        "manufacturing facility"
+      ],
+      "numbers": [],
+      "source_name": "Machine Maker",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by Machine Maker; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Machine Maker",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5"
         }
       ]
     }
