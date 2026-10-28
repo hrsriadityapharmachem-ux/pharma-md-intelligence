@@ -36,6 +36,8 @@ a{color:inherit}
 .brand-sub{margin-top:5px;color:var(--muted);font-size:10px;letter-spacing:.5px;text-transform:uppercase}
 .status{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.7px}
 .status-dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 0 4px #e4f0eb}
+.status-dot.stale{background:var(--amber);box-shadow:0 0 0 4px #fcf0d9}
+.status-dot.error{background:var(--red);box-shadow:0 0 0 4px #fde8e8}
 
 /* HERO */
 .hero{display:grid;grid-template-columns:1fr auto;gap:30px;align-items:end;padding:34px 0 29px}
@@ -138,7 +140,7 @@ a{color:inherit}
       <div class="brand-sub">Executive Pharma Intelligence</div>
     </div>
   </div>
-  <div class="status"><span class="status-dot"></span> Live intelligence</div>
+  <div class="status"><span class="status-dot" id="statusDot"></span><span id="statusLabel">Checking data</span></div>
 </header>
 
 <section class="hero">
@@ -276,13 +278,22 @@ function renderArticles(articles,mustKnow){
 }
 async function loadData(){
   try{
-    const response=await fetch("data.json?t="+Date.now());
+    const response=await fetch("data.json?t="+Date.now(), {cache:"no-store"});
+    if(!response.ok) throw new Error("Data request failed with HTTP "+response.status);
     const data=await response.json();
-    const articles=Array.isArray(data.articles)?data.articles:[];
+    if(!data || !Array.isArray(data.articles) || !data.updated) throw new Error("Data file is missing required fields");
+    const updatedAt=new Date(data.updated);
+    if(Number.isNaN(updatedAt.getTime())) throw new Error("Data timestamp is invalid");
+    const ageHours=(Date.now()-updatedAt.getTime())/3600000;
+    const statusDot=document.getElementById("statusDot");
+    const statusLabel=document.getElementById("statusLabel");
+    statusDot.className="status-dot"+(ageHours>2?" stale":"");
+    statusLabel.textContent=ageHours>2?"Update delayed":"Data current";
+    const articles=data.articles;
     document.getElementById("newsCount").textContent=articles.length;
     document.getElementById("opportunityCount").textContent=articles.filter(a=>a.signal==="Opportunity").length;
     document.getElementById("riskCount").textContent=articles.filter(a=>a.signal==="Risk").length;
-    document.getElementById("highPriorityCount").textContent=articles.filter(a=>a.priority==="High").length;
+    document.getElementById("highPriorityCount").textContent=articles.filter(a=>a.priority==="Critical"||a.priority==="High").length;
     const mustKnow=chooseMustKnow(articles);
     renderMustKnow(mustKnow);
     renderArticles(articles,mustKnow);
@@ -292,6 +303,10 @@ async function loadData(){
     }
   }catch(error){
     console.error(error);
+    const statusDot=document.getElementById("statusDot");
+    const statusLabel=document.getElementById("statusLabel");
+    if(statusDot) statusDot.className="status-dot error";
+    if(statusLabel) statusLabel.textContent="Data unavailable";
     document.getElementById("articles").innerHTML='<div class="intel-row"><div></div><div style="color:#b4232f">Unable to load intelligence data. Please refresh the page.</div></div>';
   }
 }
