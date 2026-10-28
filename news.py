@@ -845,7 +845,13 @@ def detect_companies(title, description):
         cleaned = " ".join(candidate.split()).strip(" ,.;:-")
         cleaned = re.sub(r"^(?:Hyderabad-Based|Hyderabad based|India-Based|India based|US-Based|UK-Based)\s+", "", cleaned, flags=re.IGNORECASE)
         low = cleaned.lower()
-        if len(cleaned) < 4 or low in stop_prefixes or cleaned in blacklist:
+        known_source_names = {name.lower() for name in KNOWN_SOURCES}
+        if (
+            len(cleaned) < 4
+            or low in stop_prefixes
+            or cleaned in blacklist
+            or low in known_source_names
+        ):
             continue
         words = low.split()
         if words and words[0] in {"with", "after", "amid", "following", "as", "the", "a", "an", "from", "while"}:
@@ -1417,6 +1423,18 @@ def should_keep_article(text, category, signal, event_type):
     score = calculate_relevance_score(text, category, signal, event_type)
     lower = text.lower()
 
+    # A regional feed alone is not evidence of pharma relevance. Require a
+    # concrete pharma, API, drug, biotech, CDMO, or chemical connection.
+    domain_terms = (
+        "pharma", "pharmaceutical", "active pharmaceutical", "api",
+        "bulk drug", "drug manufacturing", "drug maker", "cdmo",
+        "contract manufacturing", "biotech", "biologics", "formulation",
+        "cdsco", "fda", "ema", "intermediate", "specialty chemical",
+        "life sciences"
+    )
+    if not any(term in lower for term in domain_terms):
+        return False
+
     # Remove clearly non-core industrial stories that can enter through broad
     # pharma/chemical search feeds. Keep them only when the same story contains
     # a direct pharma/API/CDMO/bulk-drug signal.
@@ -1477,20 +1495,15 @@ def collect_news():
                 failed_feeds += 1
                 continue
 
-            successful_feeds += 1
-
             try:
-
                 root = ET.fromstring(data)
-
-            except Exception as e:
-
-                print(
-                    "XML parsing error:",
-                    e
-                )
-
+            except (ET.ParseError, ValueError) as e:
+                failed_feeds += 1
+                print("XML parsing error:", e)
                 continue
+
+            # Count a feed as successful only after its response is valid XML.
+            successful_feeds += 1
 
 
             items = root.findall(
@@ -1897,7 +1910,11 @@ def build_signal_summary(
 
         "Exports / Markets": 0,
 
-        "Specialty Chemicals": 0
+        "Specialty Chemicals": 0,
+
+        # Keep generic but legitimate pharma-adjacent developments visible
+        # instead of silently dropping their Risk/Opportunity counts.
+        "Pharma Industry": 0
     }
 
 
@@ -1933,22 +1950,15 @@ def main():
     # Safety protection
     # --------------------------------------------------------
 
-    if (
-        len(articles) == 0
-        and successful_feeds == 0
-    ):
-
+    if not articles:
         print(
-            "ERROR: All news feeds failed; no new intelligence data was generated.",
+            "ERROR: No eligible articles were collected; refusing to replace the last known-good data.json.",
             file=sys.stderr,
         )
-
         print(
-            "Keeping existing data.json unchanged. Failing this workflow run so stale data "
-            "cannot be mistaken for a successful update.",
+            f"Feeds parsed successfully: {successful_feeds}. The existing data.json will be preserved.",
             file=sys.stderr,
         )
-
         raise SystemExit(1)
 
 
