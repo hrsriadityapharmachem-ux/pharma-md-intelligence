@@ -1,13 +1,50 @@
 {
-  "updated": "2026-10-28T18:05:06.500564+00:00",
+  "updated": "2026-10-28T21:12:07.428702+00:00",
   "engine_version": "3.7.0",
-  "article_count": 2,
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 2,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "Vizag / AP",
+      "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
+      "description": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5",
+      "published": "2026-10-28T19:48:27+00:00",
+      "source": "Deccan Chronicle",
+      "signal": "Watch",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [
+        "bulk drug park"
+      ],
+      "numbers": [],
+      "source_name": "Deccan Chronicle",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 13,
+      "fact_status": "Reported by Deccan Chronicle; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
@@ -69,12 +106,21 @@
   "daily_brief": {
     "attention": [
       {
+        "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+      },
+      {
         "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
     ],
     "investigate": [
+      {
+        "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+      },
       {
         "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
         "question": "Which products, capacity, location and commissioning timeline are confirmed?"
@@ -83,6 +129,43 @@
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Vizag / AP",
+      "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
+      "description": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5",
+      "published": "2026-10-28T19:48:27+00:00",
+      "source": "Deccan Chronicle",
+      "signal": "Watch",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [
+        "bulk drug park"
+      ],
+      "numbers": [],
+      "source_name": "Deccan Chronicle",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 13,
+      "fact_status": "Reported by Deccan Chronicle; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
