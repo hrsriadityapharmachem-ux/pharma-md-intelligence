@@ -135,6 +135,10 @@ class NewsQualityRegressionTests(unittest.TestCase):
             finally:
                 os.chdir(original_cwd)
 
+    def test_headquarters_news_is_not_mislabeled_as_risk(self):
+        title = "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ"
+        self.assertNotEqual(news.determine_signal(title), "Risk")
+
     def test_critical_priority_is_included_in_must_know_ranking(self):
         articles = [
             {"signal": "Watch", "event_type": "Industry Development", "priority": "High",
