@@ -44,6 +44,19 @@ jobs:
           print("Scheduled refresh configuration checks passed.")
           PY
 
+      - name: Check dashboard JavaScript syntax
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+          html = Path("live-v2/index.html").read_text(encoding="utf-8")
+          scripts = re.findall(r"<script>(.*?)</script>", html, flags=re.DOTALL)
+          if not scripts:
+              raise SystemExit("No dashboard script found")
+          Path("/tmp/dashboard.js").write_text("\\n".join(scripts), encoding="utf-8")
+          PY
+          node --check /tmp/dashboard.js
+
       - name: Check live dashboard Python syntax
         run: python -m py_compile live-v2/news.py live-v2/validate_data.py
 
