@@ -8,10 +8,6 @@ on:
       timezone: "Asia/Kolkata"
 
 concurrency:
-  group: pharma-news-refresh-v2
-  cancel-in-progress: false
-
-concurrency:
   group: sri-aditya-pharma-news-refresh
   cancel-in-progress: false
 
