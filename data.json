@@ -1,81 +1,77 @@
 {
-  "updated": "2026-10-28T02:26:17.539318+00:00",
-  "article_count": 5,
-  "opportunity_count": 1,
+  "updated": "2026-10-28T08:45:57.123713+00:00",
+  "article_count": 9,
+  "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 0,
-  "high_priority_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "India",
-      "title": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility - Machine Maker",
-      "description": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility Machine Maker",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5",
-      "published": "2026-10-27T07:15:47+00:00",
-      "source": "Google News RSS",
-      "signal": "Opportunity",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "Sudeep Pharma",
-        "Manufacturing Facility - Machine Maker Sudeep Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": []
-    },
-    {
       "category": "Global",
-      "title": "Global Pharma Company Joins Lehigh Valley’s Growing Life Sciences Sector - Lehigh Valley Economic Development",
-      "description": "Global Pharma Company Joins Lehigh Valley’s Growing Life Sciences Sector Lehigh Valley Economic Development",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzVjUmx5SS1KSXpsRVhYc3dQTGs1ZmNtS1hVZjl1T2c1NHFlTEJKRlJmQ0c5T09Ta2ZpWmZRZlpXdnBtSzRtaFk4aWEwelRObkxTT19YUmpSZkpnSjNmYW02WnZqWEdBOGVSV3h2YWJvSDlDZXVRYW1yVzFXZzl4Ui1oemJwNW8tMXljME8yZ3UyNHZiR1U5cHRZNHQ4ZkFBQzRqWnFfTXNKZFpRUlh2TVR2a0FQT2dnXzQ5anlB?oc=5",
-      "published": "2026-10-27T20:39:40+00:00",
+      "title": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR - openPR.com",
+      "description": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FRSXhfWXIwTDgzd3dOSWpkZURyTkZVWlJBWWxET01OWC1zcHZaSm9Dc0hqN1R5WExPMmt3cHlTV2c3RmJnUlAzR2haYkRYRlFQSmw1bUZweUJ5al9Ibjg2dVJEcHZ4dTRvbU8yMnBSVTkzT3BsWWpNeFZEZnptUGN1eFhoMHVEUmVrbzJsNE9QZ2s2VjJoM1hXOA?oc=5",
+      "published": "2026-10-27T13:03:34+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Growing Life Sciences",
-        "Sector - Lehigh Valley Economic Development Global Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "Global",
-      "title": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken - Patch",
-      "description": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken Patch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUx1dkpmMFpiNTFEeEV4bkF0ZXVwWTBUMldVelJhWC11TmZSdTZHa0NQR0xBamZMc2k3X1UtazlwOEtmYl9QYnFRUkxoekdtTUVMMFhmdGpCQmZQcXlRMmZFT0VLS3VWMm8zSzZkd1N1ajNuVmpNemZTVFVHUE9xcU9wTnFjSnliUkRZbF9nSi16T3dIRnQ0bUJ0S2hFTGtVeGo0VkxUdTlCZlhkcHVF0gHWAUFVX3lxTFBCTFpkN0RYcGk4NDdwSEFsdVdLbW1FQzIzOEY5a29JYmdTR095WHRRdXZ4RkFXVUQ4TjUxWXJmNXFWTzRqQUZOa295bFhlTjFZLTNMclNXemk3RlM5N2MyR3dHdnV4QWE1LWN3bHNaR2FEV2dLQ3lobTJaTjFRMG5JY3lsSVRkNVJOTFNJLUk5SjZXaUpUZ25HMF9PaVJOM2NqQTBTU1J4NlVRTFhNQzlOY1dEb0t0dG8wV1RwNUFWakNmRlRfLTlSOWc2LXl2c0c0Rms4X3c?oc=5",
-      "published": "2026-10-27T16:12:39+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Billion Global Pharma"
+        "CAGR - openPR.com Pharmaceutical"
       ],
       "project_signals": [],
       "numbers": [
-        "10 billion"
+        "347.49 billion"
       ]
+    },
+    {
+      "category": "India",
+      "title": "Disposable Syringe Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Disposable Syringe Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnVwY3owX2swRklVLWE1NjF2SEhGeU5PTVhnTWpiNEdXdmw5Z3Y1X01lR1hnV2VBMlNWSkdSRWNuYm1aVE9vWVYyQ2dpNVEwSjNWNXNncHNwRFVQNWxtTHBEM0pFTDlia3FWc3ZEVXppLWl5RGN1M1BNNm4wWjFQSTFDemVDTnhqTEpDWHRGbjFHQUpZ?oc=5",
+      "published": "2026-10-27T12:31:09+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Surgical Cotton Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Surgical Cotton Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVldWU2RGcFdSeDR6dTQ0SjE1MWl2S2JxblJianNoM0xVVTl6bW80M0daNFk2MnVJRXNnMFJOc1JYZ1dtSS1MQlBBMFM4Vk1vM01RWmlvbnRwX0ZmR0xuZy1DLTRIOXZtYTBndlFHN1p3Wm92NUR6NzBCa0o4MmZMRVBjYk9qRW5pdkxqV3NYMHk?oc=5",
+      "published": "2026-10-27T10:46:09+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": []
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
-    "Manufacturing / Plants": 1,
+    "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -83,6 +79,40 @@
   },
   "articles": [
     {
+      "category": "India",
+      "title": "Wockhardt's Habil Khorakiwala bats for innovation-led pharma growth, calls for regulatory overhaul - Moneycontrol.com",
+      "description": "Wockhardt's Habil Khorakiwala bats for innovation-led pharma growth, calls for regulatory overhaul Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbG5mamhrM3pMZWVWTUtrcHJodXJXTGd5dWpkcklobjRrNTI5dy1RMDlQUm1SUklGQjNqNHNsSnlsV0h3X3BZM2NPc1ZjTXJzVXVoUVBDWi1PYmlXUVN6eVFEdGdaWTdDeHR6aHY2bC1pOUNYSG5ucWFpZjY5S2lRR1FZTk9CeFFWMnNHODdHQ0hpN2E5QkJKUVBNTFZVN0FaMXhNUlBseUNzVVBWekJ4TWhZNEhWa2NBV1RDM3JQV0JtRksxZ2ZxSExvN3E3S05scG9FWE94VzhlaEV2aTMzQ1ZKT210WUlNVUHSAe8BQVVfeXFMT1QweFRaTGRfa1I4cHF2bE8wLUE3WnlMd3ZlMW1FWmlHRHBEV1V6NEkyc0JabW1Ybk5qOGEtTE5aWl9iTnkzelBaTzZXZmsxbDl0Q2o0NXRtSnRtbFV4NDBBdlcwT3lTck9TVG5CQ1VZaUtKcWxDdGFuaXlQQVEwTE4tUHM0ZG9yUE00LU9OZ2NBdjR5MkNOSFJHWXdrdW1GWVJ5XzhKSXNyWUlZa0x2S2tnMVZSUF9PTTRrMUpvekVYZDRFS3pHZk85Um16VGJWN1htWkxoeGdsMGVQeFowam1sUENQTnlzV0VaZDRyQWc?oc=5",
+      "published": "2026-10-28T08:29:59+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India’s chemical makers seek a bigger global role as supply chains shift - Indiatimes",
+      "description": "India’s chemical makers seek a bigger global role as supply chains shift Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHVJN05CUmRESTl3S2I1VlVwdkpQMUp1R2RiUlZDUHpMZHhZM2MyNWlHRkhLdDJNSFJiS2pqZVV5OVRCT1BlLUNrV1VheWYwcXZpaXo5RzVYbFl3ejE5Vmw5TVRXTTZnWUIwMVhwZC01ZDJtNVlaMnBrcEtEVFFiN2NlQTNRVWk5d25weEZHc3NnNkJRSjVROVJ0bXY0Skpha19IQXR0Zk1GS1o0Qk9TamxGUTNWZVd4Y3lqVFNHakozV0g4eFltY3RqemRzY2x2al8yTFBYY05NalB4bTNpblJzMHpSRFZk0gHsAUFVX3lxTE52TzZrbjdmXzBoSnZRVFlfcDFNb3Vwem1HaFU5Q2l0dW1rd1FJU2VDbEdlamNNWUVBejhtZVg1eDVSSGptUWhHNFdaWVp6bDU2MFFEZmxRSHNabHpCTHhQVFlaYUxrMnZKOUdmZXJjSU1GWVNxbmloSG56dzFMelE3aGhYd2dNcmxNc1luNTdLcC10SUg1SVdmWHZKVkFWWjRHbjUwVnJGTHhFekVOcXc0WjFoS1VfaFZmT294alRRaG1veHRSTmRTSjZUYTlYVkVaODRMOEdVTl8wam1GelVrUmVWQ3JQd1pIU1ZG?oc=5",
+      "published": "2026-10-28T00:21:30+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Supply Chain",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
       "category": "Global",
       "title": "Global Pharma Company Joins Lehigh Valley’s Growing Life Sciences Sector - Lehigh Valley Economic Development",
       "description": "Global Pharma Company Joins Lehigh Valley’s Growing Life Sciences Sector Lehigh Valley Economic Development",
@@ -104,10 +134,10 @@
     },
     {
       "category": "Global",
-      "title": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken - Patch",
-      "description": "$10 Billion Global Pharma Company Opens New Headquarters In West Conshohocken Patch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUx1dkpmMFpiNTFEeEV4bkF0ZXVwWTBUMldVelJhWC11TmZSdTZHa0NQR0xBamZMc2k3X1UtazlwOEtmYl9QYnFRUkxoekdtTUVMMFhmdGpCQmZQcXlRMmZFT0VLS3VWMm8zSzZkd1N1ajNuVmpNemZTVFVHUE9xcU9wTnFjSnliUkRZbF9nSi16T3dIRnQ0bUJ0S2hFTGtVeGo0VkxUdTlCZlhkcHVF0gHWAUFVX3lxTFBCTFpkN0RYcGk4NDdwSEFsdVdLbW1FQzIzOEY5a29JYmdTR095WHRRdXZ4RkFXVUQ4TjUxWXJmNXFWTzRqQUZOa295bFhlTjFZLTNMclNXemk3RlM5N2MyR3dHdnV4QWE1LWN3bHNaR2FEV2dLQ3lobTJaTjFRMG5JY3lsSVRkNVJOTFNJLUk5SjZXaUpUZ25HMF9PaVJOM2NqQTBTU1J4NlVRTFhNQzlOY1dEb0t0dG8wV1RwNUFWakNmRlRfLTlSOWc2LXl2c0c0Rms4X3c?oc=5",
-      "published": "2026-10-27T16:12:39+00:00",
+      "title": "FE Leadership Awards | Company of the Year: Sun Pharma – From Rs 10,000 loan to global giant - The Financial Express",
+      "description": "FE Leadership Awards | Company of the Year: Sun Pharma – From Rs 10,000 loan to global giant The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLUJJMU5UYVJqalFzTllIVkUyVmJPNFpmbU9ieWswdE9YRHdfR21LQWc3N1RqcDNHVjB2NTZGRmNxV2pBWUlIc1ZvZ2JfS3prcDRtbGFmLWNGYlJES2pOdXJrTl9TNHFVUlo1eXV2R3ZkRjU2VW9uRFYyMVRxXzJ2NDF6Wm9nWE5zZXp4Qk9mMHh2VGt6ZEk5ek1EWTFUVHBoemo3dHlNN0xHZ0pHNFpqUjQtZlFOSVN4SUkzc1hmRmpYVjJ0R3d5b0pnZDNaWkp6TFdyUzhKRFRCN3Z6Y1Fn0gHmAUFVX3lxTE9aNjZzOG54NllYWHVHX21WNGM3bENpcy1vQU42MmJIbG05WHp0STh1ODMxc01tWXhpeHhCRUhiUVB5ckl5RHNEaURVSnhqX1hRcDNVYm9TdjcxVFRlMW5XQ3dzczVpampXbjFvbno0N2lwMW92MHNhcnZjYlgzVmNnczNfbE9sVW44OGRlT3JaWkE3ZGpaNHJFRmwyQUhJblMxbzJ4aklSb3BVWkZVQ1Bad0Q0ckV0VVVhRDdmd0NaY2VOM2lKcVE3QU1VQWV6TTlyRm51dXJpandHcFJzc1JyVjVJNklB?oc=5",
+      "published": "2026-10-27T18:39:36+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Pharma Industry",
@@ -116,12 +146,52 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "Billion Global Pharma"
+        "Sun Pharma"
       ],
       "project_signals": [],
       "numbers": [
-        "10 billion"
+        "rs 10,000"
       ]
+    },
+    {
+      "category": "Global",
+      "title": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR - openPR.com",
+      "description": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FRSXhfWXIwTDgzd3dOSWpkZURyTkZVWlJBWWxET01OWC1zcHZaSm9Dc0hqN1R5WExPMmt3cHlTV2c3RmJnUlAzR2haYkRYRlFQSmw1bUZweUJ5al9Ibjg2dVJEcHZ4dTRvbU8yMnBSVTkzT3BsWWpNeFZEZnptUGN1eFhoMHVEUmVrbzJsNE9QZ2s2VjJoM1hXOA?oc=5",
+      "published": "2026-10-27T13:03:34+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "CAGR - openPR.com Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "347.49 billion"
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Disposable Syringe Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Disposable Syringe Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnVwY3owX2swRklVLWE1NjF2SEhGeU5PTVhnTWpiNEdXdmw5Z3Y1X01lR1hnV2VBMlNWSkdSRWNuYm1aVE9vWVYyQ2dpNVEwSjNWNXNncHNwRFVQNWxtTHBEM0pFTDlia3FWc3ZEVXppLWl5RGN1M1BNNm4wWjFQSTFDemVDTnhqTEpDWHRGbjFHQUpZ?oc=5",
+      "published": "2026-10-27T12:31:09+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [
+        "manufacturing plant"
+      ],
+      "numbers": []
     },
     {
       "category": "India",
@@ -145,35 +215,32 @@
     },
     {
       "category": "India",
-      "title": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility - Machine Maker",
-      "description": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility Machine Maker",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5",
-      "published": "2026-10-27T07:15:47+00:00",
+      "title": "Surgical Cotton Manufacturing Plant Setup Cost in India - IMARC Group",
+      "description": "Surgical Cotton Manufacturing Plant Setup Cost in India IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVldWU2RGcFdSeDR6dTQ0SjE1MWl2S2JxblJianNoM0xVVTl6bW80M0daNFk2MnVJRXNnMFJOc1JYZ1dtSS1MQlBBMFM4Vk1vM01RWmlvbnRwX0ZmR0xuZy1DLTRIOXZtYTBndlFHN1p3Wm92NUR6NzBCa0o4MmZMRVBjYk9qRW5pdkxqV3NYMHk?oc=5",
+      "published": "2026-10-27T10:46:09+00:00",
       "source": "Google News RSS",
-      "signal": "Opportunity",
+      "signal": "General",
       "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential business opportunity requiring management review.",
-      "why_it_matters": "Manufacturing expansion may create demand for APIs, intermediates, raw materials, services, equipment or supplier relationships.",
-      "md_action": "Track the plant/capacity development and identify possible equipment, raw-material, API, intermediate or manufacturing opportunities.",
-      "companies": [
-        "Sudeep Pharma",
-        "Manufacturing Facility - Machine Maker Sudeep Pharma"
-      ],
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [
-        "manufacturing facility"
+        "manufacturing plant"
       ],
       "numbers": []
     },
     {
       "category": "India",
-      "title": "Drug price caps can’t stop at cancer medicines. India needs to regulate pharma margins - ThePrint",
-      "description": "Drug price caps can’t stop at cancer medicines. India needs to regulate pharma margins ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1VeGNHam14ZzVadTRDcmJQWTZ5SFJTNFhmX2ZJSGVyb3A5RVgtVnF5NkZBbTRraTR1WHhWam5SR3pxVkU1TGFPajRiVXo2TW85YlllTmRsN2pEaTJ2MWExSENFNXhUMkxmNnAwd1VGZTE5ejY1aFBib1dPOVlGTnB5aUdpWDdySllvQzJFZGnSAZYBQVVfeXFMTVZMeVFwcVpJSG52ZTVvZDRISGQ0UFhLSldyaDJRRWl6MTEyanVMaTdVMEgxbFdlUXlVekZOMkxOYjhPZkxPeEoyVkZIRDM3a2JHNmJqRmlJNThtMG5xTW9JaDZxNVVQcElvVnAtR3lkVmtHTmFXbEFYTk5aTDJUTmpXZ3lYbUMtS3BMT1NtNmVENVU3cHN3?oc=5",
-      "published": "2026-10-27T03:33:41+00:00",
+      "title": "OneSource Q2: Revenue Up 37% and EBITDA Up 53% as New Drug-Device Capacity Starts Paying Off - Trade Brains",
+      "description": "OneSource Q2: Revenue Up 37% and EBITDA Up 53% as New Drug-Device Capacity Starts Paying Off Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOU1HWmlSdjBnTUF0OWZ1RVVIdHcwbmM1Z3lWdkF0TEszVFNJTzJkb0JWOEIzR19lWklyQUc2b2pVbmFZdTk4VmNfT0ZTelB4UjZ0NDJWUDlTbVNRR1BFZEpPMFZVSUk2dVJ4YVR2TEdVd1pJejBrYlQyYU82OXZ4Qk1nenlxN3VXNFJJWlhpQUJ4dnQxc1NFSDFnTU1iUS1oNVJaZVowM2t5andzSU0yMHgtQndmazF1WnpKX0RYQ2l3Z0V3LUdRTHpHSVZ6c3F5bnc?oc=5",
+      "published": "2026-10-27T09:34:57+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "Pharma Industry",
+      "business_area": "Manufacturing / Plants",
       "priority": "Low",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
