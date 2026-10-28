@@ -1938,14 +1938,17 @@ def main():
     ):
 
         print(
-            "WARNING: All news feeds failed."
+            "ERROR: All news feeds failed; no new intelligence data was generated.",
+            file=sys.stderr,
         )
 
         print(
-            "Keeping existing data.json unchanged."
+            "Keeping existing data.json unchanged. Failing this workflow run so stale data "
+            "cannot be mistaken for a successful update.",
+            file=sys.stderr,
         )
 
-        return
+        raise SystemExit(1)
 
 
     # --------------------------------------------------------
