@@ -3,6 +3,14 @@ name: Update Pharma News
 on:
   workflow_dispatch:
 
+  # Run once after the scheduling fix is merged to main, to verify the live
+  # branch refresh without waiting for the next hourly cron.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-news.yml"
+
   schedule:
     - cron: "0 * * * *"
       timezone: "Asia/Kolkata"
