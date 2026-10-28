@@ -1,9 +1,6 @@
-name: Test News Failure Safety
+name: Dashboard Regression Tests
 
 on:
-  push:
-    branches:
-      - "fix/news-collection-failure-status"
   pull_request:
     branches:
       - "v2-intelligence"
