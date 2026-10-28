@@ -1,10 +1,11 @@
 name: Update Pharma News
+run-name: "Refresh live dashboard data"
 
 on:
   workflow_dispatch:
 
-  # Run once after the scheduling fix is merged to main, to verify the live
-  # branch refresh without waiting for the next hourly cron.
+  # Validate workflow edits immediately against the live branch. The job
+  # writes generated data only to v2-intelligence, so it does not retrigger this main-branch path.
   push:
     branches:
       - main
