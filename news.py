@@ -1451,7 +1451,7 @@ def should_keep_article(text, category, signal, event_type):
         "bulk drug", "drug manufacturing", "biotech", "biologics",
         "formulation", "active pharmaceutical"
     ]
-    if any(term in lower for term in non_core) and not any(term in lower for term in direct_core):
+    if any(term in lower for term in non_core) and not any(term_matches(lower, term) for term in direct_core):
         return False
 
     if signal in ["Risk", "Opportunity"]:
