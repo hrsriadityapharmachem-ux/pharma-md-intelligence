@@ -83,7 +83,7 @@ def main():
         "opportunity_count": sum(a.get("signal") == "Opportunity" for a in articles if isinstance(a, dict)),
         "risk_count": sum(a.get("signal") == "Risk" for a in articles if isinstance(a, dict)),
         "watch_count": sum(a.get("signal") == "Watch" for a in articles if isinstance(a, dict)),
-        "high_priority_count": sum(a.get("priority") == "High" for a in articles if isinstance(a, dict)),
+        "high_priority_count": sum(a.get("priority") in {"Critical", "High"} for a in articles if isinstance(a, dict)),
     }
     for key, expected in counts.items():
         if data.get(key) != expected:
