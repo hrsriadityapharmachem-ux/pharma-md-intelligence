@@ -1,5 +1,5 @@
 name: Update Pharma News
-run-name: "Refresh live dashboard data"
+run-name: "Refresh and validate live pharma intelligence"
 
 on:
   workflow_dispatch:
