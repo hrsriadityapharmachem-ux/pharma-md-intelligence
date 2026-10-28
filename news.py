@@ -523,6 +523,24 @@ def clean_title_for_analysis(title, source_name=""):
     return re.sub(r"\s{2,}", " ", title).strip(" -|")
 
 
+def clean_description_for_analysis(description, source_name=""):
+    """Remove a publisher name appended by RSS aggregators from story text."""
+    description = clean_text(description)
+    source_name = clean_text(source_name)
+    if not description or not source_name:
+        return description
+
+    # The publisher is already stored separately in source/source_name fields.
+    # Remove it only when it appears as the exact trailing source suffix.
+    escaped_source = re.escape(source_name)
+    return re.sub(
+        rf"(?:\\s*[-|–—:]\\s*|\\s+){escaped_source}[.!]?\\s*$",
+        "",
+        description,
+        flags=re.IGNORECASE,
+    ).strip()
+
+
 # ============================================================
 # SOURCE / EVENT INTELLIGENCE
 # ============================================================
@@ -1535,6 +1553,7 @@ def collect_news():
                 )
 
                 source_hint = get_source(item)
+                description = clean_description_for_analysis(description, source_hint)
 
                 published = get_date(
                     item
