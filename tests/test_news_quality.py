@@ -9,6 +9,16 @@ class NewsQualityRegressionTests(unittest.TestCase):
         self.assertFalse(
             news.should_keep_article(title.lower(), "Vizag / AP", "Watch", "Investment / Acquisition")
         )
+        # "API" must not be detected as a substring inside "capital".
+        self.assertFalse(
+            news.should_keep_article(
+                "railway project capital investment and land acquisition",
+                "Vizag / AP",
+                "Watch",
+                "Investment / Acquisition",
+            )
+        )
+        self.assertNotEqual(news.determine_business_area("capital investment in a railway line"), "API / Intermediates")
 
     def test_paraphrased_reports_about_same_facility_are_deduplicated(self):
         articles = [
