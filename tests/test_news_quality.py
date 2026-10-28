@@ -89,6 +89,22 @@ class NewsQualityRegressionTests(unittest.TestCase):
         )
         self.assertNotIn("Fierce Pharma", companies)
 
+    def test_publisher_suffix_is_removed_before_relevance_classification(self):
+        description = "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition Fierce Pharma"
+        cleaned = news.clean_description_for_analysis(description, "Fierce Pharma")
+        self.assertEqual(
+            cleaned,
+            "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
+        )
+        self.assertFalse(
+            news.should_keep_article(
+                ("Eversana combines forces with UK-based AI health economics research firm Estima in acquisition " + cleaned).lower(),
+                "Global",
+                "Watch",
+                "Investment / Acquisition",
+            )
+        )
+
     def test_dashboard_uses_backend_ranking_and_displays_freshness_status(self):
         html = Path(__file__).resolve().parents[1].joinpath("index.html").read_text(encoding="utf-8")
         self.assertIn('data.must_know[0]', html)
