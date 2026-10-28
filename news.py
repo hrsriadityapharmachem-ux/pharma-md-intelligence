@@ -403,14 +403,17 @@ def get_source(entry):
 # KEYWORD CHECK
 # ============================================================
 
+def term_matches(text, keyword):
+    """Match short pharma acronyms as whole words, not substrings such as API in capital."""
+    text = (text or "").lower()
+    term = (keyword or "").lower()
+    if term in {"api", "fda", "ema", "cdsco", "cdmo"}:
+        return re.search(rf"\b{re.escape(term)}\b", text) is not None
+    return term in text
+
+
 def contains_keyword(text, keywords):
-
-    text = text.lower()
-
-    return any(
-        keyword.lower() in text
-        for keyword in keywords
-    )
+    return any(term_matches(text, keyword) for keyword in keywords)
 
 
 # ============================================================
@@ -784,7 +787,7 @@ def determine_business_area(text):
         score = 0
 
         for keyword in keywords:
-            if keyword.lower() in lower_text:
+            if term_matches(lower_text, keyword):
                 score += 2 if len(keyword) > 5 else 1
 
         if area == "Regulatory":
@@ -1389,7 +1392,7 @@ def calculate_relevance_score(text, category, signal, event_type):
     ]
 
     for term in high_value_terms:
-        if term in lower:
+        if term_matches(lower, term):
             score += 1
 
     if category == "Hyderabad":
@@ -1432,7 +1435,7 @@ def should_keep_article(text, category, signal, event_type):
         "cdsco", "fda", "ema", "intermediate", "specialty chemical",
         "life sciences"
     )
-    if not any(term in lower for term in domain_terms):
+    if not any(term_matches(lower, term) for term in domain_terms):
         return False
 
     # Remove clearly non-core industrial stories that can enter through broad
