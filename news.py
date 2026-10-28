@@ -1767,7 +1767,13 @@ def deduplicate_articles(articles):
     def title_tokens(title):
         ignored = {"pharma", "pharmaceutical", "industry", "india", "indian", "reports", "report", "says", "new", "gets", "get", "receives", "received", "nod", "approval"}
         tokens = {t for t in normalize_title(title).split() if len(t) > 2 and t not in ignored}
-        synonyms = {"acquire": "acquisition", "acquires": "acquisition", "acquired": "acquisition", "acquiring": "acquisition", "merger": "merger", "merges": "merger", "invests": "investment", "invested": "investment", "investing": "investment"}
+        synonyms = {
+            "acquire": "acquisition", "acquires": "acquisition", "acquired": "acquisition", "acquiring": "acquisition",
+            "merger": "merger", "merges": "merger",
+            "invests": "investment", "invested": "investment", "investing": "investment",
+            "plant": "facility", "facility": "facility", "manufacturing": "facility",
+            "move": "expansion", "expansion": "expansion", "expands": "expansion"
+        }
         return {synonyms.get(t, t) for t in tokens}
 
     for article in articles:
@@ -1787,7 +1793,11 @@ def deduplicate_articles(articles):
             overlap = len(tokens & other_tokens) / max(1, len(tokens | other_tokens))
             # Require strong headline similarity or substantial specific-token overlap.
             shared = tokens & other_tokens
-            shared_event = bool(shared & {"acquisition", "merger", "investment", "contract", "recall", "warning", "shortage", "expansion", "agreement", "approval"})
+            shared_event = bool(shared & {
+                "acquisition", "merger", "investment", "contract", "recall",
+                "warning", "shortage", "expansion", "agreement", "approval",
+                "facility", "headquarters"
+            })
             same_specific_event = len(shared) >= 3 and shared_event
             if ratio >= 0.86 or overlap >= 0.72 or same_specific_event:
                 duplicate_index = i
@@ -1830,6 +1840,7 @@ def deduplicate_articles(articles):
 
 def select_must_know(articles):
     priority_rank = {
+        "Critical": 4,
         "High": 3,
         "Medium": 2,
         "Low": 1
@@ -2006,7 +2017,7 @@ def main():
     high_priority = sum(
         1
         for article in articles
-        if article["priority"] == "High"
+        if article["priority"] in ["Critical", "High"]
     )
 
 
