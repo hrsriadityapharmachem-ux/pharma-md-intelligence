@@ -1,0 +1,57 @@
+name: Scheduled Refresh Configuration Test
+
+on:
+  pull_request:
+    branches:
+      - "main"
+
+permissions:
+  contents: read
+
+jobs:
+  verify-scheduled-refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout proposed workflow
+        uses: actions/checkout@v4
+
+      - name: Checkout live dashboard code
+        uses: actions/checkout@v4
+        with:
+          ref: v2-intelligence
+          path: live-v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify schedule targets the live branch
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          workflow = Path(".github/workflows/update-news.yml").read_text(encoding="utf-8")
+          required = [
+              'ref: v2-intelligence',
+              'run: python news.py',
+              'run: python validate_data.py',
+              'git push origin HEAD:v2-intelligence',
+              'cron: "0 * * * *"',
+          ]
+          missing = [item for item in required if item not in workflow]
+          if missing:
+              raise SystemExit("Scheduled refresh workflow is missing: " + ", ".join(missing))
+          print("Scheduled refresh configuration checks passed.")
+          PY
+
+      - name: Check live dashboard Python syntax
+        run: python -m py_compile live-v2/news.py live-v2/validate_data.py
+
+      - name: Run live-branch regression tests when present
+        run: |
+          if [ -d live-v2/tests ]; then
+            cd live-v2
+            python -m unittest discover -s tests -p "test_*.py" -v
+          else
+            echo "Regression tests will run after the tested reliability fix is merged to v2-intelligence."
+          fi
