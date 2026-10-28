@@ -534,7 +534,7 @@ def clean_description_for_analysis(description, source_name=""):
     # Remove it only when it appears as the exact trailing source suffix.
     escaped_source = re.escape(source_name)
     return re.sub(
-        rf"(?:\\s*[-|–—:]\\s*|\\s+){escaped_source}[.!]?\\s*$",
+        rf"(?:\s*[-|–—:]\s*|\s+){escaped_source}[.!]?\s*$",
         "",
         description,
         flags=re.IGNORECASE,
