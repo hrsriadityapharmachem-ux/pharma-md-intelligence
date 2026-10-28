@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T16:45:36.226501+00:00",
+  "updated": "2026-10-28T17:54:47.479163+00:00",
   "engine_version": "3.7.0",
-  "article_count": 9,
+  "article_count": 4,
   "opportunity_count": 0,
-  "risk_count": 2,
-  "watch_count": 5,
-  "high_priority_count": 2,
+  "risk_count": 1,
+  "watch_count": 2,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
     {
@@ -44,6 +44,10 @@
       "importance_score": 14,
       "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
       "related_sources": [
+        {
+          "source": "Machine Maker",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5"
+        },
         {
           "source": "eHealth Magazine",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
@@ -86,37 +90,37 @@
       ]
     },
     {
-      "category": "Hyderabad",
-      "title": "Agilisium Hyderabad Headquarters Move Explained",
-      "description": "Agilisium Hyderabad Headquarters Move Explained Urban Acres",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5",
-      "published": "2026-10-27T09:37:42+00:00",
-      "source": "Urban Acres",
-      "signal": "Risk",
+      "category": "Global",
+      "title": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
+      "description": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFRZTExySW5rbzBTY0J3cElGQUoxTU1rQ240ZGRtLVBPWU5tUW0tMGVmWE9zZEk3UzROemFodUQwbGN6U3UtZEl2ZmVRUlJsSEYzYnRhUXJLV3RETUw3V3c3MGRQdmZWc3hxZ0QwUVZuMG5KR3lGOHkwbG9obkpkc2tFMVpmb3RjbHIxUlVPN21pckJrRXNrQnAzWjB5U0pHVFozNFNtSHRESDZ4VU8xd3NwRkRuSjRpLWlvR3RZQ0x0QQ?oc=5",
+      "published": "2026-10-28T12:00:00+00:00",
+      "source": "Fierce Pharma",
+      "signal": "Watch",
       "business_area": "Pharma Industry",
       "priority": "Medium",
-      "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Urban Acres",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Agilisium Hyderabad Headquarters Move Explained.",
+      "source_name": "Fierce Pharma",
+      "source_credibility": "Established",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential business or operational risk requires verification.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 13,
-      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Urban Acres",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5"
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFRZTExySW5rbzBTY0J3cElGQUoxTU1rQ240ZGRtLVBPWU5tUW0tMGVmWE9zZEk3UzROemFodUQwbGN6U3UtZEl2ZmVRUlJsSEYzYnRhUXJLV3RETUw3V3c3MGRQdmZWc3hxZ0QwUVZuMG5KR3lGOHkwbG9obkpkc2tFMVpmb3RjbHIxUlVPN21pckJrRXNrQnAzWjB5U0pHVFozNFNtSHRESDZ4VU8xd3NwRkRuSjRpLWlvR3RZQ0x0QQ?oc=5"
         }
       ]
     }
@@ -129,7 +133,8 @@
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
-    "Specialty Chemicals": 0
+    "Specialty Chemicals": 0,
+    "Pharma Industry": 1
   },
   "daily_brief": {
     "attention": [
@@ -144,9 +149,9 @@
         "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
       },
       {
-        "title": "Agilisium Hyderabad Headquarters Move Explained",
-        "signal": "Risk",
-        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+        "title": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
@@ -163,79 +168,6 @@
   },
   "articles": [
     {
-      "category": "Vizag / AP",
-      "title": "PM Asks AP CS to Expedite Land Acquisition of Errupalem-Amravati-Namburu Railway Line",
-      "description": "PM Asks AP CS to Expedite Land Acquisition of Errupalem-Amravati-Namburu Railway Line The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFhJS0oyOEZhb043Qnd4QnI1WGx5T3lURWc4dXZvNnVwOEF3ZnJoYUg3RFFDdTNLM0ZyRlUwRmp1c2NBSXZBWXhEclA5ME4td2lSTGQtQ1g4YmNFUnRXUG9kSU5EWWlxSjR2Tm1EQmJoWExjUmNiWEM3ZmJROGNnakJSTElRT1NrZXl4eXg1WmNWWVNTYUw2V1hTUEtjZlIwQk9GbDdfYXRzNHlmUF9TZU0zRk5CWGhKN0dMcVlCLUx5MV81ZWF3WVVnY1NuOXFVVWxR?oc=5",
-      "published": "2026-10-28T14:48:02+00:00",
-      "source": "The Hans India",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "The Hans India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "PM Asks AP CS to Expedite Land Acquisition of Errupalem-Amravati-Namburu Railway Line.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by The Hans India; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "The Hans India",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFhJS0oyOEZhb043Qnd4QnI1WGx5T3lURWc4dXZvNnVwOEF3ZnJoYUg3RFFDdTNLM0ZyRlUwRmp1c2NBSXZBWXhEclA5ME4td2lSTGQtQ1g4YmNFUnRXUG9kSU5EWWlxSjR2Tm1EQmJoWExjUmNiWEM3ZmJROGNnakJSTElRT1NrZXl4eXg1WmNWWVNTYUw2V1hTUEtjZlIwQk9GbDdfYXRzNHlmUF9TZU0zRk5CWGhKN0dMcVlCLUx5MV81ZWF3WVVnY1NuOXFVVWxR?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs",
-      "description": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGU0WVAyZ0I5X0QyMkJtZ0ZsZ09jUGotd0h3bl91Y1ExR3J6WFVXQ0hZZTBrUWJvem13UmVEX3NfVmtYWWUwVmxqd2JmRnhNZkhMQmFzMVFvUTZRWjh2T1h6Q25PWjdwb2tTYk05djdhTElhc0QtWGl0NU9RZHM1dHA3MjZLZW9QT0hpSlZRZGZwQ3J3MWgzY2dkWVpiVUFpczBaQ1B5d1pOUUtzbTVMSWNDNFRSZVZGU2I2bW02bF9LaVdMSWtwUC1NbjBwS0N3Zkhpa3lPa2ZYODkxejAzLUw1SFNFSnRfa2szUFJmSWZxTEtwaFdxM1A5Tk9jLVRpbUHSAYcCQVVfeXFMUFRibnFCcmlZMndKcnI4MlplaGpYUjFYbm5icGR4MjlhY0xTMkIyZ0s1MkJGRnlORjBEQWpnTFR4aDYtdGoyWE1WZy1oSUVCNDFrNmJoUGxGdHRvcmhHd002dXZtbWpsc281WTloZWw3eUVEbjNrQ3g4V01lR19TUkpja2RHZzNBWng3R2tVTmJVNVluS3Z4TEc2eHF3Z0g2eURUanBEYTlKT1lZZkZaYVlrRENndTBDV283M2RyY2dfUkNfWXhVUGVIbUphQTYtQnJFYzhGTDRqNmZ4QW5IbDFtT1A5dmVEa1UzN004V0NxLVFGbUJxeHdiZVdwdl9tODdrbnNTVHM?oc=5",
-      "published": "2026-10-28T13:02:10+00:00",
-      "source": "Livemint",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "₹10,000 crore",
-        "10,000 crore"
-      ],
-      "source_name": "Livemint",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by Livemint; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Livemint",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGU0WVAyZ0I5X0QyMkJtZ0ZsZ09jUGotd0h3bl91Y1ExR3J6WFVXQ0hZZTBrUWJvem13UmVEX3NfVmtYWWUwVmxqd2JmRnhNZkhMQmFzMVFvUTZRWjh2T1h6Q25PWjdwb2tTYk05djdhTElhc0QtWGl0NU9RZHM1dHA3MjZLZW9QT0hpSlZRZGZwQ3J3MWgzY2dkWVpiVUFpczBaQ1B5d1pOUUtzbTVMSWNDNFRSZVZGU2I2bW02bF9LaVdMSWtwUC1NbjBwS0N3Zkhpa3lPa2ZYODkxejAzLUw1SFNFSnRfa2szUFJmSWZxTEtwaFdxM1A5Tk9jLVRpbUHSAYcCQVVfeXFMUFRibnFCcmlZMndKcnI4MlplaGpYUjFYbm5icGR4MjlhY0xTMkIyZ0s1MkJGRnlORjBEQWpnTFR4aDYtdGoyWE1WZy1oSUVCNDFrNmJoUGxGdHRvcmhHd002dXZtbWpsc281WTloZWw3eUVEbjNrQ3g4V01lR19TUkpja2RHZzNBWng3R2tVTmJVNVluS3Z4TEc2eHF3Z0g2eURUanBEYTlKT1lZZkZaYVlrRENndTBDV283M2RyY2dfUkNfWXhVUGVIbUphQTYtQnJFYzhGTDRqNmZ4QW5IbDFtT1A5dmVEa1UzN004V0NxLVFGbUJxeHdiZVdwdl9tODdrbnNTVHM?oc=5"
-        }
-      ]
-    },
-    {
       "category": "Global",
       "title": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
       "description": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition Fierce Pharma",
@@ -246,11 +178,9 @@
       "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Fierce Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Fierce Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Fierce Pharma"
-      ],
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
       "project_signals": [],
       "numbers": [],
       "source_name": "Fierce Pharma",
@@ -308,6 +238,10 @@
       "importance_score": 14,
       "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
       "related_sources": [
+        {
+          "source": "Machine Maker",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5"
+        },
         {
           "source": "eHealth Magazine",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
@@ -381,122 +315,6 @@
         {
           "source": "Urban Acres",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WR1BQbUxXSnZzWG9Ic3E0SjdZLUk5RnlJcWNCZnJ3QzdSYk9jblNvUThkRVNwWjFZR2JtMW9Ic3NnenNiZUxsX0dCenI5SlNmV1Q3SmRROGpIYXplOWNFcmxmeU04Sk5CWkhKRzYxZldibktfbnhGXzh1Vk5tMFU?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India-Liechtenstein ties get boost during Hereditary Prince Alois' visit; expanded trade, technology, and investment in focus",
-      "description": "India-Liechtenstein ties get boost during Hereditary Prince Alois' visit; expanded trade, technology, and investment in focus https://www.indiagazette.com/",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQTQxS0w1d25kSDlFeFRSRi05eVRMLWtoVEt4cExwQndpNTNRb3lBekZrMWxQeE1Md3pBVENLMUZfcDBtZmJ1YWtiYXVRS09jOEV6Z0dWYXQ2dDVpM3gzUTZhbGNHeTMtY0VDckZqNHFrUmViaFQ5cTg1NFJrZEVJNFZqLUVfOHExemU2MTJRbTRYMXJNdlVZRm9qQWp1M21tU29uQ3F6dHNEMGh5OXlNNEhEMk1IS29GamRYeWU2NFlJb2RGNVJiVzdCcDRlTmVZRVJBWHdPQy1wYV80NUtlbWFpWHpDcEttN3J4elZPRmJOT0VETVloVA?oc=5",
-      "published": "2026-10-27T10:34:00+00:00",
-      "source": "https://www.indiagazette.com/",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "https://www.indiagazette.com/",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India-Liechtenstein ties get boost during Hereditary Prince Alois' visit; expanded trade, technology, and investment in focus.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by https://www.indiagazette.com/; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSG5aZk5MR2N2Ql9xWWFsN0ZGY2FRV0JnTWlXQzJhVnRwQlpKUGxta0FnRVF4cE5Ebk9mMnl2aU4zZUZiRkZEblJNSGFNNjYwQXVCeFdWS3Z2VzVETlBfWGlBeEhZdnpZTGpQRHBBLWZXUFZQd3BpRVdSTHhzQmFoR0tMNThFSEUxdDRLZ3Npb2dXUXpVZEZ2WjF5Y1B2N1B0NmRTb2VGVHVRRW5VNVg0c3hveEJDbDRKUllwTTZrRnBhZmtDbmpWYkF5T180MnUwYml4OGJCWlJpQXdqUXBYRzdn0gHnAUFVX3lxTFB5cHFXZ2RKV2UwNlJ1LV9mcng2X0Fua2tMOXc0dWFlVzNoSFlTNV9GV19ETjhxb3hsYlNPbk9wNGJUYUtFQ1hmcnRKcU5fWFgzMHM5dGF1X09EekFLY091bGhZQkVMVUxWb0hpa1ZBVU9uMU5YWnFOWDNJVEtubmhSWURTMWNuWnZvRG11ZzFZelJLLWt4WmVWbG80N3E3LVNweTFLRGFhOHVRS2xWT18tOU43VUh0ZGpqdlNEWWF4cXJvOVRFbXJKM2cyVW9XaTQ0bWVlb2FJcWZtb3RUY200ek94TzZBbw?oc=5"
-        },
-        {
-          "source": "https://www.indiagazette.com/",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQTQxS0w1d25kSDlFeFRSRi05eVRMLWtoVEt4cExwQndpNTNRb3lBekZrMWxQeE1Md3pBVENLMUZfcDBtZmJ1YWtiYXVRS09jOEV6Z0dWYXQ2dDVpM3gzUTZhbGNHeTMtY0VDckZqNHFrUmViaFQ5cTg1NFJrZEVJNFZqLUVfOHExemU2MTJRbTRYMXJNdlVZRm9qQWp1M21tU29uQ3F6dHNEMGh5OXlNNEhEMk1IS29GamRYeWU2NFlJb2RGNVJiVzdCcDRlTmVZRVJBWHdPQy1wYV80NUtlbWFpWHpDcEttN3J4elZPRmJOT0VETVloVA?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Agilisium Hyderabad Headquarters Move Explained",
-      "description": "Agilisium Hyderabad Headquarters Move Explained Urban Acres",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5",
-      "published": "2026-10-27T09:37:42+00:00",
-      "source": "Urban Acres",
-      "signal": "Risk",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Urban Acres",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Agilisium Hyderabad Headquarters Move Explained.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential business or operational risk requires verification.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 13,
-      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Urban Acres",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJDRDJ5MHMySTJGMUlvclNIdno5X05vaTVyZGFDQ3BteXRnZE1oZXRHS1NGWnB5d2ZHcHJTakt5MUc1ODdwcGVZOVg2X0tNTDdob0ZFYnVhSmlFOFNsM0RlalpnVE9VR2FXOFdLMlpRYUdqb3Y4STQybllQQnNYT1hlTFRSejRyYzd5WmRfamJTZW9wREJqbUNEVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility",
-      "description": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility Machine Maker",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5",
-      "published": "2026-10-27T07:15:47+00:00",
-      "source": "Machine Maker",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Sudeep Pharma",
-        "Manufacturing Facility Sudeep Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": [],
-      "source_name": "Machine Maker",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Sudeep Pharma Receives Gujarat FDA Approval for New Nandesari Manufacturing Facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 16,
-      "fact_status": "Reported by Machine Maker; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Machine Maker",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5"
         }
       ]
     }
