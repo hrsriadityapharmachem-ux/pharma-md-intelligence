@@ -37,6 +37,8 @@ jobs:
               'run: python validate_data.py',
               'git push origin HEAD:v2-intelligence',
               'cron: "0 * * * *"',
+              'push:',
+              '.github/workflows/update-news.yml',
               'group: sri-aditya-pharma-news-refresh',
               'timeout-minutes: 40',
           ]
