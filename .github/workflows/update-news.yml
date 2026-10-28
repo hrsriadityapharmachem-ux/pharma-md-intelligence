@@ -7,6 +7,10 @@ on:
     - cron: "0 * * * *"
       timezone: "Asia/Kolkata"
 
+concurrency:
+  group: pharma-news-refresh-v2
+  cancel-in-progress: false
+
 jobs:
 
   update-news:
