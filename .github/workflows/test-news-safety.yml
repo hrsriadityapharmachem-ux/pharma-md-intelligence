@@ -22,6 +22,6 @@ jobs:
         with:
           python-version: "3.12"
       - name: Check Python syntax
-        run: python -m py_compile news.py validate_data.py tests/test_news_failure.py
+        run: python -m py_compile news.py validate_data.py tests/test_news_failure.py tests/test_news_quality.py
       - name: Test all-feeds-failed safety
         run: python -m unittest discover -s tests -p "test_*.py" -v
