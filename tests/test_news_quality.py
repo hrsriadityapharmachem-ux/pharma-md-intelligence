@@ -1,6 +1,14 @@
+import contextlib
+import io
+import json
+import os
+import tempfile
 import unittest
+from datetime import datetime, timezone
+from pathlib import Path
 
 import news
+import validate_data
 
 
 class NewsQualityRegressionTests(unittest.TestCase):
@@ -80,6 +88,43 @@ class NewsQualityRegressionTests(unittest.TestCase):
             "Fierce Pharma",
         )
         self.assertNotIn("Fierce Pharma", companies)
+
+    def test_validator_rejects_inconsistent_business_signal_summary(self):
+        data = {
+            "updated": datetime.now(timezone.utc).isoformat(),
+            "engine_version": "3.7.0",
+            "article_count": 1,
+            "opportunity_count": 0,
+            "risk_count": 1,
+            "watch_count": 0,
+            "high_priority_count": 0,
+            "successful_feeds": 1,
+            "must_know": [],
+            "business_signals": {"Pharma Industry": 0},
+            "daily_brief": {"attention": [], "investigate": []},
+            "articles": [{
+                "title": "Test pharma risk",
+                "link": "https://example.com/test",
+                "signal": "Risk",
+                "priority": "Medium",
+                "event_type": "Industry Development",
+                "business_area": "Pharma Industry",
+                "why_it_matters": "A test risk requiring verification.",
+                "md_action": "Verify the underlying source.",
+                "fact_status": "Test fixture",
+                "confidence": 50,
+            }],
+        }
+        original_cwd = os.getcwd()
+        with tempfile.TemporaryDirectory() as tmp:
+            try:
+                os.chdir(tmp)
+                Path("data.json").write_text(json.dumps(data), encoding="utf-8")
+                with contextlib.redirect_stderr(io.StringIO()):
+                    with self.assertRaises(SystemExit):
+                        validate_data.main()
+            finally:
+                os.chdir(original_cwd)
 
     def test_critical_priority_is_included_in_must_know_ranking(self):
         articles = [
