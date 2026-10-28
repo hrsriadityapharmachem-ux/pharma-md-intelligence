@@ -31,7 +31,7 @@ class AllFeedsFailedSafetyTest(unittest.TestCase):
                 os.chdir(original_cwd)
 
             self.assertEqual(raised.exception.code, 1)
-            self.assertIn("All news feeds failed", stderr.getvalue())
+            self.assertIn("No eligible articles", stderr.getvalue())
             self.assertEqual(json.loads(data_path.read_text(encoding="utf-8")), original_data)
 
 
