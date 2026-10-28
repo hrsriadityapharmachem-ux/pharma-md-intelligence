@@ -129,10 +129,12 @@ def main():
         if isinstance(article, dict) and article.get("signal") in {"Opportunity", "Risk"}:
             area = article.get("business_area")
             expected_signals[area] = expected_signals.get(area, 0) + 1
-    for area, expected in expected_signals.items():
-        if business_signals.get(area) != expected:
+    for area in set(business_signals) | set(expected_signals):
+        expected = expected_signals.get(area, 0)
+        actual = business_signals.get(area)
+        if actual != expected:
             fail(
-                f"business_signals[{area!r}]={business_signals.get(area)!r} "
+                f"business_signals[{area!r}]={actual!r} "
                 f"but article-derived count is {expected}"
             )
 

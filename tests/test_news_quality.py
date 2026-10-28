@@ -89,6 +89,15 @@ class NewsQualityRegressionTests(unittest.TestCase):
         )
         self.assertNotIn("Fierce Pharma", companies)
 
+    def test_dashboard_uses_backend_ranking_and_displays_freshness_status(self):
+        html = Path(__file__).resolve().parents[1].joinpath("index.html").read_text(encoding="utf-8")
+        self.assertIn('data.must_know[0]', html)
+        self.assertIn('id="statusLabel"', html)
+        self.assertIn('ageHours>2?"Update delayed":"Data current"', html)
+        self.assertIn('priority==="Critical"?"badge-critical"', html)
+        self.assertIn("let loadInProgress=false;", html)
+        self.assertIn('timeZone:"Asia/Kolkata"', html)
+
     def test_validator_rejects_inconsistent_business_signal_summary(self):
         data = {
             "updated": datetime.now(timezone.utc).isoformat(),
@@ -125,6 +134,10 @@ class NewsQualityRegressionTests(unittest.TestCase):
                         validate_data.main()
             finally:
                 os.chdir(original_cwd)
+
+    def test_headquarters_news_is_not_mislabeled_as_risk(self):
+        title = "Hyderabad Life Sciences Hub Gains Agilisium Asia HQ"
+        self.assertNotEqual(news.determine_signal(title), "Risk")
 
     def test_critical_priority_is_included_in_must_know_ranking(self):
         articles = [
