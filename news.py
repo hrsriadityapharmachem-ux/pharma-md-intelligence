@@ -1,4 +1,5 @@
 import json
+import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
@@ -402,14 +403,17 @@ def get_source(entry):
 # KEYWORD CHECK
 # ============================================================
 
+def term_matches(text, keyword):
+    """Match short pharma acronyms as whole words, not substrings such as API in capital."""
+    text = (text or "").lower()
+    term = (keyword or "").lower()
+    if term in {"api", "fda", "ema", "cdsco", "cdmo"}:
+        return re.search(rf"\b{re.escape(term)}\b", text) is not None
+    return term in text
+
+
 def contains_keyword(text, keywords):
-
-    text = text.lower()
-
-    return any(
-        keyword.lower() in text
-        for keyword in keywords
-    )
+    return any(term_matches(text, keyword) for keyword in keywords)
 
 
 # ============================================================
@@ -783,7 +787,7 @@ def determine_business_area(text):
         score = 0
 
         for keyword in keywords:
-            if keyword.lower() in lower_text:
+            if term_matches(lower_text, keyword):
                 score += 2 if len(keyword) > 5 else 1
 
         if area == "Regulatory":
@@ -844,7 +848,13 @@ def detect_companies(title, description):
         cleaned = " ".join(candidate.split()).strip(" ,.;:-")
         cleaned = re.sub(r"^(?:Hyderabad-Based|Hyderabad based|India-Based|India based|US-Based|UK-Based)\s+", "", cleaned, flags=re.IGNORECASE)
         low = cleaned.lower()
-        if len(cleaned) < 4 or low in stop_prefixes or cleaned in blacklist:
+        known_source_names = {name.lower() for name in KNOWN_SOURCES}
+        if (
+            len(cleaned) < 4
+            or low in stop_prefixes
+            or cleaned in blacklist
+            or low in known_source_names
+        ):
             continue
         words = low.split()
         if words and words[0] in {"with", "after", "amid", "following", "as", "the", "a", "an", "from", "while"}:
@@ -1382,7 +1392,7 @@ def calculate_relevance_score(text, category, signal, event_type):
     ]
 
     for term in high_value_terms:
-        if term in lower:
+        if term_matches(lower, term):
             score += 1
 
     if category == "Hyderabad":
@@ -1416,6 +1426,18 @@ def should_keep_article(text, category, signal, event_type):
     score = calculate_relevance_score(text, category, signal, event_type)
     lower = text.lower()
 
+    # A regional feed alone is not evidence of pharma relevance. Require a
+    # concrete pharma, API, drug, biotech, CDMO, or chemical connection.
+    domain_terms = (
+        "pharma", "pharmaceutical", "active pharmaceutical", "api",
+        "bulk drug", "drug manufacturing", "drug maker", "cdmo",
+        "contract manufacturing", "biotech", "biologics", "formulation",
+        "cdsco", "fda", "ema", "intermediate", "specialty chemical",
+        "life sciences"
+    )
+    if not any(term_matches(lower, term) for term in domain_terms):
+        return False
+
     # Remove clearly non-core industrial stories that can enter through broad
     # pharma/chemical search feeds. Keep them only when the same story contains
     # a direct pharma/API/CDMO/bulk-drug signal.
@@ -1429,7 +1451,7 @@ def should_keep_article(text, category, signal, event_type):
         "bulk drug", "drug manufacturing", "biotech", "biologics",
         "formulation", "active pharmaceutical"
     ]
-    if any(term in lower for term in non_core) and not any(term in lower for term in direct_core):
+    if any(term in lower for term in non_core) and not any(term_matches(lower, term) for term in direct_core):
         return False
 
     if signal in ["Risk", "Opportunity"]:
@@ -1476,20 +1498,15 @@ def collect_news():
                 failed_feeds += 1
                 continue
 
-            successful_feeds += 1
-
             try:
-
                 root = ET.fromstring(data)
-
-            except Exception as e:
-
-                print(
-                    "XML parsing error:",
-                    e
-                )
-
+            except (ET.ParseError, ValueError) as e:
+                failed_feeds += 1
+                print("XML parsing error:", e)
                 continue
+
+            # Count a feed as successful only after its response is valid XML.
+            successful_feeds += 1
 
 
             items = root.findall(
@@ -1753,7 +1770,14 @@ def deduplicate_articles(articles):
     def title_tokens(title):
         ignored = {"pharma", "pharmaceutical", "industry", "india", "indian", "reports", "report", "says", "new", "gets", "get", "receives", "received", "nod", "approval"}
         tokens = {t for t in normalize_title(title).split() if len(t) > 2 and t not in ignored}
-        synonyms = {"acquire": "acquisition", "acquires": "acquisition", "acquired": "acquisition", "acquiring": "acquisition", "merger": "merger", "merges": "merger", "invests": "investment", "invested": "investment", "investing": "investment"}
+        synonyms = {
+            "acquire": "acquisition", "acquires": "acquisition", "acquired": "acquisition", "acquiring": "acquisition",
+            "merger": "merger", "merges": "merger",
+            "invests": "investment", "invested": "investment", "investing": "investment",
+            "plant": "facility", "facility": "facility", "manufacturing": "facility",
+            "hq": "headquarters", "headquarters": "headquarters",
+            "gains": "expansion", "move": "expansion", "expansion": "expansion", "expands": "expansion"
+        }
         return {synonyms.get(t, t) for t in tokens}
 
     for article in articles:
@@ -1773,7 +1797,11 @@ def deduplicate_articles(articles):
             overlap = len(tokens & other_tokens) / max(1, len(tokens | other_tokens))
             # Require strong headline similarity or substantial specific-token overlap.
             shared = tokens & other_tokens
-            shared_event = bool(shared & {"acquisition", "merger", "investment", "contract", "recall", "warning", "shortage", "expansion", "agreement", "approval"})
+            shared_event = bool(shared & {
+                "acquisition", "merger", "investment", "contract", "recall",
+                "warning", "shortage", "expansion", "agreement", "approval",
+                "facility", "headquarters"
+            })
             same_specific_event = len(shared) >= 3 and shared_event
             if ratio >= 0.86 or overlap >= 0.72 or same_specific_event:
                 duplicate_index = i
@@ -1816,6 +1844,7 @@ def deduplicate_articles(articles):
 
 def select_must_know(articles):
     priority_rank = {
+        "Critical": 4,
         "High": 3,
         "Medium": 2,
         "Low": 1
@@ -1896,7 +1925,11 @@ def build_signal_summary(
 
         "Exports / Markets": 0,
 
-        "Specialty Chemicals": 0
+        "Specialty Chemicals": 0,
+
+        # Keep generic but legitimate pharma-adjacent developments visible
+        # instead of silently dropping their Risk/Opportunity counts.
+        "Pharma Industry": 0
     }
 
 
@@ -1932,20 +1965,16 @@ def main():
     # Safety protection
     # --------------------------------------------------------
 
-    if (
-        len(articles) == 0
-        and successful_feeds == 0
-    ):
-
+    if not articles:
         print(
-            "WARNING: All news feeds failed."
+            "ERROR: No eligible articles were collected; refusing to replace the last known-good data.json.",
+            file=sys.stderr,
         )
-
         print(
-            "Keeping existing data.json unchanged."
+            f"Feeds parsed successfully: {successful_feeds}. The existing data.json will be preserved.",
+            file=sys.stderr,
         )
-
-        return
+        raise SystemExit(1)
 
 
     # --------------------------------------------------------
@@ -1992,7 +2021,7 @@ def main():
     high_priority = sum(
         1
         for article in articles
-        if article["priority"] == "High"
+        if article["priority"] in ["Critical", "High"]
     )
 
 
