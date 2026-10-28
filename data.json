@@ -1,39 +1,57 @@
 {
-  "updated": "2026-10-28T08:45:57.123713+00:00",
-  "article_count": 9,
+  "updated": "2026-10-28T16:10:13.129270+00:00",
+  "article_count": 12,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 13,
   "must_know": [
     {
-      "category": "Global",
-      "title": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR - openPR.com",
-      "description": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FRSXhfWXIwTDgzd3dOSWpkZURyTkZVWlJBWWxET01OWC1zcHZaSm9Dc0hqN1R5WExPMmt3cHlTV2c3RmJnUlAzR2haYkRYRlFQSmw1bUZweUJ5al9Ibjg2dVJEcHZ4dTRvbU8yMnBSVTkzT3BsWWpNeFZEZnptUGN1eFhoMHVEUmVrbzJsNE9QZ2s2VjJoM1hXOA?oc=5",
-      "published": "2026-10-27T13:03:34+00:00",
+      "category": "India",
+      "title": "India-Mexico PTA: Talks aim to deepen trade and investment ties - The Times of India",
+      "description": "India-Mexico PTA: Talks aim to deepen trade and investment ties The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSG5aZk5MR2N2Ql9xWWFsN0ZGY2FRV0JnTWlXQzJhVnRwQlpKUGxta0FnRVF4cE5Ebk9mMnl2aU4zZUZiRkZEblJNSGFNNjYwQXVCeFdWS3Z2VzVETlBfWGlBeEhZdnpZTGpQRHBBLWZXUFZQd3BpRVdSTHhzQmFoR0tMNThFSEUxdDRLZ3Npb2dXUXpVZEZ2WjF5Y1B2N1B0NmRTb2VGVHVRRW5VNVg0c3hveEJDbDRKUllwTTZrRnBhZmtDbmpWYkF5T180MnUwYml4OGJCWlJpQXdqUXBYRzdn0gHnAUFVX3lxTFB5cHFXZ2RKV2UwNlJ1LV9mcng2X0Fua2tMOXc0dWFlVzNoSFlTNV9GV19ETjhxb3hsYlNPbk9wNGJUYUtFQ1hmcnRKcU5fWFgzMHM5dGF1X09EekFLY091bGhZQkVMVUxWb0hpa1ZBVU9uMU5YWnFOWDNJVEtubmhSWURTMWNuWnZvRG11ZzFZelJLLWt4WmVWbG80N3E3LVNweTFLRGFhOHVRS2xWT18tOU43VUh0ZGpqdlNEWWF4cXJvOVRFbXJKM2cyVW9XaTQ0bWVlb2FJcWZtb3RUY200ek94TzZBbw?oc=5",
+      "published": "2026-10-28T10:10:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs - Livemint",
+      "description": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGU0WVAyZ0I5X0QyMkJtZ0ZsZ09jUGotd0h3bl91Y1ExR3J6WFVXQ0hZZTBrUWJvem13UmVEX3NfVmtYWWUwVmxqd2JmRnhNZkhMQmFzMVFvUTZRWjh2T1h6Q25PWjdwb2tTYk05djdhTElhc0QtWGl0NU9RZHM1dHA3MjZLZW9QT0hpSlZRZGZwQ3J3MWgzY2dkWVpiVUFpczBaQ1B5d1pOUUtzbTVMSWNDNFRSZVZGU2I2bW02bF9LaVdMSWtwUC1NbjBwS0N3Zkhpa3lPa2ZYODkxejAzLUw1SFNFSnRfa2szUFJmSWZxTEtwaFdxM1A5Tk9jLVRpbUHSAYcCQVVfeXFMUFRibnFCcmlZMndKcnI4MlplaGpYUjFYbm5icGR4MjlhY0xTMkIyZ0s1MkJGRnlORjBEQWpnTFR4aDYtdGoyWE1WZy1oSUVCNDFrNmJoUGxGdHRvcmhHd002dXZtbWpsc281WTloZWw3eUVEbjNrQ3g4V01lR19TUkpja2RHZzNBWng3R2tVTmJVNVluS3Z4TEc2eHF3Z0g2eURUanBEYTlKT1lZZkZaYVlrRENndTBDV283M2RyY2dfUkNfWXhVUGVIbUphQTYtQnJFYzhGTDRqNmZ4QW5IbDFtT1A5dmVEa1UzN004V0NxLVFGbUJxeHdiZVdwdl9tODdrbnNTVHM?oc=5",
+      "published": "2026-10-28T13:02:10+00:00",
       "source": "Google News RSS",
       "signal": "General",
-      "business_area": "API / Intermediates",
+      "business_area": "Manufacturing / Plants",
       "priority": "Medium",
       "relevance": "Relevant pharma industry development for ongoing monitoring.",
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "CAGR - openPR.com Pharmaceutical"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": [
-        "347.49 billion"
+        "₹10,000 crore",
+        "10,000 crore"
       ]
     },
     {
       "category": "India",
-      "title": "Disposable Syringe Manufacturing Plant Setup Cost in India - IMARC Group",
-      "description": "Disposable Syringe Manufacturing Plant Setup Cost in India IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnVwY3owX2swRklVLWE1NjF2SEhGeU5PTVhnTWpiNEdXdmw5Z3Y1X01lR1hnV2VBMlNWSkdSRWNuYm1aVE9vWVYyQ2dpNVEwSjNWNXNncHNwRFVQNWxtTHBEM0pFTDlia3FWc3ZEVXppLWl5RGN1M1BNNm4wWjFQSTFDemVDTnhqTEpDWHRGbjFHQUpZ?oc=5",
-      "published": "2026-10-27T12:31:09+00:00",
+      "title": "Cabinet approves Rs 10,000 crore container manufacturing scheme, expected to create over 53,000 jobs - www.irishsun.com",
+      "description": "Cabinet approves Rs 10,000 crore container manufacturing scheme, expected to create over 53,000 jobs www.irishsun.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTl9wV21sWGtCem43MUlmMDh2enBYbk9NOU1OLVZENGVyTFBYMUR4bnp1TkZkdm5wVkNkejZxQWhGRzQ5NmU0X1NTYkRpc1BQRjJmR21XUzJBWWU0a2V2VHktNlc4SWZfOHluR0ZBaHFuRk9wbEJpeTI4N3Mzci1mOUdlOWFWdmpSbV9MMXM5Q1djcXROMmE5YUNBX3NVNnBkR2pLMy1WcHlFSnFKR2F0Mkp3RWFIdGpJanR3Qlg4WHdqSGtMc0swdGhYc2Qxb1dxdHFN?oc=5",
+      "published": "2026-10-28T08:02:00+00:00",
       "source": "Google News RSS",
       "signal": "General",
       "business_area": "Manufacturing / Plants",
@@ -42,29 +60,11 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [
-        "manufacturing plant"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Surgical Cotton Manufacturing Plant Setup Cost in India - IMARC Group",
-      "description": "Surgical Cotton Manufacturing Plant Setup Cost in India IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVldWU2RGcFdSeDR6dTQ0SjE1MWl2S2JxblJianNoM0xVVTl6bW80M0daNFk2MnVJRXNnMFJOc1JYZ1dtSS1MQlBBMFM4Vk1vM01RWmlvbnRwX0ZmR0xuZy1DLTRIOXZtYTBndlFHN1p3Wm92NUR6NzBCa0o4MmZMRVBjYk9qRW5pdkxqV3NYMHk?oc=5",
-      "published": "2026-10-27T10:46:09+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [
-        "manufacturing plant"
-      ],
-      "numbers": []
+      "project_signals": [],
+      "numbers": [
+        "rs 10,000 crore",
+        "10,000 crore"
+      ]
     }
   ],
   "business_signals": {
@@ -80,6 +80,122 @@
   "articles": [
     {
       "category": "India",
+      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans - scanx.trade",
+      "description": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
+      "published": "2026-10-28T14:57:43+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Bliss GVS Pharma",
+        "ESOP plans - scanx.trade Bliss GVS Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs - Livemint",
+      "description": "Union Cabinet approves ₹10,000 crore container manufacturing scheme to boost capacity tenfold, generate 53,000 jobs Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGU0WVAyZ0I5X0QyMkJtZ0ZsZ09jUGotd0h3bl91Y1ExR3J6WFVXQ0hZZTBrUWJvem13UmVEX3NfVmtYWWUwVmxqd2JmRnhNZkhMQmFzMVFvUTZRWjh2T1h6Q25PWjdwb2tTYk05djdhTElhc0QtWGl0NU9RZHM1dHA3MjZLZW9QT0hpSlZRZGZwQ3J3MWgzY2dkWVpiVUFpczBaQ1B5d1pOUUtzbTVMSWNDNFRSZVZGU2I2bW02bF9LaVdMSWtwUC1NbjBwS0N3Zkhpa3lPa2ZYODkxejAzLUw1SFNFSnRfa2szUFJmSWZxTEtwaFdxM1A5Tk9jLVRpbUHSAYcCQVVfeXFMUFRibnFCcmlZMndKcnI4MlplaGpYUjFYbm5icGR4MjlhY0xTMkIyZ0s1MkJGRnlORjBEQWpnTFR4aDYtdGoyWE1WZy1oSUVCNDFrNmJoUGxGdHRvcmhHd002dXZtbWpsc281WTloZWw3eUVEbjNrQ3g4V01lR19TUkpja2RHZzNBWng3R2tVTmJVNVluS3Z4TEc2eHF3Z0g2eURUanBEYTlKT1lZZkZaYVlrRENndTBDV283M2RyY2dfUkNfWXhVUGVIbUphQTYtQnJFYzhGTDRqNmZ4QW5IbDFtT1A5dmVEa1UzN004V0NxLVFGbUJxeHdiZVdwdl9tODdrbnNTVHM?oc=5",
+      "published": "2026-10-28T13:02:10+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "₹10,000 crore",
+        "10,000 crore"
+      ]
+    },
+    {
+      "category": "India",
+      "title": "CDSCO drug alert: Himachal pulls 92 substandard batches, halts 96 pharma units - Livemint",
+      "description": "CDSCO drug alert: Himachal pulls 92 substandard batches, halts 96 pharma units Livemint",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzVzUjhQYzhHczRueHdkVENJTWZGNGJESExxZVdOYjc1Y2pkUG9fVlZFYmQ3RlhFMUZ0Vy1maGxMMms0UGZOQVNhSjlvaEdzbnBjckRMWmlRWlpSMmtncmtJQlBMOFZmaU01MkRZYmNlclF0WnhTLUIwYWJtdkFjdEFKZ2s2V2t6eUkyblFFSmZZelNldUNMeUZQOEFYUFZ5WEpEV0JVaXpWU3RzR1d5WNIBtgFBVV95cUxOb0wycFBmb2tUU1BMY0J4V0V1WjNNR3ZHempoUTJHX1ptWEdwUzVpRGdUZUJJUlhGZHNVT0k5UXNCQU1mQWZJR1ZOVVctbGo4X1FGSm5Od2NkUVFzMXJLTlhTVlZkR3lWYnNLNW1SR29IbE9MRlpwdVZ1Q2ZjbDdwT1FrSDIxN291WV9nTy1ORDNFTjFDWkE2VzB3T1R3Ulc2djJ1MHVuRXJIZG5KNXZNSTJXVEltZw?oc=5",
+      "published": "2026-10-28T12:13:38+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Regulatory",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "India-Mexico PTA: Talks aim to deepen trade and investment ties - The Times of India",
+      "description": "India-Mexico PTA: Talks aim to deepen trade and investment ties The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSG5aZk5MR2N2Ql9xWWFsN0ZGY2FRV0JnTWlXQzJhVnRwQlpKUGxta0FnRVF4cE5Ebk9mMnl2aU4zZUZiRkZEblJNSGFNNjYwQXVCeFdWS3Z2VzVETlBfWGlBeEhZdnpZTGpQRHBBLWZXUFZQd3BpRVdSTHhzQmFoR0tMNThFSEUxdDRLZ3Npb2dXUXpVZEZ2WjF5Y1B2N1B0NmRTb2VGVHVRRW5VNVg0c3hveEJDbDRKUllwTTZrRnBhZmtDbmpWYkF5T180MnUwYml4OGJCWlJpQXdqUXBYRzdn0gHnAUFVX3lxTFB5cHFXZ2RKV2UwNlJ1LV9mcng2X0Fua2tMOXc0dWFlVzNoSFlTNV9GV19ETjhxb3hsYlNPbk9wNGJUYUtFQ1hmcnRKcU5fWFgzMHM5dGF1X09EekFLY091bGhZQkVMVUxWb0hpa1ZBVU9uMU5YWnFOWDNJVEtubmhSWURTMWNuWnZvRG11ZzFZelJLLWt4WmVWbG80N3E3LVNweTFLRGFhOHVRS2xWT18tOU43VUh0ZGpqdlNEWWF4cXJvOVRFbXJKM2cyVW9XaTQ0bWVlb2FJcWZtb3RUY200ek94TzZBbw?oc=5",
+      "published": "2026-10-28T10:10:00+00:00",
+      "source": "Google News RSS",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Regulatory or industry development that should be monitored for potential business impact.",
+      "why_it_matters": "Industry development that should be monitored for potential business impact.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "SCHOTT Pharma India marks a new chapter, building on its strong India presence and global capabilities - IndiaMedToday",
+      "description": "SCHOTT Pharma India marks a new chapter, building on its strong India presence and global capabilities IndiaMedToday",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM19VMG0ta0haOFFtVW53SERmSWVvT0ExRHRpTzRlWHE0czhtUEpCNU5xS21IZHI5aGhaeFJ1cnJxWUFzN2pmSzQ5Ykt2Y2VaTDh0emJOTEp1MUo2enNxTzBSNXZRR1Z3bkF1bUFILU5CQkEwNFFVa2JpdzM2TFF5TzdRVVBSMjlRbUlEZVZ3N0lEYW9pcnVaNURQXzl4a3hWaHNlUUxmOXJjNzlyMDQxSHcxbkhzOHBOVnpENnBuQVJsd295NFJz?oc=5",
+      "published": "2026-10-28T09:14:39+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "SCHOTT Pharma",
+        "IndiaMedToday SCHOTT Pharma"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "From Rural Aspirations to Pharmaceutical Careers: Granules India’s Pharma Pathashala Creates Pathways for Youth - Passionate In Marketing",
+      "description": "From Rural Aspirations to Pharmaceutical Careers: Granules India’s Pharma Pathashala Creates Pathways for Youth Passionate In Marketing",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHlhZ0JWVHpKRGFhQWFWNGw3cFpBZjhWUDk0NVpVWFpEWGxDMDBNaEZCbXEzTGJwNG9kUDhCMFk0M2FGVGpDdmtkZERWT2U4dkd4Mk1aemFRY1B4MTROejhSMXZ4SWxkeWJ3LTU1a2N6VnB2bWtoaWZ6ZWdGejFRU3lYXzZDVjVCVUl2RVY4Zl9qS091R2xfdVVLbS1HbEVxSEhPSVhxOHpaWFNQTFJ4cnJ4Q01ZZTdjU1VZV2l5Ykhsb19VVzRRVjVQS0xJOGJMaklSaUZUX0dham9YTEFMM3BB?oc=5",
+      "published": "2026-10-28T09:12:45+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "From Rural Aspirations to Pharmaceutical",
+        "Passionate In Marketing From Rural Aspirations to Pharmaceutical"
+      ],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
       "title": "Wockhardt's Habil Khorakiwala bats for innovation-led pharma growth, calls for regulatory overhaul - Moneycontrol.com",
       "description": "Wockhardt's Habil Khorakiwala bats for innovation-led pharma growth, calls for regulatory overhaul Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbG5mamhrM3pMZWVWTUtrcHJodXJXTGd5dWpkcklobjRrNTI5dy1RMDlQUm1SUklGQjNqNHNsSnlsV0h3X3BZM2NPc1ZjTXJzVXVoUVBDWi1PYmlXUVN6eVFEdGdaWTdDeHR6aHY2bC1pOUNYSG5ucWFpZjY5S2lRR1FZTk9CeFFWMnNHODdHQ0hpN2E5QkJKUVBNTFZVN0FaMXhNUlBseUNzVVBWekJ4TWhZNEhWa2NBV1RDM3JQV0JtRksxZ2ZxSExvN3E3S05scG9FWE94VzhlaEV2aTMzQ1ZKT210WUlNVUHSAe8BQVVfeXFMT1QweFRaTGRfa1I4cHF2bE8wLUE3WnlMd3ZlMW1FWmlHRHBEV1V6NEkyc0JabW1Ybk5qOGEtTE5aWl9iTnkzelBaTzZXZmsxbDl0Q2o0NXRtSnRtbFV4NDBBdlcwT3lTck9TVG5CQ1VZaUtKcWxDdGFuaXlQQVEwTE4tUHM0ZG9yUE00LU9OZ2NBdjR5MkNOSFJHWXdrdW1GWVJ5XzhKSXNyWUlZa0x2S2tnMVZSUF9PTTRrMUpvekVYZDRFS3pHZk85Um16VGJWN1htWkxoeGdsMGVQeFowam1sUENQTnlzV0VaZDRyQWc?oc=5",
@@ -92,6 +208,46 @@
       "why_it_matters": "Relevant pharma industry development for monitoring.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
+      "project_signals": [],
+      "numbers": []
+    },
+    {
+      "category": "India",
+      "title": "Cabinet approves Rs 10,000 crore container manufacturing scheme, expected to create over 53,000 jobs - www.irishsun.com",
+      "description": "Cabinet approves Rs 10,000 crore container manufacturing scheme, expected to create over 53,000 jobs www.irishsun.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTl9wV21sWGtCem43MUlmMDh2enBYbk9NOU1OLVZENGVyTFBYMUR4bnp1TkZkdm5wVkNkejZxQWhGRzQ5NmU0X1NTYkRpc1BQRjJmR21XUzJBWWU0a2V2VHktNlc4SWZfOHluR0ZBaHFuRk9wbEJpeTI4N3Mzci1mOUdlOWFWdmpSbV9MMXM5Q1djcXROMmE5YUNBX3NVNnBkR2pLMy1WcHlFSnFKR2F0Mkp3RWFIdGpJanR3Qlg4WHdqSGtMc0swdGhYc2Qxb1dxdHFN?oc=5",
+      "published": "2026-10-28T08:02:00+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "rs 10,000 crore",
+        "10,000 crore"
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "MCADDI 2026 brings together drug discovery experts at University of Hyderabad - Express Pharma",
+      "description": "MCADDI 2026 brings together drug discovery experts at University of Hyderabad Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUtLYjB0ckkwSmtpb09oSTB6LV9PNnlOcXJ3ZTlIREVwN3lHZjdJTEw1LUZuc0RqckhXX0dmQmpLd2dkdFo3OHhqY3RzQ3BXenFVbXRPdHRhQnRJOF9zSVhEYU1wSHJkQXFfRFl0eTlNSUZFMXVIcTBMellYTXNsbmRsb3ZaZElERFpWYUdwajFJN3lxbmxmQ3QxOUpvSHdCVnlUeTgwd3N4am8?oc=5",
+      "published": "2026-10-28T06:11:50+00:00",
+      "source": "Google News RSS",
+      "signal": "General",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Relevant pharma industry development for ongoing monitoring.",
+      "why_it_matters": "Relevant pharma industry development for monitoring.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "University of Hyderabad - Express Pharma",
+        "University of Hyderabad Express Pharma"
+      ],
       "project_signals": [],
       "numbers": []
     },
@@ -152,102 +308,6 @@
       "numbers": [
         "rs 10,000"
       ]
-    },
-    {
-      "category": "Global",
-      "title": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR - openPR.com",
-      "description": "Pharmaceutical API Manufacturing Market Analysis Highlights Growth To $347.49 Billion By 2030 At 6.8% CAGR openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FRSXhfWXIwTDgzd3dOSWpkZURyTkZVWlJBWWxET01OWC1zcHZaSm9Dc0hqN1R5WExPMmt3cHlTV2c3RmJnUlAzR2haYkRYRlFQSmw1bUZweUJ5al9Ibjg2dVJEcHZ4dTRvbU8yMnBSVTkzT3BsWWpNeFZEZnptUGN1eFhoMHVEUmVrbzJsNE9QZ2s2VjJoM1hXOA?oc=5",
-      "published": "2026-10-27T13:03:34+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "CAGR - openPR.com Pharmaceutical"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "347.49 billion"
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Disposable Syringe Manufacturing Plant Setup Cost in India - IMARC Group",
-      "description": "Disposable Syringe Manufacturing Plant Setup Cost in India IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnVwY3owX2swRklVLWE1NjF2SEhGeU5PTVhnTWpiNEdXdmw5Z3Y1X01lR1hnV2VBMlNWSkdSRWNuYm1aVE9vWVYyQ2dpNVEwSjNWNXNncHNwRFVQNWxtTHBEM0pFTDlia3FWc3ZEVXppLWl5RGN1M1BNNm4wWjFQSTFDemVDTnhqTEpDWHRGbjFHQUpZ?oc=5",
-      "published": "2026-10-27T12:31:09+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [
-        "manufacturing plant"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Torrent Pharma Q2 FY27: India, Brazil, US or Germany; Which Market Led Growth? - Trade Brains",
-      "description": "Torrent Pharma Q2 FY27: India, Brazil, US or Germany; Which Market Led Growth? Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0ZjTVB5SElnQkFLWUF3RHc5ZE5UR1BsOHJNQXdlRmFFS0lwUDRRZU5RZ2xaV3NSaHRsbTdIZjNJT2lWcWFHcGQ2N1d0ZXdjZjctdWRGUGVTZUJjeGFrb1F2cFZwYlluTHZmYWxZRmw4dHp5NUFHVjdvc2pyWHI5TTN2NnYxMTdMejRWYlZQTXVSMlgzbWszX1M2LWFRTzg4OGNFVmNkQVJudDVNdTNpUThhM0Q5Z0ZHXzJ5aw?oc=5",
-      "published": "2026-10-27T11:28:57+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Torrent Pharma",
-        "Trade Brains Torrent Pharma"
-      ],
-      "project_signals": [],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "Surgical Cotton Manufacturing Plant Setup Cost in India - IMARC Group",
-      "description": "Surgical Cotton Manufacturing Plant Setup Cost in India IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVldWU2RGcFdSeDR6dTQ0SjE1MWl2S2JxblJianNoM0xVVTl6bW80M0daNFk2MnVJRXNnMFJOc1JYZ1dtSS1MQlBBMFM4Vk1vM01RWmlvbnRwX0ZmR0xuZy1DLTRIOXZtYTBndlFHN1p3Wm92NUR6NzBCa0o4MmZMRVBjYk9qRW5pdkxqV3NYMHk?oc=5",
-      "published": "2026-10-27T10:46:09+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [
-        "manufacturing plant"
-      ],
-      "numbers": []
-    },
-    {
-      "category": "India",
-      "title": "OneSource Q2: Revenue Up 37% and EBITDA Up 53% as New Drug-Device Capacity Starts Paying Off - Trade Brains",
-      "description": "OneSource Q2: Revenue Up 37% and EBITDA Up 53% as New Drug-Device Capacity Starts Paying Off Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOU1HWmlSdjBnTUF0OWZ1RVVIdHcwbmM1Z3lWdkF0TEszVFNJTzJkb0JWOEIzR19lWklyQUc2b2pVbmFZdTk4VmNfT0ZTelB4UjZ0NDJWUDlTbVNRR1BFZEpPMFZVSUk2dVJ4YVR2TEdVd1pJejBrYlQyYU82OXZ4Qk1nenlxN3VXNFJJWlhpQUJ4dnQxc1NFSDFnTU1iUS1oNVJaZVowM2t5andzSU0yMHgtQndmazF1WnpKX0RYQ2l3Z0V3LUdRTHpHSVZ6c3F5bnc?oc=5",
-      "published": "2026-10-27T09:34:57+00:00",
-      "source": "Google News RSS",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Low",
-      "relevance": "Relevant pharma industry development for ongoing monitoring.",
-      "why_it_matters": "Relevant pharma industry development for monitoring.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": []
     }
   ]
 }
