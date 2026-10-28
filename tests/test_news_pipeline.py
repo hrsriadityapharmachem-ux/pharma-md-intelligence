@@ -8,9 +8,23 @@ from pathlib import Path
 from unittest.mock import patch
 
 import news
+import validate_data
 
 
 class NewsPipelineSmokeTest(unittest.TestCase):
+    def test_malformed_xml_feed_is_not_counted_as_successful(self):
+        original_cwd = os.getcwd()
+        try:
+            with patch.dict(news.FEEDS, {"India": ["https://example.com/feed"]}, clear=True):
+                with patch.object(news, "get_feed", return_value=b"<rss><channel><item>"):
+                    with contextlib.redirect_stdout(io.StringIO()):
+                        articles, successful_feeds = news.collect_news()
+            self.assertEqual(articles, [])
+            self.assertEqual(successful_feeds, 0)
+        finally:
+            os.chdir(original_cwd)
+
+
     def test_valid_feed_produces_fresh_valid_json(self):
         rss = b"""<?xml version="1.0" encoding="UTF-8"?>
         <rss version="2.0"><channel><title>Test Feed</title><item>
@@ -35,6 +49,8 @@ class NewsPipelineSmokeTest(unittest.TestCase):
                 self.assertEqual(data["successful_feeds"], 1)
                 self.assertEqual(data["articles"][0]["signal"], "Risk")
                 self.assertTrue(data["updated"])
+                with contextlib.redirect_stdout(io.StringIO()):
+                    validate_data.main()
             finally:
                 os.chdir(original_cwd)
 
