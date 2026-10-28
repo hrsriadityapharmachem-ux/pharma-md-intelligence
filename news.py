@@ -407,6 +407,9 @@ def term_matches(text, keyword):
     """Match short pharma acronyms as whole words, not substrings such as API in capital."""
     text = (text or "").lower()
     term = (keyword or "").lower()
+    if term == "ban":
+        # Avoid false positives such as "ban" inside the publisher name "Urban".
+        return re.search(r"\bban(?:s|ned|ning)?\b", text) is not None
     if term in {"api", "fda", "ema", "cdsco", "cdmo"}:
         return re.search(rf"\b{re.escape(term)}\b", text) is not None
     return term in text
@@ -766,7 +769,7 @@ def determine_signal(text):
     if any(x in lower for x in industry_development):
         return "Watch"
 
-    if any(keyword.lower() in lower for keyword in RISK_KEYWORDS):
+    if any(term_matches(lower, keyword) for keyword in RISK_KEYWORDS):
         return "Risk"
 
     return "General"
