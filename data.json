@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T21:12:07.428702+00:00",
+  "updated": "2026-10-29T01:04:58.061140+00:00",
   "engine_version": "3.7.0",
-  "article_count": 3,
+  "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 2,
@@ -209,41 +209,6 @@
         {
           "source": "eHealth Magazine",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Beyond trade deals: What’s holding back India’s pharma exports?",
-      "description": "Beyond trade deals: What’s holding back India’s pharma exports?",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzByaU4wVVFmMkRHbWlhWUREOGxKUEJ5a205cHdpZ2xYU2ZtT2dhZndzdGdKM256OGFDR1hpYVpqQnlSUzQ2VkVjRllXWnRCNW1zZzRRemRWb0xLRTFsVlVxZmN1cF9jTXNLRFVFSVptMTZyTy1CVG5idDFLQ3BVcU9pZWhEWEMxVFdLV05Va2pOQ1M3MmlpQWJiWXN0Q1nSAZ8BQVVfeXFMT18wcmlOMFVRZjJER21pYVlERDhsSlBCeWttOXB3aWdsWFNmbU9nYWZ3c3RnSjNuejhhQ0dYaWFaakJ5UlM0NlZFY0ZZV1p0QjVtc2c0UXpkVm9MS0UxbFZVcWZjdXBfY01zS0RVRUlabTE2ck8tQlRuYnQxS0NwVXFPaWVoRFhDMVRXS1dOVWtqTkNTNzJpaUFiYllzdENZ?oc=5",
-      "published": "2026-10-28T05:30:03+00:00",
-      "source": "Indian Transport & Logistics",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Indian Transport & Logistics",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "Beyond trade deals: What’s holding back India’s pharma exports?.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Indian Transport & Logistics; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Indian Transport & Logistics",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzByaU4wVVFmMkRHbWlhWUREOGxKUEJ5a205cHdpZ2xYU2ZtT2dhZndzdGdKM256OGFDR1hpYVpqQnlSUzQ2VkVjRllXWnRCNW1zZzRRemRWb0xLRTFsVlVxZmN1cF9jTXNLRFVFSVptMTZyTy1CVG5idDFLQ3BVcU9pZWhEWEMxVFdLV05Va2pOQ1M3MmlpQWJiWXN0Q1nSAZ8BQVVfeXFMT18wcmlOMFVRZjJER21pYVlERDhsSlBCeWttOXB3aWdsWFNmbU9nYWZ3c3RnSjNuejhhQ0dYaWFaakJ5UlM0NlZFY0ZZV1p0QjVtc2c0UXpkVm9MS0UxbFZVcWZjdXBfY01zS0RVRUlabTE2ck8tQlRuYnQxS0NwVXFPaWVoRFhDMVRXS1dOVWtqTkNTNzJpaUFiYllzdENZ?oc=5"
         }
       ]
     }
