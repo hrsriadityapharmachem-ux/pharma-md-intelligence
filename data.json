@@ -1,13 +1,97 @@
 {
-  "updated": "2026-10-29T07:16:27.234987+00:00",
+  "updated": "2026-10-29T14:30:36.849018+00:00",
   "engine_version": "3.7.0",
-  "article_count": 3,
+  "article_count": 8,
   "opportunity_count": 0,
-  "risk_count": 0,
-  "watch_count": 2,
-  "high_priority_count": 1,
+  "risk_count": 1,
+  "watch_count": 4,
+  "high_priority_count": 3,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+      "description": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5",
+      "published": "2026-10-29T07:28:59+00:00",
+      "source": "Machine Maker",
+      "signal": "Risk",
+      "business_area": "Supply Chain",
+      "priority": "High",
+      "relevance": "Potential supply exposure; affected materials, suppliers and alternative sources need verification.",
+      "why_it_matters": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked.",
+      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
+      "companies": [
+        "NATCO Pharma",
+        "Supply Shortage NATCO Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Machine Maker",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Supply Disruption",
+      "what_happened": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential supply-chain exposure exists. Affected materials, suppliers and markets should be verified.",
+      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
+      "evidence_level": "Medium",
+      "confidence": 80,
+      "importance_score": 18,
+      "fact_status": "Reported by Machine Maker; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Machine Maker",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+      "description": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5",
+      "published": "2026-10-29T11:46:04+00:00",
+      "source": "Trade Brains",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Senores Pharmaceuticals"
+      ],
+      "project_signals": [
+        "capacity expansion"
+      ],
+      "numbers": [
+        "₹43 cr",
+        "43 cr"
+      ],
+      "source_name": "Trade Brains",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
+        },
+        {
+          "source": "Trade Brains",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
+        }
+      ]
+    },
     {
       "category": "Vizag / AP",
       "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
@@ -44,48 +128,6 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5"
         }
       ]
-    },
-    {
-      "category": "India",
-      "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
-      "description": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5",
-      "published": "2026-10-28T08:12:22+00:00",
-      "source": "eHealth Magazine",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Sudeep Pharma",
-        "H2 FY27 Sudeep Pharma"
-      ],
-      "project_signals": [
-        "greenfield"
-      ],
-      "numbers": [
-        "51,200 mt"
-      ],
-      "source_name": "eHealth Magazine",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 14,
-      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
-        }
-      ]
     }
   ],
   "business_signals": {
@@ -93,7 +135,7 @@
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
-    "Supply Chain": 0,
+    "Supply Chain": 1,
     "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
@@ -102,29 +144,235 @@
   "daily_brief": {
     "attention": [
       {
+        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+        "signal": "Risk",
+        "why": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked."
+      },
+      {
+        "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
         "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
-      },
-      {
-        "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
     ],
     "investigate": [
       {
-        "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+        "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
       },
       {
-        "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
+        "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
         "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "India's pharma exports grow 4.9% to $16.14 bn in H1FY27 on Europe gains",
+      "description": "India's pharma exports grow 4.9% to $16.14 bn in H1FY27 on Europe gains",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3ZGejhWVzZvdndmSnF6RHFIQkZSWGRGSW9Ua3hvZWxiQTBQMjlvT3RPdm1NazVMUFFJdF9ZMUlMRmZWaERFRHA1bjhYbjhRSHVOaUxlOEQ2dVdPaFNtV3JUNUFlR0R3SGZOMWJLTHlYak1lNTJQeE1pSy05T3c2VEpmMnk4QWttWHo5dGVZNVVCMHd1QXpEUDA4ak8yTWRYdm5IWVU3d0kyNTMwN0UteFhwMGtLcEpqX3cwT1lDb2NPOVBZS05jMWdoVDJTMmd3ano40gHYAUFVX3lxTE9XeUFQX1otcUVLdlE3RUxXa25kYVhKX2M0TGZzSjY3Wl9hZDRCMmdoQVF4eW9VZG1tOUxiUk9KcUJDNmYtNktsN2VZTDIzQ2xyZFo3Yl9ZeURlOHRlWE9BanphdXpzTk9xUUllSExIcllOekY2dnd2NWswcjdFWW1SZlJ5cXpsc2oxNm5LVHNVVVdzZUZ6MUlNMmFDYU95X3VLQjJJcmdvWXI3QlZQWlBHRVVVTEpubHRCZk1EbFJfRU51aExkNFZqY3ZoZVdISGNrbS1JdmhiUQ?oc=5",
+      "published": "2026-10-29T13:59:07+00:00",
+      "source": "Business Standard",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "16.14 bn",
+        "$16.14 bn"
+      ],
+      "source_name": "Business Standard",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India's pharma exports grow 4.9% to $16.14 bn in H1FY27 on Europe gains.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Business Standard; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3ZGejhWVzZvdndmSnF6RHFIQkZSWGRGSW9Ua3hvZWxiQTBQMjlvT3RPdm1NazVMUFFJdF9ZMUlMRmZWaERFRHA1bjhYbjhRSHVOaUxlOEQ2dVdPaFNtV3JUNUFlR0R3SGZOMWJLTHlYak1lNTJQeE1pSy05T3c2VEpmMnk4QWttWHo5dGVZNVVCMHd1QXpEUDA4ak8yTWRYdm5IWVU3d0kyNTMwN0UteFhwMGtLcEpqX3cwT1lDb2NPOVBZS05jMWdoVDJTMmd3ano40gHYAUFVX3lxTE9XeUFQX1otcUVLdlE3RUxXa25kYVhKX2M0TGZzSjY3Wl9hZDRCMmdoQVF4eW9VZG1tOUxiUk9KcUJDNmYtNktsN2VZTDIzQ2xyZFo3Yl9ZeURlOHRlWE9BanphdXpzTk9xUUllSExIcllOekY2dnd2NWswcjdFWW1SZlJ5cXpsc2oxNm5LVHNVVVdzZUZ6MUlNMmFDYU95X3VLQjJJcmdvWXI3QlZQWlBHRVVVTEpubHRCZk1EbFJfRU51aExkNFZqY3ZoZVdISGNrbS1JdmhiUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+      "description": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5",
+      "published": "2026-10-29T11:46:04+00:00",
+      "source": "Trade Brains",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Senores Pharmaceuticals"
+      ],
+      "project_signals": [
+        "capacity expansion"
+      ],
+      "numbers": [
+        "₹43 cr",
+        "43 cr"
+      ],
+      "source_name": "Trade Brains",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
+        },
+        {
+          "source": "Trade Brains",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India pharma and healthcare deals hit record 87 in Q3 CY2026 as hospitals attract $1.8 billion in PE investments: Grant Thronton",
+      "description": "India pharma and healthcare deals hit record 87 in Q3 CY2026 as hospitals attract $1.8 billion in PE investments: Grant Thronton",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORmhGYjEyTDhhZUw5Y2JKNVl0Zl9pRXI4VG1lOG94QjBPVDA0TlZLUmhjYjRSNGVjZExFZHBkNGthd3dIRW5XWE8tY0FLM3doMWZDTzh5SzhKb2F0Z1pHVlRyWGNQd0oySF85QlE2cjZkZGJ4eVZhVjFQcnZVeVBSejF1WmRpUktQVkgtYmNCY05aOEhmZ0tfd1VXUEMxY2U0c2JSdEVIWHB2R196SVBBUmpDX2ZSOXVyM1FNeDFSajlpcVhYMWhEMlRyT3A4Njlwd0RxVG9sR1NodlJ3UG9DUTItS3paaTJSUnV6UUZEcFMwQmlvck1VeWdldjBZYWdwLWxPNHFn0gGTAkFVX3lxTFBXVTJFb0MxZXhQMVUxcUk4TWxxU3BETEo3NHF3ZHFTYXB0R09aNVdoblFabFhsdFRPal9oOTd5eEdNUEFIR1Bfd3JDaHJpc1pLNmdZRmM3U2FudlkyZUFEaVNRaHhQRVdoTEdUWV95M2o3RWdwMExkUG1PQ0pmY2FXcjhvMFlJcmtmRl9MVTZjdHFRZGJ5WTFocW9VZ1JlalVlTWhORVdIWnV5cVdLLVZFT0tiOWtVd2Z4bnBuM3NYNnBvT3pmZ1pQS3U1R3I0MDVFN0NCdjhGcVJhc1dtaEdvRHNzblpTR3VFWm1DemhNMVRXQ25KQjZlNE92aFZ6aHBWRURfVjctOTJGQU9NX2RkZTJB?oc=5",
+      "published": "2026-10-29T08:11:05+00:00",
+      "source": "Fortune India",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": [
+        "1.8 billion",
+        "$1.8 billion"
+      ],
+      "source_name": "Fortune India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "India pharma and healthcare deals hit record 87 in Q3 CY2026 as hospitals attract $1.8 billion in PE investments: Grant Thronton.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Fortune India; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Fortune India",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORmhGYjEyTDhhZUw5Y2JKNVl0Zl9pRXI4VG1lOG94QjBPVDA0TlZLUmhjYjRSNGVjZExFZHBkNGthd3dIRW5XWE8tY0FLM3doMWZDTzh5SzhKb2F0Z1pHVlRyWGNQd0oySF85QlE2cjZkZGJ4eVZhVjFQcnZVeVBSejF1WmRpUktQVkgtYmNCY05aOEhmZ0tfd1VXUEMxY2U0c2JSdEVIWHB2R196SVBBUmpDX2ZSOXVyM1FNeDFSajlpcVhYMWhEMlRyT3A4Njlwd0RxVG9sR1NodlJ3UG9DUTItS3paaTJSUnV6UUZEcFMwQmlvck1VeWdldjBZYWdwLWxPNHFn0gGTAkFVX3lxTFBXVTJFb0MxZXhQMVUxcUk4TWxxU3BETEo3NHF3ZHFTYXB0R09aNVdoblFabFhsdFRPal9oOTd5eEdNUEFIR1Bfd3JDaHJpc1pLNmdZRmM3U2FudlkyZUFEaVNRaHhQRVdoTEdUWV95M2o3RWdwMExkUG1PQ0pmY2FXcjhvMFlJcmtmRl9MVTZjdHFRZGJ5WTFocW9VZ1JlalVlTWhORVdIWnV5cVdLLVZFT0tiOWtVd2Z4bnBuM3NYNnBvT3pmZ1pQS3U1R3I0MDVFN0NCdjhGcVJhc1dtaEdvRHNzblpTR3VFWm1DemhNMVRXQ25KQjZlNE92aFZ6aHBWRURfVjctOTJGQU9NX2RkZTJB?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+      "description": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5",
+      "published": "2026-10-29T07:28:59+00:00",
+      "source": "Machine Maker",
+      "signal": "Risk",
+      "business_area": "Supply Chain",
+      "priority": "High",
+      "relevance": "Potential supply exposure; affected materials, suppliers and alternative sources need verification.",
+      "why_it_matters": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked.",
+      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
+      "companies": [
+        "NATCO Pharma",
+        "Supply Shortage NATCO Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Machine Maker",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Supply Disruption",
+      "what_happened": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential supply-chain exposure exists. Affected materials, suppliers and markets should be verified.",
+      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
+      "evidence_level": "Medium",
+      "confidence": 80,
+      "importance_score": 18,
+      "fact_status": "Reported by Machine Maker; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Machine Maker",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India’s Pharma Exports Grow 4.9% To $16.14 Bn In April-September 2026",
+      "description": "India’s Pharma Exports Grow 4.9% To $16.14 Bn In April-September 2026",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUFYNnQ0bDhHZTVBeVEtUnV5WFU1MmhhWDBOUG9jbjg5ZWs1Xzc1N3lGR2FUQ2trMDQ3NC1FamVwS1E0MVB4czFIR2s1S3ZmY1VFODJRUnUtMkVtNFlVRzQxbUM0TW5YSTNrUlhWTzdTUDV5Tk94NEVMeThMeFNZeUJndl9JZ2REek8yN1Vna2ltSUpFOVdWRmYxdzhOMUZOUzZZY0tpdjIyYlpVaG9pOA?oc=5",
+      "published": "2026-10-29T01:30:05+00:00",
+      "source": "BW Businessworld",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "16.14 bn",
+        "$16.14 bn"
+      ],
+      "source_name": "BW Businessworld",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India’s Pharma Exports Grow 4.9% To $16.14 Bn In April-September 2026.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by BW Businessworld; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "BW Businessworld",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUFYNnQ0bDhHZTVBeVEtUnV5WFU1MmhhWDBOUG9jbjg5ZWs1Xzc1N3lGR2FUQ2trMDQ3NC1FamVwS1E0MVB4czFIR2s1S3ZmY1VFODJRUnUtMkVtNFlVRzQxbUM0TW5YSTNrUlhWTzdTUDV5Tk94NEVMeThMeFNZeUJndl9JZ2REek8yN1Vna2ltSUpFOVdWRmYxdzhOMUZOUzZZY0tpdjIyYlpVaG9pOA?oc=5"
+        }
+      ]
+    },
     {
       "category": "Vizag / AP",
       "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
@@ -236,6 +484,10 @@
         {
           "source": "Indian Transport & Logistics",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVE1djI1alduTV9POUZnTlVxSzhuNmV1MW1HZ1JDakxjRnRWdTR1M1NaZHJSckEyWmVnOVE5cXpsbVRiWjNuWnhRUHNOaThsUTNlcWVkR293VGxWcm1oM2hFZlBWZWJtdl9ubjhYUjRGMG9rWVh6Y2ZRRjliY2cwTTVJb1NPbmIxdWpmMFdHdnlPa0lWSlBHbGlB0gGfAUFVX3lxTE9fMHJpTjBVUWYyREdtaWFZREQ4bEpQQnlrbTlwd2lnbFhTZm1PZ2Fmd3N0Z0ozbno4YUNHWGlhWmpCeVJTNDZWRWNGWVdadEI1bXNnNFF6ZFZvTEtFMWxWVXFmY3VwX2NNc0tEVUVJWm0xNnJPLUJUbmJ0MUtDcFVxT2llaERYQzFUV0tXTlVrak5DUzcyaWlBYmJZc3RDWQ?oc=5"
+        },
+        {
+          "source": "Indian Transport & Logistics",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzByaU4wVVFmMkRHbWlhWUREOGxKUEJ5a205cHdpZ2xYU2ZtT2dhZndzdGdKM256OGFDR1hpYVpqQnlSUzQ2VkVjRllXWnRCNW1zZzRRemRWb0xLRTFsVlVxZmN1cF9jTXNLRFVFSVptMTZyTy1CVG5idDFLQ3BVcU9pZWhEWEMxVFdLV05Va2pOQ1M3MmlpQWJiWXN0Q1nSAZ8BQVVfeXFMT18wcmlOMFVRZjJER21pYVlERDhsSlBCeWttOXB3aWdsWFNmbU9nYWZ3c3RnSjNuejhhQ0dYaWFaakJ5UlM0NlZFY0ZZV1p0QjVtc2c0UXpkVm9MS0UxbFZVcWZjdXBfY01zS0RVRUlabTE2ck8tQlRuYnQxS0NwVXFPaWVoRFhDMVRXS1dOVWtqTkNTNzJpaUFiYllzdENZ?oc=5"
         }
       ]
     }
