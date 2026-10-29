@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-29T01:04:58.061140+00:00",
+  "updated": "2026-10-29T07:16:27.234987+00:00",
   "engine_version": "3.7.0",
-  "article_count": 2,
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 2,
@@ -81,10 +81,6 @@
       "importance_score": 14,
       "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
       "related_sources": [
-        {
-          "source": "Machine Maker",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5"
-        },
         {
           "source": "eHealth Magazine",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
@@ -203,12 +199,43 @@
       "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Machine Maker",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZ4a05GNkUyMXVtaHN5SHNqak9ndzdKaDVOcUgtRGJ5c0FUQ1kzRHpjSnRLaXdCRzU4MVZYa1pQMktHTEZoYkxDbFR1ZENtZU1yQWtCSldkdHVpTnlyWWJDcWIzRE9ZbDVWRzBDSmVKSEpaS2VDS0xJVjlLNGpfNGFSaWNqQTFGUkZyQ0p3OTFpZXlIOV9XZEplUUVsX2QyMmhNb254Q3FRUjNlamtLaDJ5MEtxWDhfcVE?oc=5"
-        },
-        {
           "source": "eHealth Magazine",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Beyond trade deals: What’s holding back India’s pharma exports?",
+      "description": "Beyond trade deals: What’s holding back India’s pharma exports?",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVE1djI1alduTV9POUZnTlVxSzhuNmV1MW1HZ1JDakxjRnRWdTR1M1NaZHJSckEyWmVnOVE5cXpsbVRiWjNuWnhRUHNOaThsUTNlcWVkR293VGxWcm1oM2hFZlBWZWJtdl9ubjhYUjRGMG9rWVh6Y2ZRRjliY2cwTTVJb1NPbmIxdWpmMFdHdnlPa0lWSlBHbGlB0gGfAUFVX3lxTE9fMHJpTjBVUWYyREdtaWFZREQ4bEpQQnlrbTlwd2lnbFhTZm1PZ2Fmd3N0Z0ozbno4YUNHWGlhWmpCeVJTNDZWRWNGWVdadEI1bXNnNFF6ZFZvTEtFMWxWVXFmY3VwX2NNc0tEVUVJWm0xNnJPLUJUbmJ0MUtDcFVxT2llaERYQzFUV0tXTlVrak5DUzcyaWlBYmJZc3RDWQ?oc=5",
+      "published": "2026-10-28T05:30:03+00:00",
+      "source": "Indian Transport & Logistics",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Indian Transport & Logistics",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "Beyond trade deals: What’s holding back India’s pharma exports?.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Indian Transport & Logistics; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Indian Transport & Logistics",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVE1djI1alduTV9POUZnTlVxSzhuNmV1MW1HZ1JDakxjRnRWdTR1M1NaZHJSckEyWmVnOVE5cXpsbVRiWjNuWnhRUHNOaThsUTNlcWVkR293VGxWcm1oM2hFZlBWZWJtdl9ubjhYUjRGMG9rWVh6Y2ZRRjliY2cwTTVJb1NPbmIxdWpmMFdHdnlPa0lWSlBHbGlB0gGfAUFVX3lxTE9fMHJpTjBVUWYyREdtaWFZREQ4bEpQQnlrbTlwd2lnbFhTZm1PZ2Fmd3N0Z0ozbno4YUNHWGlhWmpCeVJTNDZWRWNGWVdadEI1bXNnNFF6ZFZvTEtFMWxWVXFmY3VwX2NNc0tEVUVJWm0xNnJPLUJUbmJ0MUtDcFVxT2llaERYQzFUV0tXTlVrak5DUzcyaWlBYmJZc3RDWQ?oc=5"
         }
       ]
     }
