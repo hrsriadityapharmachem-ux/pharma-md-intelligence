@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30T06:04:58.613734+00:00",
+  "updated": "2026-10-30T13:14:24.097795+00:00",
   "engine_version": "3.7.0",
-  "article_count": 9,
+  "article_count": 13,
   "opportunity_count": 0,
-  "risk_count": 1,
-  "watch_count": 4,
+  "risk_count": 2,
+  "watch_count": 7,
   "high_priority_count": 3,
   "successful_feeds": 20,
   "must_know": [
@@ -48,10 +48,211 @@
     },
     {
       "category": "India",
+      "title": "India halts Sun Pharma eye drug production over quality issues",
+      "description": "India halts Sun Pharma eye drug production over quality issues",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5",
+      "published": "2026-10-30T13:12:49+00:00",
+      "source": "UA.NEWS",
+      "signal": "Risk",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [
+        "Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "UA.NEWS",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "India halts Sun Pharma eye drug production over quality issues.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by UA.NEWS; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "UA.NEWS",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
       "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
       "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
-      "published": "2026-10-30T01:55:23+00:00",
+      "published": "2026-10-30T07:59:16+00:00",
+      "source": "eHealth Magazine",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Senores Pharmaceuticals",
+        "Syringe Line Senores Pharmaceuticals"
+      ],
+      "project_signals": [
+        "capacity expansion"
+      ],
+      "numbers": [
+        "₹43 crore",
+        "43 crore"
+      ],
+      "source_name": "eHealth Magazine",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "eHealth Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
+        },
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
+        }
+      ]
+    }
+  ],
+  "business_signals": {
+    "API / Intermediates": 0,
+    "CDMO / Contract Manufacturing": 0,
+    "Investment / Expansion": 0,
+    "Manufacturing / Plants": 1,
+    "Supply Chain": 1,
+    "Regulatory": 0,
+    "Exports / Markets": 0,
+    "Specialty Chemicals": 0,
+    "Pharma Industry": 0
+  },
+  "daily_brief": {
+    "attention": [
+      {
+        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+        "signal": "Risk",
+        "why": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked."
+      },
+      {
+        "title": "India halts Sun Pharma eye drug production over quality issues",
+        "signal": "Risk",
+        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+      },
+      {
+        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      }
+    ],
+    "investigate": [
+      {
+        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
+        "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
+      },
+      {
+        "title": "India halts Sun Pharma eye drug production over quality issues",
+        "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
+      }
+    ],
+    "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
+  },
+  "articles": [
+    {
+      "category": "India",
+      "title": "India halts Sun Pharma eye drug production over quality issues",
+      "description": "India halts Sun Pharma eye drug production over quality issues",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5",
+      "published": "2026-10-30T13:12:49+00:00",
+      "source": "UA.NEWS",
+      "signal": "Risk",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [
+        "Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "UA.NEWS",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "India halts Sun Pharma eye drug production over quality issues.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by UA.NEWS; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "UA.NEWS",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
+      "description": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5",
+      "published": "2026-10-30T08:57:11+00:00",
+      "source": "Yahoo Finance",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving India's Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between India's Sun Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "India's Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Yahoo Finance",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Yahoo Finance; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
+      "published": "2026-10-30T07:59:16+00:00",
       "source": "eHealth Magazine",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
@@ -94,85 +295,80 @@
       ]
     },
     {
-      "category": "Vizag / AP",
-      "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
-      "description": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5",
-      "published": "2026-10-28T19:48:27+00:00",
-      "source": "Deccan Chronicle",
+      "category": "India",
+      "title": "Sun Pharma shares rise 2%; gets US FDA approval for ILUMYA to treat psoriatic arthritis",
+      "description": "Sun Pharma shares rise 2%; gets US FDA approval for ILUMYA to treat psoriatic arthritis",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFhIU1BLV0J1VWY5ZWZuVUk2VGl5OFhtNG8xU294S1FrRTNfRU1ELTd6V0g4YmdtNEFKRGw4UV9NWWpqYUJOWklDemYzMkdwOVBZRzNFeVVkOXZpNm56aGRjaXdjRmZGckNvN1F2RzZkX1BkcktlRHJMQUx4eTUxZUhTUmpnbG5uNlRIb21FMEc2bk9lNFFNNXhWdEVKOGc1YWtjQ2kzQWxjTThCamduWllMVnE4V1RxQm5YdHZaLXpCOXp4aVNJeTZSNGhKTGdoUFlBUU1vUmFQUzU0bUHSAeQBQVVfeXFMTWdtMGI2M25KWElnaFNERkMzeGR6WmJBd0RFYVIyTS1FNjBaR3lWNUJ4ZExaOEw5bHNidFVCY1NaeWxTZ09lVk94TGZUaWFBUlpuLUhFb0NubGozdmxBS216cXFBR21MSUhOaGRaU1RZT1F0VEpsclBnbnlZNkRkeHFMUGpmYTNEYktWNy05UUZtZGc5WkJqel9CYjhobFlCc2lBOGh4RDFiVHJLZTNKWkNtY1VkampCcFp4blZDaERvdDFfaTZDTFRucl9mU0ZUNUtQT241NGZ5RXJRUnhEeTdXQ2l5?oc=5",
+      "published": "2026-10-30T07:00:42+00:00",
+      "source": "The Financial Express",
       "signal": "Watch",
-      "business_area": "API / Intermediates",
+      "business_area": "Regulatory",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [],
-      "project_signals": [
-        "bulk drug park"
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sun Pharma"
       ],
+      "project_signals": [],
       "numbers": [],
-      "source_name": "Deccan Chronicle",
-      "source_credibility": "Established",
+      "source_name": "The Financial Express",
+      "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works.",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma shares rise 2%; gets US FDA approval for ILUMYA to treat psoriatic arthritis.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 13,
-      "fact_status": "Reported by Deccan Chronicle; primary source or underlying documents not independently verified",
+      "importance_score": 9,
+      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Deccan Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5"
+          "source": "The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFhIU1BLV0J1VWY5ZWZuVUk2VGl5OFhtNG8xU294S1FrRTNfRU1ELTd6V0g4YmdtNEFKRGw4UV9NWWpqYUJOWklDemYzMkdwOVBZRzNFeVVkOXZpNm56aGRjaXdjRmZGckNvN1F2RzZkX1BkcktlRHJMQUx4eTUxZUhTUmpnbG5uNlRIb21FMEc2bk9lNFFNNXhWdEVKOGc1YWtjQ2kzQWxjTThCamduWllMVnE4V1RxQm5YdHZaLXpCOXp4aVNJeTZSNGhKTGdoUFlBUU1vUmFQUzU0bUHSAeQBQVVfeXFMTWdtMGI2M25KWElnaFNERkMzeGR6WmJBd0RFYVIyTS1FNjBaR3lWNUJ4ZExaOEw5bHNidFVCY1NaeWxTZ09lVk94TGZUaWFBUlpuLUhFb0NubGozdmxBS216cXFBR21MSUhOaGRaU1RZT1F0VEpsclBnbnlZNkRkeHFMUGpmYTNEYktWNy05UUZtZGc5WkJqel9CYjhobFlCc2lBOGh4RDFiVHJLZTNKWkNtY1VkampCcFp4blZDaERvdDFfaTZDTFRucl9mU0ZUNUtQT241NGZ5RXJRUnhEeTdXQ2l5?oc=5"
         }
       ]
-    }
-  ],
-  "business_signals": {
-    "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 0,
-    "Investment / Expansion": 0,
-    "Manufacturing / Plants": 0,
-    "Supply Chain": 1,
-    "Regulatory": 0,
-    "Exports / Markets": 0,
-    "Specialty Chemicals": 0,
-    "Pharma Industry": 0
-  },
-  "daily_brief": {
-    "attention": [
-      {
-        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-        "signal": "Risk",
-        "why": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked."
-      },
-      {
-        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
-        "title": "PM Asks AP To Expedite Railway Land Acquisition, Bulk Drug Park Works",
-        "signal": "Watch",
-        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
-      }
-    ],
-    "investigate": [
-      {
-        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-        "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
-      },
-      {
-        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
-      }
-    ],
-    "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
-  },
-  "articles": [
+    },
+    {
+      "category": "India",
+      "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
+      "description": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5",
+      "published": "2026-10-30T04:54:16+00:00",
+      "source": "eHealth Magazine",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sun Pharma",
+        "Plaque Psoriasis Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "eHealth Magazine",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "eHealth Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5"
+        }
+      ]
+    },
     {
       "category": "Vizag / AP",
       "title": "PM Modi Sets 30-Day Deadline for Land Transfer, Expresses Concern Over Delays in Haroli Bulk Drug Park",
@@ -207,53 +403,6 @@
         {
           "source": "The News Himachal",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczI4N0Jsa0xvSzRSWEVGT0lRN3JkTExxZ2pWc0dOODJTZ1dMOWJMSUNpb1RNZHJEb0pPcnBycWdyZExjSGtHaXkyU1YxbGVBekNTckUyb3h5S0RDX2lXd2RoV2VjbkFRQUNoNzduc1VhOWhxVlhwOHZFRVNJMmx0RzQ0WXBodWtxeVdMWi1uM1NfYlBzYWNSdjh6VTZEck9MR1pXVW1zQWZaSEZEeWIwRXY5QmFTZXowS3pTRHNCSmozdXRpODcybTdTcGhKUXhkd3p6Mw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
-      "published": "2026-10-30T01:55:23+00:00",
-      "source": "eHealth Magazine",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Senores Pharmaceuticals",
-        "Syringe Line Senores Pharmaceuticals"
-      ],
-      "project_signals": [
-        "capacity expansion"
-      ],
-      "numbers": [
-        "₹43 crore",
-        "43 crore"
-      ],
-      "source_name": "eHealth Magazine",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 16,
-      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
-        },
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
         }
       ]
     },
@@ -293,20 +442,47 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRTJEUkxEVVpnVGJPOVpNakQxMXVlRXpKR050NDdUakxBaXhxSmtldy1zNVRVM29rcUJucEVmMEhIemJVQUJqSUVBTmFpMUNCSDBYcWJJNy1HZlY5djJQNVUwUG82SkJLaUE?oc=5"
         },
         {
-          "source": "Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTU5MXZtTzlINzctbEZKYU4zUzBpRkM5ekdwNmUxcHB0RFZnSE5LWnJtcFZVdTI3SS1sUGpOYktCUFRrYWRtZnNtdUYxRXdDUUUwYWtZQ2x1Z0xIdHRrckVYWWZldlU0YkJ5LUhXb3E3RDNVbmhab1ZKS2FFRTQxOHAxNWxabEVsR21pSGRlT2ZQbGlNRnlSdEFsX1lCUm5uVlYyd3ZjRHZaWGsxRGJ0MGNR0gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5"
-        },
-        {
           "source": "Investify",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUxleUVZYjdmeC1yYnZuOW5qem9DeFpMYWVFeWZrUjQ0RHE3U3NkU3owRzhaa19uaGJPMThRekZoRzMydWo0c1I4cndudTlXZ0tQZXVCYVBGQUpSZTBHQjA2T1Z6OHZXNEZPeUNkZE5fbi1RZml3enBVTTRBYzNENDBnZmY0Nkk1UWpHcEFDVmtZV01LMUZCcWh6WXN3UQ?oc=5"
         },
         {
-          "source": "TechJuice",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXpNQjd6aGg0VFg5Rk5JbG9rVEhJYWdnRW1xYzZxM0JBTmtYTmtYcGpVRWpSRE5DY2x3TkE4Y2hYLW5mN1IwUXFUNV9xMjR0S1hEcmNfUDF4TWthT1hFU0NaNnpvRVFYR0lRNHpwb25VWjRZc2djc3lpQzM5RGpsanY4dDdrT2lUWnBMbWlEU3R6UkRUWFpaQnFYcw?oc=5"
-        },
+          "source": "Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTU5MXZtTzlINzctbEZKYU4zUzBpRkM5ekdwNmUxcHB0RFZnSE5LWnJtcFZVdTI3SS1sUGpOYktCUFRrYWRtZnNtdUYxRXdDUUUwYWtZQ2x1Z0xIdHRrckVYWWZldlU0YkJ5LUhXb3E3RDNVbmhab1ZKS2FFRTQxOHAxNWxabEVsR21pSGRlT2ZQbGlNRnlSdEFsX1lCUm5uVlYyd3ZjRHZaWGsxRGJ0MGNR0gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates",
+      "description": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0N6TUtJMjZIZERkdWJXdzF4VVM0bTVLSUtCcTlONWtJLWtNLWFfSWxGNWE2OFA1TVdVcC1fZVBqWmNWbE8xTzdmX01wX25QQ0UtanQ3a2RQenNXXzlDeUFkZWUxYV9DWDd1S0M0ODZ0ZGdYQWdESUp4R3hMLWx5VDZjVk5oRS1pX0UyMFlZQ2xuTWZNZzMzMV93cHVBZFpaNXNfRFdoYWRham5rZmZud0w3eDRGZnc2WWVNRFFjWmh6SDVuajZFeXNSYjZTU1k?oc=5",
+      "published": "2026-10-29T20:04:00+00:00",
+      "source": "India's News.Net",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "India's News.Net",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by India's News.Net; primary source or underlying documents not independently verified",
+      "related_sources": [
         {
-          "source": "Bloom Pakistan",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHFoWkpDUlpvWXpFaHZTRlZJUjVRN0oyQVdvZUxQVkxDT3loX29VSXZNeDc2LVEwVExTa0VnNmNDajJwZFRmdlcyYXpPczJZSTRSU0Yzb2V5WXpxczNMR3lERFVDUU9faVJhVUpYVHhTTTREaWtJZlhuVmNqQ29WTmtxVWhTdHdGcjAwemlGTUUwOExGMHRERw?oc=5"
+          "source": "India's News.Net",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0N6TUtJMjZIZERkdWJXdzF4VVM0bTVLSUtCcTlONWtJLWtNLWFfSWxGNWE2OFA1TVdVcC1fZVBqWmNWbE8xTzdmX01wX25QQ0UtanQ3a2RQenNXXzlDeUFkZWUxYV9DWDd1S0M0ODZ0ZGdYQWdESUp4R3hMLWx5VDZjVk5oRS1pX0UyMFlZQ2xuTWZNZzMzMV93cHVBZFpaNXNfRFdoYWRham5rZmZud0w3eDRGZnc2WWVNRFFjWmh6SDVuajZFeXNSYjZTU1k?oc=5"
         }
       ]
     },
@@ -495,48 +671,6 @@
         {
           "source": "Deccan Chronicle",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnZZUUE3Q2xBZkhnS0FSOThXNGg0bFBKQS1qWVA3WERhX0tPV1VaSjcwRzVsZ3RqVGNxZTFPZ2Fld1AtWHVuckd2V0w2SW9rWVl0dkpoZXBqcTlGS2x5WWlndnFtT0ZJalpDM0hyLUhIQkxJSFhKam1TNTF1bC1LbTZadWJVbm9SWi1rbHdLNU56UlZhZTBVbTBNNC1ZdGlWYzVMbU51Nk81dEc4UFBKeU0zczRIRkoyb285c2VQakdYYldxOHo5WklYcGRfZ2hQYS1uMDln0gHbAUFVX3lxTE1Na09HaE5Ib0s0ejZsai1WMWxtcVFWT0ZDUzRKYW9EczhFY0RrQTVYck1RSUUyRE54Q0U1YkVTcEtlaXNmU1pGSnFNbWZRbV9iT0p3NHl3b3RoSjRCMzRXekhQQ3lQWDR1QlJJM0VmbXRQdHl5ZUo5cHBkNTBaWDB6WTJSWFZBNWhqMVlDTE1SMm9xWkhueGcxcjZXWlVkSzdPZmtkRHcweUh3ZGVYdHdheFFsU2lWQW1FNTNyMTB0aDhvamNQZFJMNlAtSzc2aGZyb3lHQ1R6SEplaw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
-      "description": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5",
-      "published": "2026-10-28T08:12:22+00:00",
-      "source": "eHealth Magazine",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Sudeep Pharma",
-        "H2 FY27 Sudeep Pharma"
-      ],
-      "project_signals": [
-        "greenfield"
-      ],
-      "numbers": [
-        "51,200 mt"
-      ],
-      "source_name": "eHealth Magazine",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Sudeep Pharma Gets Nod to Start Operations at 51,200 MT Nandesari Greenfield Plant; Supplies From H2 FY27.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 14,
-      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGVmd29CeTVkVng0Ymg2TlYxWURoYUNEb1F2OHdWaU1ucXZIWWRxLWt2TVNlZDBIZ0YtSEFuSHpCYUlReURLeDRKWnlOQzgyQ0xfMnBGM0ktTnN0NUFPT0t3dUdacjNVSFc4SjdIOFZIZjc4MUJwX2stWGg1dHMzaWtEcnRZcFh3eDd1cHV1TlhBdHVJeW5aNUt2ZUg5MG5BNlNkYmI5RXM4UHBRYVRIWGNBaHRTOThzSkl0cTd4QQ?oc=5"
         }
       ]
     }
