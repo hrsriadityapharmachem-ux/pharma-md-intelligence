@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-29T20:22:38.891355+00:00",
+  "updated": "2026-10-30T00:00:32.348190+00:00",
   "engine_version": "3.7.0",
-  "article_count": 10,
+  "article_count": 9,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 5,
+  "watch_count": 4,
   "high_priority_count": 3,
   "successful_feeds": 20,
   "must_know": [
@@ -48,11 +48,11 @@
     },
     {
       "category": "India",
-      "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "description": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5",
-      "published": "2026-10-29T11:46:04+00:00",
-      "source": "Trade Brains",
+      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
+      "published": "2026-10-29T16:32:13+00:00",
+      "source": "eHealth Magazine",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "High",
@@ -60,27 +60,28 @@
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Senores Pharmaceuticals"
+        "Senores Pharmaceuticals",
+        "Syringe Line Senores Pharmaceuticals"
       ],
       "project_signals": [
         "capacity expansion"
       ],
       "numbers": [
-        "₹43 cr",
-        "43 cr"
+        "₹43 crore",
+        "43 crore"
       ],
-      "source_name": "Trade Brains",
+      "source_name": "eHealth Magazine",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Capacity Expansion",
-      "what_happened": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing.",
+      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
       "evidence_level": "Medium",
       "confidence": 70,
       "importance_score": 16,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "eHealth Magazine",
@@ -89,10 +90,6 @@
         {
           "source": "Kalkine India",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
-        },
-        {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
         }
       ]
     },
@@ -153,7 +150,7 @@
         "why": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked."
       },
       {
-        "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
@@ -169,13 +166,60 @@
         "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
       },
       {
-        "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
         "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
+      "published": "2026-10-29T16:32:13+00:00",
+      "source": "eHealth Magazine",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Senores Pharmaceuticals",
+        "Syringe Line Senores Pharmaceuticals"
+      ],
+      "project_signals": [
+        "capacity expansion"
+      ],
+      "numbers": [
+        "₹43 crore",
+        "43 crore"
+      ],
+      "source_name": "eHealth Magazine",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "eHealth Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
+        },
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil",
@@ -210,41 +254,6 @@
         {
           "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQeHB5OTBiZ0xKVDRKZmUtdTh5M0tlRFBNWVdMRmUxV1NnN0FBSFF5bTZEdy1yOGF5Y0RQVC1TdVRMdkNYMl83ZzZLN3JkNlNpYXBUOUxoTjcwSDlGN1hZX0dpQ0NEeU1SV1BZS0lwbk1KUzVvRHlfaEtyZ1FQbUdSbGxVQ3JEY3RidTF6b0dkRUVaeGUzUW1HTXdEQWNzem1xTkw1djZEc0xDc0JTRkpGdU1XdUdpNkZkTGdxX1dOdlpvUlJXREgxVUVpRzN1WjVyTlNqNVBSWUJPZ1pXWU1mTkVHODh3TTFJUXV3d2h1Z180QU1fTUt2cXVfaldoUFBlRDlBN3JfbXJhN3hQcTh6aUF5RS1RSkRtNFI5QXVJSdIBpAJBVV95cUxNOEhhQmFkZ2pqV0JqX3V0cmVGOTlPWXJER1RvUWxWZzY5em5YR251YXc4Z3l1bE9ES0FraXVqU1pYdUJBdF9iMFBhUmYzdU4wYmVqRkg4U2h1LTYxWDBSN1Y1S3FXZzBGMnFxeXhYQ3NaWHBheWwyLXB1V0wwRDlpZy12YlBwRTZWOEhCbVROMGpOYkgwR2FYSWt3T19hdzYxdzZCaGh4dkQzZGtTZ2gxZE5COGhtdUp3aEVOQ3B0S202QkhKTDBkQVJPRnJtOUdXRy1WbGVwLVpRWkkzT3A4RVEyRUUyRWtpRGk4YVZXYzdoR3RCU1pOc0hKYURBSW5Nd2Frbmc5ZVh5bzJtMVYyamZpN3U3Rk44dmJnM0VvTFRpcXNs?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates",
-      "description": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0N6TUtJMjZIZERkdWJXdzF4VVM0bTVLSUtCcTlONWtJLWtNLWFfSWxGNWE2OFA1TVdVcC1fZVBqWmNWbE8xTzdmX01wX25QQ0UtanQ3a2RQenNXXzlDeUFkZWUxYV9DWDd1S0M0ODZ0ZGdYQWdESUp4R3hMLWx5VDZjVk5oRS1pX0UyMFlZQ2xuTWZNZzMzMV93cHVBZFpaNXNfRFdoYWRham5rZmZud0w3eDRGZnc2WWVNRFFjWmh6SDVuajZFeXNSYjZTU1k?oc=5",
-      "published": "2026-10-29T14:49:10+00:00",
-      "source": "India's News.Net",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "India's News.Net",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by India's News.Net; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "India's News.Net",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0N6TUtJMjZIZERkdWJXdzF4VVM0bTVLSUtCcTlONWtJLWtNLWFfSWxGNWE2OFA1TVdVcC1fZVBqWmNWbE8xTzdmX01wX25QQ0UtanQ3a2RQenNXXzlDeUFkZWUxYV9DWDd1S0M0ODZ0ZGdYQWdESUp4R3hMLWx5VDZjVk5oRS1pX0UyMFlZQ2xuTWZNZzMzMV93cHVBZFpaNXNfRFdoYWRham5rZmZud0w3eDRGZnc2WWVNRFFjWmh6SDVuajZFeXNSYjZTU1k?oc=5"
         }
       ]
     },
@@ -325,61 +334,11 @@
       ]
     },
     {
-      "category": "India",
-      "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "description": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5",
-      "published": "2026-10-29T11:46:04+00:00",
-      "source": "Trade Brains",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Senores Pharmaceuticals"
-      ],
-      "project_signals": [
-        "capacity expansion"
-      ],
-      "numbers": [
-        "₹43 cr",
-        "43 cr"
-      ],
-      "source_name": "Trade Brains",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 16,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
-        },
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
-        },
-        {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
-        }
-      ]
-    },
-    {
       "category": "Global",
       "title": "CCP Approves Citi Pharma’s Acquisition of Pakheim International Pharma",
       "description": "CCP Approves Citi Pharma’s Acquisition of Pakheim International Pharma",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXpNQjd6aGg0VFg5Rk5JbG9rVEhJYWdnRW1xYzZxM0JBTmtYTmtYcGpVRWpSRE5DY2x3TkE4Y2hYLW5mN1IwUXFUNV9xMjR0S1hEcmNfUDF4TWthT1hFU0NaNnpvRVFYR0lRNHpwb25VWjRZc2djc3lpQzM5RGpsanY4dDdrT2lUWnBMbWlEU3R6UkRUWFpaQnFYcw?oc=5",
-      "published": "2026-10-29T11:15:17+00:00",
+      "published": "2026-10-29T12:15:17+00:00",
       "source": "TechJuice",
       "signal": "Watch",
       "business_area": "Pharma Industry",
@@ -537,7 +496,7 @@
       "category": "India",
       "title": "Beyond trade deals: What’s holding back India’s pharma exports?",
       "description": "Beyond trade deals: What’s holding back India’s pharma exports?",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzByaU4wVVFmMkRHbWlhWUREOGxKUEJ5a205cHdpZ2xYU2ZtT2dhZndzdGdKM256OGFDR1hpYVpqQnlSUzQ2VkVjRllXWnRCNW1zZzRRemRWb0xLRTFsVlVxZmN1cF9jTXNLRFVFSVptMTZyTy1CVG5idDFLQ3BVcU9pZWhEWEMxVFdLV05Va2pOQ1M3MmlpQWJiWXN0Q1nSAZ8BQVVfeXFMT18wcmlOMFVRZjJER21pYVlERDhsSlBCeWttOXB3aWdsWFNmbU9nYWZ3c3RnSjNuejhhQ0dYaWFaakJ5UlM0NlZFY0ZZV1p0QjVtc2c0UXpkVm9MS0UxbFZVcWZjdXBfY01zS0RVRUlabTE2ck8tQlRuYnQxS0NwVXFPaWVoRFhDMVRXS1dOVWtqTkNTNzJpaUFiYllzdENZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVE1djI1alduTV9POUZnTlVxSzhuNmV1MW1HZ1JDakxjRnRWdTR1M1NaZHJSckEyWmVnOVE5cXpsbVRiWjNuWnhRUHNOaThsUTNlcWVkR293VGxWcm1oM2hFZlBWZWJtdl9ubjhYUjRGMG9rWVh6Y2ZRRjliY2cwTTVJb1NPbmIxdWpmMFdHdnlPa0lWSlBHbGlB0gGfAUFVX3lxTE9fMHJpTjBVUWYyREdtaWFZREQ4bEpQQnlrbTlwd2lnbFhTZm1PZ2Fmd3N0Z0ozbno4YUNHWGlhWmpCeVJTNDZWRWNGWVdadEI1bXNnNFF6ZFZvTEtFMWxWVXFmY3VwX2NNc0tEVUVJWm0xNnJPLUJUbmJ0MUtDcFVxT2llaERYQzFUV0tXTlVrak5DUzcyaWlBYmJZc3RDWQ?oc=5",
       "published": "2026-10-28T05:30:03+00:00",
       "source": "Indian Transport & Logistics",
       "signal": "General",
@@ -564,7 +523,7 @@
       "related_sources": [
         {
           "source": "Indian Transport & Logistics",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzByaU4wVVFmMkRHbWlhWUREOGxKUEJ5a205cHdpZ2xYU2ZtT2dhZndzdGdKM256OGFDR1hpYVpqQnlSUzQ2VkVjRllXWnRCNW1zZzRRemRWb0xLRTFsVlVxZmN1cF9jTXNLRFVFSVptMTZyTy1CVG5idDFLQ3BVcU9pZWhEWEMxVFdLV05Va2pOQ1M3MmlpQWJiWXN0Q1nSAZ8BQVVfeXFMT18wcmlOMFVRZjJER21pYVlERDhsSlBCeWttOXB3aWdsWFNmbU9nYWZ3c3RnSjNuejhhQ0dYaWFaakJ5UlM0NlZFY0ZZV1p0QjVtc2c0UXpkVm9MS0UxbFZVcWZjdXBfY01zS0RVRUlabTE2ck8tQlRuYnQxS0NwVXFPaWVoRFhDMVRXS1dOVWtqTkNTNzJpaUFiYllzdENZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVE1djI1alduTV9POUZnTlVxSzhuNmV1MW1HZ1JDakxjRnRWdTR1M1NaZHJSckEyWmVnOVE5cXpsbVRiWjNuWnhRUHNOaThsUTNlcWVkR293VGxWcm1oM2hFZlBWZWJtdl9ubjhYUjRGMG9rWVh6Y2ZRRjliY2cwTTVJb1NPbmIxdWpmMFdHdnlPa0lWSlBHbGlB0gGfAUFVX3lxTE9fMHJpTjBVUWYyREdtaWFZREQ4bEpQQnlrbTlwd2lnbFhTZm1PZ2Fmd3N0Z0ozbno4YUNHWGlhWmpCeVJTNDZWRWNGWVdadEI1bXNnNFF6ZFZvTEtFMWxWVXFmY3VwX2NNc0tEVUVJWm0xNnJPLUJUbmJ0MUtDcFVxT2llaERYQzFUV0tXTlVrak5DUzcyaWlBYmJZc3RDWQ?oc=5"
         }
       ]
     }
