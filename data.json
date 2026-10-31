@@ -1,51 +1,13 @@
 {
-  "updated": "2026-10-31T02:33:06.539497+00:00",
+  "updated": "2026-10-31T09:49:56.299978+00:00",
   "engine_version": "3.7.0",
-  "article_count": 11,
+  "article_count": 12,
   "opportunity_count": 0,
-  "risk_count": 2,
-  "watch_count": 4,
-  "high_priority_count": 3,
+  "risk_count": 1,
+  "watch_count": 5,
+  "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
-    {
-      "category": "Global",
-      "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-      "description": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5",
-      "published": "2026-10-29T07:28:59+00:00",
-      "source": "Machine Maker",
-      "signal": "Risk",
-      "business_area": "Supply Chain",
-      "priority": "High",
-      "relevance": "Potential supply exposure; affected materials, suppliers and alternative sources need verification.",
-      "why_it_matters": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked.",
-      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
-      "companies": [
-        "NATCO Pharma",
-        "Supply Shortage NATCO Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Machine Maker",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Supply Disruption",
-      "what_happened": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential supply-chain exposure exists. Affected materials, suppliers and markets should be verified.",
-      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
-      "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 18,
-      "fact_status": "Reported by Machine Maker; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Machine Maker",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5"
-        }
-      ]
-    },
     {
       "category": "India",
       "title": "India halts Sun Pharma eye drug production over quality issues",
@@ -124,12 +86,45 @@
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
         },
         {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
-        },
-        {
           "source": "Trade Brains",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
+      "description": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5",
+      "published": "2026-10-30T08:57:11+00:00",
+      "source": "Yahoo Finance",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving India's Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between India's Sun Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "India's Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Yahoo Finance",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Yahoo Finance; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5"
         }
       ]
     }
@@ -139,7 +134,7 @@
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 1,
-    "Supply Chain": 1,
+    "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
@@ -147,11 +142,6 @@
   },
   "daily_brief": {
     "attention": [
-      {
-        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-        "signal": "Risk",
-        "why": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked."
-      },
       {
         "title": "India halts Sun Pharma eye drug production over quality issues",
         "signal": "Risk",
@@ -161,21 +151,64 @@
         "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving India's Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
       {
-        "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-        "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
-      },
-      {
         "title": "India halts Sun Pharma eye drug production over quality issues",
         "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
+      },
+      {
+        "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "India’s Pharma Exports Grow 4.9 Percent to $16.14 Billion in H1 FY27",
+      "description": "India’s Pharma Exports Grow 4.9 Percent to $16.14 Billion in H1 FY27",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObFpkS1EzeVNYb1VkM0lXVVJ6VEs3clJaU21yQ2xLODVPRVZoenpsSzd0U2ltRTZsR0VWdlpLREJ4M2dvY2tUeFJvZGZlZTZ1b1Q3MUItYlR0bVpzNkdLVnFtOGV5SHlmYmtsNHdWOU5zb0g4eW1BYlVPV09CQW9xaXU2dTZjWHhLR01sNHhYRWJueDBzckZJ?oc=5",
+      "published": "2026-10-31T05:27:00+00:00",
+      "source": "Chemical Industry Digest",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "16.14 billion",
+        "$16.14 billion"
+      ],
+      "source_name": "Chemical Industry Digest",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India’s Pharma Exports Grow 4.9 Percent to $16.14 Billion in H1 FY27.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Chemical Industry Digest; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Chemical Industry Digest",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObFpkS1EzeVNYb1VkM0lXVVJ6VEs3clJaU21yQ2xLODVPRVZoenpsSzd0U2ltRTZsR0VWdlpLREJ4M2dvY2tUeFJvZGZlZTZ1b1Q3MUItYlR0bVpzNkdLVnFtOGV5SHlmYmtsNHdWOU5zb0g4eW1BYlVPV09CQW9xaXU2dTZjWHhLR01sNHhYRWJueDBzckZJ?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "India halts Sun Pharma eye drug production over quality issues",
@@ -365,6 +398,78 @@
       ]
     },
     {
+      "category": "Global",
+      "title": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets",
+      "description": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSmt5OFB2ZkNaeU5SN1hQa1VaRnZUT0psVDVFWFhzTkFCR2x5dG5fbk1zTm8xZEhkUEh6SWNPRjhjclA3RWxNWXdrdDNCRUdFeU9Rc2N30gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5",
+      "published": "2026-10-30T00:43:51+00:00",
+      "source": "Business Recorder",
+      "signal": "Watch",
+      "business_area": "Exports / Markets",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving Citi Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Citi Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "Citi Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Business Recorder",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Business Recorder; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSmt5OFB2ZkNaeU5SN1hQa1VaRnZUT0psVDVFWFhzTkFCR2x5dG5fbk1zTm8xZEhkUEh6SWNPRjhjclA3RWxNWXdrdDNCRUdFeU9Rc2N30gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates",
+      "description": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0N6TUtJMjZIZERkdWJXdzF4VVM0bTVLSUtCcTlONWtJLWtNLWFfSWxGNWE2OFA1TVdVcC1fZVBqWmNWbE8xTzdmX01wX25QQ0UtanQ3a2RQenNXXzlDeUFkZWUxYV9DWDd1S0M0ODZ0ZGdYQWdESUp4R3hMLWx5VDZjVk5oRS1pX0UyMFlZQ2xuTWZNZzMzMV93cHVBZFpaNXNfRFdoYWRham5rZmZud0w3eDRGZnc2WWVNRFFjWmh6SDVuajZFeXNSYjZTU1k?oc=5",
+      "published": "2026-10-29T20:04:00+00:00",
+      "source": "India's News.Net",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "India's News.Net",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "PCI Strengthens Industry-Academia Collaboration to Develop Industry-Ready Pharmacy Graduates.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by India's News.Net; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "India's News.Net",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0N6TUtJMjZIZERkdWJXdzF4VVM0bTVLSUtCcTlONWtJLWtNLWFfSWxGNWE2OFA1TVdVcC1fZVBqWmNWbE8xTzdmX01wX25QQ0UtanQ3a2RQenNXXzlDeUFkZWUxYV9DWDd1S0M0ODZ0ZGdYQWdESUp4R3hMLWx5VDZjVk5oRS1pX0UyMFlZQ2xuTWZNZzMzMV93cHVBZFpaNXNfRFdoYWRham5rZmZud0w3eDRGZnc2WWVNRFFjWmh6SDVuajZFeXNSYjZTU1k?oc=5"
+        }
+      ]
+    },
+    {
       "category": "India",
       "title": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil",
       "description": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil",
@@ -478,56 +583,6 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "CCP Approves Citi Pharma’s Acquisition of Pakheim International Pharma",
-      "description": "CCP Approves Citi Pharma’s Acquisition of Pakheim International Pharma",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXpNQjd6aGg0VFg5Rk5JbG9rVEhJYWdnRW1xYzZxM0JBTmtYTmtYcGpVRWpSRE5DY2x3TkE4Y2hYLW5mN1IwUXFUNV9xMjR0S1hEcmNfUDF4TWthT1hFU0NaNnpvRVFYR0lRNHpwb25VWjRZc2djc3lpQzM5RGpsanY4dDdrT2lUWnBMbWlEU3R6UkRUWFpaQnFYcw?oc=5",
-      "published": "2026-10-29T12:15:17+00:00",
-      "source": "TechJuice",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving CCP Approves Citi Pharma and Pakheim International Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between CCP Approves Citi Pharma and Pakheim International Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "CCP Approves Citi Pharma",
-        "Pakheim International Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "TechJuice",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "CCP Approves Citi Pharma’s Acquisition of Pakheim International Pharma.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by TechJuice; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Investify",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRTJEUkxEVVpnVGJPOVpNakQxMXVlRXpKR050NDdUakxBaXhxSmtldy1zNVRVM29rcUJucEVmMEhIemJVQUJqSUVBTmFpMUNCSDBYcWJJNy1HZlY5djJQNVUwUG82SkJLaUE?oc=5"
-        },
-        {
-          "source": "Investify",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUxleUVZYjdmeC1yYnZuOW5qem9DeFpMYWVFeWZrUjQ0RHE3U3NkU3owRzhaa19uaGJPMThRekZoRzMydWo0c1I4cndudTlXZ0tQZXVCYVBGQUpSZTBHQjA2T1Z6OHZXNEZPeUNkZE5fbi1RZml3enBVTTRBYzNENDBnZmY0Nkk1UWpHcEFDVmtZV01LMUZCcWh6WXN3UQ?oc=5"
-        },
-        {
-          "source": "TechJuice",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXpNQjd6aGg0VFg5Rk5JbG9rVEhJYWdnRW1xYzZxM0JBTmtYTmtYcGpVRWpSRE5DY2x3TkE4Y2hYLW5mN1IwUXFUNV9xMjR0S1hEcmNfUDF4TWthT1hFU0NaNnpvRVFYR0lRNHpwb25VWjRZc2djc3lpQzM5RGpsanY4dDdrT2lUWnBMbWlEU3R6UkRUWFpaQnFYcw?oc=5"
-        },
-        {
-          "source": "Bloom Pakistan",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHFoWkpDUlpvWXpFaHZTRlZJUjVRN0oyQVdvZUxQVkxDT3loX29VSXZNeDc2LVEwVExTa0VnNmNDajJwZFRmdlcyYXpPczJZSTRSU0Yzb2V5WXpxczNMR3lERFVDUU9faVJhVUpYVHhTTTREaWtJZlhuVmNqQ29WTmtxVWhTdHdGcjAwemlGTUUwOExGMHRERw?oc=5"
-        }
-      ]
-    },
-    {
       "category": "India",
       "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
       "description": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
@@ -568,50 +623,8 @@
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
         },
         {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5"
-        },
-        {
           "source": "Trade Brains",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-      "description": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5",
-      "published": "2026-10-29T07:28:59+00:00",
-      "source": "Machine Maker",
-      "signal": "Risk",
-      "business_area": "Supply Chain",
-      "priority": "High",
-      "relevance": "Potential supply exposure; affected materials, suppliers and alternative sources need verification.",
-      "why_it_matters": "NATCO Pharma: the reported disruption may affect material availability, sourcing or delivery reliability. The affected products and alternative sources should be checked.",
-      "md_action": "Check affected raw materials, suppliers, logistics routes and alternative sources.",
-      "companies": [
-        "NATCO Pharma",
-        "Supply Shortage NATCO Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Machine Maker",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Supply Disruption",
-      "what_happened": "NATCO Pharma Launches Carboplatin Injection in the US to Address Supply Shortage.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential supply-chain exposure exists. Affected materials, suppliers and markets should be verified.",
-      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
-      "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 18,
-      "fact_status": "Reported by Machine Maker; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Machine Maker",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWFrcFFBNWJzOWtMZkJkVFJoSmZjT04yd2VMVVhwOEM5N2JoQzVZX1lkZ3pNdWFIU3d2YWM1clZxdXUxQ2J4SXB0WWlpNzAxUEFXdXBqYkdrRjRaUWVJdGE1WlRWbC0zd1NlTEQyVEViZXBxcjFMVE95S054MTZzNExlOVl4cURWbTMxbjhqMU9DeHlScDhKMTB0SFNQTWg5WXFrUnZyaGNQSjdTSzVZMHNJemQ?oc=5"
         }
       ]
     }
