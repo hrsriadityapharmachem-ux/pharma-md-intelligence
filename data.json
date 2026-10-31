@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31T09:49:56.299978+00:00",
+  "updated": "2026-10-31T15:47:50.159262+00:00",
   "engine_version": "3.7.0",
-  "article_count": 12,
+  "article_count": 11,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 5,
+  "watch_count": 6,
   "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
@@ -47,11 +47,11 @@
     },
     {
       "category": "India",
-      "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "description": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5",
-      "published": "2026-10-29T11:46:04+00:00",
-      "source": "Trade Brains",
+      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
+      "published": "2026-10-30T07:59:16+00:00",
+      "source": "eHealth Magazine",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "High",
@@ -59,35 +59,32 @@
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Senores Pharmaceuticals"
+        "Senores Pharmaceuticals",
+        "Syringe Line Senores Pharmaceuticals"
       ],
       "project_signals": [
         "capacity expansion"
       ],
       "numbers": [
-        "₹43 cr",
-        "43 cr"
+        "₹43 crore",
+        "43 crore"
       ],
-      "source_name": "Trade Brains",
+      "source_name": "eHealth Magazine",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Capacity Expansion",
-      "what_happened": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing.",
+      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
       "evidence_level": "Medium",
       "confidence": 70,
       "importance_score": 16,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
       "related_sources": [
         {
           "source": "eHealth Magazine",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
-        },
-        {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
         }
       ]
     },
@@ -148,7 +145,7 @@
         "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
       },
       {
-        "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
@@ -164,13 +161,51 @@
         "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
+        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
         "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "description": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5",
+      "published": "2026-10-31T14:44:00+00:00",
+      "source": "Kalkine India",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sun Pharma",
+        "Shareholders Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Kalkine India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "India’s Pharma Exports Grow 4.9 Percent to $16.14 Billion in H1 FY27",
@@ -324,6 +359,86 @@
     },
     {
       "category": "India",
+      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
+      "published": "2026-10-30T07:59:16+00:00",
+      "source": "eHealth Magazine",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Senores Pharmaceuticals",
+        "Syringe Line Senores Pharmaceuticals"
+      ],
+      "project_signals": [
+        "capacity expansion"
+      ],
+      "numbers": [
+        "₹43 crore",
+        "43 crore"
+      ],
+      "source_name": "eHealth Magazine",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "eHealth Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Sun Pharma shares rise 2%; gets US FDA approval for ILUMYA to treat psoriatic arthritis",
+      "description": "Sun Pharma shares rise 2%; gets US FDA approval for ILUMYA to treat psoriatic arthritis",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFhIU1BLV0J1VWY5ZWZuVUk2VGl5OFhtNG8xU294S1FrRTNfRU1ELTd6V0g4YmdtNEFKRGw4UV9NWWpqYUJOWklDemYzMkdwOVBZRzNFeVVkOXZpNm56aGRjaXdjRmZGckNvN1F2RzZkX1BkcktlRHJMQUx4eTUxZUhTUmpnbG5uNlRIb21FMEc2bk9lNFFNNXhWdEVKOGc1YWtjQ2kzQWxjTThCamduWllMVnE4V1RxQm5YdHZaLXpCOXp4aVNJeTZSNGhKTGdoUFlBUU1vUmFQUzU0bUHSAeQBQVVfeXFMTWdtMGI2M25KWElnaFNERkMzeGR6WmJBd0RFYVIyTS1FNjBaR3lWNUJ4ZExaOEw5bHNidFVCY1NaeWxTZ09lVk94TGZUaWFBUlpuLUhFb0NubGozdmxBS216cXFBR21MSUhOaGRaU1RZT1F0VEpsclBnbnlZNkRkeHFMUGpmYTNEYktWNy05UUZtZGc5WkJqel9CYjhobFlCc2lBOGh4RDFiVHJLZTNKWkNtY1VkampCcFp4blZDaERvdDFfaTZDTFRucl9mU0ZUNUtQT241NGZ5RXJRUnhEeTdXQ2l5?oc=5",
+      "published": "2026-10-30T07:00:42+00:00",
+      "source": "The Financial Express",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Financial Express",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma shares rise 2%; gets US FDA approval for ILUMYA to treat psoriatic arthritis.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFhIU1BLV0J1VWY5ZWZuVUk2VGl5OFhtNG8xU294S1FrRTNfRU1ELTd6V0g4YmdtNEFKRGw4UV9NWWpqYUJOWklDemYzMkdwOVBZRzNFeVVkOXZpNm56aGRjaXdjRmZGckNvN1F2RzZkX1BkcktlRHJMQUx4eTUxZUhTUmpnbG5uNlRIb21FMEc2bk9lNFFNNXhWdEVKOGc1YWtjQ2kzQWxjTThCamduWllMVnE4V1RxQm5YdHZaLXpCOXp4aVNJeTZSNGhKTGdoUFlBUU1vUmFQUzU0bUHSAeQBQVVfeXFMTWdtMGI2M25KWElnaFNERkMzeGR6WmJBd0RFYVIyTS1FNjBaR3lWNUJ4ZExaOEw5bHNidFVCY1NaeWxTZ09lVk94TGZUaWFBUlpuLUhFb0NubGozdmxBS216cXFBR21MSUhOaGRaU1RZT1F0VEpsclBnbnlZNkRkeHFMUGpmYTNEYktWNy05UUZtZGc5WkJqel9CYjhobFlCc2lBOGh4RDFiVHJLZTNKWkNtY1VkampCcFp4blZDaERvdDFfaTZDTFRucl9mU0ZUNUtQT241NGZ5RXJRUnhEeTdXQ2l5?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
       "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
       "description": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5",
@@ -398,39 +513,39 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets",
-      "description": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSmt5OFB2ZkNaeU5SN1hQa1VaRnZUT0psVDVFWFhzTkFCR2x5dG5fbk1zTm8xZEhkUEh6SWNPRjhjclA3RWxNWXdrdDNCRUdFeU9Rc2N30gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5",
-      "published": "2026-10-30T00:43:51+00:00",
-      "source": "Business Recorder",
-      "signal": "Watch",
+      "category": "India",
+      "title": "India's pharma exports rise 4.90% to USD 16.14 billion in H1 FY27 as European demand surges",
+      "description": "India's pharma exports rise 4.90% to USD 16.14 billion in H1 FY27 as European demand surges",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjRaT2xmbVJyczdrUXJ5VnY4b3owc0NVd216aXhVMENYZkh4TWtMY3dUU2E2ZThINDZ3SU5iNGlSMnQ3SHpRcmhnTWYxV29NVDBqV0w1YlRDYlpSMWZ0NktEbGM2Y0FROE1BcUwwQnJHRWk4MS1wdTd5T0ZlNmR3WXp3NG1ubHcxaGlEWXRsbmt2dzRyMmd0VDMxWXZ0QXJxQVFNSkZEUVEzNWFkX0x3Q0o5eTNKSEZ3MXF5bWZMdnkyUEpONWJn?oc=5",
+      "published": "2026-10-29T22:00:00+00:00",
+      "source": "India's News.Net",
+      "signal": "General",
       "business_area": "Exports / Markets",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Citi Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Citi Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Citi Pharma"
-      ],
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Recorder",
+      "numbers": [
+        "16.14 billion"
+      ],
+      "source_name": "India's News.Net",
       "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets.",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India's pharma exports rise 4.90% to USD 16.14 billion in H1 FY27 as European demand surges.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Business Recorder; primary source or underlying documents not independently verified",
+      "importance_score": 3,
+      "fact_status": "Reported by India's News.Net; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSmt5OFB2ZkNaeU5SN1hQa1VaRnZUT0psVDVFWFhzTkFCR2x5dG5fbk1zTm8xZEhkUEh6SWNPRjhjclA3RWxNWXdrdDNCRUdFeU9Rc2N30gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5"
+          "source": "India's News.Net",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjRaT2xmbVJyczdrUXJ5VnY4b3owc0NVd216aXhVMENYZkh4TWtMY3dUU2E2ZThINDZ3SU5iNGlSMnQ3SHpRcmhnTWYxV29NVDBqV0w1YlRDYlpSMWZ0NktEbGM2Y0FROE1BcUwwQnJHRWk4MS1wdTd5T0ZlNmR3WXp3NG1ubHcxaGlEWXRsbmt2dzRyMmd0VDMxWXZ0QXJxQVFNSkZEUVEzNWFkX0x3Q0o5eTNKSEZ3MXF5bWZMdnkyUEpONWJn?oc=5"
         }
       ]
     },
@@ -466,165 +581,6 @@
         {
           "source": "India's News.Net",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0N6TUtJMjZIZERkdWJXdzF4VVM0bTVLSUtCcTlONWtJLWtNLWFfSWxGNWE2OFA1TVdVcC1fZVBqWmNWbE8xTzdmX01wX25QQ0UtanQ3a2RQenNXXzlDeUFkZWUxYV9DWDd1S0M0ODZ0ZGdYQWdESUp4R3hMLWx5VDZjVk5oRS1pX0UyMFlZQ2xuTWZNZzMzMV93cHVBZFpaNXNfRFdoYWRham5rZmZud0w3eDRGZnc2WWVNRFFjWmh6SDVuajZFeXNSYjZTU1k?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil",
-      "description": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQeHB5OTBiZ0xKVDRKZmUtdTh5M0tlRFBNWVdMRmUxV1NnN0FBSFF5bTZEdy1yOGF5Y0RQVC1TdVRMdkNYMl83ZzZLN3JkNlNpYXBUOUxoTjcwSDlGN1hZX0dpQ0NEeU1SV1BZS0lwbk1KUzVvRHlfaEtyZ1FQbUdSbGxVQ3JEY3RidTF6b0dkRUVaeGUzUW1HTXdEQWNzem1xTkw1djZEc0xDc0JTRkpGdU1XdUdpNkZkTGdxX1dOdlpvUlJXREgxVUVpRzN1WjVyTlNqNVBSWUJPZ1pXWU1mTkVHODh3TTFJUXV3d2h1Z180QU1fTUt2cXVfaldoUFBlRDlBN3JfbXJhN3hQcTh6aUF5RS1RSkRtNFI5QXVJSdIBpAJBVV95cUxNOEhhQmFkZ2pqV0JqX3V0cmVGOTlPWXJER1RvUWxWZzY5em5YR251YXc4Z3l1bE9ES0FraXVqU1pYdUJBdF9iMFBhUmYzdU4wYmVqRkg4U2h1LTYxWDBSN1Y1S3FXZzBGMnFxeXhYQ3NaWHBheWwyLXB1V0wwRDlpZy12YlBwRTZWOEhCbVROMGpOYkgwR2FYSWt3T19hdzYxdzZCaGh4dkQzZGtTZ2gxZE5COGhtdUp3aEVOQ3B0S202QkhKTDBkQVJPRnJtOUdXRy1WbGVwLVpRWkkzT3A4RVEyRUUyRWtpRGk4YVZXYzdoR3RCU1pOc0hKYURBSW5Nd2Frbmc5ZVh5bzJtMVYyamZpN3U3Rk44dmJnM0VvTFRpcXNs?oc=5",
-      "published": "2026-10-29T15:33:14+00:00",
-      "source": "The Economic Times",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "16.14 bn"
-      ],
-      "source_name": "The Economic Times",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQeHB5OTBiZ0xKVDRKZmUtdTh5M0tlRFBNWVdMRmUxV1NnN0FBSFF5bTZEdy1yOGF5Y0RQVC1TdVRMdkNYMl83ZzZLN3JkNlNpYXBUOUxoTjcwSDlGN1hZX0dpQ0NEeU1SV1BZS0lwbk1KUzVvRHlfaEtyZ1FQbUdSbGxVQ3JEY3RidTF6b0dkRUVaeGUzUW1HTXdEQWNzem1xTkw1djZEc0xDc0JTRkpGdU1XdUdpNkZkTGdxX1dOdlpvUlJXREgxVUVpRzN1WjVyTlNqNVBSWUJPZ1pXWU1mTkVHODh3TTFJUXV3d2h1Z180QU1fTUt2cXVfaldoUFBlRDlBN3JfbXJhN3hQcTh6aUF5RS1RSkRtNFI5QXVJSdIBpAJBVV95cUxNOEhhQmFkZ2pqV0JqX3V0cmVGOTlPWXJER1RvUWxWZzY5em5YR251YXc4Z3l1bE9ES0FraXVqU1pYdUJBdF9iMFBhUmYzdU4wYmVqRkg4U2h1LTYxWDBSN1Y1S3FXZzBGMnFxeXhYQ3NaWHBheWwyLXB1V0wwRDlpZy12YlBwRTZWOEhCbVROMGpOYkgwR2FYSWt3T19hdzYxdzZCaGh4dkQzZGtTZ2gxZE5COGhtdUp3aEVOQ3B0S202QkhKTDBkQVJPRnJtOUdXRy1WbGVwLVpRWkkzT3A4RVEyRUUyRWtpRGk4YVZXYzdoR3RCU1pOc0hKYURBSW5Nd2Frbmc5ZVh5bzJtMVYyamZpN3U3Rk44dmJnM0VvTFRpcXNs?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's pharma exports grow 4.9% to $16.14 bn in H1FY27 on Europe gains",
-      "description": "India's pharma exports grow 4.9% to $16.14 bn in H1FY27 on Europe gains",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3ZGejhWVzZvdndmSnF6RHFIQkZSWGRGSW9Ua3hvZWxiQTBQMjlvT3RPdm1NazVMUFFJdF9ZMUlMRmZWaERFRHA1bjhYbjhRSHVOaUxlOEQ2dVdPaFNtV3JUNUFlR0R3SGZOMWJLTHlYak1lNTJQeE1pSy05T3c2VEpmMnk4QWttWHo5dGVZNVVCMHd1QXpEUDA4ak8yTWRYdm5IWVU3d0kyNTMwN0UteFhwMGtLcEpqX3cwT1lDb2NPOVBZS05jMWdoVDJTMmd3ano40gHYAUFVX3lxTE9XeUFQX1otcUVLdlE3RUxXa25kYVhKX2M0TGZzSjY3Wl9hZDRCMmdoQVF4eW9VZG1tOUxiUk9KcUJDNmYtNktsN2VZTDIzQ2xyZFo3Yl9ZeURlOHRlWE9BanphdXpzTk9xUUllSExIcllOekY2dnd2NWswcjdFWW1SZlJ5cXpsc2oxNm5LVHNVVVdzZUZ6MUlNMmFDYU95X3VLQjJJcmdvWXI3QlZQWlBHRVVVTEpubHRCZk1EbFJfRU51aExkNFZqY3ZoZVdISGNrbS1JdmhiUQ?oc=5",
-      "published": "2026-10-29T13:59:31+00:00",
-      "source": "Business Standard",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "16.14 bn",
-        "$16.14 bn"
-      ],
-      "source_name": "Business Standard",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India's pharma exports grow 4.9% to $16.14 bn in H1FY27 on Europe gains.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Business Standard; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3ZGejhWVzZvdndmSnF6RHFIQkZSWGRGSW9Ua3hvZWxiQTBQMjlvT3RPdm1NazVMUFFJdF9ZMUlMRmZWaERFRHA1bjhYbjhRSHVOaUxlOEQ2dVdPaFNtV3JUNUFlR0R3SGZOMWJLTHlYak1lNTJQeE1pSy05T3c2VEpmMnk4QWttWHo5dGVZNVVCMHd1QXpEUDA4ak8yTWRYdm5IWVU3d0kyNTMwN0UteFhwMGtLcEpqX3cwT1lDb2NPOVBZS05jMWdoVDJTMmd3ano40gHYAUFVX3lxTE9XeUFQX1otcUVLdlE3RUxXa25kYVhKX2M0TGZzSjY3Wl9hZDRCMmdoQVF4eW9VZG1tOUxiUk9KcUJDNmYtNktsN2VZTDIzQ2xyZFo3Yl9ZeURlOHRlWE9BanphdXpzTk9xUUllSExIcllOekY2dnd2NWswcjdFWW1SZlJ5cXpsc2oxNm5LVHNVVVdzZUZ6MUlNMmFDYU95X3VLQjJJcmdvWXI3QlZQWlBHRVVVTEpubHRCZk1EbFJfRU51aExkNFZqY3ZoZVdISGNrbS1JdmhiUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India’s Pharma Exports Grow 4.9% To $16.14 Bn In April-September 2026",
-      "description": "India’s Pharma Exports Grow 4.9% To $16.14 Bn In April-September 2026",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUFYNnQ0bDhHZTVBeVEtUnV5WFU1MmhhWDBOUG9jbjg5ZWs1Xzc1N3lGR2FUQ2trMDQ3NC1FamVwS1E0MVB4czFIR2s1S3ZmY1VFODJRUnUtMkVtNFlVRzQxbUM0TW5YSTNrUlhWTzdTUDV5Tk94NEVMeThMeFNZeUJndl9JZ2REek8yN1Vna2ltSUpFOVdWRmYxdzhOMUZOUzZZY0tpdjIyYlpVaG9pOA?oc=5",
-      "published": "2026-10-29T13:46:42+00:00",
-      "source": "BW Businessworld",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "16.14 bn",
-        "$16.14 bn"
-      ],
-      "source_name": "BW Businessworld",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India’s Pharma Exports Grow 4.9% To $16.14 Bn In April-September 2026.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by BW Businessworld; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "BW Businessworld",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUFYNnQ0bDhHZTVBeVEtUnV5WFU1MmhhWDBOUG9jbjg5ZWs1Xzc1N3lGR2FUQ2trMDQ3NC1FamVwS1E0MVB4czFIR2s1S3ZmY1VFODJRUnUtMkVtNFlVRzQxbUM0TW5YSTNrUlhWTzdTUDV5Tk94NEVMeThMeFNZeUJndl9JZ2REek8yN1Vna2ltSUpFOVdWRmYxdzhOMUZOUzZZY0tpdjIyYlpVaG9pOA?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "description": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5",
-      "published": "2026-10-29T11:46:04+00:00",
-      "source": "Trade Brains",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Senores Pharmaceuticals"
-      ],
-      "project_signals": [
-        "capacity expansion"
-      ],
-      "numbers": [
-        "₹43 cr",
-        "43 cr"
-      ],
-      "source_name": "Trade Brains",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Senores Pharmaceuticals approves ₹43 Cr capacity expansion across US and Indian subsidiaries to scale complex generic manufacturing.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 16,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
-        },
-        {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXNTcE1XeGZEeGc2bVg0UzFpeTRGVHgza0lTbnhGSm5POXVSUzZBbmdJdzF2NE80VEJBaDg1M1pQc2Z3TlI4Q1V6blVHdHRzellONy0zVXYwVC1BcGNMZTY2Y0J5QTZWQVBRRVJOcEhkVFgtb1RvZTJGNjQxalVDeTFmalA1Ml9CdVh3aWRmOGdoWXhKTDJPN1NPY2ZrUVIzLXR6bUhkb1BtYUh4RnNpRzFIUE1WLWFKSzB3VTFYVlRPMzY3S3NKYmZuNXV2V1UyN2tUVVotRDhBRjMyRm05bzVZZmVpMnRLN2NQem5fc2taNWdRX1E4MW5OUklkblNMZ3QyU1IzS1g?oc=5"
         }
       ]
     }
