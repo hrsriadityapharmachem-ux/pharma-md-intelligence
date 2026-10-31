@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T20:07:34.627509+00:00",
+  "updated": "2026-10-31T23:29:19.207839+00:00",
   "engine_version": "3.7.0",
-  "article_count": 8,
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 5,
-  "high_priority_count": 2,
+  "watch_count": 3,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
     {
@@ -47,49 +47,6 @@
     },
     {
       "category": "India",
-      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
-      "published": "2026-10-30T07:59:16+00:00",
-      "source": "eHealth Magazine",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Senores Pharmaceuticals",
-        "Syringe Line Senores Pharmaceuticals"
-      ],
-      "project_signals": [
-        "capacity expansion"
-      ],
-      "numbers": [
-        "₹43 crore",
-        "43 crore"
-      ],
-      "source_name": "eHealth Magazine",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 16,
-      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
       "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
       "description": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5",
@@ -124,6 +81,44 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5"
         }
       ]
+    },
+    {
+      "category": "India",
+      "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
+      "description": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5",
+      "published": "2026-10-30T04:54:16+00:00",
+      "source": "eHealth Magazine",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sun Pharma",
+        "Plaque Psoriasis Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "eHealth Magazine",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "eHealth Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5"
+        }
+      ]
     }
   ],
   "business_signals": {
@@ -145,14 +140,14 @@
         "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
       },
       {
-        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
         "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving India's Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+      },
+      {
+        "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
+        "signal": "Watch",
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       }
     ],
     "investigate": [
@@ -161,8 +156,8 @@
         "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
+        "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
@@ -320,49 +315,6 @@
     },
     {
       "category": "India",
-      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-      "description": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5",
-      "published": "2026-10-30T07:59:16+00:00",
-      "source": "eHealth Magazine",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Senores Pharmaceuticals",
-        "Syringe Line Senores Pharmaceuticals"
-      ],
-      "project_signals": [
-        "capacity expansion"
-      ],
-      "numbers": [
-        "₹43 crore",
-        "43 crore"
-      ],
-      "source_name": "eHealth Magazine",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 16,
-      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzVucG14ZlQ1bmVxUFN0aHZjaHNUODgwTEIwS2gtaXc5R3ZCVVZ1VC1JWGM5SWxZTUhFR3oxZV9IVjVMRGVZQ21nWWs4WE5rcm5JaHN1Y3YzYWNYV3I3LUVDaDVaVWx1SUhoWUpfdGl1ckRqRWUxQmpMYnNkcVN1V1NWQk93REZMLTM2UWVqWmQwTmlGSmpiZWRjcUZxOW1rUnR6SmFXcmtSQjZ0QXZVYUZfRmpnMFlGTXRPeVpYNEMtVUpOb2t4ZDljNzdVVnR5Q2c?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
       "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
       "description": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5",
@@ -400,76 +352,39 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets",
-      "description": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSmt5OFB2ZkNaeU5SN1hQa1VaRnZUT0psVDVFWFhzTkFCR2x5dG5fbk1zTm8xZEhkUEh6SWNPRjhjclA3RWxNWXdrdDNCRUdFeU9Rc2N30gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5",
-      "published": "2026-10-30T00:43:51+00:00",
-      "source": "Business Recorder",
-      "signal": "Watch",
-      "business_area": "Exports / Markets",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Citi Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Citi Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Citi Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Recorder",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Citi Pharma’s acquisition of Pakheim clears scrutiny in five drug markets.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Business Recorder; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSmt5OFB2ZkNaeU5SN1hQa1VaRnZUT0psVDVFWFhzTkFCR2x5dG5fbk1zTm8xZEhkUEh6SWNPRjhjclA3RWxNWXdrdDNCRUdFeU9Rc2N30gFWQVVfeXFMT05Ka3k4UHZmQ1p5TlI3WFBrVVpGdlRPSmxUNUVYWHNOQUJHbHl0bl9uTXNObzFkSGRQSHpJY09GOGNyUDdFbE1Zd2t0M0JFR0V5T1FzY3c?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's pharma exports rise 4.90% to USD 16.14 billion in H1 FY27 as European demand surges",
-      "description": "India's pharma exports rise 4.90% to USD 16.14 billion in H1 FY27 as European demand surges",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjRaT2xmbVJyczdrUXJ5VnY4b3owc0NVd216aXhVMENYZkh4TWtMY3dUU2E2ZThINDZ3SU5iNGlSMnQ3SHpRcmhnTWYxV29NVDBqV0w1YlRDYlpSMWZ0NktEbGM2Y0FROE1BcUwwQnJHRWk4MS1wdTd5T0ZlNmR3WXp3NG1ubHcxaGlEWXRsbmt2dzRyMmd0VDMxWXZ0QXJxQVFNSkZEUVEzNWFkX0x3Q0o5eTNKSEZ3MXF5bWZMdnkyUEpONWJn?oc=5",
-      "published": "2026-10-29T22:00:00+00:00",
-      "source": "India's News.Net",
+      "category": "Vizag / AP",
+      "title": "PM Modi Sets 30-Day Deadline for Land Transfer, Expresses Concern Over Delays in Haroli Bulk Drug Park",
+      "description": "PM Modi Sets 30-Day Deadline for Land Transfer, Expresses Concern Over Delays in Haroli Bulk Drug Park",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczI4N0Jsa0xvSzRSWEVGT0lRN3JkTExxZ2pWc0dOODJTZ1dMOWJMSUNpb1RNZHJEb0pPcnBycWdyZExjSGtHaXkyU1YxbGVBekNTckUyb3h5S0RDX2lXd2RoV2VjbkFRQUNoNzduc1VhOWhxVlhwOHZFRVNJMmx0RzQ0WXBodWtxeVdMWi1uM1NfYlBzYWNSdjh6VTZEck9MR1pXVW1zQWZaSEZEeWIwRXY5QmFTZXowS3pTRHNCSmozdXRpODcybTdTcGhKUXhkd3p6Mw?oc=5",
+      "published": "2026-10-30T04:52:41+00:00",
+      "source": "The News Himachal",
       "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
       "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "16.14 billion"
+      "project_signals": [
+        "bulk drug park"
       ],
-      "source_name": "India's News.Net",
+      "numbers": [],
+      "source_name": "The News Himachal",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India's pharma exports rise 4.90% to USD 16.14 billion in H1 FY27 as European demand surges.",
+      "event_type": "Industry Development",
+      "what_happened": "PM Modi Sets 30-Day Deadline for Land Transfer, Expresses Concern Over Delays in Haroli Bulk Drug Park.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "investigation_question": "What evidence would link this API / Intermediates development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by India's News.Net; primary source or underlying documents not independently verified",
+      "importance_score": 13,
+      "fact_status": "Reported by The News Himachal; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "India's News.Net",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjRaT2xmbVJyczdrUXJ5VnY4b3owc0NVd216aXhVMENYZkh4TWtMY3dUU2E2ZThINDZ3SU5iNGlSMnQ3SHpRcmhnTWYxV29NVDBqV0w1YlRDYlpSMWZ0NktEbGM2Y0FROE1BcUwwQnJHRWk4MS1wdTd5T0ZlNmR3WXp3NG1ubHcxaGlEWXRsbmt2dzRyMmd0VDMxWXZ0QXJxQVFNSkZEUVEzNWFkX0x3Q0o5eTNKSEZ3MXF5bWZMdnkyUEpONWJn?oc=5"
+          "source": "The News Himachal",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczI4N0Jsa0xvSzRSWEVGT0lRN3JkTExxZ2pWc0dOODJTZ1dMOWJMSUNpb1RNZHJEb0pPcnBycWdyZExjSGtHaXkyU1YxbGVBekNTckUyb3h5S0RDX2lXd2RoV2VjbkFRQUNoNzduc1VhOWhxVlhwOHZFRVNJMmx0RzQ0WXBodWtxeVdMWi1uM1NfYlBzYWNSdjh6VTZEck9MR1pXVW1zQWZaSEZEeWIwRXY5QmFTZXowS3pTRHNCSmozdXRpODcybTdTcGhKUXhkd3p6Mw?oc=5"
         }
       ]
     }
