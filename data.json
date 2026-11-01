@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-01T02:26:13.079488+00:00",
+  "updated": "2026-11-01T09:27:24.065536+00:00",
   "engine_version": "3.7.0",
-  "article_count": 5,
+  "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 2,
+  "watch_count": 0,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
@@ -44,81 +44,6 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5"
         }
       ]
-    },
-    {
-      "category": "India",
-      "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
-      "description": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5",
-      "published": "2026-10-30T08:57:11+00:00",
-      "source": "Yahoo Finance",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving India's Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between India's Sun Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "India's Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Yahoo Finance",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Yahoo Finance; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
-      "description": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5",
-      "published": "2026-10-30T04:54:16+00:00",
-      "source": "eHealth Magazine",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Sun Pharma",
-        "Plaque Psoriasis Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "eHealth Magazine",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5"
-        }
-      ]
     }
   ],
   "business_signals": {
@@ -138,26 +63,12 @@
         "title": "India halts Sun Pharma eye drug production over quality issues",
         "signal": "Risk",
         "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
-      },
-      {
-        "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
-        "signal": "Watch",
-        "why": "The report concerns an ownership change involving India's Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
-      },
-      {
-        "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
-        "signal": "Watch",
-        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       }
     ],
     "investigate": [
       {
         "title": "India halts Sun Pharma eye drug production over quality issues",
         "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
-      },
-      {
-        "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
@@ -235,118 +146,6 @@
         {
           "source": "UA.NEWS",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
-      "description": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5",
-      "published": "2026-10-30T08:57:11+00:00",
-      "source": "Yahoo Finance",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving India's Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between India's Sun Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "India's Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Yahoo Finance",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Yahoo Finance; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjhLUW9wQlRCaXQzcW81UWdPMHdmS2xsVVZ1U2NEdUFld2pFMVJvUDBnWTc0VFBST2VCbkl2b3RFNWhIN1JWRUpDdzIzMGlHd3Q0eEowcVlNUjR0WUFRR1JMQ3pXQ3hvNUQ1Rk4yZTdsc1luTWZzSXl1a3h0VG1YMmZ2YV9FVnlPV2Z5YjNFM21ldk1P?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
-      "description": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5",
-      "published": "2026-10-30T04:54:16+00:00",
-      "source": "eHealth Magazine",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Sun Pharma",
-        "Plaque Psoriasis Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "eHealth Magazine",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Sun Pharma's ILUMYA Wins US FDA Approval for Psoriatic Arthritis, Extending IL-23 Biologic Beyond Plaque Psoriasis.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by eHealth Magazine; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBILTFTcERTdFF1TEdtbGdGakZtdEpBM21MUVRMUHZzLWJPQXA4bDgySWNRWjl4VU9RQnROOHRKQzc4NmJPcFhQNmRHMURhdDdwWlYwVVU2ZDFwWnZpOFZQR0NlTjhVYi1tNEdEOC1ndlQ3eXNBb3NjdXBsY2lvVWpZS0pmZ1NhSGhLdE5ycFllVC1wRndXSjh5cDJhMGhLSGZtRGlHSFg3Q2RLckNmd1Q2TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "PM Modi Sets 30-Day Deadline for Land Transfer, Expresses Concern Over Delays in Haroli Bulk Drug Park",
-      "description": "PM Modi Sets 30-Day Deadline for Land Transfer, Expresses Concern Over Delays in Haroli Bulk Drug Park",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczI4N0Jsa0xvSzRSWEVGT0lRN3JkTExxZ2pWc0dOODJTZ1dMOWJMSUNpb1RNZHJEb0pPcnBycWdyZExjSGtHaXkyU1YxbGVBekNTckUyb3h5S0RDX2lXd2RoV2VjbkFRQUNoNzduc1VhOWhxVlhwOHZFRVNJMmx0RzQ0WXBodWtxeVdMWi1uM1NfYlBzYWNSdjh6VTZEck9MR1pXVW1zQWZaSEZEeWIwRXY5QmFTZXowS3pTRHNCSmozdXRpODcybTdTcGhKUXhkd3p6Mw?oc=5",
-      "published": "2026-10-30T04:52:41+00:00",
-      "source": "The News Himachal",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [
-        "bulk drug park"
-      ],
-      "numbers": [],
-      "source_name": "The News Himachal",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "PM Modi Sets 30-Day Deadline for Land Transfer, Expresses Concern Over Delays in Haroli Bulk Drug Park.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this API / Intermediates development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 13,
-      "fact_status": "Reported by The News Himachal; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "The News Himachal",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczI4N0Jsa0xvSzRSWEVGT0lRN3JkTExxZ2pWc0dOODJTZ1dMOWJMSUNpb1RNZHJEb0pPcnBycWdyZExjSGtHaXkyU1YxbGVBekNTckUyb3h5S0RDX2lXd2RoV2VjbkFRQUNoNzduc1VhOWhxVlhwOHZFRVNJMmx0RzQ0WXBodWtxeVdMWi1uM1NfYlBzYWNSdjh6VTZEck9MR1pXVW1zQWZaSEZEeWIwRXY5QmFTZXowS3pTRHNCSmozdXRpODcybTdTcGhKUXhkd3p6Mw?oc=5"
         }
       ]
     }
