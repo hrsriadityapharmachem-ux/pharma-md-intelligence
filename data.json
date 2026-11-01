@@ -1,47 +1,48 @@
 {
-  "updated": "2026-11-01T09:27:24.065536+00:00",
+  "updated": "2026-11-01T16:12:03.467041+00:00",
   "engine_version": "3.7.0",
   "article_count": 2,
   "opportunity_count": 0,
-  "risk_count": 1,
-  "watch_count": 0,
-  "high_priority_count": 1,
+  "risk_count": 0,
+  "watch_count": 1,
+  "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
     {
       "category": "India",
-      "title": "India halts Sun Pharma eye drug production over quality issues",
-      "description": "India halts Sun Pharma eye drug production over quality issues",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5",
-      "published": "2026-10-30T13:12:49+00:00",
-      "source": "UA.NEWS",
-      "signal": "Risk",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "description": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5",
+      "published": "2026-10-31T14:44:00+00:00",
+      "source": "Kalkine India",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Sun Pharma"
+        "Sun Pharma",
+        "Shareholders Sun Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "UA.NEWS",
+      "source_name": "Kalkine India",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India halts Sun Pharma eye drug production over quality issues.",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential business or operational risk requires verification.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
-      "fact_status": "Reported by UA.NEWS; primary source or underlying documents not independently verified",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5"
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5"
         }
       ]
     }
@@ -50,7 +51,7 @@
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
-    "Manufacturing / Plants": 1,
+    "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -60,20 +61,58 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "India halts Sun Pharma eye drug production over quality issues",
-        "signal": "Risk",
-        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+        "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+        "signal": "Watch",
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       }
     ],
     "investigate": [
       {
-        "title": "India halts Sun Pharma eye drug production over quality issues",
-        "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
+        "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "description": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5",
+      "published": "2026-10-31T14:44:00+00:00",
+      "source": "Kalkine India",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sun Pharma",
+        "Shareholders Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Kalkine India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "India’s Pharma Exports Grow 4.9 Percent to $16.14 Billion in H1 FY27",
@@ -109,43 +148,6 @@
         {
           "source": "Chemical Industry Digest",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObFpkS1EzeVNYb1VkM0lXVVJ6VEs3clJaU21yQ2xLODVPRVZoenpsSzd0U2ltRTZsR0VWdlpLREJ4M2dvY2tUeFJvZGZlZTZ1b1Q3MUItYlR0bVpzNkdLVnFtOGV5SHlmYmtsNHdWOU5zb0g4eW1BYlVPV09CQW9xaXU2dTZjWHhLR01sNHhYRWJueDBzckZJ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India halts Sun Pharma eye drug production over quality issues",
-      "description": "India halts Sun Pharma eye drug production over quality issues",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5",
-      "published": "2026-10-30T13:12:49+00:00",
-      "source": "UA.NEWS",
-      "signal": "Risk",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
-      "companies": [
-        "Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "UA.NEWS",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India halts Sun Pharma eye drug production over quality issues.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential business or operational risk requires verification.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
-      "fact_status": "Reported by UA.NEWS; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy05TWVscGtIUFh4bTJUS3JuMUtpVS1NUDM2WHN4aG55c1RIemRfS0ZfTm42MTdNX2RJX192aFg1S1o2QThFYXR4UjBzd25HV2N2QVVUY2dUaWdxZS15VWV0d1hnX3hnd08zcWdEOG8zcTFIUEtPOFBrbWEwcHBNVGxJU09QRjloczRIalJkamVlU2NyU3d1MVg3OE9JeEFnTE45OTJ4Qm8tMXlZVUJvZlMzNEU?oc=5"
         }
       ]
     }
