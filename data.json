@@ -1,52 +1,13 @@
 {
-  "updated": "2026-11-01T16:12:03.467041+00:00",
+  "updated": "2026-11-01T20:38:20.761365+00:00",
   "engine_version": "3.7.0",
-  "article_count": 2,
+  "article_count": 1,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 0,
   "high_priority_count": 0,
   "successful_feeds": 20,
-  "must_know": [
-    {
-      "category": "India",
-      "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
-      "description": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5",
-      "published": "2026-10-31T14:44:00+00:00",
-      "source": "Kalkine India",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Sun Pharma",
-        "Shareholders Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Kalkine India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5"
-        }
-      ]
-    }
-  ],
+  "must_know": [],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
@@ -59,60 +20,11 @@
     "Pharma Industry": 0
   },
   "daily_brief": {
-    "attention": [
-      {
-        "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
-        "signal": "Watch",
-        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
-      }
-    ],
-    "investigate": [
-      {
-        "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
-        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
-      }
-    ],
+    "attention": [],
+    "investigate": [],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
-    {
-      "category": "India",
-      "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
-      "description": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5",
-      "published": "2026-10-31T14:44:00+00:00",
-      "source": "Kalkine India",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Sun Pharma",
-        "Shareholders Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Kalkine India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
-      "related_sources": [
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5"
-        }
-      ]
-    },
     {
       "category": "India",
       "title": "India’s Pharma Exports Grow 4.9 Percent to $16.14 Billion in H1 FY27",
