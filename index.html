@@ -244,6 +244,7 @@ function renderMustKnow(article){
     </div>
     <aside class="feature-side">
       <div class="side-block"><div class="side-label">Why it matters</div><div class="side-value">${escapeHtml(article.relevance||whyItMatters(article))}</div></div>
+      ${article.signal==="Opportunity"?`<div class="side-block"><div class="side-label">Opportunity status</div><div class="side-value">${escapeHtml(article.opportunity_status||"Industry signal — not a confirmed Sri Aditya lead")}</div></div>`:""}
       <div class="side-block"><div class="side-label">Next question</div><div class="side-value">${escapeHtml(article.investigation_question||article.md_watch||"What specific business impact should be verified?")}</div></div>
       <div class="side-block"><div class="side-label">Management action</div><div class="side-value side-action">${escapeHtml(actionFor(article))}</div></div>
     </aside>
@@ -265,7 +266,7 @@ function renderArticles(articles,mustKnow){
       <div>
         <h3 class="intel-title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a></h3>
         <div class="meta">${escapeHtml(article.category||"")} · ${escapeHtml(article.source||"")}</div>
-        <div class="badges">${signalBadge(article.signal)}${priorityBadge(article.priority)}<span class="badge">${escapeHtml(article.business_area||"Pharma")}</span></div>
+        <div class="badges">${signalBadge(article.signal)}${priorityBadge(article.priority)}<span class="badge">${escapeHtml(article.business_area||"Pharma")}</span>${article.signal==="Opportunity"?'<span class="badge badge-watch">Industry signal · verify lead</span>':""}</div>
         <div class="intel-relevance">${escapeHtml(article.relevance||"")}</div>
         <div class="intel-why"><strong>WHY IT MATTERS</strong> · ${escapeHtml(whyItMatters(article))}</div>
       </div>
