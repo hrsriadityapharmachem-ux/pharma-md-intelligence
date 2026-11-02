@@ -110,6 +110,8 @@ class NewsQualityRegressionTests(unittest.TestCase):
         self.assertIn('data.must_know[0]', html)
         self.assertIn('id="statusLabel"', html)
         self.assertIn('ageMinutes>30?"Update delayed":"Data current"', html)
+        self.assertIn("Opportunity status", html)
+        self.assertIn("Industry signal · verify lead", html)
         self.assertIn('priority==="Critical"?"badge-critical"', html)
         self.assertIn("let loadInProgress=false;", html)
         self.assertIn('timeZone:"Asia/Kolkata"', html)
@@ -159,6 +161,23 @@ class NewsQualityRegressionTests(unittest.TestCase):
         self.assertEqual(
             news.determine_signal("Regulator issues a ban on pharmaceutical imports"),
             "Risk",
+        )
+
+    def test_third_party_contract_is_not_presented_as_confirmed_sri_aditya_lead(self):
+        status = news.determine_opportunity_status(
+            "Opportunity",
+            "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+        )
+        self.assertEqual(status, "Industry signal — not a confirmed Sri Aditya lead")
+
+    def test_sri_aditya_reference_requires_commercial_scope_verification(self):
+        status = news.determine_opportunity_status(
+            "Opportunity",
+            "Sri Aditya Pharmachem signs API supply agreement",
+        )
+        self.assertEqual(
+            status,
+            "Sri Aditya referenced — verify commercial scope and counterparties",
         )
 
     def test_critical_priority_is_included_in_must_know_ranking(self):
