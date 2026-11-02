@@ -10,7 +10,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-EXPECTED_ENGINE = "3.7.0"
+EXPECTED_ENGINE = "3.8.0"
 MAX_DATA_AGE = timedelta(minutes=30)  # 10-minute schedule with queue-delay tolerance
 MAX_FUTURE_SKEW = timedelta(minutes=10)
 REQUIRED_TOP_LEVEL = {
@@ -104,6 +104,11 @@ def main():
             fail(f"{label}.signal has unexpected value {article.get('signal')!r}")
         if article.get("priority") not in VALID_PRIORITIES:
             fail(f"{label}.priority has unexpected value {article.get('priority')!r}")
+        if article.get("signal") == "Opportunity" and article.get("opportunity_status") not in {
+            "Industry signal — not a confirmed Sri Aditya lead",
+            "Sri Aditya referenced — verify commercial scope and counterparties",
+        }:
+            fail(f"{label}.opportunity_status must distinguish industry signals from company-specific references")
         link = article.get("link", "")
         parsed = urlparse(link)
         if parsed.scheme not in {"http", "https"} or not parsed.netloc:
