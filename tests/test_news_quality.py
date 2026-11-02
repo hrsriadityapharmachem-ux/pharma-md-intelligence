@@ -109,7 +109,7 @@ class NewsQualityRegressionTests(unittest.TestCase):
         html = Path(__file__).resolve().parents[1].joinpath("index.html").read_text(encoding="utf-8")
         self.assertIn('data.must_know[0]', html)
         self.assertIn('id="statusLabel"', html)
-        self.assertIn('ageHours>2?"Update delayed":"Data current"', html)
+        self.assertIn('ageMinutes>30?"Update delayed":"Data current"', html)
         self.assertIn('priority==="Critical"?"badge-critical"', html)
         self.assertIn("let loadInProgress=false;", html)
         self.assertIn('timeZone:"Asia/Kolkata"', html)
