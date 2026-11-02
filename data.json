@@ -1,13 +1,90 @@
 {
-  "updated": "2026-11-01T20:38:20.761365+00:00",
+  "updated": "2026-11-02T00:54:38.401853+00:00",
   "engine_version": "3.7.0",
-  "article_count": 1,
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 2,
   "high_priority_count": 0,
   "successful_feeds": 20,
-  "must_know": [],
+  "must_know": [
+    {
+      "category": "India",
+      "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
+      "description": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkZmSUJaNTFOWWZ2dTk0a01IdjlGcXluVmRlOGhGMzF3eTlNbE5Na3B3bGd0QTdEaTExdVdOOG51dEQ4RVpCT0ZCWEp0SWdEMFlKaG9RUnB2T3hwRDllbU5MOTBjZDdwSC1HY0YwNHV0Um14R0c0U2VEVFQzczBSN01GLWQzV0VOcHRRWkhtNUpSYVppRDlCNTlCTnE1clhoRTlUb3dTb24xMG1SUUJF0gG0AUFVX3lxTE02SWE3Q3ZzeFA2UTBFaVVUOTlKOUNkYkNIMDFyM1lZaUJIUlAxQU8wY2ZUUW84U2d4NmlvRlk3c2pYQ3JFMngxc2FrRFFLX0EwQVYzM2UzREZ5Z1AzZjRJOFhzYjdtb2g5MnpLUGhvdnhISmhNSkFZLUduWWdZU3pxZWdKaV9iNG1RcHJYdU1kalFzU0hDclBVYy1QWDZObnIyaHMtaFk5Qk8tMkRXUlFmSDZpNQ?oc=5",
+      "published": "2026-11-01T14:00:55+00:00",
+      "source": "Medical Dialogues",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sun Pharma",
+        "Semaglutide Pill Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Medical Dialogues",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Medical Dialogues; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkZmSUJaNTFOWWZ2dTk0a01IdjlGcXluVmRlOGhGMzF3eTlNbE5Na3B3bGd0QTdEaTExdVdOOG51dEQ4RVpCT0ZCWEp0SWdEMFlKaG9RUnB2T3hwRDllbU5MOTBjZDdwSC1HY0YwNHV0Um14R0c0U2VEVFQzczBSN01GLWQzV0VOcHRRWkhtNUpSYVppRDlCNTlCTnE1clhoRTlUb3dTb24xMG1SUUJF0gG0AUFVX3lxTE02SWE3Q3ZzeFA2UTBFaVVUOTlKOUNkYkNIMDFyM1lZaUJIUlAxQU8wY2ZUUW84U2d4NmlvRlk3c2pYQ3JFMngxc2FrRFFLX0EwQVYzM2UzREZ5Z1AzZjRJOFhzYjdtb2g5MnpLUGhvdnhISmhNSkFZLUduWWdZU3pxZWdKaV9iNG1RcHJYdU1kalFzU0hDclBVYy1QWDZObnIyaHMtaFk5Qk8tMkRXUlFmSDZpNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "description": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5",
+      "published": "2026-10-31T14:44:00+00:00",
+      "source": "Kalkine India",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sun Pharma",
+        "Shareholders Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Kalkine India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5"
+        }
+      ]
+    }
+  ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
@@ -20,11 +97,107 @@
     "Pharma Industry": 0
   },
   "daily_brief": {
-    "attention": [],
-    "investigate": [],
+    "attention": [
+      {
+        "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
+        "signal": "Watch",
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
+      },
+      {
+        "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+        "signal": "Watch",
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
+      }
+    ],
+    "investigate": [
+      {
+        "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
+        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+      },
+      {
+        "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+      }
+    ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
+      "description": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkZmSUJaNTFOWWZ2dTk0a01IdjlGcXluVmRlOGhGMzF3eTlNbE5Na3B3bGd0QTdEaTExdVdOOG51dEQ4RVpCT0ZCWEp0SWdEMFlKaG9RUnB2T3hwRDllbU5MOTBjZDdwSC1HY0YwNHV0Um14R0c0U2VEVFQzczBSN01GLWQzV0VOcHRRWkhtNUpSYVppRDlCNTlCTnE1clhoRTlUb3dTb24xMG1SUUJF0gG0AUFVX3lxTE02SWE3Q3ZzeFA2UTBFaVVUOTlKOUNkYkNIMDFyM1lZaUJIUlAxQU8wY2ZUUW84U2d4NmlvRlk3c2pYQ3JFMngxc2FrRFFLX0EwQVYzM2UzREZ5Z1AzZjRJOFhzYjdtb2g5MnpLUGhvdnhISmhNSkFZLUduWWdZU3pxZWdKaV9iNG1RcHJYdU1kalFzU0hDclBVYy1QWDZObnIyaHMtaFk5Qk8tMkRXUlFmSDZpNQ?oc=5",
+      "published": "2026-11-01T14:00:55+00:00",
+      "source": "Medical Dialogues",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Sun Pharma",
+        "Semaglutide Pill Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Medical Dialogues",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Medical Dialogues; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkZmSUJaNTFOWWZ2dTk0a01IdjlGcXluVmRlOGhGMzF3eTlNbE5Na3B3bGd0QTdEaTExdVdOOG51dEQ4RVpCT0ZCWEp0SWdEMFlKaG9RUnB2T3hwRDllbU5MOTBjZDdwSC1HY0YwNHV0Um14R0c0U2VEVFQzczBSN01GLWQzV0VOcHRRWkhtNUpSYVppRDlCNTlCTnE1clhoRTlUb3dTb24xMG1SUUJF0gG0AUFVX3lxTE02SWE3Q3ZzeFA2UTBFaVVUOTlKOUNkYkNIMDFyM1lZaUJIUlAxQU8wY2ZUUW84U2d4NmlvRlk3c2pYQ3JFMngxc2FrRFFLX0EwQVYzM2UzREZ5Z1AzZjRJOFhzYjdtb2g5MnpLUGhvdnhISmhNSkFZLUduWWdZU3pxZWdKaV9iNG1RcHJYdU1kalFzU0hDclBVYy1QWDZObnIyaHMtaFk5Qk8tMkRXUlFmSDZpNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "description": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5",
+      "published": "2026-10-31T14:44:00+00:00",
+      "source": "Kalkine India",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Sun Pharma",
+        "Shareholders Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Kalkine India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Sun Pharma ESOP 2026 and Borrowing Limit Approved by Shareholders.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUR2X3ZIVUpNNC1wRnVnY2RlUzJLOFRxSVNxZC1Wek5YMjNFZE5CQWVEcEdVeEl6MjNueXpadXBCaTBLbGhFRUhlOHp1R0diTHRseERtMWtDYmRrOWJ0LUVsa284UVpURldaX0MxVFFTc3hZenNycEM0QUJQWjNCN0YxbnFmLWozVURlRy1oaXpoLWFGMzlHYlBucnA0bFBBYThueHZLS3hyVTAta2pLeFZOdHpoeHhYaFprTG1vam5WR080Mk9fVjJaakRlMWZ5eWRQWkgzT0hhX1kxYl9kNG95VDk?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "India’s Pharma Exports Grow 4.9 Percent to $16.14 Billion in H1 FY27",
