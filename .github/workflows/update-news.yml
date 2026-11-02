@@ -1,5 +1,6 @@
 name: Update Pharma News
 run-name: "Refresh and validate live pharma intelligence"
+# Single production scheduler: runs on main, collects and publishes data to v2-intelligence.
 
 on:
   workflow_dispatch:
