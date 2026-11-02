@@ -149,7 +149,7 @@ a{color:inherit}
     <h1>What changed.<br>What matters.</h1>
     <p>A focused view of developments that may affect manufacturing, APIs, supply chains, regulation, markets and commercial opportunities.</p>
   </div>
-  <div class="updated"><strong id="lastUpdated">Loading...</strong><span>Auto-refresh · 5 minutes</span></div>
+  <div class="updated"><strong id="lastUpdated">Loading...</strong><span>Auto-refresh · 10 minutes</span></div>
 </section>
 
 <section class="kpis">
@@ -287,11 +287,11 @@ async function loadData(){
     if(!data || !Array.isArray(data.articles) || !data.updated) throw new Error("Data file is missing required fields");
     const updatedAt=new Date(data.updated);
     if(Number.isNaN(updatedAt.getTime())) throw new Error("Data timestamp is invalid");
-    const ageHours=(Date.now()-updatedAt.getTime())/3600000;
+    const ageMinutes=(Date.now()-updatedAt.getTime())/60000;
     const statusDot=document.getElementById("statusDot");
     const statusLabel=document.getElementById("statusLabel");
-    statusDot.className="status-dot"+(ageHours>2?" stale":"");
-    statusLabel.textContent=ageHours>2?"Update delayed":"Data current";
+    statusDot.className="status-dot"+(ageMinutes>30?" stale":"");
+    statusLabel.textContent=ageMinutes>30?"Update delayed":"Data current";
     const articles=data.articles;
     document.getElementById("newsCount").textContent=articles.length;
     document.getElementById("opportunityCount").textContent=articles.filter(a=>a.signal==="Opportunity").length;
