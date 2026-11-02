@@ -11,7 +11,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 EXPECTED_ENGINE = "3.7.0"
-MAX_DATA_AGE = timedelta(hours=3)  # hourly schedule; allow limited GitHub queue delay
+MAX_DATA_AGE = timedelta(minutes=30)  # 10-minute schedule with queue-delay tolerance
 MAX_FUTURE_SKEW = timedelta(minutes=10)
 REQUIRED_TOP_LEVEL = {
     "updated", "engine_version", "article_count", "opportunity_count",
@@ -66,7 +66,7 @@ def main():
     if age > MAX_DATA_AGE:
         fail(
             f"data.json is stale: updated {updated.isoformat()} "
-            f"({age.total_seconds() / 3600:.1f} hours ago; maximum 3 hours)"
+            f"({age.total_seconds() / 3600:.1f} hours ago; maximum 30 minutes)"
         )
     if age < -MAX_FUTURE_SKEW:
         fail(f"updated timestamp is unexpectedly in the future: {updated.isoformat()}")
