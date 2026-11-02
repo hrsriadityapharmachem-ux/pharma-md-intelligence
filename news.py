@@ -48,7 +48,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.7.0"
+ENGINE_VERSION = "3.8.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -672,6 +672,21 @@ def determine_fact_status(source_name):
     if name.lower() == "google news rss":
         return "Headline surfaced via Google News RSS; publisher and primary evidence not confirmed"
     return f"Reported by {name}; primary source or underlying documents not independently verified"
+
+
+def determine_opportunity_status(signal, title, description=""):
+    """Separate an industry-level opportunity signal from a company-specific lead."""
+    if signal != "Opportunity":
+        return "Not applicable"
+    text = clean_text(f"{title} {description}").lower()
+    company_names = (
+        "sri aditya pharmachem",
+        "sri aditya pharma chem",
+        "srivenn pharmachem",
+    )
+    if any(name in text for name in company_names):
+        return "Sri Aditya referenced — verify commercial scope and counterparties"
+    return "Industry signal — not a confirmed Sri Aditya lead"
 
 
 def build_what_happened(title):
@@ -1494,7 +1509,7 @@ def collect_news():
 
     now = datetime.now(timezone.utc)
 
-    cutoff = now - timedelta(hours=48)
+    cutoff = now - timedelta(hours=24)
 
     articles = []
 
@@ -1759,7 +1774,10 @@ def collect_news():
                     "fact_status":
                         determine_fact_status(
                             extract_source(analysis_title, description, source_hint)
-                        )
+                        ),
+
+                    "opportunity_status":
+                        determine_opportunity_status(signal, analysis_title, description)
                 })
 
 
