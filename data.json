@@ -1,59 +1,128 @@
 {
-  "updated": "2026-11-02T07:47:40.118697+00:00",
+  "updated": "2026-11-02T17:49:27.574128+00:00",
   "engine_version": "3.7.0",
-  "article_count": 1,
-  "opportunity_count": 0,
-  "risk_count": 0,
+  "article_count": 4,
+  "opportunity_count": 1,
+  "risk_count": 2,
   "watch_count": 1,
-  "high_priority_count": 0,
+  "high_priority_count": 3,
   "successful_feeds": 20,
   "must_know": [
     {
+      "category": "Global",
+      "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "description": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5",
+      "published": "2026-11-02T10:24:20+00:00",
+      "source": "Express Pharma",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "High",
+      "relevance": "Potential contract manufacturing or outsourcing requirement; capability and counterparties need verification.",
+      "why_it_matters": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Express Pharma",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Hikal signs multi-year global CDMO contract with leading agrochemical company.",
+      "business_opportunity": "Investigate potential outsourcing, contract manufacturing or development demand.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 17,
+      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Express Pharma",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5"
+        }
+      ]
+    },
+    {
       "category": "India",
-      "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
-      "description": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkZmSUJaNTFOWWZ2dTk0a01IdjlGcXluVmRlOGhGMzF3eTlNbE5Na3B3bGd0QTdEaTExdVdOOG51dEQ4RVpCT0ZCWEp0SWdEMFlKaG9RUnB2T3hwRDllbU5MOTBjZDdwSC1HY0YwNHV0Um14R0c0U2VEVFQzczBSN01GLWQzV0VOcHRRWkhtNUpSYVppRDlCNTlCTnE1clhoRTlUb3dTb24xMG1SUUJF0gG0AUFVX3lxTE02SWE3Q3ZzeFA2UTBFaVVUOTlKOUNkYkNIMDFyM1lZaUJIUlAxQU8wY2ZUUW84U2d4NmlvRlk3c2pYQ3JFMngxc2FrRFFLX0EwQVYzM2UzREZ5Z1AzZjRJOFhzYjdtb2g5MnpLUGhvdnhISmhNSkFZLUduWWdZU3pxZWdKaV9iNG1RcHJYdU1kalFzU0hDclBVYy1QWDZObnIyaHMtaFk5Qk8tMkRXUlFmSDZpNQ?oc=5",
-      "published": "2026-11-01T14:00:55+00:00",
-      "source": "Medical Dialogues",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
+      "description": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5",
+      "published": "2026-11-02T16:58:08+00:00",
+      "source": "BioSpace",
+      "signal": "Risk",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
       "companies": [
-        "Sun Pharma",
-        "Semaglutide Pill Sun Pharma"
+        "Sun Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Medical Dialogues",
+      "source_name": "BioSpace",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill.",
+      "event_type": "Industry Development",
+      "what_happened": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Medical Dialogues; primary source or underlying documents not independently verified",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by BioSpace; primary source or underlying documents not independently verified",
       "related_sources": [
         {
-          "source": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkZmSUJaNTFOWWZ2dTk0a01IdjlGcXluVmRlOGhGMzF3eTlNbE5Na3B3bGd0QTdEaTExdVdOOG51dEQ4RVpCT0ZCWEp0SWdEMFlKaG9RUnB2T3hwRDllbU5MOTBjZDdwSC1HY0YwNHV0Um14R0c0U2VEVFQzczBSN01GLWQzV0VOcHRRWkhtNUpSYVppRDlCNTlCTnE1clhoRTlUb3dTb24xMG1SUUJF0gG0AUFVX3lxTE02SWE3Q3ZzeFA2UTBFaVVUOTlKOUNkYkNIMDFyM1lZaUJIUlAxQU8wY2ZUUW84U2d4NmlvRlk3c2pYQ3JFMngxc2FrRFFLX0EwQVYzM2UzREZ5Z1AzZjRJOFhzYjdtb2g5MnpLUGhvdnhISmhNSkFZLUduWWdZU3pxZWdKaV9iNG1RcHJYdU1kalFzU0hDclBVYy1QWDZObnIyaHMtaFk5Qk8tMkRXUlFmSDZpNQ?oc=5"
+          "source": "BioSpace",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
+      "description": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5",
+      "published": "2026-11-02T11:32:53+00:00",
+      "source": "Livemint",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Livemint",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 16,
+      "fact_status": "Reported by Livemint; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5"
         }
       ]
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 0,
+    "CDMO / Contract Manufacturing": 1,
     "Investment / Expansion": 0,
-    "Manufacturing / Plants": 0,
+    "Manufacturing / Plants": 1,
     "Supply Chain": 0,
-    "Regulatory": 0,
+    "Regulatory": 1,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
@@ -61,20 +130,141 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
-        "signal": "Watch",
-        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
+        "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+        "signal": "Opportunity",
+        "why": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified."
+      },
+      {
+        "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
+        "signal": "Risk",
+        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+      },
+      {
+        "title": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
+        "signal": "Risk",
+        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
       }
     ],
     "investigate": [
       {
-        "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
-        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+        "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+        "question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?"
+      },
+      {
+        "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
+        "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
+      "description": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5",
+      "published": "2026-11-02T16:58:08+00:00",
+      "source": "BioSpace",
+      "signal": "Risk",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [
+        "Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "BioSpace",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by BioSpace; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "BioSpace",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
+      "description": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5",
+      "published": "2026-11-02T11:32:53+00:00",
+      "source": "Livemint",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Livemint",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 16,
+      "fact_status": "Reported by Livemint; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "description": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5",
+      "published": "2026-11-02T10:24:20+00:00",
+      "source": "Express Pharma",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "High",
+      "relevance": "Potential contract manufacturing or outsourcing requirement; capability and counterparties need verification.",
+      "why_it_matters": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Express Pharma",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Hikal signs multi-year global CDMO contract with leading agrochemical company.",
+      "business_opportunity": "Investigate potential outsourcing, contract manufacturing or development demand.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 17,
+      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
+      "related_sources": [
+        {
+          "source": "Express Pharma",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Sun Pharma Secures CDSCO Approval for Generic Semaglutide Pill",
