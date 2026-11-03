@@ -1,51 +1,13 @@
 {
-  "updated": "2026-11-03T15:49:42.362416+00:00",
+  "updated": "2026-11-03T21:17:35.984409+00:00",
   "engine_version": "3.8.0",
   "article_count": 6,
   "opportunity_count": 1,
-  "risk_count": 1,
-  "watch_count": 3,
-  "high_priority_count": 1,
+  "risk_count": 0,
+  "watch_count": 4,
+  "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
-      "description": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5",
-      "published": "2026-11-02T16:58:08+00:00",
-      "source": "BioSpace",
-      "signal": "Risk",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
-      "companies": [
-        "Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BioSpace",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential business or operational risk requires verification.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
-      "fact_status": "Reported by BioSpace; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BioSpace",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5"
-        }
-      ]
-    },
     {
       "category": "Global",
       "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
@@ -119,13 +81,49 @@
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
         }
       ]
+    },
+    {
+      "category": "India",
+      "title": "India's cancer drug price cuts meet pharma acquisition boom",
+      "description": "India's cancer drug price cuts meet pharma acquisition boom",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5",
+      "published": "2026-11-03T13:53:51+00:00",
+      "source": "The Pharma Letter",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Pharma Letter",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "India's cancer drug price cuts meet pharma acquisition boom.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by The Pharma Letter; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The Pharma Letter",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5"
+        }
+      ]
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
-    "Manufacturing / Plants": 1,
+    "Manufacturing / Plants": 0,
     "Supply Chain": 0,
     "Regulatory": 0,
     "Exports / Markets": 0,
@@ -135,11 +133,6 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
-        "signal": "Risk",
-        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
-      },
-      {
         "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
@@ -148,16 +141,21 @@
         "title": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company",
         "signal": "Opportunity",
         "why": "the agreement may create a new customer, supplier or outsourcing requirement. The contracted products, volumes and geography need to be established before treating it as a lead."
+      },
+      {
+        "title": "India's cancer drug price cuts meet pharma acquisition boom",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
       {
-        "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
-        "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
-      },
-      {
         "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
         "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+      },
+      {
+        "title": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company",
+        "question": "Which products, volumes, counterparties and territories are covered by the agreement?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
@@ -198,6 +196,42 @@
         {
           "source": "PR Newswire",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFcwVW55TjdVN2VZclFBSUtJMUlVZFozdjVCUXEzemZoX3Ywbjd2bVZjS1VUSld0UnRlcHRlOXVubnZIY1p5VFB3Q2JNelpZZlNxMDhLMXRfWlAyQ3BRZFRRY1dieEhzVkE4TG1QaU1LVGw3bW1GZk53SmIwTm1zSUE2WXgxamVnUmo0dlRQQTg1V0p5cmZTd25qeUMyTk15YzdIM0tYeDJ6OHhMd1VENlN1RVJRYXVzMDZ0ejJLbUlsLWFaVGpLWUV6bzhjZ3lXcHdCX25zWHRncVVQQ3BwM19B?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India's cancer drug price cuts meet pharma acquisition boom",
+      "description": "India's cancer drug price cuts meet pharma acquisition boom",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5",
+      "published": "2026-11-03T13:53:51+00:00",
+      "source": "The Pharma Letter",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Pharma Letter",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "India's cancer drug price cuts meet pharma acquisition boom.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by The Pharma Letter; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The Pharma Letter",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5"
         }
       ]
     },
@@ -346,44 +380,6 @@
         {
           "source": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
-      "description": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5",
-      "published": "2026-11-02T16:58:08+00:00",
-      "source": "BioSpace",
-      "signal": "Risk",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
-      "companies": [
-        "Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BioSpace",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential business or operational risk requires verification.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
-      "fact_status": "Reported by BioSpace; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BioSpace",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5"
         }
       ]
     }
