@@ -1,13 +1,53 @@
 {
-  "updated": "2026-11-02T18:43:18.420613+00:00",
+  "updated": "2026-11-03T01:19:28.706140+00:00",
   "engine_version": "3.8.0",
-  "article_count": 2,
-  "opportunity_count": 0,
+  "article_count": 3,
+  "opportunity_count": 1,
   "risk_count": 2,
   "watch_count": 0,
-  "high_priority_count": 2,
+  "high_priority_count": 3,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "description": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5",
+      "published": "2026-11-02T10:24:20+00:00",
+      "source": "Express Pharma",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "High",
+      "relevance": "Potential contract manufacturing or outsourcing requirement; capability and counterparties need verification.",
+      "why_it_matters": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Express Pharma",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Hikal signs multi-year global CDMO contract with leading agrochemical company.",
+      "business_opportunity": "Investigate potential outsourcing, contract manufacturing or development demand.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 17,
+      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Industry signal — not a confirmed Sri Aditya lead",
+      "related_sources": [
+        {
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
+        },
+        {
+          "source": "Express Pharma",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
@@ -85,7 +125,7 @@
   ],
   "business_signals": {
     "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 0,
+    "CDMO / Contract Manufacturing": 1,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 1,
     "Supply Chain": 0,
@@ -96,6 +136,11 @@
   },
   "daily_brief": {
     "attention": [
+      {
+        "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+        "signal": "Opportunity",
+        "why": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified."
+      },
       {
         "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
         "signal": "Risk",
@@ -109,12 +154,12 @@
     ],
     "investigate": [
       {
-        "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
-        "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
+        "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+        "question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
-        "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
+        "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
+        "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
@@ -191,6 +236,46 @@
         {
           "source": "Livemint",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "description": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5",
+      "published": "2026-11-02T10:24:20+00:00",
+      "source": "Express Pharma",
+      "signal": "Opportunity",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "High",
+      "relevance": "Potential contract manufacturing or outsourcing requirement; capability and counterparties need verification.",
+      "why_it_matters": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified.",
+      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Express Pharma",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Hikal signs multi-year global CDMO contract with leading agrochemical company.",
+      "business_opportunity": "Investigate potential outsourcing, contract manufacturing or development demand.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 17,
+      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Industry signal — not a confirmed Sri Aditya lead",
+      "related_sources": [
+        {
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
+        },
+        {
+          "source": "Express Pharma",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5"
         }
       ]
     }
