@@ -1,53 +1,13 @@
 {
-  "updated": "2026-11-03T07:59:29.734322+00:00",
+  "updated": "2026-11-03T15:49:42.362416+00:00",
   "engine_version": "3.8.0",
-  "article_count": 3,
+  "article_count": 6,
   "opportunity_count": 1,
-  "risk_count": 2,
-  "watch_count": 0,
-  "high_priority_count": 3,
+  "risk_count": 1,
+  "watch_count": 3,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
-    {
-      "category": "Global",
-      "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
-      "description": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5",
-      "published": "2026-11-02T10:24:20+00:00",
-      "source": "Express Pharma",
-      "signal": "Opportunity",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "High",
-      "relevance": "Potential contract manufacturing or outsourcing requirement; capability and counterparties need verification.",
-      "why_it_matters": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified.",
-      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Express Pharma",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Industry Development",
-      "what_happened": "Hikal signs multi-year global CDMO contract with leading agrochemical company.",
-      "business_opportunity": "Investigate potential outsourcing, contract manufacturing or development demand.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 17,
-      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
-      "opportunity_status": "Industry signal — not a confirmed Sri Aditya lead",
-      "related_sources": [
-        {
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
-        },
-        {
-          "source": "Express Pharma",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5"
-        }
-      ]
-    },
     {
       "category": "India",
       "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
@@ -87,84 +47,308 @@
       ]
     },
     {
-      "category": "India",
-      "title": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
-      "description": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5",
-      "published": "2026-11-02T11:32:53+00:00",
-      "source": "Livemint",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "category": "Global",
+      "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+      "description": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5",
+      "published": "2026-11-03T09:21:23+00:00",
+      "source": "Moneycontrol.com",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Livemint",
+      "source_name": "Moneycontrol.com",
       "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks.",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Livemint; primary source or underlying documents not independently verified",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by Moneycontrol.com; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Livemint",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5"
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company",
+      "description": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5",
+      "published": "2026-11-03T00:03:48+00:00",
+      "source": "아시아경제",
+      "signal": "Opportunity",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Global commercial agreement that may create customer, supplier or outsourcing requirements.",
+      "why_it_matters": "the agreement may create a new customer, supplier or outsourcing requirement. The contracted products, volumes and geography need to be established before treating it as a lead.",
+      "md_action": "Review the development for potential products, customers, suppliers, markets or partnerships.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "434.3 billion"
+      ],
+      "source_name": "아시아경제",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Commercial Agreement",
+      "what_happened": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company.",
+      "business_opportunity": "Investigate the commercial requirement before treating this as a confirmed opportunity.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, volumes, counterparties and territories are covered by the agreement?",
+      "evidence_level": "Medium",
+      "confidence": 80,
+      "importance_score": 10,
+      "fact_status": "Reported by 아시아경제; primary source or underlying documents not independently verified",
+      "opportunity_status": "Industry signal — not a confirmed Sri Aditya lead",
+      "related_sources": [
+        {
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
         }
       ]
     }
   ],
   "business_signals": {
     "API / Intermediates": 0,
-    "CDMO / Contract Manufacturing": 1,
+    "CDMO / Contract Manufacturing": 0,
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 1,
     "Supply Chain": 0,
-    "Regulatory": 1,
+    "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
-    "Pharma Industry": 0
+    "Pharma Industry": 1
   },
   "daily_brief": {
     "attention": [
-      {
-        "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
-        "signal": "Opportunity",
-        "why": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified."
-      },
       {
         "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
         "signal": "Risk",
         "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
       },
       {
-        "title": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
-        "signal": "Risk",
-        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+        "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+      },
+      {
+        "title": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company",
+        "signal": "Opportunity",
+        "why": "the agreement may create a new customer, supplier or outsourcing requirement. The contracted products, volumes and geography need to be established before treating it as a lead."
       }
     ],
     "investigate": [
       {
-        "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
-        "question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?"
-      },
-      {
         "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
         "question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?"
+      },
+      {
+        "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®",
+      "description": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFcwVW55TjdVN2VZclFBSUtJMUlVZFozdjVCUXEzemZoX3Ywbjd2bVZjS1VUSld0UnRlcHRlOXVubnZIY1p5VFB3Q2JNelpZZlNxMDhLMXRfWlAyQ3BRZFRRY1dieEhzVkE4TG1QaU1LVGw3bW1GZk53SmIwTm1zSUE2WXgxamVnUmo0dlRQQTg1V0p5cmZTd25qeUMyTk15YzdIM0tYeDJ6OHhMd1VENlN1RVJRYXVzMDZ0ejJLbUlsLWFaVGpLWUV6bzhjZ3lXcHdCX25zWHRncVVQQ3BwM19B?oc=5",
+      "published": "2026-11-03T14:00:00+00:00",
+      "source": "PR Newswire",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "Spektus Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "PR Newswire",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by PR Newswire; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFcwVW55TjdVN2VZclFBSUtJMUlVZFozdjVCUXEzemZoX3Ywbjd2bVZjS1VUSld0UnRlcHRlOXVubnZIY1p5VFB3Q2JNelpZZlNxMDhLMXRfWlAyQ3BRZFRRY1dieEhzVkE4TG1QaU1LVGw3bW1GZk53SmIwTm1zSUE2WXgxamVnUmo0dlRQQTg1V0p5cmZTd25qeUMyTk15YzdIM0tYeDJ6OHhMd1VENlN1RVJRYXVzMDZ0ejJLbUlsLWFaVGpLWUV6bzhjZ3lXcHdCX25zWHRncVVQQ3BwM19B?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Pharma industry seeks clarity on CDSCO solvent order's export ambit",
+      "description": "Pharma industry seeks clarity on CDSCO solvent order's export ambit",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX01YbVNNNm5KNVNZWEE1b3M3RTVvUU53emNlTGhsUTJNQ3A5Qmp6X2czcEJWU002ZXNHaXJWempvTFhvcTRTZ0ZjM21wUEdtQkJublNTbFlKTkdKbDBmampOTkFydUNOVVJxQS1sRzdRWUFaTURQS1ZpV1lfZkpHei1MRXVoSUQxWkZ5X2F5SUF0QUh3djNNN3BJOU5WT0U5Z010WHlWcWswTmk3ZUZmeXhadzJxdWxCU3ZLSGJxaVNQTjdFeDRhVENtWGRhNF9M0gHWAUFVX3lxTE1BenlYWi1KT3p4U3JzeHRORjVBcUZ4NDFuc3A5Z0xHX3ZBM2hjOW9SN25zVG80Z201VkREM2lPeE0wVnE1Ry02Tk5vWUxTYWNaRU5ldkVvME41LWRwWTh2Ny0tMkszcjEwMklSRVNKcjZuRmtGNHJxT3M1N2dmWXlia0V5QzdHNURTeWQzTG5hNXhVdFNJR3ZWNEtIUlNsM1N4bWJral9vUDF1cXVWUWlKb0tWTk1memNhSVBlUEQ2UzRneUNHNzJWLU9ZakEzd3lHMFJ0c1E?oc=5",
+      "published": "2026-11-03T13:23:06+00:00",
+      "source": "Business Standard",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Business Standard",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "Pharma industry seeks clarity on CDSCO solvent order's export ambit.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Business Standard; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX01YbVNNNm5KNVNZWEE1b3M3RTVvUU53emNlTGhsUTJNQ3A5Qmp6X2czcEJWU002ZXNHaXJWempvTFhvcTRTZ0ZjM21wUEdtQkJublNTbFlKTkdKbDBmampOTkFydUNOVVJxQS1sRzdRWUFaTURQS1ZpV1lfZkpHei1MRXVoSUQxWkZ5X2F5SUF0QUh3djNNN3BJOU5WT0U5Z010WHlWcWswTmk3ZUZmeXhadzJxdWxCU3ZLSGJxaVNQTjdFeDRhVENtWGRhNF9M0gHWAUFVX3lxTE1BenlYWi1KT3p4U3JzeHRORjVBcUZ4NDFuc3A5Z0xHX3ZBM2hjOW9SN25zVG80Z201VkREM2lPeE0wVnE1Ry02Tk5vWUxTYWNaRU5ldkVvME41LWRwWTh2Ny0tMkszcjEwMklSRVNKcjZuRmtGNHJxT3M1N2dmWXlia0V5QzdHNURTeWQzTG5hNXhVdFNJR3ZWNEtIUlNsM1N4bWJral9vUDF1cXVWUWlKb0tWTk1memNhSVBlUEQ2UzRneUNHNzJWLU9ZakEzd3lHMFJ0c1E?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "HRV Pharma acquires German firm Phatebo, enters finished formulations biz",
+      "description": "HRV Pharma acquires German firm Phatebo, enters finished formulations biz",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdV9iQnRrTk1qdmcyU0g0bXk1aHVNSzJYbUxhNnEzMkJ1d1pEOEh0Q3ZBeEREeGl2bGpHZm05Umd1UnA5QkduUGVRY0ptbF9QT2V4dEcyM2JlTkZaRG5JLXFobV9zcnNkblRsNUdnTDRCVkY5ZTZtRjZNTW1iTnZvT0gxekxUeHVDbzg2aU13R29UMEJDb3lsYl9KazBtcXByS2lRdmNLYXl4Q3BiaVZKVjk2Mk5hWFA1SUJXalkteHJGUEdEazdrbTQxYTVHZzM5eGpZbkNlOXbSAd4BQVVfeXFMUGRyLUxtV3ZFek11bHZPeDRWT1VmMjJIR2diUzctUWZ1SWNjQjRSZEQ5THoybExJelhMQURyNkNTbGxTd2Y2X1c2NGxVcWFib0NMQlhtRGJwZmtQSnlxSW40cC1DM0pTR3AzaUNKYlBfX1RQcnkwNk9jWThmSC02N3FGa1lwRGlvQ3c5Mk9nYUIwNFhKaDlmZ1ozLWhTX1dGRzRXaUlVdkdHWTNTc3NkVjJvVlh5MEJFTjFhLVdVMjdCd3hrWDZsMW56QWJwNGNMOTV3b0pZb0RuT1hKSklR?oc=5",
+      "published": "2026-11-03T13:19:25+00:00",
+      "source": "Business Standard",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving HRV Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between HRV Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "HRV Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Business Standard",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "HRV Pharma acquires German firm Phatebo, enters finished formulations biz.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by Business Standard; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdV9iQnRrTk1qdmcyU0g0bXk1aHVNSzJYbUxhNnEzMkJ1d1pEOEh0Q3ZBeEREeGl2bGpHZm05Umd1UnA5QkduUGVRY0ptbF9QT2V4dEcyM2JlTkZaRG5JLXFobV9zcnNkblRsNUdnTDRCVkY5ZTZtRjZNTW1iTnZvT0gxekxUeHVDbzg2aU13R29UMEJDb3lsYl9KazBtcXByS2lRdmNLYXl4Q3BiaVZKVjk2Mk5hWFA1SUJXalkteHJGUEdEazdrbTQxYTVHZzM5eGpZbkNlOXbSAd4BQVVfeXFMUGRyLUxtV3ZFek11bHZPeDRWT1VmMjJIR2diUzctUWZ1SWNjQjRSZEQ5THoybExJelhMQURyNkNTbGxTd2Y2X1c2NGxVcWFib0NMQlhtRGJwZmtQSnlxSW40cC1DM0pTR3AzaUNKYlBfX1RQcnkwNk9jWThmSC02N3FGa1lwRGlvQ3c5Mk9nYUIwNFhKaDlmZ1ozLWhTX1dGRzRXaUlVdkdHWTNTc3NkVjJvVlh5MEJFTjFhLVdVMjdCd3hrWDZsMW56QWJwNGNMOTV3b0pZb0RuT1hKSklR?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+      "description": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5",
+      "published": "2026-11-03T09:21:23+00:00",
+      "source": "Moneycontrol.com",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Moneycontrol.com",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by Moneycontrol.com; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company",
+      "description": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5",
+      "published": "2026-11-03T00:03:48+00:00",
+      "source": "아시아경제",
+      "signal": "Opportunity",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Global commercial agreement that may create customer, supplier or outsourcing requirements.",
+      "why_it_matters": "the agreement may create a new customer, supplier or outsourcing requirement. The contracted products, volumes and geography need to be established before treating it as a lead.",
+      "md_action": "Review the development for potential products, customers, suppliers, markets or partnerships.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "434.3 billion"
+      ],
+      "source_name": "아시아경제",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Commercial Agreement",
+      "what_happened": "Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company.",
+      "business_opportunity": "Investigate the commercial requirement before treating this as a confirmed opportunity.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, volumes, counterparties and territories are covered by the agreement?",
+      "evidence_level": "Medium",
+      "confidence": 80,
+      "importance_score": 10,
+      "fact_status": "Reported by 아시아경제; primary source or underlying documents not independently verified",
+      "opportunity_status": "Industry signal — not a confirmed Sri Aditya lead",
+      "related_sources": [
+        {
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Sun Pharma stops eye-care drug production at Indian plant amid quality issues",
@@ -200,82 +384,6 @@
         {
           "source": "BioSpace",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0NpRUxQMGw4SzhzcGlaQ29aSHRIZTFPcXM1R2lsSHdxMFlBZElqa2hnV3l1d2xndWhCUnYzeElBYjI1V2NrVDdHTmFDY3RBbWpHdkVTSy13VmEtZ1ZFY2pmRnZ3Mmc3bGJGRGI2N2k2cmNPRXhRRVFlYUtEOXdqMUxaM1RkVTdleGZpTW5SVkh1dElTYzkxVFRHOFZIeE92czBqbm5VZ0xlNGJraUNwYTc0T3EyVDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
-      "description": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5",
-      "published": "2026-11-02T11:32:53+00:00",
-      "source": "Livemint",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Livemint",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India’s apex drugs regulator turns the screws on pharmaceutical-grade raw materials linked to syrup contamination risks.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Livemint; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Livemint",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2hRQlc5SFI3a0ZlN2VPSVlMeFBxLXktR2NCZXVqYXlWM0JYM0tWSFZoeHZvaE9mbHYta2YwVGFPNlNJV2FiRVhNemQ5d3IweFpRbWRrODZibk5zZHgteEI5LTBfZHhkbFpoQ0tsUWlBTFdTR1BRRnl3cmV1VUtFdHpmT3FJanZYVXNSaC1mRE5XV1dqUWF3alFoX0wwOVIxaTd2WXlkTHEzNG5zTEV5QnhyN3lLM3FOUWZHR2x6MVJ5dVhZVlFQWVJTWnh2ODYzaGpBX0tRaFk1ay1yNWVNM2RGaG9tb2tkSEE2UVhTMlM4MXRDWVlPczdaTDZINUZKekHSAYcCQVVfeXFMT3hJUERlX3N5Tmc2d3BNREh5eEZvaUZHWmozYzBaMk9IUEd0M1lzRDZEaUNpQUN5YklIXzZaYV9YblJJQzZRUi1FQXlJNHJlRndUY1l6NjhDRUNxbmVWaUt6UG41ZmY1dDlEUlQ4ODdxQ3U5M0kxZVJXOTcxVndHOFNvdzByTmZ4SkxURjJwRm1VRExXUG5rblp4ckhBendIVkJQbzhmVnJkYkJyOXRfc19TdkVzYXltNC1kaDhxRXk2Vjh5NnFOLWUzc2ZhbUdEZFlDUERwUEpTSnFGVWdTT2dENGFDQTZQMlJhSDFNNnRDWlBGOHJrOTNEVHBDcHVNU0dLYVNqaUk?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
-      "description": "Hikal signs multi-year global CDMO contract with leading agrochemical company",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5",
-      "published": "2026-11-02T10:24:20+00:00",
-      "source": "Express Pharma",
-      "signal": "Opportunity",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "High",
-      "relevance": "Potential contract manufacturing or outsourcing requirement; capability and counterparties need verification.",
-      "why_it_matters": "The development may indicate outsourcing or contract-manufacturing demand; the required capabilities and potential counterparties should be verified.",
-      "md_action": "Monitor potential CDMO/customer requirements and identify relevant companies, projects and commercial contacts.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Express Pharma",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Industry Development",
-      "what_happened": "Hikal signs multi-year global CDMO contract with leading agrochemical company.",
-      "business_opportunity": "Investigate potential outsourcing, contract manufacturing or development demand.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 17,
-      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
-      "opportunity_status": "Industry signal — not a confirmed Sri Aditya lead",
-      "related_sources": [
-        {
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZnMtb3BRV1A3Z2U5TFlCSk0tcEliQjRPZUxYWFRwMGZxUGJVbEtJaXNTb3RqYXZnUzFLNjJrd0JhZDlNc1ZBQ0pMYVhueW11aDBwWktER2ZPNWJEVTRURkxaaG4?oc=5"
-        },
-        {
-          "source": "Express Pharma",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlp0MjI4OFlUT285dzFUTnp5d2duTFp5OV8yMXhLSlZDZ3lZbjhJd1diZHg0NjlNRWJ1cGlxQ1JfT0dFdktBVzhXVmU3RTlYbFRXZXZuOWFHdnhiV1gtZVYzUkJUVDZaU0MyY3RiV09PR3REUUZwbFVQaVZGYUJpMUV6a1lGNXNjREtkb09Dc05DRmhDQ0NOZXd0MHJhUU5NaW83YzdhcFVhZkpGOHRvTw?oc=5"
         }
       ]
     }
