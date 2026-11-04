@@ -1,49 +1,13 @@
 {
-  "updated": "2026-11-04T01:27:05.325041+00:00",
+  "updated": "2026-11-04T07:45:16.278212+00:00",
   "engine_version": "3.8.0",
-  "article_count": 8,
+  "article_count": 6,
   "opportunity_count": 0,
-  "risk_count": 1,
-  "watch_count": 6,
-  "high_priority_count": 1,
+  "risk_count": 0,
+  "watch_count": 5,
+  "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "description": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5",
-      "published": "2026-11-03T20:42:13+00:00",
-      "source": "DailyVoice.com",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "DailyVoice.com",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Supply Disruption",
-      "what_happened": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
-      "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 16,
-      "fact_status": "Reported by DailyVoice.com; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "DailyVoice.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5"
-        }
-      ]
-    },
     {
       "category": "Global",
       "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
@@ -84,9 +48,9 @@
       "category": "Global",
       "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
       "description": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMlVKOXpjSE9nQmVOblg0bVNGejYyYzJZdkNQQm1CMHJ2NUNRanBVdnY0NFN3NmZSTHUwUkNRelBHY2thVFNiNzVZRUlXRTRwQnZGYXNnOFc0MTdyeUdsdFRCWVVndmpvcHpkQ1o3eElNeTlXcHBFTE5NTHVBUHM4MkdpN0l5Q21uSW93S2ZZMm9PZmNJamtQejZORE9xZ3RBaXBwb1EtazctMnVlaEhBdVhzem1GSTViVlN1YnpNenZsdmgwYUdUUGlQc1hvdXpCMm1pZ1dBbWNRMnlNaW4zT2ZMcm84WDg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5",
       "published": "2026-11-03T23:00:00+00:00",
-      "source": "PR Newswire",
+      "source": "Plataforma Media",
       "signal": "Watch",
       "business_area": "Pharma Industry",
       "priority": "Medium",
@@ -99,7 +63,7 @@
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "PR Newswire",
+      "source_name": "Plataforma Media",
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Investment / Acquisition",
@@ -110,12 +74,48 @@
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by PR Newswire; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Plataforma Media; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMlVKOXpjSE9nQmVOblg0bVNGejYyYzJZdkNQQm1CMHJ2NUNRanBVdnY0NFN3NmZSTHUwUkNRelBHY2thVFNiNzVZRUlXRTRwQnZGYXNnOFc0MTdyeUdsdFRCWVVndmpvcHpkQ1o3eElNeTlXcHBFTE5NTHVBUHM4MkdpN0l5Q21uSW93S2ZZMm9PZmNJamtQejZORE9xZ3RBaXBwb1EtazctMnVlaEhBdVhzem1GSTViVlN1YnpNenZsdmgwYUdUUGlQc1hvdXpCMm1pZ1dBbWNRMnlNaW4zT2ZMcm84WDg?oc=5"
+          "source": "Plataforma Media",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India's cancer drug price cuts meet pharma acquisition boom",
+      "description": "India's cancer drug price cuts meet pharma acquisition boom",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5",
+      "published": "2026-11-03T21:28:25+00:00",
+      "source": "The Pharma Letter",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Pharma Letter",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "India's cancer drug price cuts meet pharma acquisition boom.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by The Pharma Letter; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The Pharma Letter",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5"
         }
       ]
     }
@@ -126,18 +126,13 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 1,
+    "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
   },
   "daily_brief": {
     "attention": [
-      {
-        "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-        "signal": "Risk",
-        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
-      },
       {
         "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
         "signal": "Watch",
@@ -147,15 +142,20 @@
         "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving Zuellig Pharma and Strategic Acquisition Zuellig Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+      },
+      {
+        "title": "India's cancer drug price cuts meet pharma acquisition boom",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
       {
-        "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-        "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
+        "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       },
       {
-        "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
+        "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
         "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
@@ -166,9 +166,9 @@
       "category": "Global",
       "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
       "description": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMlVKOXpjSE9nQmVOblg0bVNGejYyYzJZdkNQQm1CMHJ2NUNRanBVdnY0NFN3NmZSTHUwUkNRelBHY2thVFNiNzVZRUlXRTRwQnZGYXNnOFc0MTdyeUdsdFRCWVVndmpvcHpkQ1o3eElNeTlXcHBFTE5NTHVBUHM4MkdpN0l5Q21uSW93S2ZZMm9PZmNJamtQejZORE9xZ3RBaXBwb1EtazctMnVlaEhBdVhzem1GSTViVlN1YnpNenZsdmgwYUdUUGlQc1hvdXpCMm1pZ1dBbWNRMnlNaW4zT2ZMcm84WDg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5",
       "published": "2026-11-03T23:00:00+00:00",
-      "source": "PR Newswire",
+      "source": "Plataforma Media",
       "signal": "Watch",
       "business_area": "Pharma Industry",
       "priority": "Medium",
@@ -181,7 +181,7 @@
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "PR Newswire",
+      "source_name": "Plataforma Media",
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Investment / Acquisition",
@@ -192,12 +192,12 @@
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by PR Newswire; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Plataforma Media; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMlVKOXpjSE9nQmVOblg0bVNGejYyYzJZdkNQQm1CMHJ2NUNRanBVdnY0NFN3NmZSTHUwUkNRelBHY2thVFNiNzVZRUlXRTRwQnZGYXNnOFc0MTdyeUdsdFRCWVVndmpvcHpkQ1o3eElNeTlXcHBFTE5NTHVBUHM4MkdpN0l5Q21uSW93S2ZZMm9PZmNJamtQejZORE9xZ3RBaXBwb1EtazctMnVlaEhBdVhzem1GSTViVlN1YnpNenZsdmgwYUdUUGlQc1hvdXpCMm1pZ1dBbWNRMnlNaW4zT2ZMcm84WDg?oc=5"
+          "source": "Plataforma Media",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
         }
       ]
     },
@@ -238,42 +238,6 @@
       ]
     },
     {
-      "category": "India",
-      "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "description": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5",
-      "published": "2026-11-03T20:42:13+00:00",
-      "source": "DailyVoice.com",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "DailyVoice.com",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Supply Disruption",
-      "what_happened": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
-      "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 16,
-      "fact_status": "Reported by DailyVoice.com; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "DailyVoice.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5"
-        }
-      ]
-    },
-    {
       "category": "Global",
       "title": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®",
       "description": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®",
@@ -305,6 +269,10 @@
       "fact_status": "Reported by PR Newswire; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
+        {
+          "source": "Dealroom",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWtkbTB3WTU3ZFpwQlZUSDNOUk44SjV2eVBDYk5MZjlUakZsVUl2ODVDb21fRlBZRnVWWmFKUnlXU0tiRXRIeEJZc3B2ZFFwNk1wX09XRVJRdGRWWjVzeE16SFBQYUJDcnZ0RmZlSVY5aUg3OGZIM3hnX3YtUThOZ1p2cDZETVl5ZHJ2STNHQjBadGNDM0x5TDhIbm1Oal9CTXRYRm9ITlpHd2xhblJ4RHFwa0pQeHpJQXh0ZXBjLV9sZw?oc=5"
+        },
         {
           "source": "PR Newswire",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFcwVW55TjdVN2VZclFBSUtJMUlVZFozdjVCUXEzemZoX3Ywbjd2bVZjS1VUSld0UnRlcHRlOXVubnZIY1p5VFB3Q2JNelpZZlNxMDhLMXRfWlAyQ3BRZFRRY1dieEhzVkE4TG1QaU1LVGw3bW1GZk53SmIwTm1zSUE2WXgxamVnUmo0dlRQQTg1V0p5cmZTd25qeUMyTk15YzdIM0tYeDJ6OHhMd1VENlN1RVJRYXVzMDZ0ejJLbUlsLWFaVGpLWUV6bzhjZ3lXcHdCX25zWHRncVVQQ3BwM19B?oc=5"
@@ -418,47 +386,6 @@
         {
           "source": "Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Sun Pharma gets ratings boost from Moody's, S&P over $11.75 bn Organon & Co acquisition bid",
-      "description": "Sun Pharma gets ratings boost from Moody's, S&P over $11.75 bn Organon & Co acquisition bid",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNXpJT29ldTRTODBYSlFWNExIYUZIQVFVQ0V5QnlvbkgzdVd4aUpjRDBZbG8wODR0blVSX0o3NlRMZncwVzg5dElYVUdNOFpjMkNrazFUS2JyT3ZKaGZ6d2ZrRGNKNU5jX0tsMVozSDJiWWw4bmhoX0lHR0VKdXd6QTNBV0k0Sm5jZFNnR1IzaXlJaVAtWE5uQ0VQemRvNENCRWd3UFpZc0RqQ0JzbHBOclFjRElGTzIzdlZQdXFOdFZJMG4zQzdDNmhRM1F5NVd2SG5rLUJCQk9uekhNRWt3MGtpb3VabzRmQW51ZUdta1RKSUtKYzZVVm1GcWZkYnFFeEHSAfwBQVVfeXFMUEVnWi11Y3dYNmNyZVJRV090dDhpdDBZLWtXbVJVc2ZOaXVJYkV3cDRQaXIzXzdoZGxpYUV0VlY5NTNtS0hKbjhPNXNRdlJHYlRjenktYXEzVnk0UWMxRXBNNUxwd0h2SVVsbnBmS1FPb3lONVFvMWhBX2VmTFFsenNKREVqS1IwV3JFaWxjSnA1RnpHSVdpbnFmLW9qOTUtMnJUeXllZ09xZDdSQXN1T0dfbHBFdHlna3BsUVhpczNFY1hFXzBoN0NPQk15eVFTWjZEV3pLSzdKYVZkTkw4RnFON0tydDRjQUM4WVZobVZMY3ZhYTEwQ3FKTE4z?oc=5",
-      "published": "2026-11-03T03:00:20+00:00",
-      "source": "ET Manufacturing",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Sun Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Sun Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "11.75 bn",
-        "$11.75 bn"
-      ],
-      "source_name": "ET Manufacturing",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Sun Pharma gets ratings boost from Moody's, S&P over $11.75 bn Organon & Co acquisition bid.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by ET Manufacturing; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "ET Manufacturing",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNXpJT29ldTRTODBYSlFWNExIYUZIQVFVQ0V5QnlvbkgzdVd4aUpjRDBZbG8wODR0blVSX0o3NlRMZncwVzg5dElYVUdNOFpjMkNrazFUS2JyT3ZKaGZ6d2ZrRGNKNU5jX0tsMVozSDJiWWw4bmhoX0lHR0VKdXd6QTNBV0k0Sm5jZFNnR1IzaXlJaVAtWE5uQ0VQemRvNENCRWd3UFpZc0RqQ0JzbHBOclFjRElGTzIzdlZQdXFOdFZJMG4zQzdDNmhRM1F5NVd2SG5rLUJCQk9uekhNRWt3MGtpb3VabzRmQW51ZUdta1RKSUtKYzZVVm1GcWZkYnFFeEHSAfwBQVVfeXFMUEVnWi11Y3dYNmNyZVJRV090dDhpdDBZLWtXbVJVc2ZOaXVJYkV3cDRQaXIzXzdoZGxpYUV0VlY5NTNtS0hKbjhPNXNRdlJHYlRjenktYXEzVnk0UWMxRXBNNUxwd0h2SVVsbnBmS1FPb3lONVFvMWhBX2VmTFFsenNKREVqS1IwV3JFaWxjSnA1RnpHSVdpbnFmLW9qOTUtMnJUeXllZ09xZDdSQXN1T0dfbHBFdHlna3BsUVhpczNFY1hFXzBoN0NPQk15eVFTWjZEV3pLSzdKYVZkTkw4RnFON0tydDRjQUM4WVZobVZMY3ZhYTEwQ3FKTE4z?oc=5"
         }
       ]
     }
