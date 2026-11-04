@@ -1,46 +1,82 @@
 {
-  "updated": "2026-11-04T07:45:16.278212+00:00",
+  "updated": "2026-11-04T15:48:29.628851+00:00",
   "engine_version": "3.8.0",
-  "article_count": 6,
+  "article_count": 5,
   "opportunity_count": 0,
-  "risk_count": 0,
-  "watch_count": 5,
-  "high_priority_count": 0,
+  "risk_count": 2,
+  "watch_count": 3,
+  "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
     {
-      "category": "Global",
-      "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
-      "description": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5",
-      "published": "2026-11-03T09:21:23+00:00",
-      "source": "Moneycontrol.com",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "category": "India",
+      "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
+      "description": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5",
+      "published": "2026-11-03T20:42:13+00:00",
+      "source": "DailyVoice.com",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Moneycontrol.com",
+      "source_name": "DailyVoice.com",
       "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions.",
+      "location": "India",
+      "event_type": "Supply Disruption",
+      "what_happened": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
       "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by Moneycontrol.com; primary source or underlying documents not independently verified",
+      "confidence": 80,
+      "importance_score": 16,
+      "fact_status": "Reported by DailyVoice.com; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5"
+          "source": "DailyVoice.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
+      "description": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkFLYWZMR3Z6Vl9yZ1N3Qm00OVE1Q0txSjFieFJfeDJPTHA1eFZEZUVDMllucmhBbS1Ed0tieDdQZHkyWXBsRUVwQkFNQzF6ZVJVMmtNSllHNFBDa3RLUUsxWlc4SVdfZ1pQLUJCakMyMVZpLWVuaE5SMXQydUNkdUE5N3lsQnVfY3E4SVFnb0lxZUJ5NlUxTmpMNEZKYUtHZWlEYmRn?oc=5",
+      "published": "2026-11-04T14:25:21+00:00",
+      "source": "STAT",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "STAT",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 16,
+      "fact_status": "Reported by STAT; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "STAT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkFLYWZMR3Z6Vl9yZ1N3Qm00OVE1Q0txSjFieFJfeDJPTHA1eFZEZUVDMllucmhBbS1Ed0tieDdQZHkyWXBsRUVwQkFNQzF6ZVJVMmtNSllHNFBDa3RLUUsxWlc4SVdfZ1pQLUJCakMyMVZpLWVuaE5SMXQydUNkdUE5N3lsQnVfY3E4SVFnb0lxZUJ5NlUxTmpMNEZKYUtHZWlEYmRn?oc=5"
         }
       ]
     },
@@ -80,42 +116,10 @@
         {
           "source": "Plataforma Media",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's cancer drug price cuts meet pharma acquisition boom",
-      "description": "India's cancer drug price cuts meet pharma acquisition boom",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5",
-      "published": "2026-11-03T21:28:25+00:00",
-      "source": "The Pharma Letter",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "The Pharma Letter",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "India's cancer drug price cuts meet pharma acquisition boom.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by The Pharma Letter; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
+        },
         {
-          "source": "The Pharma Letter",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5"
+          "source": "BioSpectrum Asia",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHAxQWJoQVJhTDI4aUlqWTFKbUV1TU1PVUh5TDhzWFlMa3U5ZGtXMWJ6MldMZjRGWndMVFNxdTJiN21sOUxzY0xuQXgwckdfdWZLR0dMWWdCMktub3pkMWQ3QzBJcVVhYlV5Y2VfWERrOEYwRVE0SjZnOXJrTnQ1SXpheEVQZkJ2cEYteGE4enVZbnFaSnJfcjQxZ2lCMDNybWc5Ti1BV2QtM0ZxQ1ZVTXNpMFkycEJfcUxzYjJaZmthZklaczZteGpIaWlFRzVZS3RaeVBXcm9ycGV3RW9Zdw?oc=5"
         }
       ]
     }
@@ -126,7 +130,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 0,
+    "Regulatory": 2,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
@@ -134,34 +138,109 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
-        "signal": "Watch",
-        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+        "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
+        "signal": "Risk",
+        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+      },
+      {
+        "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
+        "signal": "Risk",
+        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
       },
       {
         "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving Zuellig Pharma and Strategic Acquisition Zuellig Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
-      },
-      {
-        "title": "India's cancer drug price cuts meet pharma acquisition boom",
-        "signal": "Watch",
-        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
       {
-        "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
+        "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
       },
       {
-        "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
+        "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
+      "description": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkFLYWZMR3Z6Vl9yZ1N3Qm00OVE1Q0txSjFieFJfeDJPTHA1eFZEZUVDMllucmhBbS1Ed0tieDdQZHkyWXBsRUVwQkFNQzF6ZVJVMmtNSllHNFBDa3RLUUsxWlc4SVdfZ1pQLUJCakMyMVZpLWVuaE5SMXQydUNkdUE5N3lsQnVfY3E4SVFnb0lxZUJ5NlUxTmpMNEZKYUtHZWlEYmRn?oc=5",
+      "published": "2026-11-04T14:25:21+00:00",
+      "source": "STAT",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "STAT",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 16,
+      "fact_status": "Reported by STAT; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "STAT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkFLYWZMR3Z6Vl9yZ1N3Qm00OVE1Q0txSjFieFJfeDJPTHA1eFZEZUVDMllucmhBbS1Ed0tieDdQZHkyWXBsRUVwQkFNQzF6ZVJVMmtNSllHNFBDa3RLUUsxWlc4SVdfZ1pQLUJCakMyMVZpLWVuaE5SMXQydUNkdUE5N3lsQnVfY3E4SVFnb0lxZUJ5NlUxTmpMNEZKYUtHZWlEYmRn?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "HRV Pharma Acquires German Firm Phatebo, Enters European Finished Formulations Market",
+      "description": "HRV Pharma Acquires German Firm Phatebo, Enters European Finished Formulations Market",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXpQX09pczNvblg4MHFQaXJDaTFPVHVLeUlzNURuR051dVI2Y0R0MlBGYXY2aUpIOGtaV0o1Rk9qSjRHTXVkMzA1Qk5qWDE2WW5aUGszRFV3QnhXX2EydVZ4aHdId2VrZXhCeWExMXhuMHhvVlhJQkc5RmV3MlZnb3VSVkFqalBUVjdkbW1ya0cxUEVkcW1aZzVIeDVSZWdnWHBoeV9pbnVLYzdoVGE2TFFsVUdWZF8yVnc1Tzh4VXN5M1hPT3dFZ0tJVVlLQQ?oc=5",
+      "published": "2026-11-04T12:50:57+00:00",
+      "source": "BW Healthcare World",
+      "signal": "Watch",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving HRV Pharma and Formulations Market HRV Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between HRV Pharma and Formulations Market HRV Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "HRV Pharma",
+        "Formulations Market HRV Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "BW Healthcare World",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "HRV Pharma Acquires German Firm Phatebo, Enters European Finished Formulations Market.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by BW Healthcare World; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXpQX09pczNvblg4MHFQaXJDaTFPVHVLeUlzNURuR051dVI2Y0R0MlBGYXY2aUpIOGtaV0o1Rk9qSjRHTXVkMzA1Qk5qWDE2WW5aUGszRFV3QnhXX2EydVZ4aHdId2VrZXhCeWExMXhuMHhvVlhJQkc5RmV3MlZnb3VSVkFqalBUVjdkbW1ya0cxUEVkcW1aZzVIeDVSZWdnWHBoeV9pbnVLYzdoVGE2TFFsVUdWZF8yVnc1Tzh4VXN5M1hPT3dFZ0tJVVlLQQ?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
@@ -198,6 +277,10 @@
         {
           "source": "Plataforma Media",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
+        },
+        {
+          "source": "BioSpectrum Asia",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHAxQWJoQVJhTDI4aUlqWTFKbUV1TU1PVUh5TDhzWFlMa3U5ZGtXMWJ6MldMZjRGWndMVFNxdTJiN21sOUxzY0xuQXgwckdfdWZLR0dMWWdCMktub3pkMWQ3QzBJcVVhYlV5Y2VfWERrOEYwRVE0SjZnOXJrTnQ1SXpheEVQZkJ2cEYteGE4enVZbnFaSnJfcjQxZ2lCMDNybWc5Ti1BV2QtM0ZxQ1ZVTXNpMFkycEJfcUxzYjJaZmthZklaczZteGpIaWlFRzVZS3RaeVBXcm9ycGV3RW9Zdw?oc=5"
         }
       ]
     },
@@ -238,154 +321,38 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®",
-      "description": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFcwVW55TjdVN2VZclFBSUtJMUlVZFozdjVCUXEzemZoX3Ywbjd2bVZjS1VUSld0UnRlcHRlOXVubnZIY1p5VFB3Q2JNelpZZlNxMDhLMXRfWlAyQ3BRZFRRY1dieEhzVkE4TG1QaU1LVGw3bW1GZk53SmIwTm1zSUE2WXgxamVnUmo0dlRQQTg1V0p5cmZTd25qeUMyTk15YzdIM0tYeDJ6OHhMd1VENlN1RVJRYXVzMDZ0ejJLbUlsLWFaVGpLWUV6bzhjZ3lXcHdCX25zWHRncVVQQ3BwM19B?oc=5",
-      "published": "2026-11-03T14:00:00+00:00",
-      "source": "PR Newswire",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [
-        "Spektus Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "PR Newswire",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "Spektus Pharma and GEBRO Holding Announce Global Commercialization Partnership for ActraFlex®.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by PR Newswire; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Dealroom",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWtkbTB3WTU3ZFpwQlZUSDNOUk44SjV2eVBDYk5MZjlUakZsVUl2ODVDb21fRlBZRnVWWmFKUnlXU0tiRXRIeEJZc3B2ZFFwNk1wX09XRVJRdGRWWjVzeE16SFBQYUJDcnZ0RmZlSVY5aUg3OGZIM3hnX3YtUThOZ1p2cDZETVl5ZHJ2STNHQjBadGNDM0x5TDhIbm1Oal9CTXRYRm9ITlpHd2xhblJ4RHFwa0pQeHpJQXh0ZXBjLV9sZw?oc=5"
-        },
-        {
-          "source": "PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFcwVW55TjdVN2VZclFBSUtJMUlVZFozdjVCUXEzemZoX3Ywbjd2bVZjS1VUSld0UnRlcHRlOXVubnZIY1p5VFB3Q2JNelpZZlNxMDhLMXRfWlAyQ3BRZFRRY1dieEhzVkE4TG1QaU1LVGw3bW1GZk53SmIwTm1zSUE2WXgxamVnUmo0dlRQQTg1V0p5cmZTd25qeUMyTk15YzdIM0tYeDJ6OHhMd1VENlN1RVJRYXVzMDZ0ejJLbUlsLWFaVGpLWUV6bzhjZ3lXcHdCX25zWHRncVVQQ3BwM19B?oc=5"
-        }
-      ]
-    },
-    {
       "category": "India",
-      "title": "Pharma industry seeks clarity on CDSCO solvent order's export ambit",
-      "description": "Pharma industry seeks clarity on CDSCO solvent order's export ambit",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX01YbVNNNm5KNVNZWEE1b3M3RTVvUU53emNlTGhsUTJNQ3A5Qmp6X2czcEJWU002ZXNHaXJWempvTFhvcTRTZ0ZjM21wUEdtQkJublNTbFlKTkdKbDBmampOTkFydUNOVVJxQS1sRzdRWUFaTURQS1ZpV1lfZkpHei1MRXVoSUQxWkZ5X2F5SUF0QUh3djNNN3BJOU5WT0U5Z010WHlWcWswTmk3ZUZmeXhadzJxdWxCU3ZLSGJxaVNQTjdFeDRhVENtWGRhNF9M0gHWAUFVX3lxTE1BenlYWi1KT3p4U3JzeHRORjVBcUZ4NDFuc3A5Z0xHX3ZBM2hjOW9SN25zVG80Z201VkREM2lPeE0wVnE1Ry02Tk5vWUxTYWNaRU5ldkVvME41LWRwWTh2Ny0tMkszcjEwMklSRVNKcjZuRmtGNHJxT3M1N2dmWXlia0V5QzdHNURTeWQzTG5hNXhVdFNJR3ZWNEtIUlNsM1N4bWJral9vUDF1cXVWUWlKb0tWTk1memNhSVBlUEQ2UzRneUNHNzJWLU9ZakEzd3lHMFJ0c1E?oc=5",
-      "published": "2026-11-03T13:23:06+00:00",
-      "source": "Business Standard",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
+      "description": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5",
+      "published": "2026-11-03T20:42:13+00:00",
+      "source": "DailyVoice.com",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Business Standard",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "Pharma industry seeks clarity on CDSCO solvent order's export ambit.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Business Standard; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX01YbVNNNm5KNVNZWEE1b3M3RTVvUU53emNlTGhsUTJNQ3A5Qmp6X2czcEJWU002ZXNHaXJWempvTFhvcTRTZ0ZjM21wUEdtQkJublNTbFlKTkdKbDBmampOTkFydUNOVVJxQS1sRzdRWUFaTURQS1ZpV1lfZkpHei1MRXVoSUQxWkZ5X2F5SUF0QUh3djNNN3BJOU5WT0U5Z010WHlWcWswTmk3ZUZmeXhadzJxdWxCU3ZLSGJxaVNQTjdFeDRhVENtWGRhNF9M0gHWAUFVX3lxTE1BenlYWi1KT3p4U3JzeHRORjVBcUZ4NDFuc3A5Z0xHX3ZBM2hjOW9SN25zVG80Z201VkREM2lPeE0wVnE1Ry02Tk5vWUxTYWNaRU5ldkVvME41LWRwWTh2Ny0tMkszcjEwMklSRVNKcjZuRmtGNHJxT3M1N2dmWXlia0V5QzdHNURTeWQzTG5hNXhVdFNJR3ZWNEtIUlNsM1N4bWJral9vUDF1cXVWUWlKb0tWTk1memNhSVBlUEQ2UzRneUNHNzJWLU9ZakEzd3lHMFJ0c1E?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "HRV Pharma acquires German firm Phatebo, enters finished formulations biz",
-      "description": "HRV Pharma acquires German firm Phatebo, enters finished formulations biz",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdV9iQnRrTk1qdmcyU0g0bXk1aHVNSzJYbUxhNnEzMkJ1d1pEOEh0Q3ZBeEREeGl2bGpHZm05Umd1UnA5QkduUGVRY0ptbF9QT2V4dEcyM2JlTkZaRG5JLXFobV9zcnNkblRsNUdnTDRCVkY5ZTZtRjZNTW1iTnZvT0gxekxUeHVDbzg2aU13R29UMEJDb3lsYl9KazBtcXByS2lRdmNLYXl4Q3BiaVZKVjk2Mk5hWFA1SUJXalkteHJGUEdEazdrbTQxYTVHZzM5eGpZbkNlOXbSAd4BQVVfeXFMUGRyLUxtV3ZFek11bHZPeDRWT1VmMjJIR2diUzctUWZ1SWNjQjRSZEQ5THoybExJelhMQURyNkNTbGxTd2Y2X1c2NGxVcWFib0NMQlhtRGJwZmtQSnlxSW40cC1DM0pTR3AzaUNKYlBfX1RQcnkwNk9jWThmSC02N3FGa1lwRGlvQ3c5Mk9nYUIwNFhKaDlmZ1ozLWhTX1dGRzRXaUlVdkdHWTNTc3NkVjJvVlh5MEJFTjFhLVdVMjdCd3hrWDZsMW56QWJwNGNMOTV3b0pZb0RuT1hKSklR?oc=5",
-      "published": "2026-11-03T13:19:25+00:00",
-      "source": "Business Standard",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving HRV Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between HRV Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "HRV Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Standard",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "HRV Pharma acquires German firm Phatebo, enters finished formulations biz.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by Business Standard; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdV9iQnRrTk1qdmcyU0g0bXk1aHVNSzJYbUxhNnEzMkJ1d1pEOEh0Q3ZBeEREeGl2bGpHZm05Umd1UnA5QkduUGVRY0ptbF9QT2V4dEcyM2JlTkZaRG5JLXFobV9zcnNkblRsNUdnTDRCVkY5ZTZtRjZNTW1iTnZvT0gxekxUeHVDbzg2aU13R29UMEJDb3lsYl9KazBtcXByS2lRdmNLYXl4Q3BiaVZKVjk2Mk5hWFA1SUJXalkteHJGUEdEazdrbTQxYTVHZzM5eGpZbkNlOXbSAd4BQVVfeXFMUGRyLUxtV3ZFek11bHZPeDRWT1VmMjJIR2diUzctUWZ1SWNjQjRSZEQ5THoybExJelhMQURyNkNTbGxTd2Y2X1c2NGxVcWFib0NMQlhtRGJwZmtQSnlxSW40cC1DM0pTR3AzaUNKYlBfX1RQcnkwNk9jWThmSC02N3FGa1lwRGlvQ3c5Mk9nYUIwNFhKaDlmZ1ozLWhTX1dGRzRXaUlVdkdHWTNTc3NkVjJvVlh5MEJFTjFhLVdVMjdCd3hrWDZsMW56QWJwNGNMOTV3b0pZb0RuT1hKSklR?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
-      "description": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5",
-      "published": "2026-11-03T09:21:23+00:00",
-      "source": "Moneycontrol.com",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Moneycontrol.com",
+      "source_name": "DailyVoice.com",
       "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "RPG Life Sciences bets on API expansion to drive next growth phase, eyes more acquisitions.",
+      "location": "India",
+      "event_type": "Supply Disruption",
+      "what_happened": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
       "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by Moneycontrol.com; primary source or underlying documents not independently verified",
+      "confidence": 80,
+      "importance_score": 16,
+      "fact_status": "Reported by DailyVoice.com; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYklmOHZwRHByWVNxcFRmbjFvWlhoNlhkN2hpUmlHTHpXSDlwRFpjbWNNNXdtRWpBVktoTFF4anhYS29PN1BaN2M0Umk4S1NXS2ZQeTFsSS1Vbm1FcEQxb0U2cWlRM2dOY3Q1WlZKbGxMRGhGLTdsaGNqakRPSTRGbEZyYl9mR0gtalJmaEVRQUJINk9LbmRNX0NzeXBnc3J3QkdKZEd6ZEpVcDBDXzItUXBVQ0Vka3ZVQ0pleDRjMDRxTWdtWVFJRzdROGdvS0VBQkhmQVBPZlczMFEySEZZ0gHkAUFVX3lxTFBocUZHNmdaZDdidWZIVmVCdDlSTXRPWU9Oc25XZEhTVUFMckVaVzhVakJFVXVWcXVoenp6ZlgzTEhFSUZGOVNySkIzRGxsR1gyUHpVNkVNeTdiQ3VoVUxfMGdQSzItRl91cU5pS0EzZE9fS2FJVzV0djlmRjBPWFpBY3U0WE15elRzaHFhOEUxcXNjSDhMRGg5T1RHazJrUXNkeEVqeEljSnAwQzR4cjFVVkZJRXdDVnpLR2RnZWNDNmVmY29VNE40bzRWbDI0SW1BVUtZbnVTa2lYZXcxUktXZ3RvTA?oc=5"
+          "source": "DailyVoice.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5"
         }
       ]
     }
