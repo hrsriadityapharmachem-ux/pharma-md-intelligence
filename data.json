@@ -1,49 +1,13 @@
 {
-  "updated": "2026-11-04T15:48:29.628851+00:00",
+  "updated": "2026-11-04T21:33:33.229998+00:00",
   "engine_version": "3.8.0",
-  "article_count": 5,
+  "article_count": 4,
   "opportunity_count": 0,
-  "risk_count": 2,
-  "watch_count": 3,
-  "high_priority_count": 2,
+  "risk_count": 1,
+  "watch_count": 2,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "description": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5",
-      "published": "2026-11-03T20:42:13+00:00",
-      "source": "DailyVoice.com",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "DailyVoice.com",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Supply Disruption",
-      "what_happened": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
-      "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 16,
-      "fact_status": "Reported by DailyVoice.com; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "DailyVoice.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5"
-        }
-      ]
-    },
     {
       "category": "India",
       "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
@@ -82,44 +46,82 @@
     },
     {
       "category": "Global",
-      "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
-      "description": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5",
-      "published": "2026-11-03T23:00:00+00:00",
-      "source": "Plataforma Media",
+      "title": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition",
+      "description": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHAxQWJoQVJhTDI4aUlqWTFKbUV1TU1PVUh5TDhzWFlMa3U5ZGtXMWJ6MldMZjRGWndMVFNxdTJiN21sOUxzY0xuQXgwckdfdWZLR0dMWWdCMktub3pkMWQ3QzBJcVVhYlV5Y2VfWERrOEYwRVE0SjZnOXJrTnQ1SXpheEVQZkJ2cEYteGE4enVZbnFaSnJfcjQxZ2lCMDNybWc5Ti1BV2QtM0ZxQ1ZVTXNpMFkycEJfcUxzYjJaZmthZklaczZteGpIaWlFRzVZS3RaeVBXcm9ycGV3RW9Zdw?oc=5",
+      "published": "2026-11-04T10:43:08+00:00",
+      "source": "BioSpectrum Asia",
       "signal": "Watch",
       "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Zuellig Pharma and Strategic Acquisition Zuellig Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Zuellig Pharma and Strategic Acquisition Zuellig Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "why_it_matters": "The report concerns an ownership change involving Zuellig Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Zuellig Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [
-        "Zuellig Pharma",
-        "Strategic Acquisition Zuellig Pharma"
+        "Zuellig Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Plataforma Media",
+      "source_name": "BioSpectrum Asia",
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Investment / Acquisition",
-      "what_happened": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition.",
+      "what_happened": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by Plataforma Media; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by BioSpectrum Asia; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Plataforma Media",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
-        },
-        {
           "source": "BioSpectrum Asia",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHAxQWJoQVJhTDI4aUlqWTFKbUV1TU1PVUh5TDhzWFlMa3U5ZGtXMWJ6MldMZjRGWndMVFNxdTJiN21sOUxzY0xuQXgwckdfdWZLR0dMWWdCMktub3pkMWQ3QzBJcVVhYlV5Y2VfWERrOEYwRVE0SjZnOXJrTnQ1SXpheEVQZkJ2cEYteGE4enVZbnFaSnJfcjQxZ2lCMDNybWc5Ti1BV2QtM0ZxQ1ZVTXNpMFkycEJfcUxzYjJaZmthZklaczZteGpIaWlFRzVZS3RaeVBXcm9ycGV3RW9Zdw?oc=5"
+        },
+        {
+          "source": "Plataforma Media",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "HRV Pharma Acquires German Firm Phatebo, Enters European Finished Formulations Market",
+      "description": "HRV Pharma Acquires German Firm Phatebo, Enters European Finished Formulations Market",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXpQX09pczNvblg4MHFQaXJDaTFPVHVLeUlzNURuR051dVI2Y0R0MlBGYXY2aUpIOGtaV0o1Rk9qSjRHTXVkMzA1Qk5qWDE2WW5aUGszRFV3QnhXX2EydVZ4aHdId2VrZXhCeWExMXhuMHhvVlhJQkc5RmV3MlZnb3VSVkFqalBUVjdkbW1ya0cxUEVkcW1aZzVIeDVSZWdnWHBoeV9pbnVLYzdoVGE2TFFsVUdWZF8yVnc1Tzh4VXN5M1hPT3dFZ0tJVVlLQQ?oc=5",
+      "published": "2026-11-04T12:50:57+00:00",
+      "source": "BW Healthcare World",
+      "signal": "Watch",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving HRV Pharma and Formulations Market HRV Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between HRV Pharma and Formulations Market HRV Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "HRV Pharma",
+        "Formulations Market HRV Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "BW Healthcare World",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "HRV Pharma Acquires German Firm Phatebo, Enters European Finished Formulations Market.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by BW Healthcare World; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXpQX09pczNvblg4MHFQaXJDaTFPVHVLeUlzNURuR051dVI2Y0R0MlBGYXY2aUpIOGtaV0o1Rk9qSjRHTXVkMzA1Qk5qWDE2WW5aUGszRFV3QnhXX2EydVZ4aHdId2VrZXhCeWExMXhuMHhvVlhJQkc5RmV3MlZnb3VSVkFqalBUVjdkbW1ya0cxUEVkcW1aZzVIeDVSZWdnWHBoeV9pbnVLYzdoVGE2TFFsVUdWZF8yVnc1Tzh4VXN5M1hPT3dFZ0tJVVlLQQ?oc=5"
         }
       ]
     }
@@ -130,7 +132,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 2,
+    "Regulatory": 1,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
@@ -138,34 +140,72 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-        "signal": "Risk",
-        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
-      },
-      {
         "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
         "signal": "Risk",
         "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
       },
       {
-        "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
+        "title": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition",
         "signal": "Watch",
-        "why": "The report concerns an ownership change involving Zuellig Pharma and Strategic Acquisition Zuellig Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+        "why": "The report concerns an ownership change involving Zuellig Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+      },
+      {
+        "title": "HRV Pharma Acquires German Firm Phatebo, Enters European Finished Formulations Market",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving HRV Pharma and Formulations Market HRV Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
       {
-        "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-        "question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
-      },
-      {
         "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
+      },
+      {
+        "title": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Shilpa CDMO to invest $50M in peptide manufacturing at India site",
+      "description": "Shilpa CDMO to invest $50M in peptide manufacturing at India site",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnIwNjNMMFRQNVN2QWUxMXJiMzA1cU14RUYyTUIxVEpxczF4TzZFMXFWSktndFhqSC1RM3lpZVYySGtONXV2WFNPY0hKUmdwSG9hY292c1hLeTVLMWc1UFRMNHpvR2EyMUZmOFRKNDhjZkZxa2xjYWpLcEE3NlE0SDB1Z0Y2MGZaZUFTNEM5Y0JuUUtTTC1xUXduNGNOUXFiR0lV?oc=5",
+      "published": "2026-11-04T21:21:49+00:00",
+      "source": "megaproject.com",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "$50"
+      ],
+      "source_name": "megaproject.com",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Shilpa CDMO to invest $50M in peptide manufacturing at India site.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by megaproject.com; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "megaproject.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnIwNjNMMFRQNVN2QWUxMXJiMzA1cU14RUYyTUIxVEpxczF4TzZFMXFWSktndFhqSC1RM3lpZVYySGtONXV2WFNPY0hKUmdwSG9hY292c1hLeTVLMWc1UFRMNHpvR2EyMUZmOFRKNDhjZkZxa2xjYWpLcEE3NlE0SDB1Z0Y2MGZaZUFTNEM5Y0JuUUtTTC1xUXduNGNOUXFiR0lV?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
@@ -243,116 +283,43 @@
     },
     {
       "category": "Global",
-      "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
-      "description": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5",
-      "published": "2026-11-03T23:00:00+00:00",
-      "source": "Plataforma Media",
+      "title": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition",
+      "description": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHAxQWJoQVJhTDI4aUlqWTFKbUV1TU1PVUh5TDhzWFlMa3U5ZGtXMWJ6MldMZjRGWndMVFNxdTJiN21sOUxzY0xuQXgwckdfdWZLR0dMWWdCMktub3pkMWQ3QzBJcVVhYlV5Y2VfWERrOEYwRVE0SjZnOXJrTnQ1SXpheEVQZkJ2cEYteGE4enVZbnFaSnJfcjQxZ2lCMDNybWc5Ti1BV2QtM0ZxQ1ZVTXNpMFkycEJfcUxzYjJaZmthZklaczZteGpIaWlFRzVZS3RaeVBXcm9ycGV3RW9Zdw?oc=5",
+      "published": "2026-11-04T10:43:08+00:00",
+      "source": "BioSpectrum Asia",
       "signal": "Watch",
       "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Zuellig Pharma and Strategic Acquisition Zuellig Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Zuellig Pharma and Strategic Acquisition Zuellig Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "why_it_matters": "The report concerns an ownership change involving Zuellig Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Zuellig Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [
-        "Zuellig Pharma",
-        "Strategic Acquisition Zuellig Pharma"
+        "Zuellig Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Plataforma Media",
+      "source_name": "BioSpectrum Asia",
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Investment / Acquisition",
-      "what_happened": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition.",
+      "what_happened": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by Plataforma Media; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by BioSpectrum Asia; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
-        {
-          "source": "Plataforma Media",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
-        },
         {
           "source": "BioSpectrum Asia",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHAxQWJoQVJhTDI4aUlqWTFKbUV1TU1PVUh5TDhzWFlMa3U5ZGtXMWJ6MldMZjRGWndMVFNxdTJiN21sOUxzY0xuQXgwckdfdWZLR0dMWWdCMktub3pkMWQ3QzBJcVVhYlV5Y2VfWERrOEYwRVE0SjZnOXJrTnQ1SXpheEVQZkJ2cEYteGE4enVZbnFaSnJfcjQxZ2lCMDNybWc5Ti1BV2QtM0ZxQ1ZVTXNpMFkycEJfcUxzYjJaZmthZklaczZteGpIaWlFRzVZS3RaeVBXcm9ycGV3RW9Zdw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's cancer drug price cuts meet pharma acquisition boom",
-      "description": "India's cancer drug price cuts meet pharma acquisition boom",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5",
-      "published": "2026-11-03T21:28:25+00:00",
-      "source": "The Pharma Letter",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "The Pharma Letter",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "India's cancer drug price cuts meet pharma acquisition boom.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by The Pharma Letter; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
+        },
         {
-          "source": "The Pharma Letter",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallHNkU4bFNWWEpGckQ1Sy1VUnFaSDZnSGMteGRPM2FMLVJkUWQ1YmhIajBmcTVwTEtDeksxaVh5Rmd5ZFJOWkdBdHRoT19YQVZRamdDNFF2R2prbGN2WHUtblMwV0RmWUtORTJlN3hDazRfMEtVX0lhZnZUU2N4RG93Z3Z4Y1l5VVBhbElnTUNOS3A5dW13WFlJMVQ3YXk4Q1BESDVB?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "description": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5",
-      "published": "2026-11-03T20:42:13+00:00",
-      "source": "DailyVoice.com",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "DailyVoice.com",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Supply Disruption",
-      "what_happened": "Blood Pressure Medicine Recalled After Failing Quality Tests, FDA Says.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?",
-      "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 16,
-      "fact_status": "Reported by DailyVoice.com; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "DailyVoice.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREV3aTJZemVsWE1qVXlFTlNJck9CY0dkbVBhYUlheWUyMFJTMGd0OEdGd1E4dHBkSGNvd2xXTEZnZ1dyZDgyV1lMQ0w2eEJjVEF5Z0J2QjFmTDFUWUh3V1U5MC10ak9QZmVsbUJUOHhzODc1aDY1cUdURXpmQjk2cmVUTm40OVJ3OEc0RzhXQ20?oc=5"
+          "source": "Plataforma Media",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5"
         }
       ]
     }
