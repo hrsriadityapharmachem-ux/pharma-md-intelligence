@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T01:45:57.188021+00:00",
+  "updated": "2026-11-05T08:34:26.471461+00:00",
   "engine_version": "3.8.0",
   "article_count": 5,
   "opportunity_count": 0,
@@ -118,6 +118,10 @@
         {
           "source": "BW Healthcare World",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXpQX09pczNvblg4MHFQaXJDaTFPVHVLeUlzNURuR051dVI2Y0R0MlBGYXY2aUpIOGtaV0o1Rk9qSjRHTXVkMzA1Qk5qWDE2WW5aUGszRFV3QnhXX2EydVZ4aHdId2VrZXhCeWExMXhuMHhvVlhJQkc5RmV3MlZnb3VSVkFqalBUVjdkbW1ya0cxUEVkcW1aZzVIeDVSZWdnWHBoeV9pbnVLYzdoVGE2TFFsVUdWZF8yVnc1Tzh4VXN5M1hPT3dFZ0tJVVlLQQ?oc=5"
+        },
+        {
+          "source": "pharma.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdE9KOTc5MmV1M1JXMzJNcU9ldDB0M3QtYnZkQlVNYnpFckZiOU9sNTdnOTMycTRiSlhtbnRaZ3NCUzZIU0xLQm91Mkc3aE12c2ZKQXdoYXZMazdIU1psMEI1d0U3ZWY5SGNROEhTQXpBSXRGWkNvZkJYdXlpZGs0VmlFLUplcUp0bGVPX3A0YWpsdmNUbE9PNURSVzVXSVFvVXhGbFAzYk95ZG5RT0dKaEZYeDIwem1kVkZkV2V6SEJjc25GZmFr0gHMAUFVX3lxTE5OdWZ5Z240SGxlVi1CUFVfZ3lFZm1nVXVFNXpUVnA1OUVaaDlqYUlsMHFnaE9RNXVScDJmcC1VTEkyVWlPWGVSTVZ6YzBiSEt3MmdzQzFELUdCR01HOHVaT1NGWE9rLTRzM2FPNXpCeVJHNFhnNEhDa2d1RHRPajhnVVBPbUthaUR6SjJkcUtteDRFTDJIb2duRmFrN2MxdllwaWZYMGZnWjBBbmlKejJtQ0lSNHBpR01TYmFQYVhZekV2Smh4VDRzTkJ2UA?oc=5"
         }
       ]
     }
@@ -205,8 +209,8 @@
       "title": "Shilpa CDMO to invest $50M in peptide manufacturing at India site",
       "description": "Shilpa CDMO to invest $50M in peptide manufacturing at India site",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnIwNjNMMFRQNVN2QWUxMXJiMzA1cU14RUYyTUIxVEpxczF4TzZFMXFWSktndFhqSC1RM3lpZVYySGtONXV2WFNPY0hKUmdwSG9hY292c1hLeTVLMWc1UFRMNHpvR2EyMUZmOFRKNDhjZkZxa2xjYWpLcEE3NlE0SDB1Z0Y2MGZaZUFTNEM5Y0JuUUtTTC1xUXduNGNOUXFiR0lV?oc=5",
-      "published": "2026-11-04T21:21:49+00:00",
-      "source": "megaproject.com",
+      "published": "2026-11-04T21:41:05+00:00",
+      "source": "https://megaproject.com/",
       "signal": "General",
       "business_area": "Manufacturing / Plants",
       "priority": "Medium",
@@ -218,7 +222,7 @@
       "numbers": [
         "$50"
       ],
-      "source_name": "megaproject.com",
+      "source_name": "https://megaproject.com/",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
@@ -229,11 +233,11 @@
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 11,
-      "fact_status": "Reported by megaproject.com; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by https://megaproject.com/; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "megaproject.com",
+          "source": "https://megaproject.com/",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnIwNjNMMFRQNVN2QWUxMXJiMzA1cU14RUYyTUIxVEpxczF4TzZFMXFWSktndFhqSC1RM3lpZVYySGtONXV2WFNPY0hKUmdwSG9hY292c1hLeTVLMWc1UFRMNHpvR2EyMUZmOFRKNDhjZkZxa2xjYWpLcEE3NlE0SDB1Z0Y2MGZaZUFTNEM5Y0JuUUtTTC1xUXduNGNOUXFiR0lV?oc=5"
         }
       ]
@@ -310,6 +314,10 @@
         {
           "source": "BW Healthcare World",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXpQX09pczNvblg4MHFQaXJDaTFPVHVLeUlzNURuR051dVI2Y0R0MlBGYXY2aUpIOGtaV0o1Rk9qSjRHTXVkMzA1Qk5qWDE2WW5aUGszRFV3QnhXX2EydVZ4aHdId2VrZXhCeWExMXhuMHhvVlhJQkc5RmV3MlZnb3VSVkFqalBUVjdkbW1ya0cxUEVkcW1aZzVIeDVSZWdnWHBoeV9pbnVLYzdoVGE2TFFsVUdWZF8yVnc1Tzh4VXN5M1hPT3dFZ0tJVVlLQQ?oc=5"
+        },
+        {
+          "source": "pharma.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdE9KOTc5MmV1M1JXMzJNcU9ldDB0M3QtYnZkQlVNYnpFckZiOU9sNTdnOTMycTRiSlhtbnRaZ3NCUzZIU0xLQm91Mkc3aE12c2ZKQXdoYXZMazdIU1psMEI1d0U3ZWY5SGNROEhTQXpBSXRGWkNvZkJYdXlpZGs0VmlFLUplcUp0bGVPX3A0YWpsdmNUbE9PNURSVzVXSVFvVXhGbFAzYk95ZG5RT0dKaEZYeDIwem1kVkZkV2V6SEJjc25GZmFr0gHMAUFVX3lxTE5OdWZ5Z240SGxlVi1CUFVfZ3lFZm1nVXVFNXpUVnA1OUVaaDlqYUlsMHFnaE9RNXVScDJmcC1VTEkyVWlPWGVSTVZ6YzBiSEt3MmdzQzFELUdCR01HOHVaT1NGWE9rLTRzM2FPNXpCeVJHNFhnNEhDa2d1RHRPajhnVVBPbUthaUR6SjJkcUtteDRFTDJIb2duRmFrN2MxdllwaWZYMGZnWjBBbmlKejJtQ0lSNHBpR01TYmFQYVhZekV2Smh4VDRzTkJ2UA?oc=5"
         }
       ]
     },
