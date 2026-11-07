@@ -1,13 +1,52 @@
 {
-  "updated": "2026-11-05T22:22:44.914846+00:00",
+  "updated": "2026-11-07T07:45:14.039618+00:00",
   "engine_version": "3.8.0",
   "article_count": 1,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 0,
+  "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 20,
-  "must_know": [],
+  "must_know": [
+    {
+      "category": "India",
+      "title": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma",
+      "description": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWJYNnBsdjB4YkZIQi00a1VmQnprTmI1cnl3QzBxYXBRcTJDc1J3c2paMjBNenNMM25nMVJjc2Z2NGFNYWZFajFubFJvM00tZ1IyTklSWjJwMDhkcFNMc25iTE5abWhKb3M4ZDJhOWVkMmJYNmtjNm55bldPc3UwcjQ5SGFTNm04MTBGanllTVg0ZmIxN3ZCZEJGelgyQ0pseDE0RU10b05Cd0piTHFlVTdpUnRhck56dWVrQ3R4SVhSV1Fs?oc=5",
+      "published": "2026-11-07T07:03:19+00:00",
+      "source": "KNN India",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "KNN India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by KNN India; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "KNN India",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWJYNnBsdjB4YkZIQi00a1VmQnprTmI1cnl3QzBxYXBRcTJDc1J3c2paMjBNenNMM25nMVJjc2Z2NGFNYWZFajFubFJvM00tZ1IyTklSWjJwMDhkcFNMc25iTE5abWhKb3M4ZDJhOWVkMmJYNmtjNm55bldPc3UwcjQ5SGFTNm04MTBGanllTVg0ZmIxN3ZCZEJGelgyQ0pseDE0RU10b05Cd0piTHFlVTdpUnRhck56dWVrQ3R4SVhSV1Fs?oc=5"
+        }
+      ]
+    }
+  ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
@@ -20,44 +59,57 @@
     "Pharma Industry": 0
   },
   "daily_brief": {
-    "attention": [],
-    "investigate": [],
+    "attention": [
+      {
+        "title": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      }
+    ],
+    "investigate": [
+      {
+        "title": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+      }
+    ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
       "category": "India",
-      "title": "MP medicines set to reach global markets from Indore: State plans to boost pharmaceutical exports; MP ranks...",
-      "description": "MP medicines set to reach global markets from Indore: State plans to boost pharmaceutical exports; MP ranks...",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEx3Z01ZN1h2a3JvLVJ0X05iaVBvc2Y0YzNPUzVlUGdLSUFjajVVcmR3SVZVYm5wMFJ4NDlnRFlxbUpkQ29US0hNMExydUpJME1KRS0tNHhaajFxM0lzTkFpaGN3TFhVSVk5dVQ3MVBoMkZxc2JDbTlnZnRwUTJMajVxTkVXSmRYdm83OEJMUjN5QXdxbEJ6bF93bEd3ZXpQUnk5Znc4c3RGeFV0b1RNUmJlONIBuAFBVV95cUxQLXdKRkZFRjdBaDNaNHI4R1NoeVJzVnl2QW9XbzhoM0hHN2VROG9nemtBa3RJLUVMOUtfd3BLNmJCUUllZV9mZ256Y1JHUUU1ZDNQMnhEUmFwcWhPc2JKaHQ4a1N4d0Riam9jOU83dDVNY1pnN084cVlOOE02eTI2cTRNRlB5UEFUTG4yTTB4bFVSOGl3WG5SbGpPX3BEdWVZZlg4SW0yVVB5VDhqRFpqdGptekUtaUxj?oc=5",
-      "published": "2026-11-04T23:30:00+00:00",
-      "source": "Bhaskar English",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "title": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma",
+      "description": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWJYNnBsdjB4YkZIQi00a1VmQnprTmI1cnl3QzBxYXBRcTJDc1J3c2paMjBNenNMM25nMVJjc2Z2NGFNYWZFajFubFJvM00tZ1IyTklSWjJwMDhkcFNMc25iTE5abWhKb3M4ZDJhOWVkMmJYNmtjNm55bldPc3UwcjQ5SGFTNm04MTBGanllTVg0ZmIxN3ZCZEJGelgyQ0pseDE0RU10b05Cd0piTHFlVTdpUnRhck56dWVrQ3R4SVhSV1Fs?oc=5",
+      "published": "2026-11-07T07:03:19+00:00",
+      "source": "KNN India",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
-      "project_signals": [],
+      "project_signals": [
+        "investment"
+      ],
       "numbers": [],
-      "source_name": "Bhaskar English",
+      "source_name": "KNN India",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "MP medicines set to reach global markets from Indore: State plans to boost pharmaceutical exports; MP ranks.",
+      "event_type": "Industry Development",
+      "what_happened": "India, Hungary Explore Trade And Investment Opportunities In Electronics, Pharma.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Bhaskar English; primary source or underlying documents not independently verified",
+      "importance_score": 9,
+      "fact_status": "Reported by KNN India; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Bhaskar English",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEx3Z01ZN1h2a3JvLVJ0X05iaVBvc2Y0YzNPUzVlUGdLSUFjajVVcmR3SVZVYm5wMFJ4NDlnRFlxbUpkQ29US0hNMExydUpJME1KRS0tNHhaajFxM0lzTkFpaGN3TFhVSVk5dVQ3MVBoMkZxc2JDbTlnZnRwUTJMajVxTkVXSmRYdm83OEJMUjN5QXdxbEJ6bF93bEd3ZXpQUnk5Znc4c3RGeFV0b1RNUmJlONIBuAFBVV95cUxQLXdKRkZFRjdBaDNaNHI4R1NoeVJzVnl2QW9XbzhoM0hHN2VROG9nemtBa3RJLUVMOUtfd3BLNmJCUUllZV9mZ256Y1JHUUU1ZDNQMnhEUmFwcWhPc2JKaHQ4a1N4d0Riam9jOU83dDVNY1pnN084cVlOOE02eTI2cTRNRlB5UEFUTG4yTTB4bFVSOGl3WG5SbGpPX3BEdWVZZlg4SW0yVVB5VDhqRFpqdGptekUtaUxj?oc=5"
+          "source": "KNN India",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWJYNnBsdjB4YkZIQi00a1VmQnprTmI1cnl3QzBxYXBRcTJDc1J3c2paMjBNenNMM25nMVJjc2Z2NGFNYWZFajFubFJvM00tZ1IyTklSWjJwMDhkcFNMc25iTE5abWhKb3M4ZDJhOWVkMmJYNmtjNm55bldPc3UwcjQ5SGFTNm04MTBGanllTVg0ZmIxN3ZCZEJGelgyQ0pseDE0RU10b05Cd0piTHFlVTdpUnRhck56dWVrQ3R4SVhSV1Fs?oc=5"
         }
       ]
     }
