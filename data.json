@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T07:58:09.725457+00:00",
+  "updated": "2026-11-08T16:12:21.118750+00:00",
   "engine_version": "3.8.0",
-  "article_count": 2,
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 1,
@@ -76,6 +76,42 @@
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "India CDMO Sector: Contract Development and Manufacturing in Pharma",
+      "description": "India CDMO Sector: Contract Development and Manufacturing in Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVkZCMTVPSGpUNFBNNzk3Smg4SHRjNEtzMUNZLVJ0UVhval9Fdl81MXFzQmVyUE5JTFJzMkZ3YXpzcklvQQ?oc=5",
+      "published": "2026-11-07T13:45:00+00:00",
+      "source": "Kalkine India",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Kalkine India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "India CDMO Sector: Contract Development and Manufacturing in Pharma.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVkZCMTVPSGpUNFBNNzk3Smg4SHRjNEtzMUNZLVJ0UVhval9Fdl81MXFzQmVyUE5JTFJzMkZ3YXpzcklvQQ?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
