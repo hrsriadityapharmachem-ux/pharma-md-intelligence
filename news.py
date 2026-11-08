@@ -1509,13 +1509,23 @@ def collect_news():
 
     now = datetime.now(timezone.utc)
 
-    cutoff = now - timedelta(hours=24)
+    # Keep a two-day editorial window so quiet periods and RSS publication
+    # delays do not freeze the dashboard. The UI labels this window explicitly.
+    cutoff = now - timedelta(hours=48)
 
     articles = []
 
     successful_feeds = 0
 
     failed_feeds = 0
+
+    diagnostics = {
+        "items_seen": 0,
+        "missing_title_or_link": 0,
+        "outside_48h_window": 0,
+        "short_title": 0,
+        "rejected_by_relevance": 0,
+    }
 
 
     for category, urls in FEEDS.items():
@@ -1557,6 +1567,8 @@ def collect_news():
 
             for item in items:
 
+                diagnostics["items_seen"] += 1
+
                 raw_title = clean_text(
                     item.findtext("title")
                 )
@@ -1576,6 +1588,7 @@ def collect_news():
 
 
                 if not raw_title or not link:
+                    diagnostics["missing_title_or_link"] += 1
                     continue
 
 
@@ -1588,6 +1601,7 @@ def collect_news():
                         )
 
                     if published < cutoff:
+                        diagnostics["outside_48h_window"] += 1
                         continue
 
 
@@ -1597,6 +1611,7 @@ def collect_news():
                 )
 
                 if len(analysis_title) < 12:
+                    diagnostics["short_title"] += 1
                     continue
 
                 combined = (
@@ -1616,6 +1631,7 @@ def collect_news():
                     signal,
                     event_type
                 ):
+                    diagnostics["rejected_by_relevance"] += 1
                     continue
 
 
@@ -1780,6 +1796,9 @@ def collect_news():
                         determine_opportunity_status(signal, analysis_title, description)
                 })
 
+
+    print("Collection diagnostics:", diagnostics)
+    print("Eligible articles:", len(articles))
 
     print(
         "Successful feeds:",
