@@ -14,7 +14,11 @@ on:
       - ".github/workflows/update-news.yml"
 
   schedule:
-    - cron: "3,13,23,33,43,53 * * * *"
+    # High-frequency decision window: every 10 minutes from 07:00 through 10:59 IST.
+    - cron: "3,13,23,33,43,53 7-10 * * *"
+      timezone: "Asia/Kolkata"
+    # Lower-frequency monitoring outside the morning window: hourly.
+    - cron: "3 0-6,11-23 * * *"
       timezone: "Asia/Kolkata"
 
 concurrency:
