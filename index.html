@@ -63,6 +63,17 @@ a{color:inherit}
 .section-head h2{margin:0;font:800 17px/1 "Manrope",sans-serif;letter-spacing:-.3px}
 .section-head span{color:var(--faint);font-size:9px;font-weight:700;letter-spacing:.8px;text-transform:uppercase}
 
+/* EXECUTIVE BRIEF */
+.brief-grid{display:grid;grid-template-columns:1.15fr 1fr;gap:14px}
+.brief-panel{background:var(--white);border:1px solid var(--rule);padding:20px 22px}
+.brief-panel h3{margin:0 0 13px;font:800 12px/1.2 "Manrope",sans-serif;letter-spacing:.2px}
+.brief-item{padding:0 0 13px;margin:0 0 13px;border-bottom:1px solid var(--rule)}
+.brief-item:last-child{padding:0;margin:0;border:0}
+.brief-item strong{display:block;margin-bottom:5px;font-size:11px;line-height:1.45}
+.brief-item p{margin:0;color:var(--muted);font-size:10px;line-height:1.55}
+.brief-question{margin-top:12px;padding:13px 15px;background:#f5f7f8;border-left:3px solid var(--blue);color:#39434e;font-size:11px;line-height:1.55}
+.brief-empty{color:var(--muted);font-size:11px;line-height:1.6}
+
 /* FEATURED */
 .feature{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(270px,.65fr);background:var(--white);border:1px solid var(--rule);box-shadow:var(--shadow)}
 .feature-main{padding:27px 30px 28px;border-left:4px solid var(--red)}
@@ -159,6 +170,12 @@ a{color:inherit}
   <div class="kpi high"><div class="kpi-label">High priority</div><div class="kpi-value" id="highPriorityCount">0</div><div class="kpi-note">Management attention</div></div>
 </section>
 
+<div class="section-head"><h2>Executive Morning Brief</h2><span>Decision points · evidence-led</span></div>
+<section class="brief-grid">
+  <div class="brief-panel"><h3>What deserves attention</h3><div id="briefAttention" class="brief-empty">Loading management insights...</div></div>
+  <div class="brief-panel"><h3>What management should verify</h3><div id="briefInvestigate" class="brief-empty">Loading investigation points...</div><div id="briefQuestion" class="brief-question"></div></div>
+</section>
+
 <div class="section-head"><h2>Must Know</h2><span>Priority-ranked management signal</span></div>
 <section id="mustKnow"></section>
 
@@ -250,6 +267,16 @@ function renderMustKnow(article){
     </aside>
   </div>`;
 }
+function renderDailyBrief(brief){
+  const attention=document.getElementById("briefAttention");
+  const investigate=document.getElementById("briefInvestigate");
+  const question=document.getElementById("briefQuestion");
+  const items=brief&&Array.isArray(brief.attention)?brief.attention:[];
+  const checks=brief&&Array.isArray(brief.investigate)?brief.investigate:[];
+  attention.innerHTML=items.length?items.map(item=>'<div class="brief-item"><strong>'+escapeHtml(item.title||"")+' · '+escapeHtml(item.signal||"Signal")+'</strong><p>'+escapeHtml(item.why||"Review the source report to establish business relevance.")+'</p></div>').join(""):'<div class="brief-empty">No material management signal is supported by the current source set. Do not force an opportunity or risk conclusion.</div>';
+  investigate.innerHTML=checks.length?checks.map(item=>'<div class="brief-item"><strong>'+escapeHtml(item.title||"Development to verify")+'</strong><p>'+escapeHtml(item.question||"Confirm the underlying facts and affected entities.")+'</p></div>').join(""):'<div class="brief-empty">No specific investigation is currently triggered. Continue monitoring source updates.</div>';
+  question.textContent=brief&&brief.management_question?brief.management_question:"Management lens: confirm the affected product, company, location, commercial terms and primary evidence before acting.";
+}
 function renderArticles(articles,mustKnow){
   const container=document.getElementById("articles");
   const remaining=articles.filter(a=>!mustKnow || a.link!==mustKnow.link);
@@ -291,8 +318,12 @@ async function loadData(){
     const ageMinutes=(Date.now()-updatedAt.getTime())/60000;
     const statusDot=document.getElementById("statusDot");
     const statusLabel=document.getElementById("statusLabel");
-    statusDot.className="status-dot"+(ageMinutes>30?" stale":"");
-    statusLabel.textContent=ageMinutes>30?"Update delayed":"Data current";
+    const indiaHour=Number(new Intl.DateTimeFormat("en-IN",{hour:"2-digit",hourCycle:"h23",timeZone:"Asia/Kolkata"}).format(new Date()));
+    const morningWindow=indiaHour>=7&&indiaHour<=10;
+    const staleAfterMinutes=morningWindow?25:90;
+    const isStale=ageMinutes>staleAfterMinutes;
+    statusDot.className="status-dot"+(isStale?" stale":"");
+    statusLabel.textContent=isStale?"Update delayed":"Data current";
     const articles=data.articles;
     document.getElementById("newsCount").textContent=articles.length;
     document.getElementById("opportunityCount").textContent=articles.filter(a=>a.signal==="Opportunity").length;
@@ -300,6 +331,7 @@ async function loadData(){
     document.getElementById("highPriorityCount").textContent=articles.filter(a=>a.priority==="Critical"||a.priority==="High").length;
     const mustKnow=Array.isArray(data.must_know)&&data.must_know.length?data.must_know[0]:chooseMustKnow(articles);
     renderMustKnow(mustKnow);
+    renderDailyBrief(data.daily_brief||{});
     renderArticles(articles,mustKnow);
     if(data.updated){
       const date=new Date(data.updated);
@@ -317,7 +349,12 @@ async function loadData(){
   }
 }
 loadData();
-setInterval(loadData,10*60*1000);
+function scheduleNextRefresh(){
+  const indiaHour=Number(new Intl.DateTimeFormat("en-IN",{hour:"2-digit",hourCycle:"h23",timeZone:"Asia/Kolkata"}).format(new Date()));
+  const delay=(indiaHour>=7&&indiaHour<=10)?5*60*1000:15*60*1000;
+  setTimeout(async()=>{await loadData();scheduleNextRefresh();},delay);
+}
+scheduleNextRefresh();
 </script>
 </body>
 </html>
