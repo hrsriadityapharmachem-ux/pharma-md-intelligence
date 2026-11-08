@@ -26,7 +26,7 @@ class NewsPipelineSmokeTest(unittest.TestCase):
             os.chdir(original_cwd)
 
 
-    def test_news_collection_uses_a_24_hour_window(self):
+    def test_news_collection_uses_a_48_hour_window(self):
         old_date = (datetime.now(timezone.utc) - timedelta(hours=30)).strftime("%a, %d %b %Y %H:%M:%S GMT")
         rss = f"""<?xml version="1.0" encoding="UTF-8"?>
         <rss version="2.0"><channel><title>Test Feed</title><item>
@@ -40,7 +40,8 @@ class NewsPipelineSmokeTest(unittest.TestCase):
                 with contextlib.redirect_stdout(io.StringIO()):
                     articles, successful_feeds = news.collect_news()
         self.assertEqual(successful_feeds, 1)
-        self.assertEqual(articles, [])
+        self.assertEqual(len(articles), 1)
+        self.assertEqual(articles[0]["link"], "https://example.com/old-pharma-warning")
 
     def test_valid_feed_produces_fresh_valid_json(self):
         rss = b"""<?xml version="1.0" encoding="UTF-8"?>
