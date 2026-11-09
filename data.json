@@ -1,53 +1,13 @@
 {
-  "updated": "2026-11-09T08:34:06.664700+00:00",
+  "updated": "2026-11-09T14:14:57.796078+00:00",
   "engine_version": "3.8.0",
-  "article_count": 3,
+  "article_count": 1,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 2,
+  "watch_count": 1,
   "high_priority_count": 0,
   "successful_feeds": 20,
-  "must_know": [
-    {
-      "category": "India",
-      "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
-      "description": "Pharma industry steps up API investments to cut import dependence, move up value chain",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1VJbGhmQWJldm4zSjg2YmhJQTlYb3pQYWFfSEQ3VDdWS1FMVU9jdHo2b3czR05OQTcycjY1RlBmRUhPbS1TYzF0TXRNSzNyVk5jd2I1VUk4SjlLTS04N0d6QnN3cndUaDRPd0JNTEcyX1VpTkdwLW9KR0daZExTX0VBYkh2VVRBWmlnalVqZmdtbWhBdktpcEhELTl6bXpOVTZJZ9IBjwJBVV95cUxPWkxZOEx3R1RCTFdtRGkycUNSdFYwSkZjVm5JaTlHSnBaRVpCVXdMSVlPSFFPQ3BuNVFwRlBNRjY4NlFVTnZ1RHdZV0RPY084NnNsWkdFaHFZQkdPcVVPVDlnTlZQYzg3UFdhYlNFSXFwVUE5RTFTNzIwRFlEbU9hNzlWMV8weXhTWUxXTGxlWjY1UUFNbEJYeUw0dkpKTXNNT0c3N3U4SmhKaVJsYm9McEdKX2lXMlZfeUtjT0Y5b1RFV2gwU3pyR3NEczRic0s4bWJHUG1aYkUxZWwydWVWY3RKcDJTSG5SYUpWaUNycnFHQzBUcC0wR0pwZng4OTAxTXZIU3NKd09PNklqNk53?oc=5",
-      "published": "2026-11-07T12:09:57+00:00",
-      "source": "The Economic Times",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [],
-      "source_name": "The Economic Times",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Pharma industry steps up API investments to cut import dependence, move up value chain.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1VJbGhmQWJldm4zSjg2YmhJQTlYb3pQYWFfSEQ3VDdWS1FMVU9jdHo2b3czR05OQTcycjY1RlBmRUhPbS1TYzF0TXRNSzNyVk5jd2I1VUk4SjlLTS04N0d6QnN3cndUaDRPd0JNTEcyX1VpTkdwLW9KR0daZExTX0VBYkh2VVRBWmlnalVqZmdtbWhBdktpcEhELTl6bXpOVTZJZ9IBjwJBVV95cUxPWkxZOEx3R1RCTFdtRGkycUNSdFYwSkZjVm5JaTlHSnBaRVpCVXdMSVlPSFFPQ3BuNVFwRlBNRjY4NlFVTnZ1RHdZV0RPY084NnNsWkdFaHFZQkdPcVVPVDlnTlZQYzg3UFdhYlNFSXFwVUE5RTFTNzIwRFlEbU9hNzlWMV8weXhTWUxXTGxlWjY1UUFNbEJYeUw0dkpKTXNNT0c3N3U4SmhKaVJsYm9McEdKX2lXMlZfeUtjT0Y5b1RFV2gwU3pyR3NEczRic0s4bWJHUG1aYkUxZWwydWVWY3RKcDJTSG5SYUpWaUNycnFHQzBUcC0wR0pwZng4OTAxTXZIU3NKd09PNklqNk53?oc=5"
-        }
-      ]
-    }
-  ],
+  "must_know": [],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
@@ -60,19 +20,8 @@
     "Pharma Industry": 0
   },
   "daily_brief": {
-    "attention": [
-      {
-        "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      }
-    ],
-    "investigate": [
-      {
-        "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
-      }
-    ],
+    "attention": [],
+    "investigate": [],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
@@ -114,81 +63,6 @@
         {
           "source": "InvestyWise",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHFWTEJPUkpDeTVEYVFPeGNpZ0hqekdrMkpleVhyeDhoeEVLUllWZXdGdnZld1liQmhrYlE3SE1kRWpjUlJGZm1iNkNDY0NwTS1CRVBTb28yd3M4QTBLeEdZYjVWN1BMb2ljZ3FTdGZUVWtqX3laTDdOc2ZGeFc0RTFsR0ZUTlB5NS12R2RBUmFubHl6?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India CDMO Sector: Contract Development and Manufacturing in Pharma",
-      "description": "India CDMO Sector: Contract Development and Manufacturing in Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVkZCMTVPSGpUNFBNNzk3Smg4SHRjNEtzMUNZLVJ0UVhval9Fdl81MXFzQmVyUE5JTFJzMkZ3YXpzcklvQQ?oc=5",
-      "published": "2026-11-07T13:45:00+00:00",
-      "source": "Kalkine India",
-      "signal": "General",
-      "business_area": "CDMO / Contract Manufacturing",
-      "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Kalkine India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India CDMO Sector: Contract Development and Manufacturing in Pharma.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVkZCMTVPSGpUNFBNNzk3Smg4SHRjNEtzMUNZLVJ0UVhval9Fdl81MXFzQmVyUE5JTFJzMkZ3YXpzcklvQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
-      "description": "Pharma industry steps up API investments to cut import dependence, move up value chain",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1VJbGhmQWJldm4zSjg2YmhJQTlYb3pQYWFfSEQ3VDdWS1FMVU9jdHo2b3czR05OQTcycjY1RlBmRUhPbS1TYzF0TXRNSzNyVk5jd2I1VUk4SjlLTS04N0d6QnN3cndUaDRPd0JNTEcyX1VpTkdwLW9KR0daZExTX0VBYkh2VVRBWmlnalVqZmdtbWhBdktpcEhELTl6bXpOVTZJZ9IBjwJBVV95cUxPWkxZOEx3R1RCTFdtRGkycUNSdFYwSkZjVm5JaTlHSnBaRVpCVXdMSVlPSFFPQ3BuNVFwRlBNRjY4NlFVTnZ1RHdZV0RPY084NnNsWkdFaHFZQkdPcVVPVDlnTlZQYzg3UFdhYlNFSXFwVUE5RTFTNzIwRFlEbU9hNzlWMV8weXhTWUxXTGxlWjY1UUFNbEJYeUw0dkpKTXNNT0c3N3U4SmhKaVJsYm9McEdKX2lXMlZfeUtjT0Y5b1RFV2gwU3pyR3NEczRic0s4bWJHUG1aYkUxZWwydWVWY3RKcDJTSG5SYUpWaUNycnFHQzBUcC0wR0pwZng4OTAxTXZIU3NKd09PNklqNk53?oc=5",
-      "published": "2026-11-07T12:09:57+00:00",
-      "source": "The Economic Times",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [],
-      "source_name": "The Economic Times",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Pharma industry steps up API investments to cut import dependence, move up value chain.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1VJbGhmQWJldm4zSjg2YmhJQTlYb3pQYWFfSEQ3VDdWS1FMVU9jdHo2b3czR05OQTcycjY1RlBmRUhPbS1TYzF0TXRNSzNyVk5jd2I1VUk4SjlLTS04N0d6QnN3cndUaDRPd0JNTEcyX1VpTkdwLW9KR0daZExTX0VBYkh2VVRBWmlnalVqZmdtbWhBdktpcEhELTl6bXpOVTZJZ9IBjwJBVV95cUxPWkxZOEx3R1RCTFdtRGkycUNSdFYwSkZjVm5JaTlHSnBaRVpCVXdMSVlPSFFPQ3BuNVFwRlBNRjY4NlFVTnZ1RHdZV0RPY084NnNsWkdFaHFZQkdPcVVPVDlnTlZQYzg3UFdhYlNFSXFwVUE5RTFTNzIwRFlEbU9hNzlWMV8weXhTWUxXTGxlWjY1UUFNbEJYeUw0dkpKTXNNT0c3N3U4SmhKaVJsYm9McEdKX2lXMlZfeUtjT0Y5b1RFV2gwU3pyR3NEczRic0s4bWJHUG1aYkUxZWwydWVWY3RKcDJTSG5SYUpWaUNycnFHQzBUcC0wR0pwZng4OTAxTXZIU3NKd09PNklqNk53?oc=5"
         }
       ]
     }
