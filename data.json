@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T01:09:19.629474+00:00",
+  "updated": "2026-11-09T08:34:06.664700+00:00",
   "engine_version": "3.8.0",
   "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 2,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
@@ -77,6 +77,47 @@
   },
   "articles": [
     {
+      "category": "Global",
+      "title": "Gland Pharma appoints Xiao Le Chief Investment Officer",
+      "description": "Gland Pharma appoints Xiao Le Chief Investment Officer",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHFWTEJPUkpDeTVEYVFPeGNpZ0hqekdrMkpleVhyeDhoeEVLUllWZXdGdnZld1liQmhrYlE3SE1kRWpjUlJGZm1iNkNDY0NwTS1CRVBTb28yd3M4QTBLeEdZYjVWN1BMb2ljZ3FTdGZUVWtqX3laTDdOc2ZGeFc0RTFsR0ZUTlB5NS12R2RBUmFubHl6?oc=5",
+      "published": "2026-11-09T04:26:47+00:00",
+      "source": "InvestyWise",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Gland Pharma",
+        "Investment Officer Gland Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "InvestyWise",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Leadership Change",
+      "what_happened": "Gland Pharma appoints Xiao Le Chief Investment Officer.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by InvestyWise; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "InvestyWise",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHFWTEJPUkpDeTVEYVFPeGNpZ0hqekdrMkpleVhyeDhoeEVLUllWZXdGdnZld1liQmhrYlE3SE1kRWpjUlJGZm1iNkNDY0NwTS1CRVBTb28yd3M4QTBLeEdZYjVWN1BMb2ljZ3FTdGZUVWtqX3laTDdOc2ZGeFc0RTFsR0ZUTlB5NS12R2RBUmFubHl6?oc=5"
+        }
+      ]
+    },
+    {
       "category": "India",
       "title": "India CDMO Sector: Contract Development and Manufacturing in Pharma",
       "description": "India CDMO Sector: Contract Development and Manufacturing in Pharma",
@@ -148,42 +189,6 @@
         {
           "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1VJbGhmQWJldm4zSjg2YmhJQTlYb3pQYWFfSEQ3VDdWS1FMVU9jdHo2b3czR05OQTcycjY1RlBmRUhPbS1TYzF0TXRNSzNyVk5jd2I1VUk4SjlLTS04N0d6QnN3cndUaDRPd0JNTEcyX1VpTkdwLW9KR0daZExTX0VBYkh2VVRBWmlnalVqZmdtbWhBdktpcEhELTl6bXpOVTZJZ9IBjwJBVV95cUxPWkxZOEx3R1RCTFdtRGkycUNSdFYwSkZjVm5JaTlHSnBaRVpCVXdMSVlPSFFPQ3BuNVFwRlBNRjY4NlFVTnZ1RHdZV0RPY084NnNsWkdFaHFZQkdPcVVPVDlnTlZQYzg3UFdhYlNFSXFwVUE5RTFTNzIwRFlEbU9hNzlWMV8weXhTWUxXTGxlWjY1UUFNbEJYeUw0dkpKTXNNT0c3N3U4SmhKaVJsYm9McEdKX2lXMlZfeUtjT0Y5b1RFV2gwU3pyR3NEczRic0s4bWJHUG1aYkUxZWwydWVWY3RKcDJTSG5SYUpWaUNycnFHQzBUcC0wR0pwZng4OTAxTXZIU3NKd09PNklqNk53?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India pharma exports powering on, despite global trade crisis",
-      "description": "India pharma exports powering on, despite global trade crisis",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHJQak81STdJU1BmQmxGMGtSX3lxSXVnMDNxbElLNEpybFhzTFlqNVM0Ulctb2cxY1dwbVVIdXZ5SUZySEFjZldLbjFGNFBPa3gtekMyZ2VxUWNqNUpSQ05mclJjVlpZdDNOZm1sVnJHcVU5LThCalpPbXNlRUtwQWdkMTNxNXgtT1dDM0VfaUs4VzlSVWNwbkIwb2NKZG50ZEtmUEl4aVJzSmg3RTZv0gG8AUFVX3lxTE9rQ1NSMGd0STY4Zlk5aDB0Vk45QlB0ay01d2J3bnBqVGtMOHdjNTlOcm9UeGxRXy1nbnQ1SmVFbElXREttVXZxNlU4SmhYdl9TSnYzckJvd1lOOEZod2pEYU1jTlozSVhsTkFNb1EtR1hkR2tsOVkyMlhuSVRpVDU0SGFLbGphZ196TF9HSXUtN2xjVmVUU0ROX2h4MVU2SWptYUw2ZG4tTnRnbkxBV1NjRTZwYXlDY01LQ2Zq?oc=5",
-      "published": "2026-11-07T08:05:00+00:00",
-      "source": "Fortune India",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Fortune India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India pharma exports powering on, despite global trade crisis.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Fortune India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Fortune India",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHJQak81STdJU1BmQmxGMGtSX3lxSXVnMDNxbElLNEpybFhzTFlqNVM0Ulctb2cxY1dwbVVIdXZ5SUZySEFjZldLbjFGNFBPa3gtekMyZ2VxUWNqNUpSQ05mclJjVlpZdDNOZm1sVnJHcVU5LThCalpPbXNlRUtwQWdkMTNxNXgtT1dDM0VfaUs4VzlSVWNwbkIwb2NKZG50ZEtmUEl4aVJzSmg3RTZv0gG8AUFVX3lxTE9rQ1NSMGd0STY4Zlk5aDB0Vk45QlB0ay01d2J3bnBqVGtMOHdjNTlOcm9UeGxRXy1nbnQ1SmVFbElXREttVXZxNlU4SmhYdl9TSnYzckJvd1lOOEZod2pEYU1jTlozSVhsTkFNb1EtR1hkR2tsOVkyMlhuSVRpVDU0SGFLbGphZ196TF9HSXUtN2xjVmVUU0ROX2h4MVU2SWptYUw2ZG4tTnRnbkxBV1NjRTZwYXlDY01LQ2Zq?oc=5"
         }
       ]
     }
