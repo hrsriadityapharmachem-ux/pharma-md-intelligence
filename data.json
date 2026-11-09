@@ -1,13 +1,92 @@
 {
-  "updated": "2026-11-09T14:14:57.796078+00:00",
+  "updated": "2026-11-09T23:31:56.769168+00:00",
   "engine_version": "3.8.0",
-  "article_count": 1,
+  "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
+  "watch_count": 2,
   "high_priority_count": 0,
   "successful_feeds": 20,
-  "must_know": [],
+  "must_know": [
+    {
+      "category": "Global",
+      "title": "Big pharma tempers AI drug discovery hype as investments surge",
+      "description": "Big pharma tempers AI drug discovery hype as investments surge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5",
+      "published": "2026-11-09T20:25:00+00:00",
+      "source": "Chosunbiz",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": [],
+      "source_name": "Chosunbiz",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Big pharma tempers AI drug discovery hype as investments surge.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Chosunbiz; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+      "description": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVdiR2V0cmJEOV8yZ216TEVoWHFkOG9PSl9hUWlQcmNyYVVZVXlNVl9TUDQwN01MMkpsM0t2LU9GcUFtRU0taVBOUXBCWGdYMkhmX0hOWTFiQXZJLVdkdEw2Z1p4QVp0OEpjTFNXQzRxWmdOdG5QOWtFU01NUlhoOUEwRW40Tk1kcVloS0RuT0xISmNwMGFKanZqak5FRE9ROVF6bm9xX3ZjdjlSZl9RdE1yNFdId19vc1lacE1wRUlMeXhkZXd5TWxkdjlzNExnQ3dnVjRkN2dyNk5YaDlDdl8yR01CXzJNOWg3TEFuWmV5UdIB9wFBVV95cUxOcG04eXBiZHJCTkkwNzZZTXEtN3k2M2NaNXR0aUNFWFIwN1VfVnFaSXFXTHNZSk5XamhndDFIVS1xVEtTZXE4UG1ndjA2NW9vbVFzLTNTNVVSNmNxVEhINzJwYTRyU2oxb3VmUXB2LVo1TnE4TUtiNEN4aWFUWjVlbU81RDhLZnBDU3ppWDNWbGp6YkhOa1ZJTTJaWTNOV0FUakMzc0xqc0h2djRIZFhWLXVYODlNTGNsdS1KVGNIS2RHRHdjSTk4Z3RiTW1mdmY3Qm9DZjBiTTRwa1M2bzYxd3ZWNVpCUnhxM0dVS1VRU3FWOW9tTGVV?oc=5",
+      "published": "2026-11-09T03:15:02+00:00",
+      "source": "pharma.economictimes.indiatimes.com",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": [],
+      "source_name": "pharma.economictimes.indiatimes.com",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Pharma industry steps up API investments to cut import dependence, move up value chain.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by pharma.economictimes.indiatimes.com; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "pharma.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVdiR2V0cmJEOV8yZ216TEVoWHFkOG9PSl9hUWlQcmNyYVVZVXlNVl9TUDQwN01MMkpsM0t2LU9GcUFtRU0taVBOUXBCWGdYMkhmX0hOWTFiQXZJLVdkdEw2Z1p4QVp0OEpjTFNXQzRxWmdOdG5QOWtFU01NUlhoOUEwRW40Tk1kcVloS0RuT0xISmNwMGFKanZqak5FRE9ROVF6bm9xX3ZjdjlSZl9RdE1yNFdId19vc1lacE1wRUlMeXhkZXd5TWxkdjlzNExnQ3dnVjRkN2dyNk5YaDlDdl8yR01CXzJNOWg3TEFuWmV5UdIB9wFBVV95cUxOcG04eXBiZHJCTkkwNzZZTXEtN3k2M2NaNXR0aUNFWFIwN1VfVnFaSXFXTHNZSk5XamhndDFIVS1xVEtTZXE4UG1ndjA2NW9vbVFzLTNTNVVSNmNxVEhINzJwYTRyU2oxb3VmUXB2LVo1TnE4TUtiNEN4aWFUWjVlbU81RDhLZnBDU3ppWDNWbGp6YkhOa1ZJTTJaWTNOV0FUakMzc0xqc0h2djRIZFhWLXVYODlNTGNsdS1KVGNIS2RHRHdjSTk4Z3RiTW1mdmY3Qm9DZjBiTTRwa1M2bzYxd3ZWNVpCUnhxM0dVS1VRU3FWOW9tTGVV?oc=5"
+        }
+      ]
+    }
+  ],
   "business_signals": {
     "API / Intermediates": 0,
     "CDMO / Contract Manufacturing": 0,
@@ -20,49 +99,106 @@
     "Pharma Industry": 0
   },
   "daily_brief": {
-    "attention": [],
-    "investigate": [],
+    "attention": [
+      {
+        "title": "Big pharma tempers AI drug discovery hype as investments surge",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      }
+    ],
+    "investigate": [
+      {
+        "title": "Big pharma tempers AI drug discovery hype as investments surge",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+      },
+      {
+        "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+      }
+    ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
       "category": "Global",
-      "title": "Gland Pharma appoints Xiao Le Chief Investment Officer",
-      "description": "Gland Pharma appoints Xiao Le Chief Investment Officer",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHFWTEJPUkpDeTVEYVFPeGNpZ0hqekdrMkpleVhyeDhoeEVLUllWZXdGdnZld1liQmhrYlE3SE1kRWpjUlJGZm1iNkNDY0NwTS1CRVBTb28yd3M4QTBLeEdZYjVWN1BMb2ljZ3FTdGZUVWtqX3laTDdOc2ZGeFc0RTFsR0ZUTlB5NS12R2RBUmFubHl6?oc=5",
-      "published": "2026-11-09T04:26:47+00:00",
-      "source": "InvestyWise",
+      "title": "Big pharma tempers AI drug discovery hype as investments surge",
+      "description": "Big pharma tempers AI drug discovery hype as investments surge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5",
+      "published": "2026-11-09T20:25:00+00:00",
+      "source": "Chosunbiz",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Gland Pharma",
-        "Investment Officer Gland Pharma"
-      ],
+      "companies": [],
       "project_signals": [
-        "investment"
+        "investment",
+        "investments"
       ],
       "numbers": [],
-      "source_name": "InvestyWise",
+      "source_name": "Chosunbiz",
       "source_credibility": "Standard",
       "location": "Global",
-      "event_type": "Leadership Change",
-      "what_happened": "Gland Pharma appoints Xiao Le Chief Investment Officer.",
+      "event_type": "Industry Development",
+      "what_happened": "Big pharma tempers AI drug discovery hype as investments surge.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by InvestyWise; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Chosunbiz; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "InvestyWise",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHFWTEJPUkpDeTVEYVFPeGNpZ0hqekdrMkpleVhyeDhoeEVLUllWZXdGdnZld1liQmhrYlE3SE1kRWpjUlJGZm1iNkNDY0NwTS1CRVBTb28yd3M4QTBLeEdZYjVWN1BMb2ljZ3FTdGZUVWtqX3laTDdOc2ZGeFc0RTFsR0ZUTlB5NS12R2RBUmFubHl6?oc=5"
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+      "description": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVdiR2V0cmJEOV8yZ216TEVoWHFkOG9PSl9hUWlQcmNyYVVZVXlNVl9TUDQwN01MMkpsM0t2LU9GcUFtRU0taVBOUXBCWGdYMkhmX0hOWTFiQXZJLVdkdEw2Z1p4QVp0OEpjTFNXQzRxWmdOdG5QOWtFU01NUlhoOUEwRW40Tk1kcVloS0RuT0xISmNwMGFKanZqak5FRE9ROVF6bm9xX3ZjdjlSZl9RdE1yNFdId19vc1lacE1wRUlMeXhkZXd5TWxkdjlzNExnQ3dnVjRkN2dyNk5YaDlDdl8yR01CXzJNOWg3TEFuWmV5UdIB9wFBVV95cUxOcG04eXBiZHJCTkkwNzZZTXEtN3k2M2NaNXR0aUNFWFIwN1VfVnFaSXFXTHNZSk5XamhndDFIVS1xVEtTZXE4UG1ndjA2NW9vbVFzLTNTNVVSNmNxVEhINzJwYTRyU2oxb3VmUXB2LVo1TnE4TUtiNEN4aWFUWjVlbU81RDhLZnBDU3ppWDNWbGp6YkhOa1ZJTTJaWTNOV0FUakMzc0xqc0h2djRIZFhWLXVYODlNTGNsdS1KVGNIS2RHRHdjSTk4Z3RiTW1mdmY3Qm9DZjBiTTRwa1M2bzYxd3ZWNVpCUnhxM0dVS1VRU3FWOW9tTGVV?oc=5",
+      "published": "2026-11-09T03:15:02+00:00",
+      "source": "pharma.economictimes.indiatimes.com",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": [],
+      "source_name": "pharma.economictimes.indiatimes.com",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Pharma industry steps up API investments to cut import dependence, move up value chain.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by pharma.economictimes.indiatimes.com; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "pharma.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNVdiR2V0cmJEOV8yZ216TEVoWHFkOG9PSl9hUWlQcmNyYVVZVXlNVl9TUDQwN01MMkpsM0t2LU9GcUFtRU0taVBOUXBCWGdYMkhmX0hOWTFiQXZJLVdkdEw2Z1p4QVp0OEpjTFNXQzRxWmdOdG5QOWtFU01NUlhoOUEwRW40Tk1kcVloS0RuT0xISmNwMGFKanZqak5FRE9ROVF6bm9xX3ZjdjlSZl9RdE1yNFdId19vc1lacE1wRUlMeXhkZXd5TWxkdjlzNExnQ3dnVjRkN2dyNk5YaDlDdl8yR01CXzJNOWg3TEFuWmV5UdIB9wFBVV95cUxOcG04eXBiZHJCTkkwNzZZTXEtN3k2M2NaNXR0aUNFWFIwN1VfVnFaSXFXTHNZSk5XamhndDFIVS1xVEtTZXE4UG1ndjA2NW9vbVFzLTNTNVVSNmNxVEhINzJwYTRyU2oxb3VmUXB2LVo1TnE4TUtiNEN4aWFUWjVlbU81RDhLZnBDU3ppWDNWbGp6YkhOa1ZJTTJaWTNOV0FUakMzc0xqc0h2djRIZFhWLXVYODlNTGNsdS1KVGNIS2RHRHdjSTk4Z3RiTW1mdmY3Qm9DZjBiTTRwa1M2bzYxd3ZWNVpCUnhxM0dVS1VRU3FWOW9tTGVV?oc=5"
         }
       ]
     }
