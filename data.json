@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T23:31:56.769168+00:00",
+  "updated": "2026-11-10T04:46:35.499272+00:00",
   "engine_version": "3.8.0",
-  "article_count": 2,
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 2,
@@ -10,8 +10,8 @@
   "must_know": [
     {
       "category": "Global",
-      "title": "Big pharma tempers AI drug discovery hype as investments surge",
-      "description": "Big pharma tempers AI drug discovery hype as investments surge",
+      "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
+      "description": "Big pharma tempers AI drug hype as investments surge without FDA wins",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5",
       "published": "2026-11-09T20:25:00+00:00",
       "source": "Chosunbiz",
@@ -31,7 +31,7 @@
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Industry Development",
-      "what_happened": "Big pharma tempers AI drug discovery hype as investments surge.",
+      "what_happened": "Big pharma tempers AI drug hype as investments surge without FDA wins.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
@@ -101,7 +101,7 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Big pharma tempers AI drug discovery hype as investments surge",
+        "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
@@ -113,7 +113,7 @@
     ],
     "investigate": [
       {
-        "title": "Big pharma tempers AI drug discovery hype as investments surge",
+        "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
         "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       },
       {
@@ -126,8 +126,46 @@
   "articles": [
     {
       "category": "Global",
-      "title": "Big pharma tempers AI drug discovery hype as investments surge",
-      "description": "Big pharma tempers AI drug discovery hype as investments surge",
+      "title": "Mexico’s Export Pharma Plants Weigh Capacity, Compliance, AI",
+      "description": "Mexico’s Export Pharma Plants Weigh Capacity, Compliance, AI",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmlNcFVKb2dPNXloNFRCa0NhN2JZVlllWmNjWTdpYm4wcTdpSGVhT3hkV09FZXl0dERNdnBsY2tlMFFLR2xvZmF3bFdhNjNQMEtjcmxxbm1PRWRMYjlhUjBOd3lLZXh2Z3NZR3ptR01kZ21iWGNfdHNNLVl5X1MxaWxlX0tRT0l1dTJjWGZwTjE1QVdzeFUzbjJkQ3BoQQ?oc=5",
+      "published": "2026-11-09T21:02:35+00:00",
+      "source": "Mexico Business News",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Export Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Mexico Business News",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Market / Export Move",
+      "what_happened": "Mexico’s Export Pharma Plants Weigh Capacity, Compliance, AI.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 5,
+      "fact_status": "Reported by Mexico Business News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Mexico Business News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmlNcFVKb2dPNXloNFRCa0NhN2JZVlllWmNjWTdpYm4wcTdpSGVhT3hkV09FZXl0dERNdnBsY2tlMFFLR2xvZmF3bFdhNjNQMEtjcmxxbm1PRWRMYjlhUjBOd3lLZXh2Z3NZR3ptR01kZ21iWGNfdHNNLVl5X1MxaWxlX0tRT0l1dTJjWGZwTjE1QVdzeFUzbjJkQ3BoQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
+      "description": "Big pharma tempers AI drug hype as investments surge without FDA wins",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5",
       "published": "2026-11-09T20:25:00+00:00",
       "source": "Chosunbiz",
@@ -147,7 +185,7 @@
       "source_credibility": "Standard",
       "location": "Global",
       "event_type": "Industry Development",
-      "what_happened": "Big pharma tempers AI drug discovery hype as investments surge.",
+      "what_happened": "Big pharma tempers AI drug hype as investments surge without FDA wins.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
