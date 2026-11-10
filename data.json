@@ -1,13 +1,49 @@
 {
-  "updated": "2026-11-10T13:43:26.807048+00:00",
+  "updated": "2026-11-10T20:58:01.964063+00:00",
   "engine_version": "3.8.0",
   "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 2,
+  "watch_count": 3,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
+      "description": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5",
+      "published": "2026-11-10T14:31:43+00:00",
+      "source": "Pulse 2.0",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Pulse 2.0",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Pulse 2.0; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Pulse 2.0",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
@@ -101,6 +137,11 @@
   "daily_brief": {
     "attention": [
       {
+        "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+      },
+      {
         "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
@@ -113,11 +154,11 @@
     ],
     "investigate": [
       {
-        "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+        "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       },
       {
-        "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+        "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
         "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
@@ -125,38 +166,38 @@
   },
   "articles": [
     {
-      "category": "India",
-      "title": "Morepen Enters U.S. Prescription Generics Market with the Launch of its Desloratadine Tablets, Complementing Broader API, R&D and CDMO Growth Strategy",
-      "description": "Morepen Enters U.S. Prescription Generics Market with the Launch of its Desloratadine Tablets, Complementing Broader API, R&D and CDMO Growth Strategy",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOGR3TFBZUnpqLVVOQU1rdEQzdVZ3em45cXBKQ3dmemRJMjhBX0xvbXJYRmxBc25RXzZmRXJ4R2FDODQ1VUlkRWxDSzlFWDdwRGZ4SmRPN2hHb2pQTmRpSEpqcU53WHFDQVFhbTRMYlpVWW1HZWNZZHI1V3R0WWdaNjl6cnlvSTFpUkw1QXNJeThzVXVCdk9RTFRPclhUTEFRaTZLVVZSNnVJd0dMVVl0TmJfc19XRy12NkVGVk81bDRsakM3VEJYWTNoc19DUl9nOGRaTnZwaW45cUJwQXdJV0JVdDFldDdTbzRXLVFjdzlwdUxtUHhZLTMzem5VUEpIT0VkQ19ma0thc0t1Z29QRTZPSXk0Zw?oc=5",
-      "published": "2026-11-10T11:36:00+00:00",
-      "source": "India's News.Net",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "category": "Global",
+      "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
+      "description": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5",
+      "published": "2026-11-10T14:31:43+00:00",
+      "source": "Pulse 2.0",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "India's News.Net",
+      "source_name": "Pulse 2.0",
       "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Morepen Enters U.S. Prescription Generics Market with the Launch of its Desloratadine Tablets, Complementing Broader API, R&D and CDMO Growth Strategy.",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Exports / Markets development to Sri Aditya's products, customers or suppliers?",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by India's News.Net; primary source or underlying documents not independently verified",
+      "importance_score": 9,
+      "fact_status": "Reported by Pulse 2.0; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "India's News.Net",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOGR3TFBZUnpqLVVOQU1rdEQzdVZ3em45cXBKQ3dmemRJMjhBX0xvbXJYRmxBc25RXzZmRXJ4R2FDODQ1VUlkRWxDSzlFWDdwRGZ4SmRPN2hHb2pQTmRpSEpqcU53WHFDQVFhbTRMYlpVWW1HZWNZZHI1V3R0WWdaNjl6cnlvSTFpUkw1QXNJeThzVXVCdk9RTFRPclhUTEFRaTZLVVZSNnVJd0dMVVl0TmJfc19XRy12NkVGVk81bDRsakM3VEJYWTNoc19DUl9nOGRaTnZwaW45cUJwQXdJV0JVdDFldDdTbzRXLVFjdzlwdUxtUHhZLTMzem5VUEpIT0VkQ19ma0thc0t1Z29QRTZPSXk0Zw?oc=5"
+          "source": "Pulse 2.0",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5"
         }
       ]
     },
