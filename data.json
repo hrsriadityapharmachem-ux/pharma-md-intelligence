@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T08:46:26.370994+00:00",
+  "updated": "2026-11-10T13:43:26.807048+00:00",
   "engine_version": "3.8.0",
   "article_count": 3,
   "opportunity_count": 0,
@@ -125,40 +125,38 @@
   },
   "articles": [
     {
-      "category": "Global",
-      "title": "Mexico’s Export Pharma Plants Weigh Capacity, Compliance, AI",
-      "description": "Mexico’s Export Pharma Plants Weigh Capacity, Compliance, AI",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmlNcFVKb2dPNXloNFRCa0NhN2JZVlllWmNjWTdpYm4wcTdpSGVhT3hkV09FZXl0dERNdnBsY2tlMFFLR2xvZmF3bFdhNjNQMEtjcmxxbm1PRWRMYjlhUjBOd3lLZXh2Z3NZR3ptR01kZ21iWGNfdHNNLVl5X1MxaWxlX0tRT0l1dTJjWGZwTjE1QVdzeFUzbjJkQ3BoQQ?oc=5",
-      "published": "2026-11-09T21:02:35+00:00",
-      "source": "Mexico Business News",
+      "category": "India",
+      "title": "Morepen Enters U.S. Prescription Generics Market with the Launch of its Desloratadine Tablets, Complementing Broader API, R&D and CDMO Growth Strategy",
+      "description": "Morepen Enters U.S. Prescription Generics Market with the Launch of its Desloratadine Tablets, Complementing Broader API, R&D and CDMO Growth Strategy",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOGR3TFBZUnpqLVVOQU1rdEQzdVZ3em45cXBKQ3dmemRJMjhBX0xvbXJYRmxBc25RXzZmRXJ4R2FDODQ1VUlkRWxDSzlFWDdwRGZ4SmRPN2hHb2pQTmRpSEpqcU53WHFDQVFhbTRMYlpVWW1HZWNZZHI1V3R0WWdaNjl6cnlvSTFpUkw1QXNJeThzVXVCdk9RTFRPclhUTEFRaTZLVVZSNnVJd0dMVVl0TmJfc19XRy12NkVGVk81bDRsakM3VEJYWTNoc19DUl9nOGRaTnZwaW45cUJwQXdJV0JVdDFldDdTbzRXLVFjdzlwdUxtUHhZLTMzem5VUEpIT0VkQ19ma0thc0t1Z29QRTZPSXk0Zw?oc=5",
+      "published": "2026-11-10T11:36:00+00:00",
+      "source": "India's News.Net",
       "signal": "General",
-      "business_area": "Manufacturing / Plants",
+      "business_area": "Exports / Markets",
       "priority": "Low",
       "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
       "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Export Pharma"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Mexico Business News",
+      "source_name": "India's News.Net",
       "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Market / Export Move",
-      "what_happened": "Mexico’s Export Pharma Plants Weigh Capacity, Compliance, AI.",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Morepen Enters U.S. Prescription Generics Market with the Launch of its Desloratadine Tablets, Complementing Broader API, R&D and CDMO Growth Strategy.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "investigation_question": "What evidence would link this Exports / Markets development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 5,
-      "fact_status": "Reported by Mexico Business News; primary source or underlying documents not independently verified",
+      "importance_score": 3,
+      "fact_status": "Reported by India's News.Net; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Mexico Business News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmlNcFVKb2dPNXloNFRCa0NhN2JZVlllWmNjWTdpYm4wcTdpSGVhT3hkV09FZXl0dERNdnBsY2tlMFFLR2xvZmF3bFdhNjNQMEtjcmxxbm1PRWRMYjlhUjBOd3lLZXh2Z3NZR3ptR01kZ21iWGNfdHNNLVl5X1MxaWxlX0tRT0l1dTJjWGZwTjE1QVdzeFUzbjJkQ3BoQQ?oc=5"
+          "source": "India's News.Net",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOGR3TFBZUnpqLVVOQU1rdEQzdVZ3em45cXBKQ3dmemRJMjhBX0xvbXJYRmxBc25RXzZmRXJ4R2FDODQ1VUlkRWxDSzlFWDdwRGZ4SmRPN2hHb2pQTmRpSEpqcU53WHFDQVFhbTRMYlpVWW1HZWNZZHI1V3R0WWdaNjl6cnlvSTFpUkw1QXNJeThzVXVCdk9RTFRPclhUTEFRaTZLVVZSNnVJd0dMVVl0TmJfc19XRy12NkVGVk81bDRsakM3VEJYWTNoc19DUl9nOGRaTnZwaW45cUJwQXdJV0JVdDFldDdTbzRXLVFjdzlwdUxtUHhZLTMzem5VUEpIT0VkQ19ma0thc0t1Z29QRTZPSXk0Zw?oc=5"
         }
       ]
     },
