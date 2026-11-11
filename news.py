@@ -1505,13 +1505,13 @@ def should_keep_article(text, category, signal, event_type):
 # COLLECT NEWS
 # ============================================================
 
-def collect_news():
+def collect_news(window_hours=48):
 
     now = datetime.now(timezone.utc)
 
-    # Keep a two-day editorial window so quiet periods and RSS publication
-    # delays do not freeze the dashboard. The UI labels this window explicitly.
-    cutoff = now - timedelta(hours=48)
+    # Default editorial window is 48 hours. A controlled 7-day fallback is
+    # used only when the normal window returns no eligible stories.
+    cutoff = now - timedelta(hours=window_hours)
 
     articles = []
 
@@ -1522,7 +1522,7 @@ def collect_news():
     diagnostics = {
         "items_seen": 0,
         "missing_title_or_link": 0,
-        "outside_48h_window": 0,
+        "outside_window": 0,
         "short_title": 0,
         "rejected_by_relevance": 0,
     }
@@ -1601,7 +1601,7 @@ def collect_news():
                         )
 
                     if published < cutoff:
-                        diagnostics["outside_48h_window"] += 1
+                        diagnostics["outside_window"] += 1
                         continue
 
 
@@ -2019,21 +2019,26 @@ def main():
 
     articles, successful_feeds = collect_news()
 
+    # If the normal 48-hour window is empty but feeds are healthy, retry once
+    # with a 7-day window. This avoids routine red workflow runs during quiet
+    # news periods or when publishers delay RSS timestamps.
+    if not articles and successful_feeds > 0:
+        print("WARNING: No eligible articles in the 48-hour window; retrying with a 7-day window.")
+        articles, fallback_successful_feeds = collect_news(window_hours=168)
+        successful_feeds = max(successful_feeds, fallback_successful_feeds)
 
     # --------------------------------------------------------
     # Safety protection
     # --------------------------------------------------------
 
     if not articles:
-        print(
-            "ERROR: No eligible articles were collected; refusing to replace the last known-good data.json.",
-            file=sys.stderr,
-        )
-        print(
-            f"Feeds parsed successfully: {successful_feeds}. The existing data.json will be preserved.",
-            file=sys.stderr,
-        )
-        raise SystemExit(1)
+        if successful_feeds == 0:
+            print("ERROR: All news feeds failed; refusing to replace the last known-good data.json.", file=sys.stderr)
+            raise SystemExit(1)
+
+        print("WARNING: No eligible articles found after the 7-day fallback.")
+        print("Keeping the existing data.json unchanged; this is a safe no-update, not a pipeline failure.")
+        return
 
 
     # --------------------------------------------------------
