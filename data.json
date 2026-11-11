@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T20:58:01.964063+00:00",
+  "updated": "2026-11-11T01:24:45.692876+00:00",
   "engine_version": "3.8.0",
-  "article_count": 3,
+  "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 3,
+  "watch_count": 2,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
@@ -41,45 +41,6 @@
         {
           "source": "Pulse 2.0",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
-      "description": "Big pharma tempers AI drug hype as investments surge without FDA wins",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5",
-      "published": "2026-11-09T20:25:00+00:00",
-      "source": "Chosunbiz",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [],
-      "source_name": "Chosunbiz",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Industry Development",
-      "what_happened": "Big pharma tempers AI drug hype as investments surge without FDA wins.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Chosunbiz; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5"
         }
       ]
     },
@@ -142,11 +103,6 @@
         "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       },
       {
-        "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
         "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
@@ -158,7 +114,7 @@
         "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       },
       {
-        "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
+        "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
         "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
@@ -198,45 +154,6 @@
         {
           "source": "Pulse 2.0",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Big pharma tempers AI drug hype as investments surge without FDA wins",
-      "description": "Big pharma tempers AI drug hype as investments surge without FDA wins",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5",
-      "published": "2026-11-09T20:25:00+00:00",
-      "source": "Chosunbiz",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [],
-      "source_name": "Chosunbiz",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Industry Development",
-      "what_happened": "Big pharma tempers AI drug hype as investments surge without FDA wins.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Chosunbiz; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5"
         }
       ]
     },
