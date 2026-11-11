@@ -1,13 +1,89 @@
 {
-  "updated": "2026-11-11T06:41:04.919694+00:00",
+  "updated": "2026-11-11T21:37:17.388899+00:00",
   "engine_version": "3.8.0",
-  "article_count": 1,
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 1,
-  "high_priority_count": 0,
+  "watch_count": 3,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle",
+      "description": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpVkZXNkVaeWVWZ2J2ZEEyR05sWHZ3amNwa2NnTFFybVJsTlJRTFJJRTUyRUZoYVdqUlFwR2U1WUw3eEg0b2tDZ0lxWlNidDBidU1HYlNYZm1yOFJBSHJPY2pjZmlHalZ6b3JpNnBXdUdrXzJVRXpqMtIBfkFVX3lxTE9Yd2VJZllLNVBIZm1ocEhndC02UHVyUDBXWEtCX2FrN01DbWF4M3VZOVFxelRsVElxUlc1cGRRX3VLekNvUlJMd1ltWjVWYWZ0MDhGeGo5N0prVnZidUxpd2hOVC1NY0padDZ2MXVKbllwR183cVB4MU80akJnQQ?oc=5",
+      "published": "2026-11-11T01:35:58+00:00",
+      "source": "Policy Circle",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "new plant"
+      ],
+      "numbers": [],
+      "source_name": "Policy Circle",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by Policy Circle; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Policy Circle",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpVkZXNkVaeWVWZ2J2ZEEyR05sWHZ3amNwa2NnTFFybVJsTlJRTFJJRTUyRUZoYVdqUlFwR2U1WUw3eEg0b2tDZ0lxWlNidDBidU1HYlNYZm1yOFJBSHJPY2pjZmlHalZ6b3JpNnBXdUdrXzJVRXpqMtIBfkFVX3lxTE9Yd2VJZllLNVBIZm1ocEhndC02UHVyUDBXWEtCX2FrN01DbWF4M3VZOVFxelRsVElxUlc1cGRRX3VLekNvUlJMd1ltWjVWYWZ0MDhGeGo5N0prVnZidUxpd2hOVC1NY0padDZ2MXVKbllwR183cVB4MU80akJnQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "‘I want your money’: UK science minister calls for more life sciences investment",
+      "description": "‘I want your money’: UK science minister calls for more life sciences investment",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5",
+      "published": "2026-11-11T13:52:00+00:00",
+      "source": "Endpoints News",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "Endpoints News",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "‘I want your money’: UK science minister calls for more life sciences investment.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Endpoints News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Endpoints News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
@@ -59,6 +135,16 @@
   "daily_brief": {
     "attention": [
       {
+        "title": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "‘I want your money’: UK science minister calls for more life sciences investment",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
         "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
@@ -66,13 +152,93 @@
     ],
     "investigate": [
       {
-        "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle",
+        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
+      },
+      {
+        "title": "‘I want your money’: UK science minister calls for more life sciences investment",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "‘I want your money’: UK science minister calls for more life sciences investment",
+      "description": "‘I want your money’: UK science minister calls for more life sciences investment",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5",
+      "published": "2026-11-11T13:52:00+00:00",
+      "source": "Endpoints News",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "Endpoints News",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "‘I want your money’: UK science minister calls for more life sciences investment.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Endpoints News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Endpoints News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle",
+      "description": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpVkZXNkVaeWVWZ2J2ZEEyR05sWHZ3amNwa2NnTFFybVJsTlJRTFJJRTUyRUZoYVdqUlFwR2U1WUw3eEg0b2tDZ0lxWlNidDBidU1HYlNYZm1yOFJBSHJPY2pjZmlHalZ6b3JpNnBXdUdrXzJVRXpqMtIBfkFVX3lxTE9Yd2VJZllLNVBIZm1ocEhndC02UHVyUDBXWEtCX2FrN01DbWF4M3VZOVFxelRsVElxUlc1cGRRX3VLekNvUlJMd1ltWjVWYWZ0MDhGeGo5N0prVnZidUxpd2hOVC1NY0padDZ2MXVKbllwR183cVB4MU80akJnQQ?oc=5",
+      "published": "2026-11-11T01:35:58+00:00",
+      "source": "Policy Circle",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "new plant"
+      ],
+      "numbers": [],
+      "source_name": "Policy Circle",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Bulk drug manufacturing scheme must look beyond new plants | Policy Circle.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 70,
+      "importance_score": 16,
+      "fact_status": "Reported by Policy Circle; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Policy Circle",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpVkZXNkVaeWVWZ2J2ZEEyR05sWHZ3amNwa2NnTFFybVJsTlJRTFJJRTUyRUZoYVdqUlFwR2U1WUw3eEg0b2tDZ0lxWlNidDBidU1HYlNYZm1yOFJBSHJPY2pjZmlHalZ6b3JpNnBXdUdrXzJVRXpqMtIBfkFVX3lxTE9Yd2VJZllLNVBIZm1ocEhndC02UHVyUDBXWEtCX2FrN01DbWF4M3VZOVFxelRsVElxUlc1cGRRX3VLekNvUlJMd1ltWjVWYWZ0MDhGeGo5N0prVnZidUxpd2hOVC1NY0padDZ2MXVKbllwR183cVB4MU80akJnQQ?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
