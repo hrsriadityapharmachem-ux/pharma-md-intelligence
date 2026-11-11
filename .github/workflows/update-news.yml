@@ -14,12 +14,9 @@ on:
       - ".github/workflows/update-news.yml"
 
   schedule:
-    # High-frequency decision window: every 10 minutes from 07:00 through 10:59 IST.
-    - cron: "3,13,23,33,43,53 7-10 * * *"
-      timezone: "Asia/Kolkata"
-    # Lower-frequency monitoring outside the morning window: hourly.
-    - cron: "3 0-6,11-23 * * *"
-      timezone: "Asia/Kolkata"
+    # Trigger every 10 minutes; the first job gates actual collection by India time.
+    # Morning: every 10 minutes, 07:00–10:59 IST. Other hours: hourly at :03 IST.
+    - cron: "3,13,23,33,43,53 * * * *"
 
 concurrency:
   group: sri-aditya-pharma-news-refresh
@@ -37,23 +34,55 @@ jobs:
 
     steps:
 
+      - name: Determine whether a refresh is due (India time)
+        id: refresh_window
+        shell: bash
+        run: |
+          if [ "${GITHUB_EVENT_NAME}" != "schedule" ]; then
+            echo "run_refresh=true" >> "$GITHUB_OUTPUT"
+            echo "Manual or workflow-file update: run immediately."
+            exit 0
+          fi
+
+          IST_HOUR=$(TZ=Asia/Kolkata date +%H)
+          IST_MINUTE=$(TZ=Asia/Kolkata date +%M)
+
+          if [ "$IST_HOUR" -ge 7 ] && [ "$IST_HOUR" -le 10 ]; then
+            RUN_REFRESH=true
+            REASON="morning intelligence window"
+          elif [ "$IST_MINUTE" -ge 3 ] && [ "$IST_MINUTE" -le 8 ]; then
+            RUN_REFRESH=true
+            REASON="hourly off-peak refresh window"
+          else
+            RUN_REFRESH=false
+            REASON="off-peak interval; skip collection"
+          fi
+
+          echo "run_refresh=$RUN_REFRESH" >> "$GITHUB_OUTPUT"
+          echo "India time: $IST_HOUR:$IST_MINUTE | $REASON"
+
       - name: Checkout live dashboard branch
+        if: steps.refresh_window.outputs.run_refresh == 'true'
         uses: actions/checkout@v4
         with:
           ref: v2-intelligence
 
       - name: Setup Python
+        if: steps.refresh_window.outputs.run_refresh == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
       - name: Collect latest pharma news
+        if: steps.refresh_window.outputs.run_refresh == 'true'
         run: python news.py
 
       - name: Validate intelligence data
+        if: steps.refresh_window.outputs.run_refresh == 'true'
         run: python validate_data.py
 
       - name: Save updated news
+        if: steps.refresh_window.outputs.run_refresh == 'true'
         run: |
           git config user.name "Pharma Intelligence Bot"
           git config user.email "actions@github.com"
