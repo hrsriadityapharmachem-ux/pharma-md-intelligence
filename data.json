@@ -1,13 +1,49 @@
 {
-  "updated": "2026-11-12T02:32:28.561463+00:00",
+  "updated": "2026-11-13T03:54:07.312976+00:00",
   "engine_version": "3.8.0",
-  "article_count": 2,
+  "article_count": 3,
   "opportunity_count": 0,
-  "risk_count": 0,
+  "risk_count": 1,
   "watch_count": 2,
-  "high_priority_count": 0,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "Global",
+      "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
+      "description": "FDA cites record request breakdowns in trio of warning letters to API makers",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5",
+      "published": "2026-11-11T21:20:49+00:00",
+      "source": "Fierce Pharma",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Fierce Pharma",
+      "source_credibility": "Established",
+      "location": "Global",
+      "event_type": "Regulatory Action",
+      "what_happened": "FDA cites record request breakdowns in trio of warning letters to API makers.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 80,
+      "importance_score": 16,
+      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "‘I want your money’: UK science minister calls for more life sciences investment",
@@ -43,42 +79,6 @@
         {
           "source": "Endpoints News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
-      "description": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5",
-      "published": "2026-11-10T14:31:43+00:00",
-      "source": "Pulse 2.0",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Pulse 2.0",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Pulse 2.0; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Pulse 2.0",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5"
         }
       ]
     }
@@ -89,7 +89,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 0,
+    "Regulatory": 1,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
@@ -97,29 +97,106 @@
   "daily_brief": {
     "attention": [
       {
+        "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
+        "signal": "Risk",
+        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+      },
+      {
         "title": "‘I want your money’: UK science minister calls for more life sciences investment",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
-        "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
-        "signal": "Watch",
-        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
       {
-        "title": "‘I want your money’: UK science minister calls for more life sciences investment",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+        "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
+        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
       },
       {
-        "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "‘I want your money’: UK science minister calls for more life sciences investment",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "FT Pharma Summit 2026: ‘MFN Is a Gift’: Pharma Leaders Use U.S. Pricing Pressure to Challenge Europe on Innovation & Investment",
+      "description": "FT Pharma Summit 2026: ‘MFN Is a Gift’: Pharma Leaders Use U.S. Pricing Pressure to Challenge Europe on Innovation & Investment",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0pBYTQ2T3ZOMzBVTG5DZF9XZEEzRjJPRjRSSk93M2kxY0hfNzhYcFhjLTlabm1KMDRqREFPOXFORnNZVDhUdU5OVGxwMkU4N09qVWlvNV9BVmpRMTFTbHRqSkgzQy1fX0dadTZFS2sxTlFCTXZ1S1RiMEVIQXk0Tk5QckhrYkVXREk0WEw2eEMxUW1XemZnTDVnMkE3VVlNMXJnSzlPQ3FZZzdYQkd0Z2dwSTJlMkprRG9Cb0M3TTh3NVJjN1dTMkNNRnlBMXY3RHo1UG1LU0JxM2RrTm5XWHVrckplZ2NvcEpXLXlVMFd6MnU5?oc=5",
+      "published": "2026-11-12T16:58:14+00:00",
+      "source": "NAVLIN DAILY",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk.",
+      "md_action": "Identify which product categories and export markets face pricing pressure, then compare Sri Aditya's exposure using internal product-wise sales and margin data.",
+      "companies": [
+        "FT Pharma",
+        "Investment FT Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "NAVLIN DAILY",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Event",
+      "what_happened": "FT Pharma Summit 2026: ‘MFN Is a Gift’: Pharma Leaders Use U.S. Pricing Pressure to Challenge Europe on Innovation & Investment.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by NAVLIN DAILY; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "NAVLIN DAILY",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0pBYTQ2T3ZOMzBVTG5DZF9XZEEzRjJPRjRSSk93M2kxY0hfNzhYcFhjLTlabm1KMDRqREFPOXFORnNZVDhUdU5OVGxwMkU4N09qVWlvNV9BVmpRMTFTbHRqSkgzQy1fX0dadTZFS2sxTlFCTXZ1S1RiMEVIQXk0Tk5QckhrYkVXREk0WEw2eEMxUW1XemZnTDVnMkE3VVlNMXJnSzlPQ3FZZzdYQkd0Z2dwSTJlMkprRG9Cb0M3TTh3NVJjN1dTMkNNRnlBMXY3RHo1UG1LU0JxM2RrTm5XWHVrckplZ2NvcEpXLXlVMFd6MnU5?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
+      "description": "FDA cites record request breakdowns in trio of warning letters to API makers",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5",
+      "published": "2026-11-11T21:20:49+00:00",
+      "source": "Fierce Pharma",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Fierce Pharma",
+      "source_credibility": "Established",
+      "location": "Global",
+      "event_type": "Regulatory Action",
+      "what_happened": "FDA cites record request breakdowns in trio of warning letters to API makers.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 80,
+      "importance_score": 16,
+      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "‘I want your money’: UK science minister calls for more life sciences investment",
@@ -155,42 +232,6 @@
         {
           "source": "Endpoints News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
-      "description": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5",
-      "published": "2026-11-10T14:31:43+00:00",
-      "source": "Pulse 2.0",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Pulse 2.0",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Petauri: Emotive Acquisition Expands Global Medical Communications And Pharmaceutical Services.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Pulse 2.0; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Pulse 2.0",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dKM2lPdHV5cjUxVWhsdHpZdTEtOGJfcjl5N3pWam9SY3RodUFCYmpsMWRNMEV3YU9uWGxvVzJPM2JPMEVIVzh2WTk4cmU4bEF2alQ3ek4xMS1WX0IyYVBaS2ZlM1hUMkR2VEFiX3NfVm5wQ3JCODJLN3pMQXNWS2tDUkx3MTB5ckg2UENSZ3prTlRCM195NjJ6eWZqSVJ1OEZZd2dSVVV3bmxzUlFUbTg0bw?oc=5"
         }
       ]
     }
