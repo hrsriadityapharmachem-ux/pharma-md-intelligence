@@ -1,56 +1,20 @@
 {
-  "updated": "2026-11-15T02:32:18.855831+00:00",
+  "updated": "2026-11-16T16:44:12.630647+00:00",
   "engine_version": "3.8.0",
-  "article_count": 3,
+  "article_count": 5,
   "opportunity_count": 0,
-  "risk_count": 1,
-  "watch_count": 2,
-  "high_priority_count": 1,
+  "risk_count": 0,
+  "watch_count": 3,
+  "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
     {
-      "category": "Global",
-      "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
-      "description": "FDA cites record request breakdowns in trio of warning letters to API makers",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5",
-      "published": "2026-11-11T21:20:49+00:00",
-      "source": "Fierce Pharma",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Fierce Pharma",
-      "source_credibility": "Established",
-      "location": "Global",
-      "event_type": "Regulatory Action",
-      "what_happened": "FDA cites record request breakdowns in trio of warning letters to API makers.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 16,
-      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "‘I want your money’: UK science minister calls for more life sciences investment",
-      "description": "‘I want your money’: UK science minister calls for more life sciences investment",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5",
-      "published": "2026-11-11T13:52:00+00:00",
-      "source": "Endpoints News",
+      "category": "Hyderabad",
+      "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
+      "description": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5",
+      "published": "2026-11-15T07:43:33+00:00",
+      "source": "NewsMeter",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
@@ -61,24 +25,110 @@
       "project_signals": [
         "investment"
       ],
-      "numbers": [],
-      "source_name": "Endpoints News",
+      "numbers": [
+        "1 billion",
+        "$1 billion"
+      ],
+      "source_name": "NewsMeter",
       "source_credibility": "Standard",
-      "location": "Global",
+      "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "‘I want your money’: UK science minister calls for more life sciences investment.",
+      "what_happened": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Endpoints News; primary source or underlying documents not independently verified",
+      "importance_score": 11,
+      "fact_status": "Reported by NewsMeter; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Endpoints News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5"
+          "source": "NewsMeter",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
+      "description": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5",
+      "published": "2026-11-16T05:31:38+00:00",
+      "source": "Sahi",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving Sun Pharma and Organon Acquisition Sun Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Sun Pharma and Organon Acquisition Sun Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "Sun Pharma",
+        "Organon Acquisition Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "4 billion",
+        "11.75 billion",
+        "$4 billion",
+        "$11.75 billion"
+      ],
+      "source_name": "Sahi",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Sahi; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Sahi",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
+      "description": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5",
+      "published": "2026-11-16T03:57:07+00:00",
+      "source": "BW Healthcare World",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Biodeal Pharmaceuticals",
+        "Nasal Spray Biodeal Pharmaceuticals"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "BW Healthcare World",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by BW Healthcare World; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5"
         }
       ]
     }
@@ -89,7 +139,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 1,
+    "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
@@ -97,113 +147,198 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
-        "signal": "Risk",
-        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
-      },
-      {
-        "title": "‘I want your money’: UK science minister calls for more life sciences investment",
+        "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving Sun Pharma and Organon Acquisition Sun Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+      },
+      {
+        "title": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
+        "signal": "Watch",
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       }
     ],
     "investigate": [
       {
-        "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
-        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+        "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "‘I want your money’: UK science minister calls for more life sciences investment",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+        "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
-      "category": "Global",
-      "title": "FT Pharma Summit 2026: ‘MFN is a Gift’: Pharma Leaders Use U.S. Pricing Pressure to Challenge Europe on Innovation & Investment",
-      "description": "FT Pharma Summit 2026: ‘MFN is a Gift’: Pharma Leaders Use U.S. Pricing Pressure to Challenge Europe on Innovation & Investment",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0pBYTQ2T3ZOMzBVTG5DZF9XZEEzRjJPRjRSSk93M2kxY0hfNzhYcFhjLTlabm1KMDRqREFPOXFORnNZVDhUdU5OVGxwMkU4N09qVWlvNV9BVmpRMTFTbHRqSkgzQy1fX0dadTZFS2sxTlFCTXZ1S1RiMEVIQXk0Tk5QckhrYkVXREk0WEw2eEMxUW1XemZnTDVnMkE3VVlNMXJnSzlPQ3FZZzdYQkd0Z2dwSTJlMkprRG9Cb0M3TTh3NVJjN1dTMkNNRnlBMXY3RHo1UG1LU0JxM2RrTm5XWHVrckplZ2NvcEpXLXlVMFd6MnU5?oc=5",
-      "published": "2026-11-12T16:58:14+00:00",
-      "source": "NAVLIN DAILY",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
+      "category": "Hyderabad",
+      "title": "PLI Push Lifts Pharma, Bulk-Drug Manufacturing",
+      "description": "PLI Push Lifts Pharma, Bulk-Drug Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQem9oNjVINkRiekluYmoxeWNMWmR3MkpQaXdDZGhnZzVSZm5oMmhQOUs1cnNWN3hTbFFFMnRxZ3JPV2tHMTRwTlJDemdjWVhkb2k3Wi1sS1JuN3dCTXJZWnRtUHdRRjlyTVhiWDh4RVlHakhFYnhwVVdsYTUxWllFUkFzU2ZjQkRKYTJsZG9Rc1haVGVTc194eFBLNFlmNUlFaWRNd05oS2t2ZjhXeVBNQ9IBtgFBVV95cUxQRXVBTFVDTzJ2aEtodmlOSUdRWWpqQzROb3VZa1hsUkozRTZyajFaZm42bWNVY1YyX1o5V2lzSXlnQkNmQWhObGZiUDFPWWVXX2NKSHd4elo0N1ROSGpZUE8zX0NhS0lZTzVUMnZHMEtMTVEzT19PSVU1d1VoVmJ5TlhnRGNUelRDcTlLd1JQM3NKZXRMcXRSUGxmUUFtOU9DNjdBbHNhQ0ZHdFF6OEQzQ1dEU1hyZw?oc=5",
+      "published": "2026-11-16T14:55:56+00:00",
+      "source": "Deccan Chronicle",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
       "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "Pricing pressure and stronger US competition may compress margins for exposed pharmaceutical products. The article does not identify Sri Aditya's products, so exposure must be checked against its own molecule, customer and market mix before treating this as a company-specific risk.",
-      "md_action": "Identify which product categories and export markets face pricing pressure, then compare Sri Aditya's exposure using internal product-wise sales and margin data.",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [
-        "FT Pharma",
-        "Investment FT Pharma"
+        "PLI Push Lifts Pharma"
       ],
-      "project_signals": [
-        "investment"
-      ],
+      "project_signals": [],
       "numbers": [],
-      "source_name": "NAVLIN DAILY",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Industry Event",
-      "what_happened": "FT Pharma Summit 2026: ‘MFN is a Gift’: Pharma Leaders Use U.S. Pricing Pressure to Challenge Europe on Innovation & Investment.",
+      "source_name": "Deccan Chronicle",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "PLI Push Lifts Pharma, Bulk-Drug Manufacturing.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by NAVLIN DAILY; primary source or underlying documents not independently verified",
+      "importance_score": 13,
+      "fact_status": "Reported by Deccan Chronicle; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "NAVLIN DAILY",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0pBYTQ2T3ZOMzBVTG5DZF9XZEEzRjJPRjRSSk93M2kxY0hfNzhYcFhjLTlabm1KMDRqREFPOXFORnNZVDhUdU5OVGxwMkU4N09qVWlvNV9BVmpRMTFTbHRqSkgzQy1fX0dadTZFS2sxTlFCTXZ1S1RiMEVIQXk0Tk5QckhrYkVXREk0WEw2eEMxUW1XemZnTDVnMkE3VVlNMXJnSzlPQ3FZZzdYQkd0Z2dwSTJlMkprRG9Cb0M3TTh3NVJjN1dTMkNNRnlBMXY3RHo1UG1LU0JxM2RrTm5XWHVrckplZ2NvcEpXLXlVMFd6MnU5?oc=5"
+          "source": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQem9oNjVINkRiekluYmoxeWNMWmR3MkpQaXdDZGhnZzVSZm5oMmhQOUs1cnNWN3hTbFFFMnRxZ3JPV2tHMTRwTlJDemdjWVhkb2k3Wi1sS1JuN3dCTXJZWnRtUHdRRjlyTVhiWDh4RVlHakhFYnhwVVdsYTUxWllFUkFzU2ZjQkRKYTJsZG9Rc1haVGVTc194eFBLNFlmNUlFaWRNd05oS2t2ZjhXeVBNQ9IBtgFBVV95cUxQRXVBTFVDTzJ2aEtodmlOSUdRWWpqQzROb3VZa1hsUkozRTZyajFaZm42bWNVY1YyX1o5V2lzSXlnQkNmQWhObGZiUDFPWWVXX2NKSHd4elo0N1ROSGpZUE8zX0NhS0lZTzVUMnZHMEtMTVEzT19PSVU1d1VoVmJ5TlhnRGNUelRDcTlLd1JQM3NKZXRMcXRSUGxmUUFtOU9DNjdBbHNhQ0ZHdFF6OEQzQ1dEU1hyZw?oc=5"
         }
       ]
     },
     {
-      "category": "Global",
-      "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
-      "description": "FDA cites record request breakdowns in trio of warning letters to API makers",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5",
-      "published": "2026-11-11T21:20:49+00:00",
-      "source": "Fierce Pharma",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "category": "India",
+      "title": "Top 10 Best Contract Manufacturing Companies In India In 2027",
+      "description": "Top 10 Best Contract Manufacturing Companies In India In 2027",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbk8wZl9pU2JoUi10RnBrWk9KVkVNWDJwMzh3cFA4djVqUlMxT1BvaDFEZ1I2QTlvVVNBZHJHcWlmZlJERE9nRlFLcFBWMVlXblZGajBMWnFEN3FYeWZzYWM4VjJ1VXJnUFFSRXl4QlhYd3ZCLWplcEVoT293Q0MwZWlWSVhfX3M0RHN2TnJYS1dVRFVYT0ZUZ0kyOVdidw?oc=5",
+      "published": "2026-11-16T13:30:43+00:00",
+      "source": "Inventiva",
+      "signal": "General",
+      "business_area": "CDMO / Contract Manufacturing",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Fierce Pharma",
-      "source_credibility": "Established",
-      "location": "Global",
-      "event_type": "Regulatory Action",
-      "what_happened": "FDA cites record request breakdowns in trio of warning letters to API makers.",
+      "source_name": "Inventiva",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Top 10 Best Contract Manufacturing Companies In India In 2027.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this CDMO / Contract Manufacturing development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
-      "confidence": 80,
-      "importance_score": 16,
-      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by Inventiva; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5"
+          "source": "Inventiva",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbk8wZl9pU2JoUi10RnBrWk9KVkVNWDJwMzh3cFA4djVqUlMxT1BvaDFEZ1I2QTlvVVNBZHJHcWlmZlJERE9nRlFLcFBWMVlXblZGajBMWnFEN3FYeWZzYWM4VjJ1VXJnUFFSRXl4QlhYd3ZCLWplcEVoT293Q0MwZWlWSVhfX3M0RHN2TnJYS1dVRFVYT0ZUZ0kyOVdidw?oc=5"
         }
       ]
     },
     {
       "category": "Global",
-      "title": "‘I want your money’: UK science minister calls for more life sciences investment",
-      "description": "‘I want your money’: UK science minister calls for more life sciences investment",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5",
-      "published": "2026-11-11T13:52:00+00:00",
-      "source": "Endpoints News",
+      "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
+      "description": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5",
+      "published": "2026-11-16T05:31:38+00:00",
+      "source": "Sahi",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving Sun Pharma and Organon Acquisition Sun Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Sun Pharma and Organon Acquisition Sun Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "Sun Pharma",
+        "Organon Acquisition Sun Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "4 billion",
+        "11.75 billion",
+        "$4 billion",
+        "$11.75 billion"
+      ],
+      "source_name": "Sahi",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Sahi; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Sahi",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
+      "description": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5",
+      "published": "2026-11-16T03:57:07+00:00",
+      "source": "BW Healthcare World",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Biodeal Pharmaceuticals",
+        "Nasal Spray Biodeal Pharmaceuticals"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "BW Healthcare World",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by BW Healthcare World; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
+      "description": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5",
+      "published": "2026-11-15T07:43:33+00:00",
+      "source": "NewsMeter",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
@@ -214,24 +349,27 @@
       "project_signals": [
         "investment"
       ],
-      "numbers": [],
-      "source_name": "Endpoints News",
+      "numbers": [
+        "1 billion",
+        "$1 billion"
+      ],
+      "source_name": "NewsMeter",
       "source_credibility": "Standard",
-      "location": "Global",
+      "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "‘I want your money’: UK science minister calls for more life sciences investment.",
+      "what_happened": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Endpoints News; primary source or underlying documents not independently verified",
+      "importance_score": 11,
+      "fact_status": "Reported by NewsMeter; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Endpoints News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzlicnlHSGtaelBxTjJxMklDd2Y0STNLbkxHNHlTb3hnN0pjWmRoUnBKNDhIdHczY2F1QXlqT0w4RUFZX1hZY2FVdTRYdXotcWxEVG1BdmdHR0pHMjcxdlVSZ2hTOTcwYm1CVXVHSVJiLTVpTzdXVDVaeXhVX1BKR3hUR25YaDJHTERJ?oc=5"
+          "source": "NewsMeter",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5"
         }
       ]
     }
