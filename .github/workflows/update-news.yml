@@ -55,12 +55,12 @@ jobs:
           from datetime import datetime, timezone
           from pathlib import Path
           log = Path('collector.log').read_text(errors='replace')
-          feeds = re.findall(r'Successful feeds: (\\d+)', log)
-          eligible = re.findall(r'Eligible articles: (\\d+)', log)
+          feeds = re.findall(r'Successful feeds: (\d+)', log)
+          eligible = re.findall(r'Eligible articles: (\d+)', log)
           data = json.loads(Path('data.json').read_text())
           result = {'status':'success','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':datetime.now(timezone.utc).isoformat(),'last_content_update_at':data.get('updated'),'successful_feeds':int(feeds[-1]) if feeds else data.get('successful_feeds',0),'eligible_articles_seen':int(eligible[-1]) if eligible else 0,'published_article_count':data.get('article_count',0),'message':'Collection and validation succeeded.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
           if 'Keeping the existing data.json unchanged' in log: result['message']='Feeds checked successfully; no new eligible articles. Existing content retained.'
-          Path('pipeline_status.json').write_text(json.dumps(result,indent=2)+'\\n')
+          Path('pipeline_status.json').write_text(json.dumps(result,indent=2)+'\n')
           PY
       - name: Publish data and monitoring status
         if: steps.refresh_window.outputs.run_refresh == 'true' && success()
@@ -80,7 +80,7 @@ jobs:
           p=Path('pipeline_status.json'); old=json.loads(p.read_text()) if p.exists() else {}
           d=json.loads(Path('data.json').read_text()) if Path('data.json').exists() else {}
           result={'status':'failure','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':old.get('last_success_at'),'last_content_update_at':d.get('updated') or old.get('last_content_update_at'),'successful_feeds':old.get('successful_feeds',0),'published_article_count':d.get('article_count',0),'message':'Collection or validation failed. Last-known-good content retained where possible.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
-          p.write_text(json.dumps(result,indent=2)+'\\n')
+          p.write_text(json.dumps(result,indent=2)+'\n')
           PY
           git config user.name "Pharma Intelligence Bot"
           git config user.email "actions@github.com"
