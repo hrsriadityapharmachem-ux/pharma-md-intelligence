@@ -17,36 +17,73 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout live dashboard branch
+        uses: actions/checkout@v4
+        with:
+          ref: v2-intelligence
+
       - name: Determine whether a refresh is due (India time)
         id: refresh_window
         shell: bash
         run: |
-          if [ "$GITHUB_EVENT_NAME" != "schedule" ]; then echo "run_refresh=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$GITHUB_EVENT_NAME" != "schedule" ]; then
+            echo "run_refresh=true" >> "$GITHUB_OUTPUT"
+            echo "Manual or workflow update trigger: running immediately."
+            exit 0
+          fi
+
           HOUR=$(TZ=Asia/Kolkata date +%H)
-          MINUTE=$(TZ=Asia/Kolkata date +%M)
-          if [ "$HOUR" -ge 7 ] && [ "$HOUR" -le 10 ]; then RUN=true; REASON="morning 10-minute window";
-          elif [ "$MINUTE" -ge 3 ] && [ "$MINUTE" -le 8 ]; then RUN=true; REASON="hourly off-peak window";
-          else RUN=false; REASON="not due"; fi
-          echo "run_refresh=$RUN" >> "$GITHUB_OUTPUT"
-          echo "India time $HOUR:$MINUTE - $REASON"
-      - name: Checkout live dashboard branch
-        if: steps.refresh_window.outputs.run_refresh == 'true'
-        uses: actions/checkout@v4
-        with:
-          ref: v2-intelligence
+          if [ "$HOUR" -ge 7 ] && [ "$HOUR" -le 10 ]; then
+            echo "run_refresh=true" >> "$GITHUB_OUTPUT"
+            echo "India time hour $HOUR: morning 10-minute refresh window."
+            exit 0
+          fi
+
+          # Outside the morning window, run when the last successful collection
+          # is at least 55 minutes old. This avoids relying on a narrow minute
+          # window that can be missed when GitHub delays a scheduled event.
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          due = True
+          reason = "No valid previous success timestamp; running a recovery refresh."
+          try:
+              status = json.loads(Path("pipeline_status.json").read_text(encoding="utf-8"))
+              stamp = status.get("last_success_at")
+              if not stamp:
+                  raise ValueError("last_success_at missing")
+              last = datetime.fromisoformat(stamp.replace("Z", "+00:00"))
+              if last.tzinfo is None:
+                  raise ValueError("last_success_at has no timezone")
+              age_minutes = (datetime.now(timezone.utc) - last.astimezone(timezone.utc)).total_seconds() / 60
+              due = age_minutes >= 55
+              reason = f"Last successful collection was {age_minutes:.1f} minutes ago."
+          except Exception as exc:
+              reason = f"Could not read previous pipeline success ({exc}); running a recovery refresh."
+
+          print(f"run_refresh={'true' if due else 'false'}")
+          print(f"reason={reason}")
+          print(reason)
+          PY
+
       - name: Setup Python
         if: steps.refresh_window.outputs.run_refresh == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
       - name: Collect latest pharma news
         if: steps.refresh_window.outputs.run_refresh == 'true'
         run: |
           set -o pipefail
           python news.py 2>&1 | tee collector.log
+
       - name: Validate intelligence data
         if: steps.refresh_window.outputs.run_refresh == 'true'
         run: python validate_data.py
+
       - name: Record successful pipeline health
         if: steps.refresh_window.outputs.run_refresh == 'true' && success()
         run: |
@@ -62,6 +99,7 @@ jobs:
           if 'Keeping the existing data.json unchanged' in log: result['message']='Feeds checked successfully; no new eligible articles. Existing content retained.'
           Path('pipeline_status.json').write_text(json.dumps(result,indent=2)+'\n')
           PY
+
       - name: Publish data and monitoring status
         if: steps.refresh_window.outputs.run_refresh == 'true' && success()
         run: |
@@ -70,6 +108,7 @@ jobs:
           git add data.json pipeline_status.json
           git diff --cached --quiet || git commit -m "Refresh pharma intelligence and pipeline status"
           git push origin HEAD:v2-intelligence
+
       - name: Record failed pipeline health
         if: failure() && steps.refresh_window.outputs.run_refresh == 'true'
         run: |
