@@ -1,94 +1,89 @@
 name: Update Pharma News
 run-name: "Refresh and validate live pharma intelligence"
-# Single production scheduler: runs on main, collects and publishes data to v2-intelligence.
-
 on:
   workflow_dispatch:
-
-  # Validate workflow edits immediately against the live branch. The job
-  # writes generated data only to v2-intelligence, so it does not retrigger this main-branch path.
   push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/update-news.yml"
-
+    branches: [main]
+    paths: [".github/workflows/update-news.yml"]
   schedule:
-    # Trigger every 10 minutes; the first job gates actual collection by India time.
-    # Morning: every 10 minutes, 07:00–10:59 IST. Other hours: hourly at :03 IST.
     - cron: "3,13,23,33,43,53 * * * *"
-
 concurrency:
   group: sri-aditya-pharma-news-refresh
   cancel-in-progress: false
-
 jobs:
-
   update-news:
-
     runs-on: ubuntu-latest
     timeout-minutes: 40
-
     permissions:
       contents: write
-
     steps:
-
       - name: Determine whether a refresh is due (India time)
         id: refresh_window
         shell: bash
         run: |
-          if [ "${GITHUB_EVENT_NAME}" != "schedule" ]; then
-            echo "run_refresh=true" >> "$GITHUB_OUTPUT"
-            echo "Manual or workflow-file update: run immediately."
-            exit 0
-          fi
-
-          IST_HOUR=$(TZ=Asia/Kolkata date +%H)
-          IST_MINUTE=$(TZ=Asia/Kolkata date +%M)
-
-          if [ "$IST_HOUR" -ge 7 ] && [ "$IST_HOUR" -le 10 ]; then
-            RUN_REFRESH=true
-            REASON="morning intelligence window"
-          elif [ "$IST_MINUTE" -ge 3 ] && [ "$IST_MINUTE" -le 8 ]; then
-            RUN_REFRESH=true
-            REASON="hourly off-peak refresh window"
-          else
-            RUN_REFRESH=false
-            REASON="off-peak interval; skip collection"
-          fi
-
-          echo "run_refresh=$RUN_REFRESH" >> "$GITHUB_OUTPUT"
-          echo "India time: $IST_HOUR:$IST_MINUTE | $REASON"
-
+          if [ "$GITHUB_EVENT_NAME" != "schedule" ]; then echo "run_refresh=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          HOUR=$(TZ=Asia/Kolkata date +%H)
+          MINUTE=$(TZ=Asia/Kolkata date +%M)
+          if [ "$HOUR" -ge 7 ] && [ "$HOUR" -le 10 ]; then RUN=true; REASON="morning 10-minute window";
+          elif [ "$MINUTE" -ge 3 ] && [ "$MINUTE" -le 8 ]; then RUN=true; REASON="hourly off-peak window";
+          else RUN=false; REASON="not due"; fi
+          echo "run_refresh=$RUN" >> "$GITHUB_OUTPUT"
+          echo "India time $HOUR:$MINUTE - $REASON"
       - name: Checkout live dashboard branch
         if: steps.refresh_window.outputs.run_refresh == 'true'
         uses: actions/checkout@v4
         with:
           ref: v2-intelligence
-
       - name: Setup Python
         if: steps.refresh_window.outputs.run_refresh == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-
       - name: Collect latest pharma news
         if: steps.refresh_window.outputs.run_refresh == 'true'
-        run: python news.py
-
+        run: |
+          set -o pipefail
+          python news.py 2>&1 | tee collector.log
       - name: Validate intelligence data
         if: steps.refresh_window.outputs.run_refresh == 'true'
         run: python validate_data.py
-
-      - name: Save updated news
-        if: steps.refresh_window.outputs.run_refresh == 'true'
+      - name: Record successful pipeline health
+        if: steps.refresh_window.outputs.run_refresh == 'true' && success()
+        run: |
+          python - <<'PY'
+          import json, re, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          log = Path('collector.log').read_text(errors='replace')
+          feeds = re.findall(r'Successful feeds: (\\d+)', log)
+          eligible = re.findall(r'Eligible articles: (\\d+)', log)
+          data = json.loads(Path('data.json').read_text())
+          result = {'status':'success','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':datetime.now(timezone.utc).isoformat(),'last_content_update_at':data.get('updated'),'successful_feeds':int(feeds[-1]) if feeds else data.get('successful_feeds',0),'eligible_articles_seen':int(eligible[-1]) if eligible else 0,'published_article_count':data.get('article_count',0),'message':'Collection and validation succeeded.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
+          if 'Keeping the existing data.json unchanged' in log: result['message']='Feeds checked successfully; no new eligible articles. Existing content retained.'
+          Path('pipeline_status.json').write_text(json.dumps(result,indent=2)+'\\n')
+          PY
+      - name: Publish data and monitoring status
+        if: steps.refresh_window.outputs.run_refresh == 'true' && success()
         run: |
           git config user.name "Pharma Intelligence Bot"
           git config user.email "actions@github.com"
-
-          git add data.json
-
-          git diff --cached --quiet || git commit -m "Update pharma intelligence"
-
+          git add data.json pipeline_status.json
+          git diff --cached --quiet || git commit -m "Refresh pharma intelligence and pipeline status"
+          git push origin HEAD:v2-intelligence
+      - name: Record failed pipeline health
+        if: failure() && steps.refresh_window.outputs.run_refresh == 'true'
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          p=Path('pipeline_status.json'); old=json.loads(p.read_text()) if p.exists() else {}
+          d=json.loads(Path('data.json').read_text()) if Path('data.json').exists() else {}
+          result={'status':'failure','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':old.get('last_success_at'),'last_content_update_at':d.get('updated') or old.get('last_content_update_at'),'successful_feeds':old.get('successful_feeds',0),'published_article_count':d.get('article_count',0),'message':'Collection or validation failed. Last-known-good content retained where possible.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
+          p.write_text(json.dumps(result,indent=2)+'\\n')
+          PY
+          git config user.name "Pharma Intelligence Bot"
+          git config user.email "actions@github.com"
+          git add pipeline_status.json
+          git diff --cached --quiet || git commit -m "Record pharma intelligence pipeline failure"
           git push origin HEAD:v2-intelligence
