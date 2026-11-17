@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T10:37:25.178500+00:00",
+  "updated": "2026-11-17T19:24:49.648386+00:00",
   "engine_version": "3.8.0",
-  "article_count": 10,
+  "article_count": 9,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 5,
+  "watch_count": 4,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
@@ -90,46 +90,41 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
-      "description": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5",
-      "published": "2026-11-16T05:31:38+00:00",
-      "source": "Sahi",
+      "category": "India",
+      "title": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences",
+      "description": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGJhMjVTYmswSThHVGEzUHZPcW1fVDdrM3hfV0NHREFza1lKaUNMdDhXaUdFOHFLTHV1TnM1YkpOdGZKNkpieWFHNVZHaVBKNndfdERyZUo3d2hhamNrS0VURDVsbnBoZVBuSmJPaXJtcGMyaWJiU09LTVRlcldqVUJmenVhWldlWE9TZkgzbk16R3JBUmtLLXRVUWNiMy12OXFjQzh3VWZnQV8xa2FhM3lWeTluUVdmVWlRNHhWdlVENW5XS2RJOWhpT0ZSUWNBdEFYZDdpeDE3bVVJYXpkZ1o0eEvSAesBQVVfeXFMTngwN2I0MFRPSlFYZDRXOWp6VXotR2pSOS1SMEoyOHdmRlFJNGhObE9vdkczQV9sa3VLX2xoLXNHSk8tT0VnWHpUa2Fkd0VoOEdFX2ZzWUo0RlR5TS16c1NsMnBXb1NUQ0tlbkFhNUhhQldlbEVlamxLYlF1elVYb2hFS2dseWU2OU1ZanJrTFFqRlVkYnJNLTZkbTRVTkM5Y0x6Nml6VEhMMURoOXRPSmg3Wmw3ZFVrNWlYdzdYR0pPRHF3bzI4TFhxeU5jb1dSN3lQMUVlX09mc2oyYWVGYmxEcW9ranJVM19Oaw?oc=5",
+      "published": "2026-11-17T11:31:38+00:00",
+      "source": "The Financial Express",
       "signal": "Watch",
       "business_area": "Pharma Industry",
-      "priority": "Medium",
+      "priority": "Low",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Sun Pharma and Organon Acquisition Sun Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Sun Pharma and Organon Acquisition Sun Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
       "companies": [
-        "Sun Pharma",
-        "Organon Acquisition Sun Pharma"
+        "AstraZeneca Pharma",
+        "Life Sciences AstraZeneca Pharma"
       ],
       "project_signals": [],
-      "numbers": [
-        "4 billion",
-        "11.75 billion",
-        "$4 billion",
-        "$11.75 billion"
-      ],
-      "source_name": "Sahi",
+      "numbers": [],
+      "source_name": "The Financial Express",
       "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition.",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Sahi; primary source or underlying documents not independently verified",
+      "importance_score": 3,
+      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Sahi",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5"
+          "source": "The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGJhMjVTYmswSThHVGEzUHZPcW1fVDdrM3hfV0NHREFza1lKaUNMdDhXaUdFOHFLTHV1TnM1YkpOdGZKNkpieWFHNVZHaVBKNndfdERyZUo3d2hhamNrS0VURDVsbnBoZVBuSmJPaXJtcGMyaWJiU09LTVRlcldqVUJmenVhWldlWE9TZkgzbk16R3JBUmtLLXRVUWNiMy12OXFjQzh3VWZnQV8xa2FhM3lWeTluUVdmVWlRNHhWdlVENW5XS2RJOWhpT0ZSUWNBdEFYZDdpeDE3bVVJYXpkZ1o0eEvSAesBQVVfeXFMTngwN2I0MFRPSlFYZDRXOWp6VXotR2pSOS1SMEoyOHdmRlFJNGhObE9vdkczQV9sa3VLX2xoLXNHSk8tT0VnWHpUa2Fkd0VoOEdFX2ZzWUo0RlR5TS16c1NsMnBXb1NUQ0tlbkFhNUhhQldlbEVlamxLYlF1elVYb2hFS2dseWU2OU1ZanJrTFFqRlVkYnJNLTZkbTRVTkM5Y0x6Nml6VEhMMURoOXRPSmg3Wmw3ZFVrNWlYdzdYR0pPRHF3bzI4TFhxeU5jb1dSN3lQMUVlX09mc2oyYWVGYmxEcW9ranJVM19Oaw?oc=5"
         }
       ]
     }
@@ -158,9 +153,9 @@
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
       {
-        "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
+        "title": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences",
         "signal": "Watch",
-        "why": "The report concerns an ownership change involving Sun Pharma and Organon Acquisition Sun Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
+        "why": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established."
       }
     ],
     "investigate": [
@@ -178,10 +173,49 @@
   "articles": [
     {
       "category": "India",
+      "title": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences",
+      "description": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGJhMjVTYmswSThHVGEzUHZPcW1fVDdrM3hfV0NHREFza1lKaUNMdDhXaUdFOHFLTHV1TnM1YkpOdGZKNkpieWFHNVZHaVBKNndfdERyZUo3d2hhamNrS0VURDVsbnBoZVBuSmJPaXJtcGMyaWJiU09LTVRlcldqVUJmenVhWldlWE9TZkgzbk16R3JBUmtLLXRVUWNiMy12OXFjQzh3VWZnQV8xa2FhM3lWeTluUVdmVWlRNHhWdlVENW5XS2RJOWhpT0ZSUWNBdEFYZDdpeDE3bVVJYXpkZ1o0eEvSAesBQVVfeXFMTngwN2I0MFRPSlFYZDRXOWp6VXotR2pSOS1SMEoyOHdmRlFJNGhObE9vdkczQV9sa3VLX2xoLXNHSk8tT0VnWHpUa2Fkd0VoOEdFX2ZzWUo0RlR5TS16c1NsMnBXb1NUQ0tlbkFhNUhhQldlbEVlamxLYlF1elVYb2hFS2dseWU2OU1ZanJrTFFqRlVkYnJNLTZkbTRVTkM5Y0x6Nml6VEhMMURoOXRPSmg3Wmw3ZFVrNWlYdzdYR0pPRHF3bzI4TFhxeU5jb1dSN3lQMUVlX09mc2oyYWVGYmxEcW9ranJVM19Oaw?oc=5",
+      "published": "2026-11-17T11:31:38+00:00",
+      "source": "The Financial Express",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "AstraZeneca Pharma",
+        "Life Sciences AstraZeneca Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Financial Express",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGJhMjVTYmswSThHVGEzUHZPcW1fVDdrM3hfV0NHREFza1lKaUNMdDhXaUdFOHFLTHV1TnM1YkpOdGZKNkpieWFHNVZHaVBKNndfdERyZUo3d2hhamNrS0VURDVsbnBoZVBuSmJPaXJtcGMyaWJiU09LTVRlcldqVUJmenVhWldlWE9TZkgzbk16R3JBUmtLLXRVUWNiMy12OXFjQzh3VWZnQV8xa2FhM3lWeTluUVdmVWlRNHhWdlVENW5XS2RJOWhpT0ZSUWNBdEFYZDdpeDE3bVVJYXpkZ1o0eEvSAesBQVVfeXFMTngwN2I0MFRPSlFYZDRXOWp6VXotR2pSOS1SMEoyOHdmRlFJNGhObE9vdkczQV9sa3VLX2xoLXNHSk8tT0VnWHpUa2Fkd0VoOEdFX2ZzWUo0RlR5TS16c1NsMnBXb1NUQ0tlbkFhNUhhQldlbEVlamxLYlF1elVYb2hFS2dseWU2OU1ZanJrTFFqRlVkYnJNLTZkbTRVTkM5Y0x6Nml6VEhMMURoOXRPSmg3Wmw3ZFVrNWlYdzdYR0pPRHF3bzI4TFhxeU5jb1dSN3lQMUVlX09mc2oyYWVGYmxEcW9ranJVM19Oaw?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
       "title": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
       "description": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNF9ycTdxZnNEc284eXVueTI4amwyS0dJei05ckZvTDVTQ3hmTlVpTjNFSkhYLWx2TmkwZm1JS3NpNDR3Wjdkd1dGUFFEdWdjREdESUpUVDJ1N21TdXhGdkRqN0VVRnBSM0piLUVMRlhmRlZhSXpyWXR3X2xYRC1obXJ4SXhyaDVxVnJQM0toMFJkdzI2Z3VaYXFBSkd5TElWT0Q4MXFvRloxaTl2WkRtdVVmVWg?oc=5",
-      "published": "2026-11-17T08:53:34+00:00",
+      "published": "2026-11-17T09:05:10+00:00",
       "source": "Sahi",
       "signal": "Watch",
       "business_area": "Pharma Industry",
@@ -482,89 +516,6 @@
         {
           "source": "Inventiva",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbk8wZl9pU2JoUi10RnBrWk9KVkVNWDJwMzh3cFA4djVqUlMxT1BvaDFEZ1I2QTlvVVNBZHJHcWlmZlJERE9nRlFLcFBWMVlXblZGajBMWnFEN3FYeWZzYWM4VjJ1VXJnUFFSRXl4QlhYd3ZCLWplcEVoT293Q0MwZWlWSVhfX3M0RHN2TnJYS1dVRFVYT0ZUZ0kyOVdidw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
-      "description": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5",
-      "published": "2026-11-16T05:31:38+00:00",
-      "source": "Sahi",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Sun Pharma and Organon Acquisition Sun Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Sun Pharma and Organon Acquisition Sun Pharma, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Sun Pharma",
-        "Organon Acquisition Sun Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "4 billion",
-        "11.75 billion",
-        "$4 billion",
-        "$11.75 billion"
-      ],
-      "source_name": "Sahi",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Sahi; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Sahi",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
-      "description": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5",
-      "published": "2026-11-16T03:57:07+00:00",
-      "source": "BW Healthcare World",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Biodeal Pharmaceuticals",
-        "Nasal Spray Biodeal Pharmaceuticals"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BW Healthcare World",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by BW Healthcare World; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BW Healthcare World",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5"
         }
       ]
     }
