@@ -65,7 +65,6 @@ jobs:
 
           print(f"run_refresh={'true' if due else 'false'}")
           print(f"reason={reason}")
-          print(reason)
           PY
 
       - name: Setup Python
