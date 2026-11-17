@@ -1,51 +1,91 @@
 {
-  "updated": "2026-11-17T02:02:52.961784+00:00",
+  "updated": "2026-11-17T10:37:25.178500+00:00",
   "engine_version": "3.8.0",
-  "article_count": 7,
+  "article_count": 10,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 3,
+  "watch_count": 5,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
     {
-      "category": "Hyderabad",
-      "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
-      "description": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5",
-      "published": "2026-11-15T07:43:33+00:00",
-      "source": "NewsMeter",
+      "category": "Global",
+      "title": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”",
+      "description": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWjdoVVlhTUY5UndIaHQ2ekF4TjFqOUNfbi1ERXhuV0xMQkxfQlBFQVMtVlFDWFFHcnBTa1VmeDBZLS1PQy1DeGdsMmU5VUFXLVRwTzFwUENBUERWa3Q1dVEtYndVZmJ0MFF0UtIBcEFVX3lxTFBuVUt4UGp2eUtEU0RXbGdWQjdSa0d0dWFNZERNMmo0ZURuU2VwVTFKSmVXQ1JJdDlZVWdfZVFGNXlyZEo5bTZUWnF6ME9VcTlwbDZkMms5VEw5d3AyR0syelZuWVNNalNvSHRZdFRIRHE?oc=5",
+      "published": "2026-11-17T08:53:24+00:00",
+      "source": "더바이오",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
+      "companies": [
+        "Big Pharma"
+      ],
       "project_signals": [
         "investment"
       ],
-      "numbers": [
-        "1 billion",
-        "$1 billion"
-      ],
-      "source_name": "NewsMeter",
+      "numbers": [],
+      "source_name": "더바이오",
       "source_credibility": "Standard",
-      "location": "India",
+      "location": "Global",
       "event_type": "Industry Development",
-      "what_happened": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors.",
+      "what_happened": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by NewsMeter; primary source or underlying documents not independently verified",
+      "importance_score": 9,
+      "fact_status": "Reported by 더바이오; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "NewsMeter",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5"
+          "source": "더바이오",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWjdoVVlhTUY5UndIaHQ2ekF4TjFqOUNfbi1ERXhuV0xMQkxfQlBFQVMtVlFDWFFHcnBTa1VmeDBZLS1PQy1DeGdsMmU5VUFXLVRwTzFwUENBUERWa3Q1dVEtYndVZmJ0MFF0UtIBcEFVX3lxTFBuVUt4UGp2eUtEU0RXbGdWQjdSa0d0dWFNZERNMmo0ZURuU2VwVTFKSmVXQ1JJdDlZVWdfZVFGNXlyZEo5bTZUWnF6ME9VcTlwbDZkMms5VEw5d3AyR0syelZuWVNNalNvSHRZdFRIRHE?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
+      "description": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5",
+      "published": "2026-11-17T08:35:07+00:00",
+      "source": "Business Today",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Be The Next Healthcare",
+        "Investment Opportunity Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "Business Today",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Business Today; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5"
         }
       ]
     },
@@ -92,45 +132,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tXZE4tMHYyS1NTWDg3bWRqeXU3bDFLS0pPUGlDemdGNHQ4dnMtM0dFQ3BkVWUxbWlpaDh6MVRNa2Z5b1phcVNLVjJ0cWxoaktqNjBrcEpEcHcwYk5BRzRhazllMjZ0TEp1bXR3cHpLcHVWcy1iTHgyX0J4VDBhcFhmekRST19kLXhTV3QzN1dOS2l0R01yeGZLMEVrODNtNmhCaXhSdw?oc=5"
         }
       ]
-    },
-    {
-      "category": "India",
-      "title": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
-      "description": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5",
-      "published": "2026-11-16T03:57:07+00:00",
-      "source": "BW Healthcare World",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Biodeal Pharmaceuticals",
-        "Nasal Spray Biodeal Pharmaceuticals"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BW Healthcare World",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by BW Healthcare World; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BW Healthcare World",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5"
-        }
-      ]
     }
   ],
   "business_signals": {
@@ -147,7 +148,12 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
+        "title": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
@@ -155,32 +161,148 @@
         "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving Sun Pharma and Organon Acquisition Sun Pharma. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
-      },
-      {
-        "title": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray",
-        "signal": "Watch",
-        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       }
     ],
     "investigate": [
       {
-        "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
+        "title": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”",
         "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Sun Pharma Plans $4 Billion Loan To Refinance $11.75 Billion Organon Acquisition",
-        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
+        "title": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
+      "category": "India",
+      "title": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
+      "description": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNF9ycTdxZnNEc284eXVueTI4amwyS0dJei05ckZvTDVTQ3hmTlVpTjNFSkhYLWx2TmkwZm1JS3NpNDR3Wjdkd1dGUFFEdWdjREdESUpUVDJ1N21TdXhGdkRqN0VVRnBSM0piLUVMRlhmRlZhSXpyWXR3X2xYRC1obXJ4SXhyaDVxVnJQM0toMFJkdzI2Z3VaYXFBSkd5TElWT0Q4MXFvRloxaTl2WkRtdVVmVWg?oc=5",
+      "published": "2026-11-17T08:53:34+00:00",
+      "source": "Sahi",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "AstraZeneca Pharma",
+        "Life Sciences For Healthcare",
+        "Collaboration AstraZeneca Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Sahi",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Sahi; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Sahi",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNF9ycTdxZnNEc284eXVueTI4amwyS0dJei05ckZvTDVTQ3hmTlVpTjNFSkhYLWx2TmkwZm1JS3NpNDR3Wjdkd1dGUFFEdWdjREdESUpUVDJ1N21TdXhGdkRqN0VVRnBSM0piLUVMRlhmRlZhSXpyWXR3X2xYRC1obXJ4SXhyaDVxVnJQM0toMFJkdzI2Z3VaYXFBSkd5TElWT0Q4MXFvRloxaTl2WkRtdVVmVWg?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”",
+      "description": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWjdoVVlhTUY5UndIaHQ2ekF4TjFqOUNfbi1ERXhuV0xMQkxfQlBFQVMtVlFDWFFHcnBTa1VmeDBZLS1PQy1DeGdsMmU5VUFXLVRwTzFwUENBUERWa3Q1dVEtYndVZmJ0MFF0UtIBcEFVX3lxTFBuVUt4UGp2eUtEU0RXbGdWQjdSa0d0dWFNZERNMmo0ZURuU2VwVTFKSmVXQ1JJdDlZVWdfZVFGNXlyZEo5bTZUWnF6ME9VcTlwbDZkMms5VEw5d3AyR0syelZuWVNNalNvSHRZdFRIRHE?oc=5",
+      "published": "2026-11-17T08:53:24+00:00",
+      "source": "더바이오",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Big Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "더바이오",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "﻿KB Investment CIO Kuk Chan-woo: “K-Bio, move beyond R&D to R&BD – Finding the Big Pharma ‘donut hole’”.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by 더바이오; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "더바이오",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWjdoVVlhTUY5UndIaHQ2ekF4TjFqOUNfbi1ERXhuV0xMQkxfQlBFQVMtVlFDWFFHcnBTa1VmeDBZLS1PQy1DeGdsMmU5VUFXLVRwTzFwUENBUERWa3Q1dVEtYndVZmJ0MFF0UtIBcEFVX3lxTFBuVUt4UGp2eUtEU0RXbGdWQjdSa0d0dWFNZERNMmo0ZURuU2VwVTFKSmVXQ1JJdDlZVWdfZVFGNXlyZEo5bTZUWnF6ME9VcTlwbDZkMms5VEw5d3AyR0syelZuWVNNalNvSHRZdFRIRHE?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
+      "description": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5",
+      "published": "2026-11-17T08:35:07+00:00",
+      "source": "Business Today",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Be The Next Healthcare",
+        "Investment Opportunity Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "Business Today",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by Business Today; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5"
+        }
+      ]
+    },
+    {
       "category": "Hyderabad",
       "title": "Pharma PLI Scheme Gives Hyderabad a Bigger Manufacturing Test",
       "description": "Pharma PLI Scheme Gives Hyderabad a Bigger Manufacturing Test",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzVlTUxmR0lOYUNFSEJuODBjb20xU1dyQlJYRE44TWxQaGdYeUhhdFYyNWdBYkNaMjBHNkZHSmc2Z2E2RVByZjR0UFJBMWJaVkZfZ3V4OHhJZ1QtUklKLWV0aWlXZVZBcUJLRUJTLUlrSng1Z2JmTTZndjRGS0Y4OWprQV9mRXZXc2NKNg?oc=5",
-      "published": "2026-11-16T17:50:23+00:00",
+      "published": "2026-11-17T05:45:18+00:00",
       "source": "Urban Acres",
       "signal": "General",
       "business_area": "Manufacturing / Plants",
@@ -248,6 +370,44 @@
         {
           "source": "Urban Acres",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjFNYlFnUnlQTmVCY3hzZlp3ZUhzYUlUMlY2N3k4b3JDa0hFTUdleUdKOUFuT2N3YlQwcHZKSWEtY2hCUWkydjdWSGtPZmd3UXozRGZJaG8tbTFyRThaTFVKSEkzZ3hRazdMU2JiRzZVOHZLTWRRb0lJaUtNdUNnWVlBblhEaXJyVWhtSThtQWpoMkZkcXNuVg?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Pharma Stock Under ₹100 With Robust CDMO Revenue Growth, 131% Jump in Exports and 65% Expansion in Medical Devices",
+      "description": "Pharma Stock Under ₹100 With Robust CDMO Revenue Growth, 131% Jump in Exports and 65% Expansion in Medical Devices",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnBNdEFac1Y0dUFwajlvRzR3MnhBdkdLeU91MnVyVlBWN295VE5jaTRFWE9VUUhza0ZLSFhqeXlwdG42Z1JOLXJQZ3UySjZpdHcxc2RXN2N3aEY2clpGSDdUSVY3Y1hTUGZ1TkJ0WFBXSUhvTTBGdG9iQjFJUWhJVFZnSU5EMFliTUJuTERfSk1JV0Y4NkF6YmlWNzZMUnBfdTBrdVhfTVM3cEhKSmxpN0k2NjJlN3A2WkRwTDd4WG9FVWRRR2lmT05GZmRyZ3hWZTJlRDlsX1A1VWVKNVE1cUNHVnI?oc=5",
+      "published": "2026-11-16T15:30:37+00:00",
+      "source": "Trade Brains",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Medical Devices Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Trade Brains",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Market / Export Move",
+      "what_happened": "Pharma Stock Under ₹100 With Robust CDMO Revenue Growth, 131% Jump in Exports and 65% Expansion in Medical Devices.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Trade Brains",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnBNdEFac1Y0dUFwajlvRzR3MnhBdkdLeU91MnVyVlBWN295VE5jaTRFWE9VUUhza0ZLSFhqeXlwdG42Z1JOLXJQZ3UySjZpdHcxc2RXN2N3aEY2clpGSDdUSVY3Y1hTUGZ1TkJ0WFBXSUhvTTBGdG9iQjFJUWhJVFZnSU5EMFliTUJuTERfSk1JV0Y4NkF6YmlWNzZMUnBfdTBrdVhfTVM3cEhKSmxpN0k2NjJlN3A2WkRwTDd4WG9FVWRRR2lmT05GZmRyZ3hWZTJlRDlsX1A1VWVKNVE1cUNHVnI?oc=5"
         }
       ]
     },
@@ -405,47 +565,6 @@
         {
           "source": "BW Healthcare World",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3NHM01jUmlEbVVvUDhlaklrMnZqbFJmV2VnZW5qeTYtQnczelRuTDhpbkp3c1hjeGczVE9tU0Y5RXBkRXE0QUZPREpkMjFFQ25fQ3BISlFzNU54dnJxVmdWaG1LaG5tVG80akI1YjM1a2JiaGlJNGhiM3J0YU5wd3FlXzBRX0VOTXFGaFJWTS1PT0F4UWNSUEhPSHZXb3MzYkJlNnA0RlhIRmcwQ0RfUUNqb2E3aFBxV2pELXFpcEN5WnZpOG9FLWpZNFc?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
-      "description": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5",
-      "published": "2026-11-15T07:43:33+00:00",
-      "source": "NewsMeter",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [
-        "1 billion",
-        "$1 billion"
-      ],
-      "source_name": "NewsMeter",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Eli Lilly eyes $1 billion investment in Hyderabad; CM Revanth woos global pharma investors.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by NewsMeter; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "NewsMeter",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJiNlFZU3g5Qk9nTDhKVEZjdWZTNVVHcFJSbFNfQm5GZ1hXNmtoMlFVeVdZV3FIdmpHbXBxd1oydjRYZWZWOElZNTA4cnJ0SGtJQm9xTGFVQWdZdzU1Y3E0WkRpeWNSWDlBYTJMSXF0WjVtZHRlODZjZ2VQcU1reUZJc3Z2ZFNHUGE5cjFucGhyWEZYdUQ4ZEhvc0stN3BmSUtvd3kwS3N0bVkzWUw3WVY5VEprUkhqX1hheUx0djdtYlJYOWFz?oc=5"
         }
       ]
     }
