@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T17:16:38.123951+00:00",
+  "updated": "2026-11-19T23:39:04.748378+00:00",
   "engine_version": "3.8.0",
-  "article_count": 6,
+  "article_count": 9,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 4,
+  "watch_count": 5,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
@@ -82,41 +82,40 @@
     },
     {
       "category": "India",
-      "title": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
-      "description": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmY2S0xJT2RiaTh6ZGlQdzliNjlBMkZzSmtNUFVrOGl5Z2tJSXUtVUhBNXZzZVBMbkNZaFh6SWFwOG14NWJ2OHVCLVdfWnNwa3NEdWJDNDhsaHpxdkJaUkxHZUdENzcyZDVaaDZNVzFWczNpNC1wbmwyMGhvekpVM21RUXVzU2tmd2N1SWppMG9oNmQ5aW9nb3NOY0JJVm9nV3VQLV9jV3kxeTBEQng2VFZWMlJXSlllcTZqTUIwZW4yaUk5dWt1N3F3cW5oZWFhSVNmRVl1UHlRWGJoRmhFaDl3?oc=5",
-      "published": "2026-11-18T10:15:37+00:00",
-      "source": "Trade Brains",
+      "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
+      "description": "Frequent drug price cuts may deter pharma investments, warns OPPI",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5",
+      "published": "2026-11-18T13:03:24+00:00",
+      "source": "The Financial Express",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Kotak's New Nifty Pharma"
-      ],
+      "companies": [],
       "project_signals": [
-        "investment"
+        "investment",
+        "investments"
       ],
       "numbers": [],
-      "source_name": "Trade Brains",
+      "source_name": "The Financial Express",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?.",
+      "what_happened": "Frequent drug price cuts may deter pharma investments, warns OPPI.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmY2S0xJT2RiaTh6ZGlQdzliNjlBMkZzSmtNUFVrOGl5Z2tJSXUtVUhBNXZzZVBMbkNZaFh6SWFwOG14NWJ2OHVCLVdfWnNwa3NEdWJDNDhsaHpxdkJaUkxHZUdENzcyZDVaaDZNVzFWczNpNC1wbmwyMGhvekpVM21RUXVzU2tmd2N1SWppMG9oNmQ5aW9nb3NOY0JJVm9nV3VQLV9jV3kxeTBEQng2VFZWMlJXSlllcTZqTUIwZW4yaUk5dWt1N3F3cW5oZWFhSVNmRVl1UHlRWGJoRmhFaDl3?oc=5"
+          "source": "The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5"
         }
       ]
     }
@@ -145,7 +144,7 @@
         "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       },
       {
-        "title": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
+        "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
@@ -163,6 +162,81 @@
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Hyderabad Pharma MSMEs Face Rising Cost of Cleaner Production",
+      "description": "Hyderabad Pharma MSMEs Face Rising Cost of Cleaner Production",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnlqamdwTzhWR1RjMEdWZWd6a2htemhZRkMySGs3SWJMYTFZTlZuWHBjYmpwT0tjVDlVR1ROQkFUYU1BQ1NGN1hHLUMtMmJBZFRhMzNZVWQ4Vk9YVENERnE1N0ZQRzFwbFNLa2RMZXVsS1hFUG1sRHNuOWs4NkxRaWRkUFhCNmJaQVBtYi01dzNUMEQ0OXRIUG1MWG5XVnUxQ0lraE5B?oc=5",
+      "published": "2026-11-19T18:53:04+00:00",
+      "source": "Urban Acres",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "Hyderabad Pharma",
+        "Cleaner Production Hyderabad Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Urban Acres",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Hyderabad Pharma MSMEs Face Rising Cost of Cleaner Production.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 13,
+      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Urban Acres",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnlqamdwTzhWR1RjMEdWZWd6a2htemhZRkMySGs3SWJMYTFZTlZuWHBjYmpwT0tjVDlVR1ROQkFUYU1BQ1NGN1hHLUMtMmJBZFRhMzNZVWQ4Vk9YVENERnE1N0ZQRzFwbFNLa2RMZXVsS1hFUG1sRHNuOWs4NkxRaWRkUFhCNmJaQVBtYi01dzNUMEQ0OXRIUG1MWG5XVnUxQ0lraE5B?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
+      "description": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGlieUVQUXVibkM3bVgtaFE1RUlqaDZ5dGdBdWZFbk5BSkRaTXFFaEgtUHllNmM0c1JodEtFRmc2N2V2WmQ4U3gxQ010ajNYdDhaVHZDa29qQmU2OUZiYXI0YTc0QllGM0FrV3I1dmJaQkZEU2dJOEpUdVBMUnpJNmFoX1NRZTJDLU1hbVFqMnNyODltLWd3ZU1UdUcyd0JXTGR3YVFLNk9HTXFOZzMxdTl6M1VGVkY3TWcyb2pEd0RqZGRSZUtnU3ZEQzV0Y1Y2YS1vX0pB?oc=5",
+      "published": "2026-11-19T13:23:21+00:00",
+      "source": "DD News",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "DD News",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this API / Intermediates development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by DD News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "DD News",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGlieUVQUXVibkM3bVgtaFE1RUlqaDZ5dGdBdWZFbk5BSkRaTXFFaEgtUHllNmM0c1JodEtFRmc2N2V2WmQ4U3gxQ010ajNYdDhaVHZDa29qQmU2OUZiYXI0YTc0QllGM0FrV3I1dmJaQkZEU2dJOEpUdVBMUnpJNmFoX1NRZTJDLU1hbVFqMnNyODltLWd3ZU1UdUcyd0JXTGR3YVFLNk9HTXFOZzMxdTl6M1VGVkY3TWcyb2pEd0RqZGRSZUtnU3ZEQzV0Y1Y2YS1vX0pB?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
@@ -342,6 +416,45 @@
         {
           "source": "Quartz India",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdUV2cC1LX2FHakNNbHpkM0lwMXhxVnNOZHE0ekUyNHo5VUw3UFY2NTlwZ0ZNckxrWmJKM3Utel9USnZFVkVvb1RUR0xrcjJTclpDdzJ3bHc1SVI5aGtoRzVrSGFMX0FMNUplSkNnR0NfQ0txY21VRnJKMmM?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
+      "description": "Frequent drug price cuts may deter pharma investments, warns OPPI",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5",
+      "published": "2026-11-18T13:03:24+00:00",
+      "source": "The Financial Express",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment",
+        "investments"
+      ],
+      "numbers": [],
+      "source_name": "The Financial Express",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Frequent drug price cuts may deter pharma investments, warns OPPI.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5"
         }
       ]
     },
