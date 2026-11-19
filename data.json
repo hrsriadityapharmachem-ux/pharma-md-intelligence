@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T18:20:52.759714+00:00",
+  "updated": "2026-11-19T00:36:42.203260+00:00",
   "engine_version": "3.8.0",
   "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 4,
+  "watch_count": 5,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
@@ -322,6 +322,46 @@
     },
     {
       "category": "India",
+      "title": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
+      "description": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNF9ycTdxZnNEc284eXVueTI4amwyS0dJei05ckZvTDVTQ3hmTlVpTjNFSkhYLWx2TmkwZm1JS3NpNDR3Wjdkd1dGUFFEdWdjREdESUpUVDJ1N21TdXhGdkRqN0VVRnBSM0piLUVMRlhmRlZhSXpyWXR3X2xYRC1obXJ4SXhyaDVxVnJQM0toMFJkdzI2Z3VaYXFBSkd5TElWT0Q4MXFvRloxaTl2WkRtdVVmVWg?oc=5",
+      "published": "2026-11-17T09:05:10+00:00",
+      "source": "Sahi",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "AstraZeneca Pharma",
+        "Life Sciences For Healthcare",
+        "Collaboration AstraZeneca Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Sahi",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Sahi; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Sahi",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNF9ycTdxZnNEc284eXVueTI4amwyS0dJei05ckZvTDVTQ3hmTlVpTjNFSkhYLWx2TmkwZm1JS3NpNDR3Wjdkd1dGUFFEdWdjREdESUpUVDJ1N21TdXhGdkRqN0VVRnBSM0piLUVMRlhmRlZhSXpyWXR3X2xYRC1obXJ4SXhyaDVxVnJQM0toMFJkdzI2Z3VaYXFBSkd5TElWT0Q4MXFvRloxaTl2WkRtdVVmVWg?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
       "title": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
       "description": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5",
@@ -358,44 +398,6 @@
         {
           "source": "Business Today",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Pharma PLI Scheme Gives Hyderabad a Bigger Manufacturing Test",
-      "description": "Pharma PLI Scheme Gives Hyderabad a Bigger Manufacturing Test",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzVlTUxmR0lOYUNFSEJuODBjb20xU1dyQlJYRE44TWxQaGdYeUhhdFYyNWdBYkNaMjBHNkZHSmc2Z2E2RVByZjR0UFJBMWJaVkZfZ3V4OHhJZ1QtUklKLWV0aWlXZVZBcUJLRUJTLUlrSng1Z2JmTTZndjRGS0Y4OWprQV9mRXZXc2NKNg?oc=5",
-      "published": "2026-11-17T05:45:18+00:00",
-      "source": "Urban Acres",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [
-        "Bigger Manufacturing Test Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Urban Acres",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Pharma PLI Scheme Gives Hyderabad a Bigger Manufacturing Test.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 13,
-      "fact_status": "Reported by Urban Acres; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Urban Acres",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzVlTUxmR0lOYUNFSEJuODBjb20xU1dyQlJYRE44TWxQaGdYeUhhdFYyNWdBYkNaMjBHNkZHSmc2Z2E2RVByZjR0UFJBMWJaVkZfZ3V4OHhJZ1QtUklKLWV0aWlXZVZBcUJLRUJTLUlrSng1Z2JmTTZndjRGS0Y4OWprQV9mRXZXc2NKNg?oc=5"
         }
       ]
     }
