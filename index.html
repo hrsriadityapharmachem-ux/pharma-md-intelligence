@@ -342,7 +342,16 @@ async function loadData(){
   document.getElementById("articles").innerHTML='<div class="intel-row"><div></div><div style="color:#b4232f">Unable to load intelligence data. Please refresh the page.</div></div>';
  }finally{loadInProgress=false;}
 }
-async function refreshLoop(){await loadData();window.setTimeout(refreshLoop,morningWindow()?10*60*1000:60*60*1000);}
+function nextRefreshDelay(){
+ const hour=indiaHour();
+ if(hour===6){
+  const parts=new Intl.DateTimeFormat("en-IN",{timeZone:"Asia/Kolkata",hour:"2-digit",minute:"2-digit",second:"2-digit",hourCycle:"h23"}).formatToParts(new Date());
+  const clock=Object.fromEntries(parts.map(part=>[part.type,part.value]));
+  return Math.max(1000,((60-Number(clock.minute))*60-Number(clock.second))*1000);
+ }
+ return morningWindow()?10*60*1000:60*60*1000;
+}
+async function refreshLoop(){await loadData();window.setTimeout(refreshLoop,nextRefreshDelay());}
 refreshLoop();
 </script>
 </body>
