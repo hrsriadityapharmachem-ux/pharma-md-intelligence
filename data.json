@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T07:57:21.862261+00:00",
+  "updated": "2026-11-19T17:16:38.123951+00:00",
   "engine_version": "3.8.0",
   "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 5,
+  "watch_count": 4,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
@@ -45,41 +45,38 @@
       ]
     },
     {
-      "category": "India",
-      "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "description": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5",
-      "published": "2026-11-18T13:03:24+00:00",
-      "source": "The Financial Express",
+      "category": "Global",
+      "title": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
+      "description": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV012N21qdFM0MUhwWWFlYW9ua0xYaGtaNEhSZ1pUcmhlcTA1aDIzSjNCRlpVRV9idGVod2txVHhjX0QtMzZzRk5WdUdfdGUyQnRraDRYeS1TdUtOM1BpRjFuUVl6N0x0NUhlelBvdWlQOHRxRG8wa0xlWWE4aE9hdk9TdXppN0xrbHRjeUVlbjlxVWpNby1QS3k2ODFrc0hvRWN3dnR6aGx6cUpZRHBqZw?oc=5",
+      "published": "2026-11-19T11:01:45+00:00",
+      "source": "ICLG",
       "signal": "Watch",
-      "business_area": "Investment / Expansion",
+      "business_area": "Pharma Industry",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
       "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
+      "project_signals": [],
       "numbers": [],
-      "source_name": "The Financial Express",
+      "source_name": "ICLG",
       "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Frequent drug price cuts may deter pharma investments, warns OPPI.",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 9,
-      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by ICLG; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "The Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5"
+          "source": "ICLG",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV012N21qdFM0MUhwWWFlYW9ua0xYaGtaNEhSZ1pUcmhlcTA1aDIzSjNCRlpVRV9idGVod2txVHhjX0QtMzZzRk5WdUdfdGUyQnRraDRYeS1TdUtOM1BpRjFuUVl6N0x0NUhlelBvdWlQOHRxRG8wa0xlWWE4aE9hdk9TdXppN0xrbHRjeUVlbjlxVWpNby1QS3k2ODFrc0hvRWN3dnR6aGx6cUpZRHBqZw?oc=5"
         }
       ]
     },
@@ -143,9 +140,9 @@
         "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
       },
       {
-        "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
+        "title": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
         "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+        "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       },
       {
         "title": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
@@ -159,20 +156,92 @@
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+        "title": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
+        "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
+      "category": "Global",
+      "title": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
+      "description": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV012N21qdFM0MUhwWWFlYW9ua0xYaGtaNEhSZ1pUcmhlcTA1aDIzSjNCRlpVRV9idGVod2txVHhjX0QtMzZzRk5WdUdfdGUyQnRraDRYeS1TdUtOM1BpRjFuUVl6N0x0NUhlelBvdWlQOHRxRG8wa0xlWWE4aE9hdk9TdXppN0xrbHRjeUVlbjlxVWpNby1QS3k2ODFrc0hvRWN3dnR6aGx6cUpZRHBqZw?oc=5",
+      "published": "2026-11-19T11:01:45+00:00",
+      "source": "ICLG",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between the reported buyer and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "ICLG",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by ICLG; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "ICLG",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV012N21qdFM0MUhwWWFlYW9ua0xYaGtaNEhSZ1pUcmhlcTA1aDIzSjNCRlpVRV9idGVod2txVHhjX0QtMzZzRk5WdUdfdGUyQnRraDRYeS1TdUtOM1BpRjFuUVl6N0x0NUhlelBvdWlQOHRxRG8wa0xlWWE4aE9hdk9TdXppN0xrbHRjeUVlbjlxVWpNby1QS3k2ODFrc0hvRWN3dnR6aGx6cUpZRHBqZw?oc=5"
+        }
+      ]
+    },
+    {
       "category": "India",
-      "title": "India and Italy Seek Stronger Collaboration in Pharma and Technology",
-      "description": "India and Italy Seek Stronger Collaboration in Pharma and Technology",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTRsMnBCUHFlT1hZaklYRVhsUkxvd3FGTWdJRmhzU05kcFJudjBKckJoU0d1ZHRQcmY0SzdVS3BGRzduNG5vaVM3ZVJjRFRsVkh0M2tfZ2h3cnVQTUFlYlo0VGtFLV9RQTNWRlloSm1nZk9BbHlQNF9GaFpzanJIcGJ2MVYxZnVrcUd5V1VTSGlETVhvZ0xCS1BfNWtJTmVDUUdseU14enk1UmUxTGlsc0lrOWVYb19BYzVDeDM5U2NZbS1oV2lkMjF30gHPAUFVX3lxTE0xeE0wbWdwUXg1WFhYVGt1ZEhfYkVOLUlPLW1vVjMtVFAyeUNsUVdKT0V5YzNCZ0k2WFhMcGhsVUFodGpXUDl0dXhMYWxpcG5lbnRYZ3N6enhJRTFsZGJyQnJyNlI1aGRPcF9DMnZiOVB3emlUV3hsS1dQeF9QMWlqdXpOS3RiejEwN1pDWmNlbFpfTktQUEJjZWVTaGZRS0FYaDJGYVRCMEhPcGZpNWdDOWhEMFlhTDJYdmVHN194WEZjdXZaYUQ4b3dodWY5Zw?oc=5",
-      "published": "2026-11-19T01:30:03+00:00",
-      "source": "Asianet Newsable",
+      "title": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist",
+      "description": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1FpdEhvcXItNWNkaHNsa2hyY2JLOG5YUVpRb09wdlVOWWplRmNDU0FaTGllQ3gwbkk4UDdvNjJPdVZ0ZTl6Q0tBbHBubkdlSnd1VFpZRl9VNnl2b1Zod0syMml3cDgtR25KWkszcWhBSXBOWW9vRG9COGcwdy1hV2FBeGlsOFp4SFpwQjZHcFNYemlqUjRTUGhuelJGckJEWlNyV05vOGNMZDA1RUVzT2RSam4wUllCdVpyZExfaFFOTFUxU0tpNWtXMklfZWEt?oc=5",
+      "published": "2026-11-19T09:26:00+00:00",
+      "source": "ANI News",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "ANI News",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by ANI News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "ANI News",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1FpdEhvcXItNWNkaHNsa2hyY2JLOG5YUVpRb09wdlVOWWplRmNDU0FaTGllQ3gwbkk4UDdvNjJPdVZ0ZTl6Q0tBbHBubkdlSnd1VFpZRl9VNnl2b1Zod0syMml3cDgtR25KWkszcWhBSXBOWW9vRG9COGcwdy1hV2FBeGlsOFp4SFpwQjZHcFNYemlqUjRTUGhuelJGckJEWlNyV05vOGNMZDA1RUVzT2RSam4wUllCdVpyZExfaFFOTFUxU0tpNWtXMklfZWEt?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth",
+      "description": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUVETFVYaV9SSVNBN3Z2Rlc2MnNTMTNEbnE4ZDNCX2tPbDF5YS1MQjF5dk9TZkFhS1oyMEN4Z0s0S1JSNzdFNzBqbXNoWklkZjc0S2tTRTdJM3FRWDRqUWMzVFp1MHFVUUk1WHZUYjNFcndYVFdoMlVKdjl3ekU2NUROcHVUbWhpZWlWRVY1WG9mUmsxZ09PVi1Wd2hoV3EzWWxfZTB0anBXQTVkdGtGay0yVDRBTVFjeFHSAb8BQVVfeXFMTThfRWx3NEFSYzZaOUVzOC1VY2RyY3ZYMzJIVnVNRlRPdDJWV1VkQWRjX2J2bTJGQ0pQcmdQVnZJdWhLeTZqck96eHFKMWdEX2tsamZqSHZJR2E4VzByUTRsakZNLUlWNFNOMDZBRmE3aV9BM2Y3dG1pajMtSmoxVjJHTVNPRkhlR3RVOEg2TWQ0djRweUlEeVgyVEFOMXVnUE5tOWE0eXhqelZER1RZakNwaVkwdGVRcVE3QUFEZEk?oc=5",
+      "published": "2026-11-19T01:23:49+00:00",
+      "source": "Lokmat Times",
       "signal": "Watch",
       "business_area": "Pharma Industry",
       "priority": "Low",
@@ -182,23 +251,23 @@
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Asianet Newsable",
+      "source_name": "Lokmat Times",
       "source_credibility": "Standard",
-      "location": "India",
+      "location": "Global",
       "event_type": "Partnership / Collaboration",
-      "what_happened": "India and Italy Seek Stronger Collaboration in Pharma and Technology.",
+      "what_happened": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
       "evidence_level": "Medium",
       "confidence": 65,
       "importance_score": 3,
-      "fact_status": "Reported by Asianet Newsable; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Lokmat Times; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Asianet Newsable",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTRsMnBCUHFlT1hZaklYRVhsUkxvd3FGTWdJRmhzU05kcFJudjBKckJoU0d1ZHRQcmY0SzdVS3BGRzduNG5vaVM3ZVJjRFRsVkh0M2tfZ2h3cnVQTUFlYlo0VGtFLV9RQTNWRlloSm1nZk9BbHlQNF9GaFpzanJIcGJ2MVYxZnVrcUd5V1VTSGlETVhvZ0xCS1BfNWtJTmVDUUdseU14enk1UmUxTGlsc0lrOWVYb19BYzVDeDM5U2NZbS1oV2lkMjF30gHPAUFVX3lxTE0xeE0wbWdwUXg1WFhYVGt1ZEhfYkVOLUlPLW1vVjMtVFAyeUNsUVdKT0V5YzNCZ0k2WFhMcGhsVUFodGpXUDl0dXhMYWxpcG5lbnRYZ3N6enhJRTFsZGJyQnJyNlI1aGRPcF9DMnZiOVB3emlUV3hsS1dQeF9QMWlqdXpOS3RiejEwN1pDWmNlbFpfTktQUEJjZWVTaGZRS0FYaDJGYVRCMEhPcGZpNWdDOWhEMFlhTDJYdmVHN194WEZjdXZaYUQ4b3dodWY5Zw?oc=5"
+          "source": "Lokmat Times",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUVETFVYaV9SSVNBN3Z2Rlc2MnNTMTNEbnE4ZDNCX2tPbDF5YS1MQjF5dk9TZkFhS1oyMEN4Z0s0S1JSNzdFNzBqbXNoWklkZjc0S2tTRTdJM3FRWDRqUWMzVFp1MHFVUUk1WHZUYjNFcndYVFdoMlVKdjl3ekU2NUROcHVUbWhpZWlWRVY1WG9mUmsxZ09PVi1Wd2hoV3EzWWxfZTB0anBXQTVkdGtGay0yVDRBTVFjeFHSAb8BQVVfeXFMTThfRWx3NEFSYzZaOUVzOC1VY2RyY3ZYMzJIVnVNRlRPdDJWV1VkQWRjX2J2bTJGQ0pQcmdQVnZJdWhLeTZqck96eHFKMWdEX2tsamZqSHZJR2E4VzByUTRsakZNLUlWNFNOMDZBRmE3aV9BM2Y3dG1pajMtSmoxVjJHTVNPRkhlR3RVOEg2TWQ0djRweUlEeVgyVEFOMXVnUE5tOWE0eXhqelZER1RZakNwaVkwdGVRcVE3QUFEZEk?oc=5"
         }
       ]
     },
@@ -278,45 +347,6 @@
     },
     {
       "category": "India",
-      "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "description": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5",
-      "published": "2026-11-18T13:03:24+00:00",
-      "source": "The Financial Express",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [],
-      "source_name": "The Financial Express",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Frequent drug price cuts may deter pharma investments, warns OPPI.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
       "title": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
       "description": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmY2S0xJT2RiaTh6ZGlQdzliNjlBMkZzSmtNUFVrOGl5Z2tJSXUtVUhBNXZzZVBMbkNZaFh6SWFwOG14NWJ2OHVCLVdfWnNwa3NEdWJDNDhsaHpxdkJaUkxHZUdENzcyZDVaaDZNVzFWczNpNC1wbmwyMGhvekpVM21RUXVzU2tmd2N1SWppMG9oNmQ5aW9nb3NOY0JJVm9nV3VQLV9jV3kxeTBEQng2VFZWMlJXSlllcTZqTUIwZW4yaUk5dWt1N3F3cW5oZWFhSVNmRVl1UHlRWGJoRmhFaDl3?oc=5",
@@ -352,47 +382,6 @@
         {
           "source": "Trade Brains",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmY2S0xJT2RiaTh6ZGlQdzliNjlBMkZzSmtNUFVrOGl5Z2tJSXUtVUhBNXZzZVBMbkNZaFh6SWFwOG14NWJ2OHVCLVdfWnNwa3NEdWJDNDhsaHpxdkJaUkxHZUdENzcyZDVaaDZNVzFWczNpNC1wbmwyMGhvekpVM21RUXVzU2tmd2N1SWppMG9oNmQ5aW9nb3NOY0JJVm9nV3VQLV9jV3kxeTBEQng2VFZWMlJXSlllcTZqTUIwZW4yaUk5dWt1N3F3cW5oZWFhSVNmRVl1UHlRWGJoRmhFaDl3?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
-      "description": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5",
-      "published": "2026-11-17T08:35:07+00:00",
-      "source": "Business Today",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Be The Next Healthcare",
-        "Investment Opportunity Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "Business Today",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Pharma Stocks: Why Diagnostics Could Be The Next Healthcare Investment Opportunity.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Business Today; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Business Today",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWV3dEtrd0ljUjFzd2Y1eTA0d3d3OUM1WXBQaDhEOWk0Zi1vdjRSTHlGaTcwTXE4ZEt5dXcwdVZHdkhLdFRiZ1VjTV9URUhTM1Z1dzVUWU43NXVUNlFfdXMyZWpON3ctOTY2elZ5OWMxRFJRQnZ4V1hOaW1uX3p6N3ROLS1pYkJpVWxhN0YwbGxwNWdaQUVtbE1aQnAzWi13VHpQNWFkR05TLXJmRzlHaUxfY21BamhvRy1KbFBiNGtoLWFxNmxNZ1VsREc0WS0xV21IVWVHOUxXYjVXeHRvd2E5c01QbHFY0gHuAUFVX3lxTE5xWUNtdjEtcWhoY0JjRVJIaU92NzUxZ0xYanA2MGFRMU5iOXNycnBGb3NWdXVSR2VPUEwxOFdWMHJPa3dHWnBBNmR1UkZfS1lFUFluMzJVdnpFVnpoMzN3RFE4ZzVRNzJvX29RQXRjTXNQTHNxTmhBdXFsQnh2SEZ5QmEwMUlISDMydjZYZmdKMXh5ZE55NFRlWE4xQ01yUFdtUm9mY0F0T3BqbHJBTG0wOHA3a2MxdERRcFczeFRfQkl0LWhEeGlodTlCQVlwVEhvc3ZNX2xnQncwY1RmMzI1Y3p5OUNPU3FKN2hCcnc?oc=5"
         }
       ]
     }
