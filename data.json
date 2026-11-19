@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:36:42.203260+00:00",
+  "updated": "2026-11-19T07:57:21.862261+00:00",
   "engine_version": "3.8.0",
   "article_count": 6,
   "opportunity_count": 0,
@@ -168,6 +168,80 @@
   "articles": [
     {
       "category": "India",
+      "title": "India and Italy Seek Stronger Collaboration in Pharma and Technology",
+      "description": "India and Italy Seek Stronger Collaboration in Pharma and Technology",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTRsMnBCUHFlT1hZaklYRVhsUkxvd3FGTWdJRmhzU05kcFJudjBKckJoU0d1ZHRQcmY0SzdVS3BGRzduNG5vaVM3ZVJjRFRsVkh0M2tfZ2h3cnVQTUFlYlo0VGtFLV9RQTNWRlloSm1nZk9BbHlQNF9GaFpzanJIcGJ2MVYxZnVrcUd5V1VTSGlETVhvZ0xCS1BfNWtJTmVDUUdseU14enk1UmUxTGlsc0lrOWVYb19BYzVDeDM5U2NZbS1oV2lkMjF30gHPAUFVX3lxTE0xeE0wbWdwUXg1WFhYVGt1ZEhfYkVOLUlPLW1vVjMtVFAyeUNsUVdKT0V5YzNCZ0k2WFhMcGhsVUFodGpXUDl0dXhMYWxpcG5lbnRYZ3N6enhJRTFsZGJyQnJyNlI1aGRPcF9DMnZiOVB3emlUV3hsS1dQeF9QMWlqdXpOS3RiejEwN1pDWmNlbFpfTktQUEJjZWVTaGZRS0FYaDJGYVRCMEhPcGZpNWdDOWhEMFlhTDJYdmVHN194WEZjdXZaYUQ4b3dodWY5Zw?oc=5",
+      "published": "2026-11-19T01:30:03+00:00",
+      "source": "Asianet Newsable",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Asianet Newsable",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "India and Italy Seek Stronger Collaboration in Pharma and Technology.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Asianet Newsable; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Asianet Newsable",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTRsMnBCUHFlT1hZaklYRVhsUkxvd3FGTWdJRmhzU05kcFJudjBKckJoU0d1ZHRQcmY0SzdVS3BGRzduNG5vaVM3ZVJjRFRsVkh0M2tfZ2h3cnVQTUFlYlo0VGtFLV9RQTNWRlloSm1nZk9BbHlQNF9GaFpzanJIcGJ2MVYxZnVrcUd5V1VTSGlETVhvZ0xCS1BfNWtJTmVDUUdseU14enk1UmUxTGlsc0lrOWVYb19BYzVDeDM5U2NZbS1oV2lkMjF30gHPAUFVX3lxTE0xeE0wbWdwUXg1WFhYVGt1ZEhfYkVOLUlPLW1vVjMtVFAyeUNsUVdKT0V5YzNCZ0k2WFhMcGhsVUFodGpXUDl0dXhMYWxpcG5lbnRYZ3N6enhJRTFsZGJyQnJyNlI1aGRPcF9DMnZiOVB3emlUV3hsS1dQeF9QMWlqdXpOS3RiejEwN1pDWmNlbFpfTktQUEJjZWVTaGZRS0FYaDJGYVRCMEhPcGZpNWdDOWhEMFlhTDJYdmVHN194WEZjdXZaYUQ4b3dodWY5Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "AstraZeneca India Signs Healthcare Partnership LOI with Strand Life Sciences",
+      "description": "AstraZeneca India Signs Healthcare Partnership LOI with Strand Life Sciences",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Hb2ZhbkN2dFBPNk9hY09TS3RlRExBQXEwcFY1QWxUa1hlREt6OWFld20tYXdMRVBOYTd2QlFEYUExSE5vY1NoVU1GN2FBbmh6?oc=5",
+      "published": "2026-11-18T15:05:00+00:00",
+      "source": "Voice of Healthcare",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "AstraZeneca India Signs Healthcare"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Voice of Healthcare",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "AstraZeneca India Signs Healthcare Partnership LOI with Strand Life Sciences.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Voice of Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Hb2ZhbkN2dFBPNk9hY09TS3RlRExBQXEwcFY1QWxUa1hlREt6OWFld20tYXdMRVBOYTd2QlFEYUExSE5vY1NoVU1GN2FBbmh6?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
       "title": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
       "description": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdUV2cC1LX2FHakNNbHpkM0lwMXhxVnNOZHE0ekUyNHo5VUw3UFY2NTlwZ0ZNckxrWmJKM3Utel9USnZFVkVvb1RUR0xrcjJTclpDdzJ3bHc1SVI5aGtoRzVrSGFMX0FMNUplSkNnR0NfQ0txY21VRnJKMmM?oc=5",
@@ -278,85 +352,6 @@
         {
           "source": "Trade Brains",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmY2S0xJT2RiaTh6ZGlQdzliNjlBMkZzSmtNUFVrOGl5Z2tJSXUtVUhBNXZzZVBMbkNZaFh6SWFwOG14NWJ2OHVCLVdfWnNwa3NEdWJDNDhsaHpxdkJaUkxHZUdENzcyZDVaaDZNVzFWczNpNC1wbmwyMGhvekpVM21RUXVzU2tmd2N1SWppMG9oNmQ5aW9nb3NOY0JJVm9nV3VQLV9jV3kxeTBEQng2VFZWMlJXSlllcTZqTUIwZW4yaUk5dWt1N3F3cW5oZWFhSVNmRVl1UHlRWGJoRmhFaDl3?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences",
-      "description": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGJhMjVTYmswSThHVGEzUHZPcW1fVDdrM3hfV0NHREFza1lKaUNMdDhXaUdFOHFLTHV1TnM1YkpOdGZKNkpieWFHNVZHaVBKNndfdERyZUo3d2hhamNrS0VURDVsbnBoZVBuSmJPaXJtcGMyaWJiU09LTVRlcldqVUJmenVhWldlWE9TZkgzbk16R3JBUmtLLXRVUWNiMy12OXFjQzh3VWZnQV8xa2FhM3lWeTluUVdmVWlRNHhWdlVENW5XS2RJOWhpT0ZSUWNBdEFYZDdpeDE3bVVJYXpkZ1o0eEvSAesBQVVfeXFMTngwN2I0MFRPSlFYZDRXOWp6VXotR2pSOS1SMEoyOHdmRlFJNGhObE9vdkczQV9sa3VLX2xoLXNHSk8tT0VnWHpUa2Fkd0VoOEdFX2ZzWUo0RlR5TS16c1NsMnBXb1NUQ0tlbkFhNUhhQldlbEVlamxLYlF1elVYb2hFS2dseWU2OU1ZanJrTFFqRlVkYnJNLTZkbTRVTkM5Y0x6Nml6VEhMMURoOXRPSmg3Wmw3ZFVrNWlYdzdYR0pPRHF3bzI4TFhxeU5jb1dSN3lQMUVlX09mc2oyYWVGYmxEcW9ranJVM19Oaw?oc=5",
-      "published": "2026-11-17T11:31:38+00:00",
-      "source": "The Financial Express",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [
-        "AstraZeneca Pharma",
-        "Life Sciences AstraZeneca Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "The Financial Express",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "AstraZeneca Pharma India partners with Reliance Industries’ subsidiary Strand Life Sciences.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGJhMjVTYmswSThHVGEzUHZPcW1fVDdrM3hfV0NHREFza1lKaUNMdDhXaUdFOHFLTHV1TnM1YkpOdGZKNkpieWFHNVZHaVBKNndfdERyZUo3d2hhamNrS0VURDVsbnBoZVBuSmJPaXJtcGMyaWJiU09LTVRlcldqVUJmenVhWldlWE9TZkgzbk16R3JBUmtLLXRVUWNiMy12OXFjQzh3VWZnQV8xa2FhM3lWeTluUVdmVWlRNHhWdlVENW5XS2RJOWhpT0ZSUWNBdEFYZDdpeDE3bVVJYXpkZ1o0eEvSAesBQVVfeXFMTngwN2I0MFRPSlFYZDRXOWp6VXotR2pSOS1SMEoyOHdmRlFJNGhObE9vdkczQV9sa3VLX2xoLXNHSk8tT0VnWHpUa2Fkd0VoOEdFX2ZzWUo0RlR5TS16c1NsMnBXb1NUQ0tlbkFhNUhhQldlbEVlamxLYlF1elVYb2hFS2dseWU2OU1ZanJrTFFqRlVkYnJNLTZkbTRVTkM5Y0x6Nml6VEhMMURoOXRPSmg3Wmw3ZFVrNWlYdzdYR0pPRHF3bzI4TFhxeU5jb1dSN3lQMUVlX09mc2oyYWVGYmxEcW9ranJVM19Oaw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
-      "description": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNF9ycTdxZnNEc284eXVueTI4amwyS0dJei05ckZvTDVTQ3hmTlVpTjNFSkhYLWx2TmkwZm1JS3NpNDR3Wjdkd1dGUFFEdWdjREdESUpUVDJ1N21TdXhGdkRqN0VVRnBSM0piLUVMRlhmRlZhSXpyWXR3X2xYRC1obXJ4SXhyaDVxVnJQM0toMFJkdzI2Z3VaYXFBSkd5TElWT0Q4MXFvRloxaTl2WkRtdVVmVWg?oc=5",
-      "published": "2026-11-17T09:05:10+00:00",
-      "source": "Sahi",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [
-        "AstraZeneca Pharma",
-        "Life Sciences For Healthcare",
-        "Collaboration AstraZeneca Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Sahi",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "AstraZeneca Pharma India Partners With Strand Life Sciences For Healthcare Collaboration.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Sahi; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Sahi",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNF9ycTdxZnNEc284eXVueTI4amwyS0dJei05ckZvTDVTQ3hmTlVpTjNFSkhYLWx2TmkwZm1JS3NpNDR3Wjdkd1dGUFFEdWdjREdESUpUVDJ1N21TdXhGdkRqN0VVRnBSM0piLUVMRlhmRlZhSXpyWXR3X2xYRC1obXJ4SXhyaDVxVnJQM0toMFJkdzI2Z3VaYXFBSkd5TElWT0Q4MXFvRloxaTl2WkRtdVVmVWg?oc=5"
         }
       ]
     },
