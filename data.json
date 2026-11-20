@@ -1,46 +1,98 @@
 {
-  "updated": "2026-11-20T04:19:32.570887+00:00",
+  "updated": "2026-11-20T13:17:50.488737+00:00",
   "engine_version": "3.8.0",
-  "article_count": 7,
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 4,
+  "watch_count": 3,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
     {
-      "category": "India",
-      "title": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
-      "description": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdUV2cC1LX2FHakNNbHpkM0lwMXhxVnNOZHE0ekUyNHo5VUw3UFY2NTlwZ0ZNckxrWmJKM3Utel9USnZFVkVvb1RUR0xrcjJTclpDdzJ3bHc1SVI5aGtoRzVrSGFMX0FMNUplSkNnR0NfQ0txY21VRnJKMmM?oc=5",
-      "published": "2026-11-18T13:34:32+00:00",
-      "source": "Quartz India",
+      "category": "Vizag / AP",
+      "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
+      "description": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5",
+      "published": "2026-11-20T09:27:13+00:00",
+      "source": "The Economic Times",
       "signal": "Risk",
       "business_area": "Regulatory",
       "priority": "High",
       "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "why_it_matters": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
       "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
+      "companies": [
+        "NATCO Pharma"
+      ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Quartz India",
-      "source_credibility": "Standard",
+      "source_name": "The Economic Times",
+      "source_credibility": "Established",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities.",
+      "what_happened": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
       "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Quartz India; primary source or underlying documents not independently verified",
+      "importance_score": 18,
+      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Quartz India",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdUV2cC1LX2FHakNNbHpkM0lwMXhxVnNOZHE0ekUyNHo5VUw3UFY2NTlwZ0ZNckxrWmJKM3Utel9USnZFVkVvb1RUR0xrcjJTclpDdzJ3bHc1SVI5aGtoRzVrSGFMX0FMNUplSkNnR0NfQ0txY21VRnJKMmM?oc=5"
+          "source": "LinkedIn",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSU45TG5SV0pxaDVWV2gwREpDVmV3VG02anlTSUZmeTh2elY3ZzluYlQ2LUNNWDJQR2NRWERHMkt3aTVXUG9FaEJYeGZSd0FMX1Z4aUtUemRjWlllYzFvamdWbWktdEFVUnlRdXVNb2dId2JMV0FWNDVzbzhBMVE3UjVsejgwcDJhaEdKdGZYd0c1cVNUdFV2Z1JMSlZwY0pDY2tmekxKVFBlYUJnQ1BuZUpnd2hQN2c?oc=5"
+        },
+        {
+          "source": "CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm0yZXZOdkpLcWZtSDBoNGFLVHAyLTRZUHliRU9LeEhwNzBLbEtaLW95VmNQXzAtc0RtVFBQbjBzbXdTb2RJYUtNdWI5YnFscVgxNlhuelViNjA5NE11U1ByY2w2TWViZ1NPVXk2S05maE9vTmhjSGY5b1lwbzdLRlpDWENLc3p3S1BiOUlKY0dNNDlCemFaZ3FFYjRBdkk5RXY0ZmY1NHVfNVlUWmZLVkpBMWJBSGVLd0s1NzJGS0jSAcYBQVVfeXFMT1lzeGpFMExIUlhuS1ZwWmpyUnU2aDdIb0M2aUI3M3FlX3c3RlNTa0ZvU19oekp4N0w1RzM4VDJ3SXpVT3AyRVdQMEhob3BxNHA2S2ZGTkloTFdOUUFjcGwxcHEwaU04ME80YWZ6QVlVUkZabWFrcGt0cWo2bGVuOVhQc2N4blpjamFKZkpZS2hWUmxFTXJqM3pQMEowd2JDMEgxeGg4Sk50UFZFazl2bVNWdTRtSi1oaDJyNkdJYVE1b2l4a1dB?oc=5"
+        },
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5"
+        },
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW9PdnFUVTFuaW9HWTlfZjFKUVRIZFBNVzJyLUpWYW5SYnZMRXQ2cGlOSXhWNmpJSDZ4MzJrU0QtYTZCeTllcWJyenNpZ1k3bXE5TU4wN3FFTUt4SnJ0cmZHczZ0cklrVkM1TkExeVR2UkF4UnBfTHIxMVpHQTR3WjM1QWRJSzcxYk94Zzg5X2U2NWlFVC12dV9nT0VIQWtmQTBjSWgzeGk1NWVKcnFlMUt0Z2Z1aEtnM1VjdlVreTRDNmIzN3ZIZmlxdVhua0RnbndzTWc5QU1ZVjhUYUk2Wm5ZSnNRX21sMHJ0NjZuc21SRlRFamlKUHpsaEk2OXlCT0xPLWwyYnhsOWJ40gGSAkFVX3lxTE9HellVN2JNZGlQRXg0SGt5cGhWeEZPRUxja0Y4SFJXR0QxakFJUTdLM2p4TTQ5NEhxdnVvcUxsMkFhZVVWLUlVbkFSQmFCNWY0Xzg0c0JaSHljV2xqakFneUNXQlI0MDVBa0RnUVhCczI1NGlKNEhWUG0zbzVYLW5wSmNoSlktODh0Q2JqZ1VwMUhCVUFNcWVyemh0VjJqM0UzaUxWbHFrSDJ2STFsbVNSSHdEeEFuRWpWOGlVcWRxMFVXV0d2ZWo0VkZzY0o2NnZ2eFhhRm5FeWlLMVM1T2h0T1dEeTFKWTBidU54c1BqZldZaXRYSWdBYzhac29fOGNpRHBxRDZDdXFKbFBIU2M0RGc?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
+      "description": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5",
+      "published": "2026-11-20T08:44:05+00:00",
+      "source": "SCC Online",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving Bliss GVS Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Bliss GVS Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "Bliss GVS Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "SCC Online",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by SCC Online; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "SCC Online",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5"
         }
       ]
     },
@@ -79,45 +131,6 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV012N21qdFM0MUhwWWFlYW9ua0xYaGtaNEhSZ1pUcmhlcTA1aDIzSjNCRlpVRV9idGVod2txVHhjX0QtMzZzRk5WdUdfdGUyQnRraDRYeS1TdUtOM1BpRjFuUVl6N0x0NUhlelBvdWlQOHRxRG8wa0xlWWE4aE9hdk9TdXppN0xrbHRjeUVlbjlxVWpNby1QS3k2ODFrc0hvRWN3dnR6aGx6cUpZRHBqZw?oc=5"
         }
       ]
-    },
-    {
-      "category": "India",
-      "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "description": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5",
-      "published": "2026-11-18T13:03:24+00:00",
-      "source": "The Financial Express",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [],
-      "source_name": "The Financial Express",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Frequent drug price cuts may deter pharma investments, warns OPPI.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5"
-        }
-      ]
     }
   ],
   "business_signals": {
@@ -134,34 +147,158 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
+        "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
         "signal": "Risk",
-        "why": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+        "why": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+      },
+      {
+        "title": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
+        "signal": "Watch",
+        "why": "The report concerns an ownership change involving Bliss GVS Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       },
       {
         "title": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
         "signal": "Watch",
         "why": "The report concerns an ownership change involving the reported buyer and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
-      },
-      {
-        "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
     ],
     "investigate": [
       {
-        "title": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
+        "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Johnson Winter Slattery guides on acquisition of women’s health specialist pharma company",
+        "title": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
         "question": "What are the buyer, target, transaction status, product portfolio and facility implications?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Swiss chemical and pharma export growth highlights opportunities for India’s high-value chemical sector",
+      "description": "Swiss chemical and pharma export growth highlights opportunities for India’s high-value chemical sector",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMmRJbWRwYzFQV2c3TGxTa0tDRmcyMFVKcWdxVUFqUUxMcG1LOEpfV2VoM2ZvSndjLUpUaVJjd2Y5WlBxQXRzZUJlS1VrNjFrSGNPeU5UdThhaExFM1M5QlYwTUZSbGk0MjY0NG5fdk1NWFBsOXlmOHEzVTV5RjBSWkEzV3hRSVNlem1nSWNfdUY4QndaYThJZ2RBQUJOclpxcU1meXREYUNIMnlPNHJEbzg5b05ybjVISF9iYjl2SVR2c0twNXdUWG5xM1RrVkpuZVJCcFRWMGFzWW9KUFJXVWVaWGxoWnJhN3JhV3NqYmhVNFd1dUxrWDFxaUIwRnotbVI0UVRmX3ZTNWdXbU9GZlhudEgtWGZhNHRBTDZpdkRyYlFGZWNIVDlyRFlNbkRfaG5MeXVLZDBQeHBDYmtEOEJpU19wdnPSAZYCQVVfeXFMTUt2Z1h1ckJMamh0WEhzMDNBbF9YMXZRaVZLV2dfSG5GNEE0YkVBWGFwMVNQTXI1bDZtXzZid3FsT1EyNXhQdWZsMjFJekJtNFdQc0tEQXRnbjRpOHVzY2dKU0lSS2RJMXJWVlR0UEJGTFN3TUFFajFJempkQjVrdXJMUUpSRG9Pd3p5YUJGb1h6R0JBaHFKdEtYMGsyRGl2QzdOT2xhSWE1cFg3NUN5NUs5RzRSdlF3YndVRnFQd3Rqdkp1Vkc4RGJpbzlaVUFHV253UUZOUW9oVm1nTWpfZkVENExvNVRMc0U4cUlCNU9naWltejJuOWdEU2pOWnFjRXVDMllpbGdaOXUxR3RjRy12MGRpTGc?oc=5",
+      "published": "2026-11-20T11:26:27+00:00",
+      "source": "Indiatimes",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Indiatimes",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "Swiss chemical and pharma export growth highlights opportunities for India’s high-value chemical sector.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Indiatimes; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Indiatimes",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMmRJbWRwYzFQV2c3TGxTa0tDRmcyMFVKcWdxVUFqUUxMcG1LOEpfV2VoM2ZvSndjLUpUaVJjd2Y5WlBxQXRzZUJlS1VrNjFrSGNPeU5UdThhaExFM1M5QlYwTUZSbGk0MjY0NG5fdk1NWFBsOXlmOHEzVTV5RjBSWkEzV3hRSVNlem1nSWNfdUY4QndaYThJZ2RBQUJOclpxcU1meXREYUNIMnlPNHJEbzg5b05ybjVISF9iYjl2SVR2c0twNXdUWG5xM1RrVkpuZVJCcFRWMGFzWW9KUFJXVWVaWGxoWnJhN3JhV3NqYmhVNFd1dUxrWDFxaUIwRnotbVI0UVRmX3ZTNWdXbU9GZlhudEgtWGZhNHRBTDZpdkRyYlFGZWNIVDlyRFlNbkRfaG5MeXVLZDBQeHBDYmtEOEJpU19wdnPSAZYCQVVfeXFMTUt2Z1h1ckJMamh0WEhzMDNBbF9YMXZRaVZLV2dfSG5GNEE0YkVBWGFwMVNQTXI1bDZtXzZid3FsT1EyNXhQdWZsMjFJekJtNFdQc0tEQXRnbjRpOHVzY2dKU0lSS2RJMXJWVlR0UEJGTFN3TUFFajFJempkQjVrdXJMUUpSRG9Pd3p5YUJGb1h6R0JBaHFKdEtYMGsyRGl2QzdOT2xhSWE1cFg3NUN5NUs5RzRSdlF3YndVRnFQd3Rqdkp1Vkc4RGJpbzlaVUFHV253UUZOUW9oVm1nTWpfZkVENExvNVRMc0U4cUlCNU9naWltejJuOWdEU2pOWnFjRXVDMllpbGdaOXUxR3RjRy12MGRpTGc?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Vizag / AP",
+      "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
+      "description": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5",
+      "published": "2026-11-20T09:27:13+00:00",
+      "source": "The Economic Times",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "NATCO Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Economic Times",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "LinkedIn",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSU45TG5SV0pxaDVWV2gwREpDVmV3VG02anlTSUZmeTh2elY3ZzluYlQ2LUNNWDJQR2NRWERHMkt3aTVXUG9FaEJYeGZSd0FMX1Z4aUtUemRjWlllYzFvamdWbWktdEFVUnlRdXVNb2dId2JMV0FWNDVzbzhBMVE3UjVsejgwcDJhaEdKdGZYd0c1cVNUdFV2Z1JMSlZwY0pDY2tmekxKVFBlYUJnQ1BuZUpnd2hQN2c?oc=5"
+        },
+        {
+          "source": "CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm0yZXZOdkpLcWZtSDBoNGFLVHAyLTRZUHliRU9LeEhwNzBLbEtaLW95VmNQXzAtc0RtVFBQbjBzbXdTb2RJYUtNdWI5YnFscVgxNlhuelViNjA5NE11U1ByY2w2TWViZ1NPVXk2S05maE9vTmhjSGY5b1lwbzdLRlpDWENLc3p3S1BiOUlKY0dNNDlCemFaZ3FFYjRBdkk5RXY0ZmY1NHVfNVlUWmZLVkpBMWJBSGVLd0s1NzJGS0jSAcYBQVVfeXFMT1lzeGpFMExIUlhuS1ZwWmpyUnU2aDdIb0M2aUI3M3FlX3c3RlNTa0ZvU19oekp4N0w1RzM4VDJ3SXpVT3AyRVdQMEhob3BxNHA2S2ZGTkloTFdOUUFjcGwxcHEwaU04ME80YWZ6QVlVUkZabWFrcGt0cWo2bGVuOVhQc2N4blpjamFKZkpZS2hWUmxFTXJqM3pQMEowd2JDMEgxeGg4Sk50UFZFazl2bVNWdTRtSi1oaDJyNkdJYVE1b2l4a1dB?oc=5"
+        },
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5"
+        },
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW9PdnFUVTFuaW9HWTlfZjFKUVRIZFBNVzJyLUpWYW5SYnZMRXQ2cGlOSXhWNmpJSDZ4MzJrU0QtYTZCeTllcWJyenNpZ1k3bXE5TU4wN3FFTUt4SnJ0cmZHczZ0cklrVkM1TkExeVR2UkF4UnBfTHIxMVpHQTR3WjM1QWRJSzcxYk94Zzg5X2U2NWlFVC12dV9nT0VIQWtmQTBjSWgzeGk1NWVKcnFlMUt0Z2Z1aEtnM1VjdlVreTRDNmIzN3ZIZmlxdVhua0RnbndzTWc5QU1ZVjhUYUk2Wm5ZSnNRX21sMHJ0NjZuc21SRlRFamlKUHpsaEk2OXlCT0xPLWwyYnhsOWJ40gGSAkFVX3lxTE9HellVN2JNZGlQRXg0SGt5cGhWeEZPRUxja0Y4SFJXR0QxakFJUTdLM2p4TTQ5NEhxdnVvcUxsMkFhZVVWLUlVbkFSQmFCNWY0Xzg0c0JaSHljV2xqakFneUNXQlI0MDVBa0RnUVhCczI1NGlKNEhWUG0zbzVYLW5wSmNoSlktODh0Q2JqZ1VwMUhCVUFNcWVyemh0VjJqM0UzaUxWbHFrSDJ2STFsbVNSSHdEeEFuRWpWOGlVcWRxMFVXV0d2ZWo0VkZzY0o2NnZ2eFhhRm5FeWlLMVM1T2h0T1dEeTFKWTBidU54c1BqZldZaXRYSWdBYzhac29fOGNpRHBxRDZDdXFKbFBIU2M0RGc?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
+      "description": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5",
+      "published": "2026-11-20T08:44:05+00:00",
+      "source": "SCC Online",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The report concerns an ownership change involving Bliss GVS Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
+      "md_action": "Confirm the reported transaction between Bliss GVS Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
+      "companies": [
+        "Bliss GVS Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "SCC Online",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Investment / Acquisition",
+      "what_happened": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 9,
+      "fact_status": "Reported by SCC Online; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "SCC Online",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5"
+        }
+      ]
+    },
     {
       "category": "Hyderabad",
       "title": "Hyderabad Pharma MSMEs Face Rising Cost of Cleaner Production",
@@ -238,42 +375,6 @@
       ]
     },
     {
-      "category": "India",
-      "title": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist",
-      "description": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1FpdEhvcXItNWNkaHNsa2hyY2JLOG5YUVpRb09wdlVOWWplRmNDU0FaTGllQ3gwbkk4UDdvNjJPdVZ0ZTl6Q0tBbHBubkdlSnd1VFpZRl9VNnl2b1Zod0syMml3cDgtR25KWkszcWhBSXBOWW9vRG9COGcwdy1hV2FBeGlsOFp4SFpwQjZHcFNYemlqUjRTUGhuelJGckJEWlNyV05vOGNMZDA1RUVzT2RSam4wUllCdVpyZExfaFFOTFUxU0tpNWtXMklfZWEt?oc=5",
-      "published": "2026-11-19T09:26:00+00:00",
-      "source": "ANI News",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "ANI News",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by ANI News; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1FpdEhvcXItNWNkaHNsa2hyY2JLOG5YUVpRb09wdlVOWWplRmNDU0FaTGllQ3gwbkk4UDdvNjJPdVZ0ZTl6Q0tBbHBubkdlSnd1VFpZRl9VNnl2b1Zod0syMml3cDgtR25KWkszcWhBSXBOWW9vRG9COGcwdy1hV2FBeGlsOFp4SFpwQjZHcFNYemlqUjRTUGhuelJGckJEWlNyV05vOGNMZDA1RUVzT2RSam4wUllCdVpyZExfaFFOTFUxU0tpNWtXMklfZWEt?oc=5"
-        }
-      ]
-    },
-    {
       "category": "Global",
       "title": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth",
       "description": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth",
@@ -306,121 +407,6 @@
         {
           "source": "Lokmat Times",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUVETFVYaV9SSVNBN3Z2Rlc2MnNTMTNEbnE4ZDNCX2tPbDF5YS1MQjF5dk9TZkFhS1oyMEN4Z0s0S1JSNzdFNzBqbXNoWklkZjc0S2tTRTdJM3FRWDRqUWMzVFp1MHFVUUk1WHZUYjNFcndYVFdoMlVKdjl3ekU2NUROcHVUbWhpZWlWRVY1WG9mUmsxZ09PVi1Wd2hoV3EzWWxfZTB0anBXQTVkdGtGay0yVDRBTVFjeFHSAb8BQVVfeXFMTThfRWx3NEFSYzZaOUVzOC1VY2RyY3ZYMzJIVnVNRlRPdDJWV1VkQWRjX2J2bTJGQ0pQcmdQVnZJdWhLeTZqck96eHFKMWdEX2tsamZqSHZJR2E4VzByUTRsakZNLUlWNFNOMDZBRmE3aV9BM2Y3dG1pajMtSmoxVjJHTVNPRkhlR3RVOEg2TWQ0djRweUlEeVgyVEFOMXVnUE5tOWE0eXhqelZER1RZakNwaVkwdGVRcVE3QUFEZEk?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
-      "description": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdUV2cC1LX2FHakNNbHpkM0lwMXhxVnNOZHE0ekUyNHo5VUw3UFY2NTlwZ0ZNckxrWmJKM3Utel9USnZFVkVvb1RUR0xrcjJTclpDdzJ3bHc1SVI5aGtoRzVrSGFMX0FMNUplSkNnR0NfQ0txY21VRnJKMmM?oc=5",
-      "published": "2026-11-18T13:34:32+00:00",
-      "source": "Quartz India",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Quartz India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "FDA is stepping up unannounced inspections at Indian pharmaceutical facilities.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Quartz India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Quartz India",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdUV2cC1LX2FHakNNbHpkM0lwMXhxVnNOZHE0ekUyNHo5VUw3UFY2NTlwZ0ZNckxrWmJKM3Utel9USnZFVkVvb1RUR0xrcjJTclpDdzJ3bHc1SVI5aGtoRzVrSGFMX0FMNUplSkNnR0NfQ0txY21VRnJKMmM?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "description": "Frequent drug price cuts may deter pharma investments, warns OPPI",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5",
-      "published": "2026-11-18T13:03:24+00:00",
-      "source": "The Financial Express",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment",
-        "investments"
-      ],
-      "numbers": [],
-      "source_name": "The Financial Express",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Frequent drug price cuts may deter pharma investments, warns OPPI.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by The Financial Express; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lZd2l6ZWU0RC11VlljRF9PLVZLNS05NS12WVNiNkpKV1Z3N213c3BqdTBVXzI5bDhBUWUzTGZ4RF83eENUMURGSVcwYVFYb1h0VDZVMHduYU96aWNlMmZ4WG9JOWhEMzgyalVfNld5M0ZudmlhSUFUUmtFMHFyUXpRbGxfQlFhOHR2c3luR0pXWjE0QmZiWHVtM2IyVThNakVXR3duOGpRMmtlQzhMOGtYeGJtY0FOU3RDZ0NSSVg1Z2hv0gHLAUFVX3lxTE5uWUJMM0VaLTRhdHc4clc0aVFkajZCand4aEV4M09SQ3Q3eE85M2lEaHJKUk5KNDRBa3d3MnVUTUgzb1N6RERZUU5BLTRyVmYtSW5hTmxzcF9MSHZYM1NiTl85bWlPMjJEdkJNNHFlaGk1VzhZS29OdDZRbk13TDlXcHdGcDlMU1M0QllTY1ZhUkhsd1RYVW5BRURwaWtvYW1SSDVNR1NrUjJyR1d3NklpcnRreUl5VEJ5Yjk3ZDcwUnU1WGFwLVlCUm5v?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
-      "description": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmY2S0xJT2RiaTh6ZGlQdzliNjlBMkZzSmtNUFVrOGl5Z2tJSXUtVUhBNXZzZVBMbkNZaFh6SWFwOG14NWJ2OHVCLVdfWnNwa3NEdWJDNDhsaHpxdkJaUkxHZUdENzcyZDVaaDZNVzFWczNpNC1wbmwyMGhvekpVM21RUXVzU2tmd2N1SWppMG9oNmQ5aW9nb3NOY0JJVm9nV3VQLV9jV3kxeTBEQng2VFZWMlJXSlllcTZqTUIwZW4yaUk5dWt1N3F3cW5oZWFhSVNmRVl1UHlRWGJoRmhFaDl3?oc=5",
-      "published": "2026-11-18T10:15:37+00:00",
-      "source": "Trade Brains",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Kotak's New Nifty Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "Trade Brains",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Kotak's New Nifty Pharma Index Fund: Can India's Pharmaceutical Industry Offer a Long-Term Investment Opportunity?.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmY2S0xJT2RiaTh6ZGlQdzliNjlBMkZzSmtNUFVrOGl5Z2tJSXUtVUhBNXZzZVBMbkNZaFh6SWFwOG14NWJ2OHVCLVdfWnNwa3NEdWJDNDhsaHpxdkJaUkxHZUdENzcyZDVaaDZNVzFWczNpNC1wbmwyMGhvekpVM21RUXVzU2tmd2N1SWppMG9oNmQ5aW9nb3NOY0JJVm9nV3VQLV9jV3kxeTBEQng2VFZWMlJXSlllcTZqTUIwZW4yaUk5dWt1N3F3cW5oZWFhSVNmRVl1UHlRWGJoRmhFaDl3?oc=5"
         }
       ]
     }
