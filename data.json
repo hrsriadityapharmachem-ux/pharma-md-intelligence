@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-21T02:36:07.073490+00:00",
+  "updated": "2026-11-21T10:14:52.834318+00:00",
   "engine_version": "3.8.0",
-  "article_count": 10,
+  "article_count": 11,
   "opportunity_count": 0,
-  "risk_count": 1,
-  "watch_count": 4,
-  "high_priority_count": 1,
+  "risk_count": 2,
+  "watch_count": 6,
+  "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
     {
@@ -41,12 +41,54 @@
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
+          "source": "Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
+        },
+        {
           "source": "CNBC TV18",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm0yZXZOdkpLcWZtSDBoNGFLVHAyLTRZUHliRU9LeEhwNzBLbEtaLW95VmNQXzAtc0RtVFBQbjBzbXdTb2RJYUtNdWI5YnFscVgxNlhuelViNjA5NE11U1ByY2w2TWViZ1NPVXk2S05maE9vTmhjSGY5b1lwbzdLRlpDWENLc3p3S1BiOUlKY0dNNDlCemFaZ3FFYjRBdkk5RXY0ZmY1NHVfNVlUWmZLVkpBMWJBSGVLd0s1NzJGS0jSAcYBQVVfeXFMT1lzeGpFMExIUlhuS1ZwWmpyUnU2aDdIb0M2aUI3M3FlX3c3RlNTa0ZvU19oekp4N0w1RzM4VDJ3SXpVT3AyRVdQMEhob3BxNHA2S2ZGTkloTFdOUUFjcGwxcHEwaU04ME80YWZ6QVlVUkZabWFrcGt0cWo2bGVuOVhQc2N4blpjamFKZkpZS2hWUmxFTXJqM3pQMEowd2JDMEgxeGg4Sk50UFZFazl2bVNWdTRtSi1oaDJyNkdJYVE1b2l4a1dB?oc=5"
         },
         {
           "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Natco Pharma receives seven observations following US FDA inspection",
+      "description": "Natco Pharma receives seven observations following US FDA inspection",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5",
+      "published": "2026-11-21T06:13:11+00:00",
+      "source": "Business Upturn",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Natco Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Business Upturn",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Natco Pharma receives seven observations following US FDA inspection.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 16,
+      "fact_status": "Reported by Business Upturn; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5"
         }
       ]
     },
@@ -87,44 +129,6 @@
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnBtUDE0ekRabGZKbGRBTWJha2dwcndRQ0NnSWUxTFhYZTlqTC1jR2hlMXp2aXN6TGdJc1NfN3NyZWxBMHlLTkctUG5uQ1F4STBkRUdER09xOFZmWFA2c1N0VVljN0RKcjFzU09XZkxpTnJkUDBaVFJDTnNvQXBOYmVES0pFRWdWN2dodlFsVGFMZDJuOHhrTlVWSVFpS3F3aW0tOGVxemx1S3pZazk1NktVRTdNeVJoZTE3Z01wRzctSFFnb29HN0lmOXktb05kV2h5a2lOMmd5Zw?oc=5"
         }
       ]
-    },
-    {
-      "category": "India",
-      "title": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
-      "description": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5",
-      "published": "2026-11-20T08:44:05+00:00",
-      "source": "SCC Online",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Bliss GVS Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Bliss GVS Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Bliss GVS Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "SCC Online",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by SCC Online; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "SCC Online",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5"
-        }
-      ]
     }
   ],
   "business_signals": {
@@ -133,7 +137,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 1,
+    "Regulatory": 2,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
@@ -146,14 +150,14 @@
         "why": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
       },
       {
+        "title": "Natco Pharma receives seven observations following US FDA inspection",
+        "signal": "Risk",
+        "why": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+      },
+      {
         "title": "Ireland's Pharmaceutical Manufacturing Sector: How Global Investment Is Supporting Industry Expansion",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
-        "title": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
-        "signal": "Watch",
-        "why": "The report concerns an ownership change involving Bliss GVS Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting."
       }
     ],
     "investigate": [
@@ -162,13 +166,87 @@
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Ireland's Pharmaceutical Manufacturing Sector: How Global Investment Is Supporting Industry Expansion",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+        "title": "Natco Pharma receives seven observations following US FDA inspection",
+        "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "OPPI Annual Summit 2026 calls for stronger partnerships to advance pharma innovation and global leadership",
+      "description": "OPPI Annual Summit 2026 calls for stronger partnerships to advance pharma innovation and global leadership",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVBVYmxMMHctV2Rmc3QxTDFCLUVCdDJEQ3lrNnFGMV83Ry1NanV0bHRMeHB1Y3RmZVRPeUhETlNSUmQzTENQa1h5NlJBM0RNbXgxWkp1N3hrQUNfMWFDTW1TXzJXZHhLM2NSeW1GNWZCUkswYXZZSmpybzVhRVRPQnZINnhSTmVlRDZxblIwQWZCTkNreHBsTjZVTHNyZHNjRGhuYlhXWTR3SmFJR09lazhWT1dOSnNrdnM0R0hEM1QwQWJEQ0pNeGRpellPZHZnbElxbWxzeTZlRVd6RlRLSUFIVG5QMVYyaDhoQTU3NA?oc=5",
+      "published": "2026-11-21T07:51:03+00:00",
+      "source": "BioSpectrum India",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "BioSpectrum India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "OPPI Annual Summit 2026 calls for stronger partnerships to advance pharma innovation and global leadership.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by BioSpectrum India; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BioSpectrum India",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVBVYmxMMHctV2Rmc3QxTDFCLUVCdDJEQ3lrNnFGMV83Ry1NanV0bHRMeHB1Y3RmZVRPeUhETlNSUmQzTENQa1h5NlJBM0RNbXgxWkp1N3hrQUNfMWFDTW1TXzJXZHhLM2NSeW1GNWZCUkswYXZZSmpybzVhRVRPQnZINnhSTmVlRDZxblIwQWZCTkNreHBsTjZVTHNyZHNjRGhuYlhXWTR3SmFJR09lazhWT1dOSnNrdnM0R0hEM1QwQWJEQ0pNeGRpellPZHZnbElxbWxzeTZlRVd6RlRLSUFIVG5QMVYyaDhoQTU3NA?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Natco Pharma receives seven observations following US FDA inspection",
+      "description": "Natco Pharma receives seven observations following US FDA inspection",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5",
+      "published": "2026-11-21T06:13:11+00:00",
+      "source": "Business Upturn",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Natco Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Business Upturn",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Natco Pharma receives seven observations following US FDA inspection.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 16,
+      "fact_status": "Reported by Business Upturn; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5"
+        }
+      ]
+    },
     {
       "category": "Hyderabad",
       "title": "68% rise in exports of engg goods, pharma products over 3-yr period: Report",
@@ -284,42 +362,6 @@
     },
     {
       "category": "India",
-      "title": "Swiss chemical and pharma export growth highlights opportunities for India’s high-value chemical sector",
-      "description": "Swiss chemical and pharma export growth highlights opportunities for India’s high-value chemical sector",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMmRJbWRwYzFQV2c3TGxTa0tDRmcyMFVKcWdxVUFqUUxMcG1LOEpfV2VoM2ZvSndjLUpUaVJjd2Y5WlBxQXRzZUJlS1VrNjFrSGNPeU5UdThhaExFM1M5QlYwTUZSbGk0MjY0NG5fdk1NWFBsOXlmOHEzVTV5RjBSWkEzV3hRSVNlem1nSWNfdUY4QndaYThJZ2RBQUJOclpxcU1meXREYUNIMnlPNHJEbzg5b05ybjVISF9iYjl2SVR2c0twNXdUWG5xM1RrVkpuZVJCcFRWMGFzWW9KUFJXVWVaWGxoWnJhN3JhV3NqYmhVNFd1dUxrWDFxaUIwRnotbVI0UVRmX3ZTNWdXbU9GZlhudEgtWGZhNHRBTDZpdkRyYlFGZWNIVDlyRFlNbkRfaG5MeXVLZDBQeHBDYmtEOEJpU19wdnPSAZYCQVVfeXFMTUt2Z1h1ckJMamh0WEhzMDNBbF9YMXZRaVZLV2dfSG5GNEE0YkVBWGFwMVNQTXI1bDZtXzZid3FsT1EyNXhQdWZsMjFJekJtNFdQc0tEQXRnbjRpOHVzY2dKU0lSS2RJMXJWVlR0UEJGTFN3TUFFajFJempkQjVrdXJMUUpSRG9Pd3p5YUJGb1h6R0JBaHFKdEtYMGsyRGl2QzdOT2xhSWE1cFg3NUN5NUs5RzRSdlF3YndVRnFQd3Rqdkp1Vkc4RGJpbzlaVUFHV253UUZOUW9oVm1nTWpfZkVENExvNVRMc0U4cUlCNU9naWltejJuOWdEU2pOWnFjRXVDMllpbGdaOXUxR3RjRy12MGRpTGc?oc=5",
-      "published": "2026-11-20T11:26:27+00:00",
-      "source": "Indiatimes",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Indiatimes",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "Swiss chemical and pharma export growth highlights opportunities for India’s high-value chemical sector.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Indiatimes; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Indiatimes",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMmRJbWRwYzFQV2c3TGxTa0tDRmcyMFVKcWdxVUFqUUxMcG1LOEpfV2VoM2ZvSndjLUpUaVJjd2Y5WlBxQXRzZUJlS1VrNjFrSGNPeU5UdThhaExFM1M5QlYwTUZSbGk0MjY0NG5fdk1NWFBsOXlmOHEzVTV5RjBSWkEzV3hRSVNlem1nSWNfdUY4QndaYThJZ2RBQUJOclpxcU1meXREYUNIMnlPNHJEbzg5b05ybjVISF9iYjl2SVR2c0twNXdUWG5xM1RrVkpuZVJCcFRWMGFzWW9KUFJXVWVaWGxoWnJhN3JhV3NqYmhVNFd1dUxrWDFxaUIwRnotbVI0UVRmX3ZTNWdXbU9GZlhudEgtWGZhNHRBTDZpdkRyYlFGZWNIVDlyRFlNbkRfaG5MeXVLZDBQeHBDYmtEOEJpU19wdnPSAZYCQVVfeXFMTUt2Z1h1ckJMamh0WEhzMDNBbF9YMXZRaVZLV2dfSG5GNEE0YkVBWGFwMVNQTXI1bDZtXzZid3FsT1EyNXhQdWZsMjFJekJtNFdQc0tEQXRnbjRpOHVzY2dKU0lSS2RJMXJWVlR0UEJGTFN3TUFFajFJempkQjVrdXJMUUpSRG9Pd3p5YUJGb1h6R0JBaHFKdEtYMGsyRGl2QzdOT2xhSWE1cFg3NUN5NUs5RzRSdlF3YndVRnFQd3Rqdkp1Vkc4RGJpbzlaVUFHV253UUZOUW9oVm1nTWpfZkVENExvNVRMc0U4cUlCNU9naWltejJuOWdEU2pOWnFjRXVDMllpbGdaOXUxR3RjRy12MGRpTGc?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
       "title": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
       "description": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk80cVZnekdZSG84U1R2X0d5ZkkzT3RJdjZBM1kzajdaQmZVaXdOZGR1cGY1SDVvS09weHRPR2hOVmwzV3hmbEJydnFOS0hzS0hLUGx5aUR3c3VRZXVfYnFIQlZ2NTh4d1Q3MzJLcnRuSlFFYUVwQWU3TnQ2aVROci1SdTNGdHdaYXBzcGFDaWpvdGFfWmExdURCNkRVYlhTWDhPN2ZtbHBfOUo0WGt1OWV1V25yRTdxZnc1Uk50XzRnaXM?oc=5",
@@ -387,6 +429,10 @@
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
+          "source": "Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
+        },
+        {
           "source": "CNBC TV18",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm0yZXZOdkpLcWZtSDBoNGFLVHAyLTRZUHliRU9LeEhwNzBLbEtaLW95VmNQXzAtc0RtVFBQbjBzbXdTb2RJYUtNdWI5YnFscVgxNlhuelViNjA5NE11U1ByY2w2TWViZ1NPVXk2S05maE9vTmhjSGY5b1lwbzdLRlpDWENLc3p3S1BiOUlKY0dNNDlCemFaZ3FFYjRBdkk5RXY0ZmY1NHVfNVlUWmZLVkpBMWJBSGVLd0s1NzJGS0jSAcYBQVVfeXFMT1lzeGpFMExIUlhuS1ZwWmpyUnU2aDdIb0M2aUI3M3FlX3c3RlNTa0ZvU19oekp4N0w1RzM4VDJ3SXpVT3AyRVdQMEhob3BxNHA2S2ZGTkloTFdOUUFjcGwxcHEwaU04ME80YWZ6QVlVUkZabWFrcGt0cWo2bGVuOVhQc2N4blpjamFKZkpZS2hWUmxFTXJqM3pQMEowd2JDMEgxeGg4Sk50UFZFazl2bVNWdTRtSi1oaDJyNkdJYVE1b2l4a1dB?oc=5"
         },
@@ -431,6 +477,42 @@
         {
           "source": "SCC Online",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "OPPI at 60: Pharma industry calls for stronger partnerships to propel India into global innovation leadership",
+      "description": "OPPI at 60: Pharma industry calls for stronger partnerships to propel India into global innovation leadership",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEFpazV6aW1EcTNIbU5BZGw3T1V3UFhILTZBTmtRMnlsS2YyejZXTmhkbjcxNWlLcHVTQy1hMm5QbkpZWUNTUnhMQjZ1Qm1RTFE5OHBIVVB3NldUenFNU0tKU3dZNEdUc0hpQ3NwMkJSaXFNUF81bTk5R19EQjE0NjZzY18xbGdzZ28wRDZad1ZOVnRVQlR2OFlQc2hROUdQSnpTVV82SVIySnZfVmJYT01CUnJMUDJMWWNncG9nSC1SZGNSMFYzQTU4dkZ4Z3BYU0h5dHE3VkRiQ1VtVnlVTUJ3ZV9oVGvSAe4BQVVfeXFMTWpFZExNVXpCVDRhWnlaY1V2WmVUWmNaOVV2Q1ExSW5vYlRDSGFyLTVsLUVSejdvcDA4bDlFTDJJRGFFSHJ4RVhLUGs4ZGhiQzdFc3V3RnpNcjkzMXROekhkRmJhblFVcGhBdUFCRGh5dEJFR293SW1sOGljTmcwaVRZRXpHMjdIVXJPem1wZGlMYk1lZXhRS19XM0ZVdHl1alFSRjRWaUFIcXpsZ2pKeFlIY20tVUJPcjhLM0VOZ1Q2LWZ6ZzdEb0xQNFpjRVgxX1JnaXdyTXo4RGo0UUtZYXJHVWJ4RE9ySjdfbjR5dw?oc=5",
+      "published": "2026-11-20T05:49:07+00:00",
+      "source": "Indian Pharma Post",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Indian Pharma Post",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "OPPI at 60: Pharma industry calls for stronger partnerships to propel India into global innovation leadership.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Indian Pharma Post; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Indian Pharma Post",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEFpazV6aW1EcTNIbU5BZGw3T1V3UFhILTZBTmtRMnlsS2YyejZXTmhkbjcxNWlLcHVTQy1hMm5QbkpZWUNTUnhMQjZ1Qm1RTFE5OHBIVVB3NldUenFNU0tKU3dZNEdUc0hpQ3NwMkJSaXFNUF81bTk5R19EQjE0NjZzY18xbGdzZ28wRDZad1ZOVnRVQlR2OFlQc2hROUdQSnpTVV82SVIySnZfVmJYT01CUnJMUDJMWWNncG9nSC1SZGNSMFYzQTU4dkZ4Z3BYU0h5dHE3VkRiQ1VtVnlVTUJ3ZV9oVGvSAe4BQVVfeXFMTWpFZExNVXpCVDRhWnlaY1V2WmVUWmNaOVV2Q1ExSW5vYlRDSGFyLTVsLUVSejdvcDA4bDlFTDJJRGFFSHJ4RVhLUGs4ZGhiQzdFc3V3RnpNcjkzMXROekhkRmJhblFVcGhBdUFCRGh5dEJFR293SW1sOGljTmcwaVRZRXpHMjdIVXJPem1wZGlMYk1lZXhRS19XM0ZVdHl1alFSRjRWaUFIcXpsZ2pKeFlIY20tVUJPcjhLM0VOZ1Q2LWZ6ZzdEb0xQNFpjRVgxX1JnaXdyTXo4RGo0UUtZYXJHVWJ4RE9ySjdfbjR5dw?oc=5"
         }
       ]
     },
@@ -506,42 +588,6 @@
         {
           "source": "ICLG",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV012N21qdFM0MUhwWWFlYW9ua0xYaGtaNEhSZ1pUcmhlcTA1aDIzSjNCRlpVRV9idGVod2txVHhjX0QtMzZzRk5WdUdfdGUyQnRraDRYeS1TdUtOM1BpRjFuUVl6N0x0NUhlelBvdWlQOHRxRG8wa0xlWWE4aE9hdk9TdXppN0xrbHRjeUVlbjlxVWpNby1QS3k2ODFrc0hvRWN3dnR6aGx6cUpZRHBqZw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist",
-      "description": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1FpdEhvcXItNWNkaHNsa2hyY2JLOG5YUVpRb09wdlVOWWplRmNDU0FaTGllQ3gwbkk4UDdvNjJPdVZ0ZTl6Q0tBbHBubkdlSnd1VFpZRl9VNnl2b1Zod0syMml3cDgtR25KWkszcWhBSXBOWW9vRG9COGcwdy1hV2FBeGlsOFp4SFpwQjZHcFNYemlqUjRTUGhuelJGckJEWlNyV05vOGNMZDA1RUVzT2RSam4wUllCdVpyZExfaFFOTFUxU0tpNWtXMklfZWEt?oc=5",
-      "published": "2026-11-19T09:26:00+00:00",
-      "source": "ANI News",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "ANI News",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India can replicate pharma, IT success in emerging sectors to boost exports: Economist.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by ANI News; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1FpdEhvcXItNWNkaHNsa2hyY2JLOG5YUVpRb09wdlVOWWplRmNDU0FaTGllQ3gwbkk4UDdvNjJPdVZ0ZTl6Q0tBbHBubkdlSnd1VFpZRl9VNnl2b1Zod0syMml3cDgtR25KWkszcWhBSXBOWW9vRG9COGcwdy1hV2FBeGlsOFp4SFpwQjZHcFNYemlqUjRTUGhuelJGckJEWlNyV05vOGNMZDA1RUVzT2RSam4wUllCdVpyZExfaFFOTFUxU0tpNWtXMklfZWEt?oc=5"
         }
       ]
     }
