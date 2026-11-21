@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T21:19:56.791445+00:00",
+  "updated": "2026-11-21T02:36:07.073490+00:00",
   "engine_version": "3.8.0",
-  "article_count": 9,
+  "article_count": 10,
   "opportunity_count": 0,
   "risk_count": 1,
-  "watch_count": 5,
+  "watch_count": 4,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
@@ -170,6 +170,42 @@
   },
   "articles": [
     {
+      "category": "Hyderabad",
+      "title": "68% rise in exports of engg goods, pharma products over 3-yr period: Report",
+      "description": "68% rise in exports of engg goods, pharma products over 3-yr period: Report",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0dFZVBnTE8wRGZvclpNV2REd1pidEZJbmJZd3NmaXBfLVhUVTJaNkY1U3FKMm5fSlBHZUxaODBQcWpiRnZjV1I1R096c0RUYlhuTTNRdUdOajlMX3Y0aUlOeHczdEhJR0hmM0tqY1ZoVkFUbVJBZV9TbmU1YW82b3ItVzU1REk3dDhyMWlLUDF3b2pDLWxONHlzdnZMZ1E1S3BxY191X3d1OWd1RDdoTk5MTkhlbDZ0cXJZbGlWX1FpQjJUTjdlVFdMRzdZb2FQY0xwVWVjQmxaVjBmNUpobFN4QdIB6AFBVV95cUxQR2ZRQlVQbGM5cVhJT3dxQnJGeXdvc2UwUy1WMGJRNzlFcTNDZXZBSUJ3X001TjdEZW9LNnlwd0tndDNGcDhIQlVMaml6dFNrMG5xTnBmNjU0RGxoQ1dCcmVUdTFlWHhLblg1QnRQTTQ3Ni1PNVVoNHh6c3RrVmpFV3BMc254U2lkcFNjanRJc1dmYjNWdk1tQXNzbTdPcmlLbjJtQTU0T2FadzlNNlRTNnp6aW0tVDBVWnNqem1tTUZIZjdQX1UtMFNnMGRUZElVOVpfcXh2SmJPTnNlTFlLRmJhalhxcDYw?oc=5",
+      "published": "2026-11-21T00:48:00+00:00",
+      "source": "The Times of India",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The Times of India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "68% rise in exports of engg goods, pharma products over 3-yr period: Report.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 5,
+      "fact_status": "Reported by The Times of India; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0dFZVBnTE8wRGZvclpNV2REd1pidEZJbmJZd3NmaXBfLVhUVTJaNkY1U3FKMm5fSlBHZUxaODBQcWpiRnZjV1I1R096c0RUYlhuTTNRdUdOajlMX3Y0aUlOeHczdEhJR0hmM0tqY1ZoVkFUbVJBZV9TbmU1YW82b3ItVzU1REk3dDhyMWlLUDF3b2pDLWxONHlzdnZMZ1E1S3BxY191X3d1OWd1RDdoTk5MTkhlbDZ0cXJZbGlWX1FpQjJUTjdlVFdMRzdZb2FQY0xwVWVjQmxaVjBmNUpobFN4QdIB6AFBVV95cUxQR2ZRQlVQbGM5cVhJT3dxQnJGeXdvc2UwUy1WMGJRNzlFcTNDZXZBSUJ3X001TjdEZW9LNnlwd0tndDNGcDhIQlVMaml6dFNrMG5xTnBmNjU0RGxoQ1dCcmVUdTFlWHhLblg1QnRQTTQ3Ni1PNVVoNHh6c3RrVmpFV3BMc254U2lkcFNjanRJc1dmYjNWdk1tQXNzbTdPcmlLbjJtQTU0T2FadzlNNlRTNnp6aW0tVDBVWnNqem1tTUZIZjdQX1UtMFNnMGRUZElVOVpfcXh2SmJPTnNlTFlLRmJhalhxcDYw?oc=5"
+        }
+      ]
+    },
+    {
       "category": "Global",
       "title": "SAP Expands Pharma Footprint with AstraZeneca Partnership",
       "description": "SAP Expands Pharma Footprint with AstraZeneca Partnership",
@@ -279,6 +315,42 @@
         {
           "source": "Indiatimes",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMmRJbWRwYzFQV2c3TGxTa0tDRmcyMFVKcWdxVUFqUUxMcG1LOEpfV2VoM2ZvSndjLUpUaVJjd2Y5WlBxQXRzZUJlS1VrNjFrSGNPeU5UdThhaExFM1M5QlYwTUZSbGk0MjY0NG5fdk1NWFBsOXlmOHEzVTV5RjBSWkEzV3hRSVNlem1nSWNfdUY4QndaYThJZ2RBQUJOclpxcU1meXREYUNIMnlPNHJEbzg5b05ybjVISF9iYjl2SVR2c0twNXdUWG5xM1RrVkpuZVJCcFRWMGFzWW9KUFJXVWVaWGxoWnJhN3JhV3NqYmhVNFd1dUxrWDFxaUIwRnotbVI0UVRmX3ZTNWdXbU9GZlhudEgtWGZhNHRBTDZpdkRyYlFGZWNIVDlyRFlNbkRfaG5MeXVLZDBQeHBDYmtEOEJpU19wdnPSAZYCQVVfeXFMTUt2Z1h1ckJMamh0WEhzMDNBbF9YMXZRaVZLV2dfSG5GNEE0YkVBWGFwMVNQTXI1bDZtXzZid3FsT1EyNXhQdWZsMjFJekJtNFdQc0tEQXRnbjRpOHVzY2dKU0lSS2RJMXJWVlR0UEJGTFN3TUFFajFJempkQjVrdXJMUUpSRG9Pd3p5YUJGb1h6R0JBaHFKdEtYMGsyRGl2QzdOT2xhSWE1cFg3NUN5NUs5RzRSdlF3YndVRnFQd3Rqdkp1Vkc4RGJpbzlaVUFHV253UUZOUW9oVm1nTWpfZkVENExvNVRMc0U4cUlCNU9naWltejJuOWdEU2pOWnFjRXVDMllpbGdaOXUxR3RjRy12MGRpTGc?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
+      "description": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk80cVZnekdZSG84U1R2X0d5ZkkzT3RJdjZBM1kzajdaQmZVaXdOZGR1cGY1SDVvS09weHRPR2hOVmwzV3hmbEJydnFOS0hzS0hLUGx5aUR3c3VRZXVfYnFIQlZ2NTh4d1Q3MzJLcnRuSlFFYUVwQWU3TnQ2aVROci1SdTNGdHdaYXBzcGFDaWpvdGFfWmExdURCNkRVYlhTWDhPN2ZtbHBfOUo0WGt1OWV1V25yRTdxZnc1Uk50XzRnaXM?oc=5",
+      "published": "2026-11-20T10:05:41+00:00",
+      "source": "DD News",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "DD News",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this API / Intermediates development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by DD News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "DD News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk80cVZnekdZSG84U1R2X0d5ZkkzT3RJdjZBM1kzajdaQmZVaXdOZGR1cGY1SDVvS09weHRPR2hOVmwzV3hmbEJydnFOS0hzS0hLUGx5aUR3c3VRZXVfYnFIQlZ2NTh4d1Q3MzJLcnRuSlFFYUVwQWU3TnQ2aVROci1SdTNGdHdaYXBzcGFDaWpvdGFfWmExdURCNkRVYlhTWDhPN2ZtbHBfOUo0WGt1OWV1V25yRTdxZnc1Uk50XzRnaXM?oc=5"
         }
       ]
     },
@@ -470,42 +542,6 @@
         {
           "source": "ANI News",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1FpdEhvcXItNWNkaHNsa2hyY2JLOG5YUVpRb09wdlVOWWplRmNDU0FaTGllQ3gwbkk4UDdvNjJPdVZ0ZTl6Q0tBbHBubkdlSnd1VFpZRl9VNnl2b1Zod0syMml3cDgtR25KWkszcWhBSXBOWW9vRG9COGcwdy1hV2FBeGlsOFp4SFpwQjZHcFNYemlqUjRTUGhuelJGckJEWlNyV05vOGNMZDA1RUVzT2RSam4wUllCdVpyZExfaFFOTFUxU0tpNWtXMklfZWEt?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth",
-      "description": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUVETFVYaV9SSVNBN3Z2Rlc2MnNTMTNEbnE4ZDNCX2tPbDF5YS1MQjF5dk9TZkFhS1oyMEN4Z0s0S1JSNzdFNzBqbXNoWklkZjc0S2tTRTdJM3FRWDRqUWMzVFp1MHFVUUk1WHZUYjNFcndYVFdoMlVKdjl3ekU2NUROcHVUbWhpZWlWRVY1WG9mUmsxZ09PVi1Wd2hoV3EzWWxfZTB0anBXQTVkdGtGay0yVDRBTVFjeFHSAb8BQVVfeXFMTThfRWx3NEFSYzZaOUVzOC1VY2RyY3ZYMzJIVnVNRlRPdDJWV1VkQWRjX2J2bTJGQ0pQcmdQVnZJdWhLeTZqck96eHFKMWdEX2tsamZqSHZJR2E4VzByUTRsakZNLUlWNFNOMDZBRmE3aV9BM2Y3dG1pajMtSmoxVjJHTVNPRkhlR3RVOEg2TWQ0djRweUlEeVgyVEFOMXVnUE5tOWE0eXhqelZER1RZakNwaVkwdGVRcVE3QUFEZEk?oc=5",
-      "published": "2026-11-19T01:23:49+00:00",
-      "source": "Lokmat Times",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Lokmat Times",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "Piyush Goyal: India-Italy Partnership Key for Pharma, Nuclear Tech Growth.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Lokmat Times; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Lokmat Times",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUVETFVYaV9SSVNBN3Z2Rlc2MnNTMTNEbnE4ZDNCX2tPbDF5YS1MQjF5dk9TZkFhS1oyMEN4Z0s0S1JSNzdFNzBqbXNoWklkZjc0S2tTRTdJM3FRWDRqUWMzVFp1MHFVUUk1WHZUYjNFcndYVFdoMlVKdjl3ekU2NUROcHVUbWhpZWlWRVY1WG9mUmsxZ09PVi1Wd2hoV3EzWWxfZTB0anBXQTVkdGtGay0yVDRBTVFjeFHSAb8BQVVfeXFMTThfRWx3NEFSYzZaOUVzOC1VY2RyY3ZYMzJIVnVNRlRPdDJWV1VkQWRjX2J2bTJGQ0pQcmdQVnZJdWhLeTZqck96eHFKMWdEX2tsamZqSHZJR2E4VzByUTRsakZNLUlWNFNOMDZBRmE3aV9BM2Y3dG1pajMtSmoxVjJHTVNPRkhlR3RVOEg2TWQ0djRweUlEeVgyVEFOMXVnUE5tOWE0eXhqelZER1RZakNwaVkwdGVRcVE3QUFEZEk?oc=5"
         }
       ]
     }
