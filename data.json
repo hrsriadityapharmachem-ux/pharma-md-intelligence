@@ -1,13 +1,52 @@
 {
-  "updated": "2026-11-21T17:39:48.835198+00:00",
+  "updated": "2026-11-21T22:25:50.722147+00:00",
   "engine_version": "3.8.0",
-  "article_count": 8,
+  "article_count": 10,
   "opportunity_count": 0,
-  "risk_count": 3,
+  "risk_count": 4,
   "watch_count": 4,
-  "high_priority_count": 2,
+  "high_priority_count": 3,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "Vizag / AP",
+      "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
+      "description": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5",
+      "published": "2026-11-20T13:39:00+00:00",
+      "source": "Kalkine India",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "NATCO Pharma",
+        "Visakhapatnam NATCO Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Kalkine India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5"
+        }
+      ]
+    },
     {
       "category": "Vizag / AP",
       "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
@@ -41,16 +80,20 @@
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
-        },
-        {
           "source": "CNBC TV18",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm0yZXZOdkpLcWZtSDBoNGFLVHAyLTRZUHliRU9LeEhwNzBLbEtaLW95VmNQXzAtc0RtVFBQbjBzbXdTb2RJYUtNdWI5YnFscVgxNlhuelViNjA5NE11U1ByY2w2TWViZ1NPVXk2S05maE9vTmhjSGY5b1lwbzdLRlpDWENLc3p3S1BiOUlKY0dNNDlCemFaZ3FFYjRBdkk5RXY0ZmY1NHVfNVlUWmZLVkpBMWJBSGVLd0s1NzJGS0jSAcYBQVVfeXFMT1lzeGpFMExIUlhuS1ZwWmpyUnU2aDdIb0M2aUI3M3FlX3c3RlNTa0ZvU19oekp4N0w1RzM4VDJ3SXpVT3AyRVdQMEhob3BxNHA2S2ZGTkloTFdOUUFjcGwxcHEwaU04ME80YWZ6QVlVUkZabWFrcGt0cWo2bGVuOVhQc2N4blpjamFKZkpZS2hWUmxFTXJqM3pQMEowd2JDMEgxeGg4Sk50UFZFazl2bVNWdTRtSi1oaDJyNkdJYVE1b2l4a1dB?oc=5"
         },
         {
           "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5"
+        },
+        {
+          "source": "Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
+        },
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW9PdnFUVTFuaW9HWTlfZjFKUVRIZFBNVzJyLUpWYW5SYnZMRXQ2cGlOSXhWNmpJSDZ4MzJrU0QtYTZCeTllcWJyenNpZ1k3bXE5TU4wN3FFTUt4SnJ0cmZHczZ0cklrVkM1TkExeVR2UkF4UnBfTHIxMVpHQTR3WjM1QWRJSzcxYk94Zzg5X2U2NWlFVC12dV9nT0VIQWtmQTBjSWgzeGk1NWVKcnFlMUt0Z2Z1aEtnM1VjdlVreTRDNmIzN3ZIZmlxdVhua0RnbndzTWc5QU1ZVjhUYUk2Wm5ZSnNRX21sMHJ0NjZuc21SRlRFamlKUHpsaEk2OXlCT0xPLWwyYnhsOWJ40gGSAkFVX3lxTE9HellVN2JNZGlQRXg0SGt5cGhWeEZPRUxja0Y4SFJXR0QxakFJUTdLM2p4TTQ5NEhxdnVvcUxsMkFhZVVWLUlVbkFSQmFCNWY0Xzg0c0JaSHljV2xqakFneUNXQlI0MDVBa0RnUVhCczI1NGlKNEhWUG0zbzVYLW5wSmNoSlktODh0Q2JqZ1VwMUhCVUFNcWVyemh0VjJqM0UzaUxWbHFrSDJ2STFsbVNSSHdEeEFuRWpWOGlVcWRxMFVXV0d2ZWo0VkZzY0o2NnZ2eFhhRm5FeWlLMVM1T2h0T1dEeTFKWTBidU54c1BqZldZaXRYSWdBYzhac29fOGNpRHBxRDZDdXFKbFBIU2M0RGc?oc=5"
         }
       ]
     },
@@ -91,44 +134,6 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5"
         }
       ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
-      "description": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3l5eV8yS3NWbkh4OFRUcEZZSm9Ial9ZWGsxWmpGQUwyaW1pZ05kaFozQUJhdmx3OVFHVWpyVDZxelZvLUNKSmphUHF3XzZrZlRFUHhkdFQ2amZtcGROUnpmSUxSZHFmZ2tqZEEwcHdVRWppVEh1UG9sbWhobEZCVTNIaGZnX0Z2dXN6WGVR?oc=5",
-      "published": "2026-11-21T13:30:00+00:00",
-      "source": "Voice of Healthcare",
-      "signal": "Risk",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Potential operational or commercial exposure requiring verification.",
-      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
-      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
-      "companies": [
-        "NATCO Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Voice of Healthcare",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "USFDA Issues 7 Form 483 Observations to NATCO Pharma.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential business or operational risk requires verification.",
-      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 13,
-      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Voice of Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3l5eV8yS3NWbkh4OFRUcEZZSm9Ial9ZWGsxWmpGQUwyaW1pZ05kaFozQUJhdmx3OVFHVWpyVDZxelZvLUNKSmphUHF3XzZrZlRFUHhkdFQ2amZtcGROUnpmSUxSZHFmZ2tqZEEwcHdVRWppVEh1UG9sbWhobEZCVTNIaGZnX0Z2dXN6WGVR?oc=5"
-        }
-      ]
     }
   ],
   "business_signals": {
@@ -137,13 +142,18 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 2,
+    "Regulatory": 3,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 1
   },
   "daily_brief": {
     "attention": [
+      {
+        "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
+        "signal": "Risk",
+        "why": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+      },
       {
         "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
         "signal": "Risk",
@@ -153,20 +163,15 @@
         "title": "Natco Pharma receives seven observations following US FDA inspection",
         "signal": "Risk",
         "why": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
-      },
-      {
-        "title": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
-        "signal": "Risk",
-        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
       }
     ],
     "investigate": [
       {
-        "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
+        "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Natco Pharma receives seven observations following US FDA inspection",
+        "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       }
     ],
@@ -400,6 +405,81 @@
     },
     {
       "category": "Vizag / AP",
+      "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
+      "description": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5",
+      "published": "2026-11-20T13:39:00+00:00",
+      "source": "Kalkine India",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "NATCO Pharma",
+        "Visakhapatnam NATCO Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Kalkine India",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
+      "description": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk80cVZnekdZSG84U1R2X0d5ZkkzT3RJdjZBM1kzajdaQmZVaXdOZGR1cGY1SDVvS09weHRPR2hOVmwzV3hmbEJydnFOS0hzS0hLUGx5aUR3c3VRZXVfYnFIQlZ2NTh4d1Q3MzJLcnRuSlFFYUVwQWU3TnQ2aVROci1SdTNGdHdaYXBzcGFDaWpvdGFfWmExdURCNkRVYlhTWDhPN2ZtbHBfOUo0WGt1OWV1V25yRTdxZnc1Uk50XzRnaXM?oc=5",
+      "published": "2026-11-20T10:05:41+00:00",
+      "source": "DD News",
+      "signal": "General",
+      "business_area": "API / Intermediates",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "DD News",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this API / Intermediates development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 11,
+      "fact_status": "Reported by DD News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "DD News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk80cVZnekdZSG84U1R2X0d5ZkkzT3RJdjZBM1kzajdaQmZVaXdOZGR1cGY1SDVvS09weHRPR2hOVmwzV3hmbEJydnFOS0hzS0hLUGx5aUR3c3VRZXVfYnFIQlZ2NTh4d1Q3MzJLcnRuSlFFYUVwQWU3TnQ2aVROci1SdTNGdHdaYXBzcGFDaWpvdGFfWmExdURCNkRVYlhTWDhPN2ZtbHBfOUo0WGt1OWV1V25yRTdxZnc1Uk50XzRnaXM?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Vizag / AP",
       "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
       "description": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5",
@@ -431,16 +511,20 @@
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
-        },
-        {
           "source": "CNBC TV18",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm0yZXZOdkpLcWZtSDBoNGFLVHAyLTRZUHliRU9LeEhwNzBLbEtaLW95VmNQXzAtc0RtVFBQbjBzbXdTb2RJYUtNdWI5YnFscVgxNlhuelViNjA5NE11U1ByY2w2TWViZ1NPVXk2S05maE9vTmhjSGY5b1lwbzdLRlpDWENLc3p3S1BiOUlKY0dNNDlCemFaZ3FFYjRBdkk5RXY0ZmY1NHVfNVlUWmZLVkpBMWJBSGVLd0s1NzJGS0jSAcYBQVVfeXFMT1lzeGpFMExIUlhuS1ZwWmpyUnU2aDdIb0M2aUI3M3FlX3c3RlNTa0ZvU19oekp4N0w1RzM4VDJ3SXpVT3AyRVdQMEhob3BxNHA2S2ZGTkloTFdOUUFjcGwxcHEwaU04ME80YWZ6QVlVUkZabWFrcGt0cWo2bGVuOVhQc2N4blpjamFKZkpZS2hWUmxFTXJqM3pQMEowd2JDMEgxeGg4Sk50UFZFazl2bVNWdTRtSi1oaDJyNkdJYVE1b2l4a1dB?oc=5"
         },
         {
           "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5"
+        },
+        {
+          "source": "Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
+        },
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW9PdnFUVTFuaW9HWTlfZjFKUVRIZFBNVzJyLUpWYW5SYnZMRXQ2cGlOSXhWNmpJSDZ4MzJrU0QtYTZCeTllcWJyenNpZ1k3bXE5TU4wN3FFTUt4SnJ0cmZHczZ0cklrVkM1TkExeVR2UkF4UnBfTHIxMVpHQTR3WjM1QWRJSzcxYk94Zzg5X2U2NWlFVC12dV9nT0VIQWtmQTBjSWgzeGk1NWVKcnFlMUt0Z2Z1aEtnM1VjdlVreTRDNmIzN3ZIZmlxdVhua0RnbndzTWc5QU1ZVjhUYUk2Wm5ZSnNRX21sMHJ0NjZuc21SRlRFamlKUHpsaEk2OXlCT0xPLWwyYnhsOWJ40gGSAkFVX3lxTE9HellVN2JNZGlQRXg0SGt5cGhWeEZPRUxja0Y4SFJXR0QxakFJUTdLM2p4TTQ5NEhxdnVvcUxsMkFhZVVWLUlVbkFSQmFCNWY0Xzg0c0JaSHljV2xqakFneUNXQlI0MDVBa0RnUVhCczI1NGlKNEhWUG0zbzVYLW5wSmNoSlktODh0Q2JqZ1VwMUhCVUFNcWVyemh0VjJqM0UzaUxWbHFrSDJ2STFsbVNSSHdEeEFuRWpWOGlVcWRxMFVXV0d2ZWo0VkZzY0o2NnZ2eFhhRm5FeWlLMVM1T2h0T1dEeTFKWTBidU54c1BqZldZaXRYSWdBYzhac29fOGNpRHBxRDZDdXFKbFBIU2M0RGc?oc=5"
         }
       ]
     },
