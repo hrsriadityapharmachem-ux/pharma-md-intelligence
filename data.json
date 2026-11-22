@@ -1,52 +1,13 @@
 {
-  "updated": "2026-11-21T22:25:50.722147+00:00",
+  "updated": "2026-11-22T02:35:49.271825+00:00",
   "engine_version": "3.8.0",
-  "article_count": 10,
+  "article_count": 8,
   "opportunity_count": 0,
   "risk_count": 4,
-  "watch_count": 4,
-  "high_priority_count": 3,
+  "watch_count": 3,
+  "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
-    {
-      "category": "Vizag / AP",
-      "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
-      "description": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5",
-      "published": "2026-11-20T13:39:00+00:00",
-      "source": "Kalkine India",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "NATCO Pharma",
-        "Visakhapatnam NATCO Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Kalkine India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
-      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5"
-        }
-      ]
-    },
     {
       "category": "Vizag / AP",
       "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
@@ -134,6 +95,44 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5"
         }
       ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "description": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5",
+      "published": "2026-11-22T02:06:48+00:00",
+      "source": "The 420.in",
+      "signal": "Risk",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [
+        "Natco Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The 420.in",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 13,
+      "fact_status": "Reported by The 420.in; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The 420.in",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5"
+        }
+      ]
     }
   ],
   "business_signals": {
@@ -142,18 +141,13 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 3,
+    "Regulatory": 2,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
-    "Pharma Industry": 1
+    "Pharma Industry": 2
   },
   "daily_brief": {
     "attention": [
-      {
-        "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
-        "signal": "Risk",
-        "why": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
-      },
       {
         "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
         "signal": "Risk",
@@ -163,21 +157,64 @@
         "title": "Natco Pharma receives seven observations following US FDA inspection",
         "signal": "Risk",
         "why": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+      },
+      {
+        "title": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+        "signal": "Risk",
+        "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
       }
     ],
     "investigate": [
       {
-        "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
+        "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
+        "title": "Natco Pharma receives seven observations following US FDA inspection",
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "description": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5",
+      "published": "2026-11-22T02:06:48+00:00",
+      "source": "The 420.in",
+      "signal": "Risk",
+      "business_area": "Pharma Industry",
+      "priority": "Medium",
+      "relevance": "Potential operational or commercial exposure requiring verification.",
+      "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
+      "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
+      "companies": [
+        "Natco Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "The 420.in",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential business or operational risk requires verification.",
+      "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 13,
+      "fact_status": "Reported by The 420.in; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The 420.in",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5"
+        }
+      ]
+    },
     {
       "category": "Hyderabad",
       "title": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
@@ -405,81 +442,6 @@
     },
     {
       "category": "Vizag / AP",
-      "title": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
-      "description": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5",
-      "published": "2026-11-20T13:39:00+00:00",
-      "source": "Kalkine India",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "NATCO Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "NATCO Pharma",
-        "Visakhapatnam NATCO Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Kalkine India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "NATCO Pharma (NSE: NATCOPHARM): FDA inspection report for Visakhapatnam.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
-      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ00yRDhjdGJkdFNXMXZhRjFFZWlySDQ2S1c2UG10MXN5SzRPaDktSG9lQm9xTHA4dHlvZ1V3MV81ZVl0QWhseExXYVY5dHNtMVlRN091MENfYmZiZnd6anpIV2ZZVktRcXNDUlJGUXYwc1BjckFMU1Zlcm5vanhzZmE4Rm4yaUo4dWt5NG9hRzBBdUhPS1hEU1VFaDR6WWxiaEtWNEV6alVhaEp3cmRjRGpn?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
-      "description": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk80cVZnekdZSG84U1R2X0d5ZkkzT3RJdjZBM1kzajdaQmZVaXdOZGR1cGY1SDVvS09weHRPR2hOVmwzV3hmbEJydnFOS0hzS0hLUGx5aUR3c3VRZXVfYnFIQlZ2NTh4d1Q3MzJLcnRuSlFFYUVwQWU3TnQ2aVROci1SdTNGdHdaYXBzcGFDaWpvdGFfWmExdURCNkRVYlhTWDhPN2ZtbHBfOUo0WGt1OWV1V25yRTdxZnc1Uk50XzRnaXM?oc=5",
-      "published": "2026-11-20T10:05:41+00:00",
-      "source": "DD News",
-      "signal": "General",
-      "business_area": "API / Intermediates",
-      "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "DD News",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "PLI schemes strengthen India’s pharmaceutical, bulk drugs and medical devices manufacturing ecosystem.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this API / Intermediates development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 11,
-      "fact_status": "Reported by DD News; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "DD News",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk80cVZnekdZSG84U1R2X0d5ZkkzT3RJdjZBM1kzajdaQmZVaXdOZGR1cGY1SDVvS09weHRPR2hOVmwzV3hmbEJydnFOS0hzS0hLUGx5aUR3c3VRZXVfYnFIQlZ2NTh4d1Q3MzJLcnRuSlFFYUVwQWU3TnQ2aVROci1SdTNGdHdaYXBzcGFDaWpvdGFfWmExdURCNkRVYlhTWDhPN2ZtbHBfOUo0WGt1OWV1V25yRTdxZnc1Uk50XzRnaXM?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Vizag / AP",
       "title": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
       "description": "NATCO Pharma receives FDA Establishment Inspection Report for Vishakhapatnam plant",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeUtaaEdRV3lmWW5tUHl5bmRkT1NPeWdUZlcxZ0tiZks0UjdVcTN5U3NjMFdLYVRoTVNYR0FxZmVNSVZaMldqcGZnMUVuOEhEY1pMQmpjbXZXS0RCcElwcEpJVXp0dS1DbDd1MGt3SERsb0hLY21QRjVXRXdTOG00MzdWWkc2Vng5dTI3MkRoekFOWnhDVWJ6NnVEOWJZbVZLeDBCUmFhdXR1ekVENU9mUWFFbHBIUkl2UC1WcGhuWE1ISzZxRnBaazFHS2Y4WUlLLTREMWtwai01WWFld0FmYU1wWUh0LUFPN1k4T3VNa1h4SUNmNFhTU2VIalQ3ZzVxdjlMTFRNTl91bGNncXJhZll0cjJoU3la0gGQAkFVX3lxTE5KdkVIRFFfZ1UyZmdKbGZfUEZ4OHp5OXFNbUVQTHppb25ZLUN3YW93TmRIdGV6ZUlCQkY0MzE3Q1A4S09KakVaWkFZUktSRkFXMHJIM0ltbHZQTXhLdkRMTUtqbUZtQWp3RWxnVldlWWZGOWZmbldTbGFtR3dBZmZjQm5NSHVTMkdLZXFXMmgxU1hoNV9YLTI0Q0JySU9KWERZbGJiUUg2NHh1bGlQWEFpLW1GWjJBVkJmVVQ3NFhZS0ZTUUUySnNvX0pzWkc5Um1nTWNJV1NUZVQxVkpMX0RqRGZEMGNJVXduQUw1c3ZVMTFwVHFqY1BHLXZhV2VoTEZIZUJaZEphLXA5eWxGcUg2?oc=5",
@@ -525,44 +487,6 @@
         {
           "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW9PdnFUVTFuaW9HWTlfZjFKUVRIZFBNVzJyLUpWYW5SYnZMRXQ2cGlOSXhWNmpJSDZ4MzJrU0QtYTZCeTllcWJyenNpZ1k3bXE5TU4wN3FFTUt4SnJ0cmZHczZ0cklrVkM1TkExeVR2UkF4UnBfTHIxMVpHQTR3WjM1QWRJSzcxYk94Zzg5X2U2NWlFVC12dV9nT0VIQWtmQTBjSWgzeGk1NWVKcnFlMUt0Z2Z1aEtnM1VjdlVreTRDNmIzN3ZIZmlxdVhua0RnbndzTWc5QU1ZVjhUYUk2Wm5ZSnNRX21sMHJ0NjZuc21SRlRFamlKUHpsaEk2OXlCT0xPLWwyYnhsOWJ40gGSAkFVX3lxTE9HellVN2JNZGlQRXg0SGt5cGhWeEZPRUxja0Y4SFJXR0QxakFJUTdLM2p4TTQ5NEhxdnVvcUxsMkFhZVVWLUlVbkFSQmFCNWY0Xzg0c0JaSHljV2xqakFneUNXQlI0MDVBa0RnUVhCczI1NGlKNEhWUG0zbzVYLW5wSmNoSlktODh0Q2JqZ1VwMUhCVUFNcWVyemh0VjJqM0UzaUxWbHFrSDJ2STFsbVNSSHdEeEFuRWpWOGlVcWRxMFVXV0d2ZWo0VkZzY0o2NnZ2eFhhRm5FeWlLMVM1T2h0T1dEeTFKWTBidU54c1BqZldZaXRYSWdBYzhac29fOGNpRHBxRDZDdXFKbFBIU2M0RGc?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
-      "description": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5",
-      "published": "2026-11-20T08:44:05+00:00",
-      "source": "SCC Online",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The report concerns an ownership change involving Bliss GVS Pharma and the target company. It could alter product ownership, facility strategy or sourcing relationships, but the headline does not establish any direct effect on Sri Aditya. Confirm transaction status and the companies' product and facility portfolios before acting.",
-      "md_action": "Confirm the reported transaction between Bliss GVS Pharma and the target company, including regulatory/closing status. Review their product portfolios, sites and sourcing model; record a Sri Aditya implication only if a specific customer, supplier, competitor or capacity link is evidenced.",
-      "companies": [
-        "Bliss GVS Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "SCC Online",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Investment / Acquisition",
-      "what_happened": "SAM Advises Anupam Rasayan on Bliss GVS Pharma Acquisition.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What are the buyer, target, transaction status, product portfolio and facility implications?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 9,
-      "fact_status": "Reported by SCC Online; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "SCC Online",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkxUZ0tvcUc0RXBMYnZHTG9COVlFSXo0S2RtbkJYRHNZeUtncll0VmdzM2FEYVBYRnFDYmhLYkl3TlNjSVBsY2RrXzkxb1FHSHdiLW9RbmNuSXFLRkxhbWQ1YXgtc0J3bGg2WktDT19SekZTcmZOSlZqMmd6U3lxS09NYzZEeEhIZ2k0emc0VHpxbVdzdjdBS1l6Y3hsYWhDTFhySFJaZE93RFhnR3RsNG1ERkxGVURJZ3Qw?oc=5"
         }
       ]
     }
