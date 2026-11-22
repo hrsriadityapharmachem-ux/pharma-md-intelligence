@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T17:55:51.020483+00:00",
+  "updated": "2026-11-22T23:31:46.229601+00:00",
   "engine_version": "3.8.0",
-  "article_count": 7,
+  "article_count": 5,
   "opportunity_count": 0,
   "risk_count": 3,
-  "watch_count": 2,
+  "watch_count": 1,
   "high_priority_count": 2,
   "successful_feeds": 20,
   "must_know": [
@@ -356,84 +356,6 @@
         {
           "source": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0dFZVBnTE8wRGZvclpNV2REd1pidEZJbmJZd3NmaXBfLVhUVTJaNkY1U3FKMm5fSlBHZUxaODBQcWpiRnZjV1I1R096c0RUYlhuTTNRdUdOajlMX3Y0aUlOeHczdEhJR0hmM0tqY1ZoVkFUbVJBZV9TbmU1YW82b3ItVzU1REk3dDhyMWlLUDF3b2pDLWxONHlzdnZMZ1E1S3BxY191X3d1OWd1RDdoTk5MTkhlbDZ0cXJZbGlWX1FpQjJUTjdlVFdMRzdZb2FQY0xwVWVjQmxaVjBmNUpobFN4QdIB6AFBVV95cUxQR2ZRQlVQbGM5cVhJT3dxQnJGeXdvc2UwUy1WMGJRNzlFcTNDZXZBSUJ3X001TjdEZW9LNnlwd0tndDNGcDhIQlVMaml6dFNrMG5xTnBmNjU0RGxoQ1dCcmVUdTFlWHhLblg1QnRQTTQ3Ni1PNVVoNHh6c3RrVmpFV3BMc254U2lkcFNjanRJc1dmYjNWdk1tQXNzbTdPcmlLbjJtQTU0T2FadzlNNlRTNnp6aW0tVDBVWnNqem1tTUZIZjdQX1UtMFNnMGRUZElVOVpfcXh2SmJPTnNlTFlLRmJhalhxcDYw?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India’s Pharma Exports To Reach US$ 50 Bn By ’30",
-      "description": "India’s Pharma Exports To Reach US$ 50 Bn By ’30",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzZ6cnZaS0RaWlV5Uk9EZ2tQMGEwNi1GVDUzYWxjLXozbmVuZFRyQkE1YVRvMjdVYzk2WGhoR3RZZG1RTG9wdWF6OGpvV21Ua0M4a0hfT3gyelY3dUxjakl2a3ZmRTUzaWtYb1o5TmQwQV9vTUhOdmpFSUlOeGdSbndYWVdxWkU0R1lBZXFVQ0NQdnBaN3NDYl92MEJhdmUwOWZLR2VLWlV2NVd1UnJFUUZYTQ?oc=5",
-      "published": "2026-11-20T18:22:00+00:00",
-      "source": "https://www.fintechbiznews.com/",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "50 bn",
-        "$ 50 bn"
-      ],
-      "source_name": "https://www.fintechbiznews.com/",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India’s Pharma Exports To Reach US$ 50 Bn By ’30.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by https://www.fintechbiznews.com/; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "https://www.fintechbiznews.com/",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzZ6cnZaS0RaWlV5Uk9EZ2tQMGEwNi1GVDUzYWxjLXozbmVuZFRyQkE1YVRvMjdVYzk2WGhoR3RZZG1RTG9wdWF6OGpvV21Ua0M4a0hfT3gyelY3dUxjakl2a3ZmRTUzaWtYb1o5TmQwQV9vTUhOdmpFSUlOeGdSbndYWVdxWkU0R1lBZXFVQ0NQdnBaN3NDYl92MEJhdmUwOWZLR2VLWlV2NVd1UnJFUUZYTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "SAP Expands Pharma Footprint with AstraZeneca Partnership",
-      "description": "SAP Expands Pharma Footprint with AstraZeneca Partnership",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTU5cjVNbVdCSlZkOHcyNWtxU1V3RnZmSV95UzRxNkNmbHFWSDljV3VydEp4dU5oaTVidTNQWnpmMlF5aVlWU2lCaExjZHMxQnFDRG14ZHlSX2Y2YUZyeDVUQ1BoNG84VGxDSTYxM0NSUjRVcFlvRmVSSE5PTkdCMUlRcWlBZ1lrQkJ5MlFSaEprV3BYVWJjaw?oc=5",
-      "published": "2026-11-20T18:01:47+00:00",
-      "source": "Healthcare Digital",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [
-        "SAP Expands Pharma",
-        "Partnership SAP Expands Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Healthcare Digital",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "SAP Expands Pharma Footprint with AstraZeneca Partnership.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by Healthcare Digital; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Healthcare Digital",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTU5cjVNbVdCSlZkOHcyNWtxU1V3RnZmSV95UzRxNkNmbHFWSDljV3VydEp4dU5oaTVidTNQWnpmMlF5aVlWU2lCaExjZHMxQnFDRG14ZHlSX2Y2YUZyeDVUQ1BoNG84VGxDSTYxM0NSUjRVcFlvRmVSSE5PTkdCMUlRcWlBZ1lrQkJ5MlFSaEprV3BYVWJjaw?oc=5"
         }
       ]
     }
