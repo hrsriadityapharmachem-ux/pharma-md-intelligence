@@ -1,104 +1,58 @@
 {
-  "updated": "2026-11-23T03:58:00.027147+00:00",
+  "updated": "2026-11-23T14:23:02.858686+00:00",
   "engine_version": "3.8.0",
-  "article_count": 4,
+  "article_count": 5,
   "opportunity_count": 0,
-  "risk_count": 3,
+  "risk_count": 2,
   "watch_count": 1,
-  "high_priority_count": 2,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
     {
       "category": "Hyderabad",
-      "title": "Natco Pharma receives US FDA observations following Hyderabad facility inspection",
-      "description": "Natco Pharma receives US FDA observations following Hyderabad facility inspection",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5",
-      "published": "2026-11-21T06:43:12+00:00",
-      "source": "Business Upturn",
+      "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
+      "description": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5",
+      "published": "2026-11-23T03:27:05+00:00",
+      "source": "indica News",
       "signal": "Risk",
       "business_area": "Regulatory",
       "priority": "High",
       "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "why_it_matters": "Inspection Of Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
       "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
       "companies": [
-        "Natco Pharma"
+        "Inspection Of Natco Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Business Upturn",
+      "source_name": "indica News",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "Natco Pharma receives US FDA observations following Hyderabad facility inspection.",
+      "what_happened": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
       "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 75,
       "importance_score": 18,
-      "fact_status": "Reported by Business Upturn; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
-        {
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
-        },
         {
           "source": "indica News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5"
-        },
-        {
-          "source": "Sahi",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1ZOWThnaXpkSVFDRk9VVE5POE1vbDdYMVNwRklvcUJsYkZRWGlWbUdLNi02ZWpmTWZjOUlsUUlEcVctdV9lTXlVLU1HMk02WmlVZW9taHpNcUVhZGJCWUFhZ19ZQ01IM21jMlJHbllQeXUyaWFJaWY3bkZqcTlXUXdLdXNjMUVCdzNkOExBU2pBRzRrRUsxdmV4ZVduUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Natco Pharma receives seven observations following US FDA inspection",
-      "description": "Natco Pharma receives seven observations following US FDA inspection",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5",
-      "published": "2026-11-21T06:13:11+00:00",
-      "source": "Business Upturn",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Natco Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Upturn",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Natco Pharma receives seven observations following US FDA inspection.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Business Upturn; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5"
         }
       ]
     },
     {
       "category": "Hyderabad",
-      "title": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
-      "description": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3l5eV8yS3NWbkh4OFRUcEZZSm9Ial9ZWGsxWmpGQUwyaW1pZ05kaFozQUJhdmx3OVFHVWpyVDZxelZvLUNKSmphUHF3XzZrZlRFUHhkdFQ2amZtcGROUnpmSUxSZHFmZ2tqZEEwcHdVRWppVEh1UG9sbWhobEZCVTNIaGZnX0Z2dXN6WGVR?oc=5",
-      "published": "2026-11-21T13:30:00+00:00",
-      "source": "Voice of Healthcare",
+      "title": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "description": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5",
+      "published": "2026-11-22T02:06:48+00:00",
+      "source": "The 420.in",
       "signal": "Risk",
       "business_area": "Pharma Industry",
       "priority": "Medium",
@@ -106,27 +60,65 @@
       "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
       "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
       "companies": [
-        "NATCO Pharma"
+        "Natco Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Voice of Healthcare",
+      "source_name": "The 420.in",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "USFDA Issues 7 Form 483 Observations to NATCO Pharma.",
+      "what_happened": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential business or operational risk requires verification.",
       "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 75,
       "importance_score": 13,
-      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by The 420.in; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Voice of Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3l5eV8yS3NWbkh4OFRUcEZZSm9Ial9ZWGsxWmpGQUwyaW1pZ05kaFozQUJhdmx3OVFHVWpyVDZxelZvLUNKSmphUHF3XzZrZlRFUHhkdFQ2amZtcGROUnpmSUxSZHFmZ2tqZEEwcHdVRWppVEh1UG9sbWhobEZCVTNIaGZnX0Z2dXN6WGVR?oc=5"
+          "source": "The 420.in",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "LPU and Biodeal Pharmaceuticals Explore Research Collaboration",
+      "description": "LPU and Biodeal Pharmaceuticals Explore Research Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGZlWnRCVW1BQkhGQUVKNGJzOHFuaHNybDFobFg1T041ZzEtQjBZRWt4Zkw1M0drOFRGUUY0Z2E2a0RhakVmamVRcnlqZlZFdFZwVHYzb0V3MkMwUnpzN1JwWXAzU0l1dG5mUUhqS2xCd05mWS1XclRFYlMtOER6NjVCS3p6R1cxVDBOc19MbGFkQ05OQ1Buc1FJdDJrUjl5RmpSMjg2R0NDcHpxWHJ4MUR6SFZiR1k1MW84bFEwZ2pYRFFqdnA2OFc4VzVJUXhZNG14YTNMU21hcW83UkNEQUl0STNlVEtOWW1OQ0N3?oc=5",
+      "published": "2026-11-23T08:08:10+00:00",
+      "source": "Passionate In Marketing",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "Biodeal Pharmaceuticals"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Passionate In Marketing",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "LPU and Biodeal Pharmaceuticals Explore Research Collaboration.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Passionate In Marketing; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Passionate In Marketing",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGZlWnRCVW1BQkhGQUVKNGJzOHFuaHNybDFobFg1T041ZzEtQjBZRWt4Zkw1M0drOFRGUUY0Z2E2a0RhakVmamVRcnlqZlZFdFZwVHYzb0V3MkMwUnpzN1JwWXAzU0l1dG5mUUhqS2xCd05mWS1XclRFYlMtOER6NjVCS3p6R1cxVDBOc19MbGFkQ05OQ1Buc1FJdDJrUjl5RmpSMjg2R0NDcHpxWHJ4MUR6SFZiR1k1MW84bFEwZ2pYRFFqdnA2OFc4VzVJUXhZNG14YTNMU21hcW83UkNEQUl0STNlVEtOWW1OQ0N3?oc=5"
         }
       ]
     }
@@ -137,7 +129,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 2,
+    "Regulatory": 1,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 1
@@ -145,41 +137,195 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Natco Pharma receives US FDA observations following Hyderabad facility inspection",
+        "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
         "signal": "Risk",
-        "why": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+        "why": "Inspection Of Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
       },
       {
-        "title": "Natco Pharma receives seven observations following US FDA inspection",
-        "signal": "Risk",
-        "why": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
-      },
-      {
-        "title": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
+        "title": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
         "signal": "Risk",
         "why": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification."
+      },
+      {
+        "title": "LPU and Biodeal Pharmaceuticals Explore Research Collaboration",
+        "signal": "Watch",
+        "why": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established."
       }
     ],
     "investigate": [
       {
-        "title": "Natco Pharma receives US FDA observations following Hyderabad facility inspection",
+        "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
         "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
       },
       {
-        "title": "Natco Pharma receives seven observations following US FDA inspection",
-        "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
+        "title": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+        "question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
+      "category": "India",
+      "title": "India's pharma exports expected to top $33 bn in FY27: Pharmexcil DG",
+      "description": "India's pharma exports expected to top $33 bn in FY27: Pharmexcil DG",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTVd4LU5scWZCbGtpQzJTQl9jdnh5UVh4ZHpRTWJ3QlEyUGY3dU5JTk91ZjFLNHlETjRMbGlLQ2RuVW9ycnREV2tyLWRHdUR5LTB5dDAtZVViY2F5eWx0OE5hdWEzTXdpcnB6TzFfakhVMkx0SDRkcUc3Zmk5a3hUQzlyall2MldhS2tGOWxkZHFOaHFvSVBtcFBXVXVJYTlMT0preUhlVkRXRkYzbXdaZ1JaUFZTNTZyWmVSSjFvUU9mLV9JRzRrQkhyVEkxLWtReDg3d2p2V2E0VmMwbEHSAeMBQVVfeXFMTl9PYmpTT3FfaURkd05GUEEzZ21TUUt1VjdVWFNXc1hCemMyLThQaTZfdkE1RVk1VHJQMExzcS1peGFzNnhIQS1TZklCNHBaZmljZ09iZVE5VU5mZUdrTDItOU9QbWx6TjNWN1pGTFh1d1F1LU9MaGZ3dlJRYVZqSzBLWnJ1WHVPVnBzOXhhOWJhWTFwUFExTkY1Mnpra1FxUlJVNnozNC1lOEVUMU15RXhiMmpCQ0R0S0RWUDB4bjdCemNoRV9fUnlod1BmTE5pUkdWNGRieEFjOGVmVURzUnJjUDQ?oc=5",
+      "published": "2026-11-23T13:51:03+00:00",
+      "source": "ET Manufacturing",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "33 bn",
+        "$33 bn"
+      ],
+      "source_name": "ET Manufacturing",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India's pharma exports expected to top $33 bn in FY27: Pharmexcil DG.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by ET Manufacturing; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "ET Manufacturing",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTVd4LU5scWZCbGtpQzJTQl9jdnh5UVh4ZHpRTWJ3QlEyUGY3dU5JTk91ZjFLNHlETjRMbGlLQ2RuVW9ycnREV2tyLWRHdUR5LTB5dDAtZVViY2F5eWx0OE5hdWEzTXdpcnB6TzFfakhVMkx0SDRkcUc3Zmk5a3hUQzlyall2MldhS2tGOWxkZHFOaHFvSVBtcFBXVXVJYTlMT0preUhlVkRXRkYzbXdaZ1JaUFZTNTZyWmVSSjFvUU9mLV9JRzRrQkhyVEkxLWtReDg3d2p2V2E0VmMwbEHSAeMBQVVfeXFMTl9PYmpTT3FfaURkd05GUEEzZ21TUUt1VjdVWFNXc1hCemMyLThQaTZfdkE1RVk1VHJQMExzcS1peGFzNnhIQS1TZklCNHBaZmljZ09iZVE5VU5mZUdrTDItOU9QbWx6TjNWN1pGTFh1d1F1LU9MaGZ3dlJRYVZqSzBLWnJ1WHVPVnBzOXhhOWJhWTFwUFExTkY1Mnpra1FxUlJVNnozNC1lOEVUMU15RXhiMmpCQ0R0S0RWUDB4bjdCemNoRV9fUnlod1BmTE5pUkdWNGRieEFjOGVmVURzUnJjUDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil",
+      "description": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObnRWRHRseGpZU1QzUVpqUmVNRGFSaHk1VUlqX01Ya0djbV9rU2dIV0VleWktLTFTY0JRc0RzeXpBckJqczlHTnlmVTlCMDVrdmFzVDBQNUtaX2ZqT1NRTFc1ZlM2NDluWGxoMzFrYjg1RkMxa0ptdnlCc210b1BGNXB1VFdKQVhMOWdyVlpCelR5UC1EZXlKX1EwVjFScGxxclBzdWxIVlV1UF9Ud0tJcml6djhRZVl0T2w0aXJ3QnhqN3Y2MEtaS0dIbDFMcHFYU25TUkhCWFNtc0xaT29SOWZ5RVpSOUpkSWhNS0FfNDNTSWZLUlRjMkNqbE9raExkaGhuOFdScG1IZw?oc=5",
+      "published": "2026-11-23T13:25:23+00:00",
+      "source": "The Economic Times",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [
+        "33 billion",
+        "$33 billion"
+      ],
+      "source_name": "The Economic Times",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObnRWRHRseGpZU1QzUVpqUmVNRGFSaHk1VUlqX01Ya0djbV9rU2dIV0VleWktLTFTY0JRc0RzeXpBckJqczlHTnlmVTlCMDVrdmFzVDBQNUtaX2ZqT1NRTFc1ZlM2NDluWGxoMzFrYjg1RkMxa0ptdnlCc210b1BGNXB1VFdKQVhMOWdyVlpCelR5UC1EZXlKX1EwVjFScGxxclBzdWxIVlV1UF9Ud0tJcml6djhRZVl0T2w0aXJ3QnhqN3Y2MEtaS0dIbDFMcHFYU25TUkhCWFNtc0xaT29SOWZ5RVpSOUpkSWhNS0FfNDNTSWZLUlRjMkNqbE9raExkaGhuOFdScG1IZw?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "LPU and Biodeal Pharmaceuticals Explore Research Collaboration",
+      "description": "LPU and Biodeal Pharmaceuticals Explore Research Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGZlWnRCVW1BQkhGQUVKNGJzOHFuaHNybDFobFg1T041ZzEtQjBZRWt4Zkw1M0drOFRGUUY0Z2E2a0RhakVmamVRcnlqZlZFdFZwVHYzb0V3MkMwUnpzN1JwWXAzU0l1dG5mUUhqS2xCd05mWS1XclRFYlMtOER6NjVCS3p6R1cxVDBOc19MbGFkQ05OQ1Buc1FJdDJrUjl5RmpSMjg2R0NDcHpxWHJ4MUR6SFZiR1k1MW84bFEwZ2pYRFFqdnA2OFc4VzVJUXhZNG14YTNMU21hcW83UkNEQUl0STNlVEtOWW1OQ0N3?oc=5",
+      "published": "2026-11-23T08:08:10+00:00",
+      "source": "Passionate In Marketing",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "Biodeal Pharmaceuticals"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Passionate In Marketing",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "LPU and Biodeal Pharmaceuticals Explore Research Collaboration.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 65,
+      "importance_score": 3,
+      "fact_status": "Reported by Passionate In Marketing; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Passionate In Marketing",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGZlWnRCVW1BQkhGQUVKNGJzOHFuaHNybDFobFg1T041ZzEtQjBZRWt4Zkw1M0drOFRGUUY0Z2E2a0RhakVmamVRcnlqZlZFdFZwVHYzb0V3MkMwUnpzN1JwWXAzU0l1dG5mUUhqS2xCd05mWS1XclRFYlMtOER6NjVCS3p6R1cxVDBOc19MbGFkQ05OQ1Buc1FJdDJrUjl5RmpSMjg2R0NDcHpxWHJ4MUR6SFZiR1k1MW84bFEwZ2pYRFFqdnA2OFc4VzVJUXhZNG14YTNMU21hcW83UkNEQUl0STNlVEtOWW1OQ0N3?oc=5"
+        }
+      ]
+    },
+    {
       "category": "Hyderabad",
-      "title": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
-      "description": "USFDA Issues 7 Form 483 Observations to NATCO Pharma",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3l5eV8yS3NWbkh4OFRUcEZZSm9Ial9ZWGsxWmpGQUwyaW1pZ05kaFozQUJhdmx3OVFHVWpyVDZxelZvLUNKSmphUHF3XzZrZlRFUHhkdFQ2amZtcGROUnpmSUxSZHFmZ2tqZEEwcHdVRWppVEh1UG9sbWhobEZCVTNIaGZnX0Z2dXN6WGVR?oc=5",
-      "published": "2026-11-21T13:30:00+00:00",
-      "source": "Voice of Healthcare",
+      "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
+      "description": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5",
+      "published": "2026-11-23T03:27:05+00:00",
+      "source": "indica News",
+      "signal": "Risk",
+      "business_area": "Regulatory",
+      "priority": "High",
+      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
+      "why_it_matters": "Inspection Of Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
+      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "companies": [
+        "Inspection Of Natco Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "indica News",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
+      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 75,
+      "importance_score": 18,
+      "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "indica News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "description": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5",
+      "published": "2026-11-22T02:06:48+00:00",
+      "source": "The 420.in",
       "signal": "Risk",
       "business_area": "Pharma Industry",
       "priority": "Medium",
@@ -187,147 +333,27 @@
       "why_it_matters": "The development contains a potential operational or commercial risk; the affected products, counterparties and exposure need verification.",
       "md_action": "Review the development for possible operational, commercial or supply-chain impact.",
       "companies": [
-        "NATCO Pharma"
+        "Natco Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Voice of Healthcare",
+      "source_name": "The 420.in",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "USFDA Issues 7 Form 483 Observations to NATCO Pharma.",
+      "what_happened": "​Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "Potential business or operational risk requires verification.",
       "investigation_question": "What evidence would link this Pharma Industry development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 75,
       "importance_score": 13,
-      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by The 420.in; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Voice of Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3l5eV8yS3NWbkh4OFRUcEZZSm9Ial9ZWGsxWmpGQUwyaW1pZ05kaFozQUJhdmx3OVFHVWpyVDZxelZvLUNKSmphUHF3XzZrZlRFUHhkdFQ2amZtcGROUnpmSUxSZHFmZ2tqZEEwcHdVRWppVEh1UG9sbWhobEZCVTNIaGZnX0Z2dXN6WGVR?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "OPPI Annual Summit 2026 calls for stronger partnerships to advance pharma innovation and global leadership",
-      "description": "OPPI Annual Summit 2026 calls for stronger partnerships to advance pharma innovation and global leadership",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVBVYmxMMHctV2Rmc3QxTDFCLUVCdDJEQ3lrNnFGMV83Ry1NanV0bHRMeHB1Y3RmZVRPeUhETlNSUmQzTENQa1h5NlJBM0RNbXgxWkp1N3hrQUNfMWFDTW1TXzJXZHhLM2NSeW1GNWZCUkswYXZZSmpybzVhRVRPQnZINnhSTmVlRDZxblIwQWZCTkNreHBsTjZVTHNyZHNjRGhuYlhXWTR3SmFJR09lazhWT1dOSnNrdnM0R0hEM1QwQWJEQ0pNeGRpellPZHZnbElxbWxzeTZlRVd6RlRLSUFIVG5QMVYyaDhoQTU3NA?oc=5",
-      "published": "2026-11-21T10:06:42+00:00",
-      "source": "BioSpectrum India",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "BioSpectrum India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "OPPI Annual Summit 2026 calls for stronger partnerships to advance pharma innovation and global leadership.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by BioSpectrum India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BioSpectrum India",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVBVYmxMMHctV2Rmc3QxTDFCLUVCdDJEQ3lrNnFGMV83Ry1NanV0bHRMeHB1Y3RmZVRPeUhETlNSUmQzTENQa1h5NlJBM0RNbXgxWkp1N3hrQUNfMWFDTW1TXzJXZHhLM2NSeW1GNWZCUkswYXZZSmpybzVhRVRPQnZINnhSTmVlRDZxblIwQWZCTkNreHBsTjZVTHNyZHNjRGhuYlhXWTR3SmFJR09lazhWT1dOSnNrdnM0R0hEM1QwQWJEQ0pNeGRpellPZHZnbElxbWxzeTZlRVd6RlRLSUFIVG5QMVYyaDhoQTU3NA?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "Natco Pharma receives US FDA observations following Hyderabad facility inspection",
-      "description": "Natco Pharma receives US FDA observations following Hyderabad facility inspection",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5",
-      "published": "2026-11-21T06:43:12+00:00",
-      "source": "Business Upturn",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Natco Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Upturn",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Natco Pharma receives US FDA observations following Hyderabad facility inspection.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
-      "fact_status": "Reported by Business Upturn; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXRRV0pBNVY4RnVnNzc0cnlLR3FNbEJpdnozdnNzaGxodGRjS2Zub0E5OWRVd29jaXFFSFRERlFHbFYyYUlVMExhdnlkaHotdmJ3MnR0cVZhbXVrV0UzemRmVmlrdzdTRk1YUUVzazFDS2YzWWlxZ0plX0hSanFIMnN4b0lrMmg3QlZoY083bGlmdE5LY2RwODNjbk5zZVlTR2tkVnFyMmY2Q09EbC1HMVBvcVc5Nkw3Q0E?oc=5"
-        },
-        {
-          "source": "indica News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5"
-        },
-        {
-          "source": "Sahi",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1ZOWThnaXpkSVFDRk9VVE5POE1vbDdYMVNwRklvcUJsYkZRWGlWbUdLNi02ZWpmTWZjOUlsUUlEcVctdV9lTXlVLU1HMk02WmlVZW9taHpNcUVhZGJCWUFhZ19ZQ01IM21jMlJHbllQeXUyaWFJaWY3bkZqcTlXUXdLdXNjMUVCdzNkOExBU2pBRzRrRUsxdmV4ZVduUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Natco Pharma receives seven observations following US FDA inspection",
-      "description": "Natco Pharma receives seven observations following US FDA inspection",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5",
-      "published": "2026-11-21T06:13:11+00:00",
-      "source": "Business Upturn",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Natco Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Business Upturn",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Natco Pharma receives seven observations following US FDA inspection.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Business Upturn; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmNjQkFVWlZwWG10Mzh1Y19kcmlKSEliWTVvU0dTZTRMMVNJU3dDd1V5ZnZPTnVTeHVTdTJ6aVVqSW9aWDdSWVk3dThoTlhBY2xoTWRlSFBZYlZXZkJYazBSS2ljTzUxd3Y3UGh1clI1Vkp1dU5Wd1pLTElteVh4NjFCd1RPRjdhWk4zcGp2S2kxZmNyT0hhWUFqWWd6RjFHeUljWjJuRW0?oc=5"
+          "source": "The 420.in",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllyelRIbkZrS2taV3RFanFZYTRRbXllcVpFcDU3MFlIWXB2NW9uZVFsUmhVTjdxbzRDczNuUXZiNTZ0a1FIWjNNTUl0OVhWV2huckNMOG5GSVNuR1FSTktqNDlWY0VBTDZSUGxBdkdmMHRXTVRyaUFWZnJSemRRb0kxM2g4VnN5Q0FVWUN3NmFLSjR4MVR4cEdNcG1la20tMlE?oc=5"
         }
       ]
     }
