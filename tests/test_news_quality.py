@@ -51,6 +51,29 @@ class NewsQualityRegressionTests(unittest.TestCase):
         self.assertEqual(len(result), 1)
         self.assertGreaterEqual(len(result[0].get("related_sources", [])), 2)
 
+    def test_form_483_observations_are_watch_not_confirmed_risk(self):
+        headline = "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma's Hyderabad Plant"
+        self.assertEqual(news.determine_event_type(headline), "Regulatory Inspection / Observations")
+        self.assertEqual(news.determine_signal(headline), "Watch")
+        companies = news.detect_companies(headline, "")
+        self.assertIn("Natco Pharma", companies)
+        self.assertFalse(any(name.startswith("Inspection Of") for name in companies))
+
+    def test_paraphrased_natco_form_483_reports_are_deduplicated(self):
+        first_title = "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma's Hyderabad Plant"
+        second_title = "Natco Pharma Gets Form 483 With Seven Observations After USFDA Audit in Hyderabad"
+        articles = [
+            {"title": first_title, "link": "https://example.com/natco-1", "source": "Source One",
+             "priority": "High", "description": first_title, "published": "2026-11-23T03:27:05+00:00",
+             "companies": news.detect_companies(first_title, "")},
+            {"title": second_title, "link": "https://example.com/natco-2", "source": "Source Two",
+             "priority": "Medium", "description": second_title, "published": "2026-11-23T02:06:48+00:00",
+             "companies": news.detect_companies(second_title, "")},
+        ]
+        result = news.deduplicate_articles(articles)
+        self.assertEqual(len(result), 1)
+        self.assertGreaterEqual(len(result[0].get("related_sources", [])), 2)
+
     def test_paraphrased_headquarters_reports_are_deduplicated(self):
         articles = [
             {
