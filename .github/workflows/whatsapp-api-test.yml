@@ -1,0 +1,43 @@
+name: WhatsApp API Test
+on:
+  workflow_dispatch:
+    inputs:
+      confirm_send:
+        description: "Type YES to send the approved Meta hello_world test template"
+        required: true
+        type: string
+jobs:
+  send-test:
+    if: ${{ inputs.confirm_send == 'YES' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Validate required secrets
+        env:
+          WA_TOKEN: ${{ secrets.WHATSAPP_ACCESS_TOKEN }}
+          WA_PHONE_ID: ${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
+          WA_TO: ${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}
+        run: |
+          test -n "$WA_TOKEN" || (echo "Missing WHATSAPP_ACCESS_TOKEN" && exit 1)
+          test -n "$WA_PHONE_ID" || (echo "Missing WHATSAPP_PHONE_NUMBER_ID" && exit 1)
+          test -n "$WA_TO" || (echo "Missing WHATSAPP_RECIPIENT_NUMBER" && exit 1)
+      - name: Send Meta approved test template
+        env:
+          WA_TOKEN: ${{ secrets.WHATSAPP_ACCESS_TOKEN }}
+          WA_PHONE_ID: ${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
+          WA_TO: ${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}
+        run: |
+          set -euo pipefail
+          payload=$(jq -n --arg to "$WA_TO" '{
+            messaging_product: "whatsapp",
+            recipient_type: "individual",
+            to: $to,
+            type: "template",
+            template: { name: "hello_world", language: { code: "en_US" } }
+          }')
+          response=$(curl --fail-with-body --silent --show-error \
+            -X POST "https://graph.facebook.com/v25.0/${WA_PHONE_ID}/messages" \
+            -H "Authorization: Bearer ${WA_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data "$payload")
+          echo "$response" | jq '{messaging_product, contacts, messages: [.messages[]? | {id, message_status}]}'
