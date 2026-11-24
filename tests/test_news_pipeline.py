@@ -44,12 +44,14 @@ class NewsPipelineSmokeTest(unittest.TestCase):
         self.assertEqual(articles[0]["link"], "https://example.com/old-pharma-warning")
 
     def test_valid_feed_produces_fresh_valid_json(self):
-        rss = b"""<?xml version="1.0" encoding="UTF-8"?>
+        pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+        rss = f"""<?xml version="1.0" encoding="UTF-8"?>
         <rss version="2.0"><channel><title>Test Feed</title><item>
           <title>FDA issues warning letter to pharmaceutical manufacturing facility</title>
           <link>https://example.com/pharma-warning</link>
           <description>FDA warning letter for a pharmaceutical manufacturing facility.</description>
-        </item></channel></rss>"""
+          <pubDate>{pub_date}</pubDate>
+        </item></channel></rss>""".encode("utf-8")
         original_cwd = os.getcwd()
 
         with tempfile.TemporaryDirectory() as tmp:
