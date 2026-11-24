@@ -10,7 +10,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-EXPECTED_ENGINE = "3.8.0"
+EXPECTED_ENGINE = "3.9.0"
 MAX_FUTURE_SKEW = timedelta(minutes=10)
 REQUIRED_TOP_LEVEL = {
     "updated", "engine_version", "article_count", "opportunity_count",
@@ -84,6 +84,7 @@ def main():
             fail(f"{key}={data.get(key)} but article-derived count is {expected}")
 
     seen_links = set()
+    seen_titles = set()
     for index, article in enumerate(articles):
         label = f"articles[{index}]"
         if not isinstance(article, dict):
@@ -98,6 +99,21 @@ def main():
             fail(f"{label}.signal has unexpected value {article.get('signal')!r}")
         if article.get("priority") not in VALID_PRIORITIES:
             fail(f"{label}.priority has unexpected value {article.get('priority')!r}")
+        published = article.get("published")
+        if not isinstance(published, str) or not published.strip():
+            fail(f"{label}.published must contain an ISO-8601 publication timestamp")
+        try:
+            published_dt = datetime.fromisoformat(published.replace("Z", "+00:00"))
+        except ValueError:
+            fail(f"{label}.published is not a valid ISO-8601 timestamp: {published!r}")
+        if published_dt.tzinfo is None:
+            fail(f"{label}.published must include a timezone")
+        if published_dt.astimezone(timezone.utc) - now > MAX_FUTURE_SKEW:
+            fail(f"{label}.published is unexpectedly in the future")
+        normalized_title = " ".join(__import__("re").sub(r"[^a-z0-9]+", " ", article["title"].lower()).split())
+        if normalized_title in seen_titles:
+            fail(f"duplicate normalized headline found: {article['title']!r}")
+        seen_titles.add(normalized_title)
         if article.get("signal") == "Opportunity" and article.get("opportunity_status") not in {
             "Industry signal — not a confirmed Sri Aditya lead",
             "Sri Aditya referenced — verify commercial scope and counterparties",
