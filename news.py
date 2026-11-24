@@ -48,7 +48,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.8.0"
+ENGINE_VERSION = "3.9.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -137,7 +137,6 @@ RISK_KEYWORDS = [
     "restriction",
     "ban",
     "contamination",
-    "inspection",
     "regulatory action",
     "regulatory warning",
     "import alert",
@@ -151,7 +150,6 @@ RISK_KEYWORDS = [
     "quality issue",
     "failed inspection",
     "data integrity",
-    "483",
     "warning letter",
     "product recall",
     "plant closure",
@@ -306,7 +304,7 @@ BUSINESS_AREAS = {
 
 def get_feed(url):
 
-    for attempt in range(3):
+    for attempt in range(2):
 
         try:
 
@@ -329,7 +327,7 @@ def get_feed(url):
 
             with urllib.request.urlopen(
                 request,
-                timeout=30
+                timeout=20
             ) as response:
 
                 return response.read()
@@ -343,8 +341,8 @@ def get_feed(url):
                 e
             )
 
-            if attempt < 2:
-                time.sleep(3)
+            if attempt < 1:
+                time.sleep(2)
 
     return None
 
@@ -580,9 +578,18 @@ def determine_event_type(text):
     if any(x in lower for x in [
         "may review", "may investigate", "could review", "could investigate",
         "warning letter", "import alert", "regulatory action", "non-compliance",
-        "failed inspection", "fda warning", "ema warning"
+        "failed inspection", "fda warning", "ema warning",
+        "official action indicated", "oai classification"
     ]):
         return "Regulatory Action"
+
+    # Form 483 observations are not, by themselves, a final enforcement action.
+    if any(x in lower for x in [
+        "form 483", "483 observations", "inspection observations",
+        "seven observations", "7 observations", "inspection findings",
+        "usfda inspection", "fda inspection", "regulatory inspection"
+    ]):
+        return "Regulatory Inspection / Observations"
 
     if any(x in lower for x in [
         "shortage", "supply disruption", "supply chain disruption",
@@ -642,14 +649,16 @@ def determine_event_type(text):
 
 
 def determine_confidence(signal, source_name, event_type):
-    score = 45
+    # Confidence measures evidence strength, not headline importance.
+    # A named publisher is secondary reporting, not primary confirmation.
+    score = 35
     if source_name != "Google News RSS":
-        score += 20
-    if signal in ["Risk", "Opportunity"]:
         score += 10
+    if signal in ["Risk", "Opportunity"]:
+        score += 5
     if event_type in ["Regulatory Action", "Supply Disruption", "Commercial Agreement", "Capacity Expansion"]:
         score += 5
-    return min(score, 90)
+    return min(score, 65)
 
 
 def determine_evidence_level(source_name):
@@ -734,6 +743,8 @@ def build_investigation_question(event_type, business_area):
         return "Which materials, suppliers, routes or customers could be affected, and what alternatives exist?"
     if event_type in ["Regulatory Action", "Regulatory Approval"]:
         return "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+    if event_type == "Regulatory Inspection / Observations":
+        return "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?"
     if event_type == "Market / Export Move":
         return "Which target market and product categories are involved, and what access requirements apply?"
     return f"What evidence would link this {business_area} development to Sri Aditya's products, customers or suppliers?"
@@ -759,7 +770,10 @@ def determine_signal(text):
     potential_regulatory = [
         "may review", "may investigate", "could review", "could investigate",
         "likely to review", "reportedly considering", "proposed action",
-        "possible action", "plans to review", "considering action"
+        "possible action", "plans to review", "considering action",
+        "form 483", "483 observations", "inspection observations",
+        "seven observations", "7 observations", "inspection findings",
+        "usfda inspection", "fda inspection", "regulatory inspection"
     ]
     regulatory_context = [
         "regulator", "regulatory", "fda", "ema", "cdsco", "inspection",
@@ -768,12 +782,31 @@ def determine_signal(text):
     if any(x in lower for x in potential_regulatory) and any(x in lower for x in regulatory_context):
         return "Watch"
 
+    # A routine inspection or Form 483 is a verification item unless an
+    # explicit adverse enforcement outcome is also reported.
+    inspection_only = any(x in lower for x in [
+        "form 483", "483 observations", "inspection observations",
+        "seven observations", "7 observations", "inspection findings",
+        "usfda inspection", "fda inspection", "regulatory inspection"
+    ])
+    explicit_enforcement = any(x in lower for x in [
+        "warning letter", "import alert", "official action indicated",
+        "oai classification", "recall", "contamination", "failed inspection",
+        "suspension of manufacturing", "manufacturing licence cancelled",
+        "manufacturing license cancelled"
+    ])
+    if inspection_only and not explicit_enforcement:
+        return "Watch"
+
     confirmed_risk = [
         "supply disruption", "supply chain disruption", "shortage",
         "production halt", "plant closure", "recall", "warning letter",
         "import alert", "export restriction", "failed inspection",
         "contamination", "regulatory action", "regulatory warning",
-        "sanction", "ban on", "suspended", "suspension of manufacturing"
+        "sanction", "ban on", "suspended", "suspension of manufacturing",
+        "official action indicated", "oai classification",
+        "manufacturing licence cancelled", "manufacturing license cancelled",
+        "product found adulterated", "critical quality defect"
     ]
     if any(x in lower for x in confirmed_risk):
         return "Risk"
@@ -870,7 +903,9 @@ def detect_companies(title, description):
     stop_prefixes = {
         "with acquisition", "acquisition of", "expansion with", "accelerates india",
         "india life sciences", "europe turns to", "pharma q2 outlook",
-        "us competition", "global pharma", "indian pharma", "the pharma"
+        "us competition", "global pharma", "indian pharma", "the pharma",
+        "inspection of", "usfda issues", "fda issues", "gets form",
+        "receives form", "after inspection", "after audit"
     }
     blacklist = {
         "Google News RSS", "Times Of India", "Financial Express", "Business Standard",
@@ -1592,6 +1627,10 @@ def collect_news(window_hours=48):
                     continue
 
 
+                if not published:
+                    diagnostics["missing_published_date"] = diagnostics.get("missing_published_date", 0) + 1
+                    continue
+
                 if published:
 
                     if published.tzinfo is None:
@@ -1827,16 +1866,25 @@ def deduplicate_articles(articles):
     unique = []
 
     def title_tokens(title):
-        ignored = {"pharma", "pharmaceutical", "industry", "india", "indian", "reports", "report", "says", "new", "gets", "get", "receives", "received", "nod", "approval"}
-        tokens = {t for t in normalize_title(title).split() if len(t) > 2 and t not in ignored}
+        ignored = {
+            "pharma", "pharmaceutical", "industry", "india", "indian", "reports",
+            "report", "says", "new", "gets", "get", "receives", "received", "nod",
+            "approval", "the", "after", "with", "from", "into", "following", "issues",
+            "issue", "amid", "over", "us", "usfda", "fda", "plant", "facility"
+        }
+        raw_tokens = normalize_title(title).split()
+        number_words = {"one":"1", "two":"2", "three":"3", "four":"4", "five":"5", "six":"6", "seven":"7", "eight":"8", "nine":"9", "ten":"10"}
         synonyms = {
             "acquire": "acquisition", "acquires": "acquisition", "acquired": "acquisition", "acquiring": "acquisition",
             "merger": "merger", "merges": "merger",
             "invests": "investment", "invested": "investment", "investing": "investment",
             "plant": "facility", "facility": "facility", "manufacturing": "facility",
             "hq": "headquarters", "headquarters": "headquarters",
-            "gains": "expansion", "move": "expansion", "expansion": "expansion", "expands": "expansion"
+            "gains": "expansion", "move": "expansion", "expansion": "expansion", "expands": "expansion",
+            "audit": "inspection", "audited": "inspection", "inspected": "inspection",
+            "observations": "observation", "observation": "observation", "issues": "observation"
         }
+        tokens = {number_words.get(t, t) for t in raw_tokens if len(t) > 2 and t not in ignored}
         return {synonyms.get(t, t) for t in tokens}
 
     for article in articles:
@@ -1859,10 +1907,18 @@ def deduplicate_articles(articles):
             shared_event = bool(shared & {
                 "acquisition", "merger", "investment", "contract", "recall",
                 "warning", "shortage", "expansion", "agreement", "approval",
-                "facility", "headquarters"
+                "facility", "headquarters", "observation", "inspection", "483"
             })
             same_specific_event = len(shared) >= 3 and shared_event
-            if ratio >= 0.86 or overlap >= 0.72 or same_specific_event:
+            left_companies = {normalize_title(x) for x in article.get("companies", []) if isinstance(x, str) and x.strip()}
+            right_companies = {normalize_title(x) for x in existing.get("companies", []) if isinstance(x, str) and x.strip()}
+            shared_company = bool(left_companies & right_companies)
+            shared_event_terms = shared & {
+                "observation", "inspection", "483", "recall", "warning", "shortage",
+                "contamination", "acquisition", "agreement", "expansion", "capacity"
+            }
+            same_company_event = shared_company and len(shared_event_terms) >= 1 and overlap >= 0.18
+            if ratio >= 0.86 or overlap >= 0.72 or same_specific_event or same_company_event:
                 duplicate_index = i
                 break
 
