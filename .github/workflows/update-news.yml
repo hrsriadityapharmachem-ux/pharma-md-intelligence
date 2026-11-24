@@ -1,5 +1,5 @@
 name: Update Pharma News
-run-name: "Refresh and validate live pharma intelligence"
+run-name: "Refresh and validate live pharma intelligence · Engine 3.9"
 on:
   workflow_dispatch:
   push:
@@ -72,6 +72,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      - name: Compile-check intelligence engine and validator
+        if: steps.refresh_window.outputs.run_refresh == 'true'
+        run: python -m py_compile news.py validate_data.py
 
       - name: Collect latest pharma news
         if: steps.refresh_window.outputs.run_refresh == 'true'
