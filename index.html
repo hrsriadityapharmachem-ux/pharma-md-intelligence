@@ -313,10 +313,11 @@ async function loadData(){
  if(loadInProgress)return;
  loadInProgress=true;
  try{
-  const response=await fetch("data.json?t="+Date.now(),{cache:"no-store"});
+  const response=await fetch("data.json?t="+Date.now(),{cache:"no-store",signal:AbortSignal.timeout(15000)});
   if(!response.ok)throw new Error("Data request failed with HTTP "+response.status);
   const data=await response.json();
   if(!data||!Array.isArray(data.articles)||!data.updated)throw new Error("Data file is missing required fields");
+  if(data.articles.some(a=>!a||typeof a!=="object"||!a.title||!a.link||!a.signal||!a.published))throw new Error("One or more article records are incomplete");
   const articles=data.articles;
   document.getElementById("newsCount").textContent=articles.length;
   document.getElementById("opportunityCount").textContent=articles.filter(a=>a.signal==="Opportunity").length;
@@ -327,14 +328,17 @@ async function loadData(){
   document.getElementById("lastUpdated").textContent="Content updated "+formatIndiaTime(data.updated);
   const dot=document.getElementById("statusDot"),label=document.getElementById("statusLabel"),monitorLabel=document.getElementById("pipelineStatus");
   try{
-   const mr=await fetch("pipeline_status.json?t="+Date.now(),{cache:"no-store"});if(!mr.ok)throw new Error("Pipeline status unavailable");
+   const mr=await fetch("pipeline_status.json?t="+Date.now(),{cache:"no-store",signal:AbortSignal.timeout(10000)});if(!mr.ok)throw new Error("Pipeline status unavailable");
    const monitor=await mr.json();const lastSuccess=monitor.last_success_at?new Date(monitor.last_success_at):null;
    const lastAttempt=monitor.last_attempt_at?new Date(monitor.last_attempt_at):null;
+   const contentStamp=monitor.last_content_update_at?new Date(monitor.last_content_update_at):null;
+   const dataStamp=new Date(data.updated);
    const age=lastSuccess?(Date.now()-lastSuccess.getTime())/60000:Infinity;
    const stale=!lastSuccess||Number.isNaN(lastSuccess.getTime())||age>(morningWindow()?25:130);
-   const failed=monitor.status==="failure";dot.className="status-dot"+((stale||failed)?" stale":"");
-   label.textContent=failed?"Refresh failed":stale?"Pipeline delayed":"Pipeline healthy";
-   monitorLabel.textContent="Last successful collection: "+(lastSuccess?formatIndiaTime(monitor.last_success_at):"Not recorded")+(lastAttempt?" · Last attempt: "+formatIndiaTime(monitor.last_attempt_at):"")+(monitor.message?" · "+monitor.message:"");
+   const contentMismatch=!!contentStamp&&(!Number.isFinite(contentStamp.getTime())||Math.abs(contentStamp.getTime()-dataStamp.getTime())>5*60*1000);
+   const failed=monitor.status==="failure";dot.className="status-dot"+((stale||failed||contentMismatch)?" stale":"");
+   label.textContent=failed?"Refresh failed":stale?"Pipeline delayed":contentMismatch?"Data/status mismatch":"Pipeline healthy";
+   monitorLabel.textContent="Last successful collection: "+(lastSuccess?formatIndiaTime(monitor.last_success_at):"Not recorded")+(lastAttempt?" · Last attempt: "+formatIndiaTime(monitor.last_attempt_at):"")+(monitor.message?" · "+monitor.message:"")+(contentMismatch?" · Published data and pipeline timestamps do not match.":"");
   }catch(e){dot.className="status-dot stale";label.textContent="Monitoring unavailable";monitorLabel.textContent="Pipeline health could not be verified; content timestamp is shown separately.";console.error(e);}
  }catch(error){
   console.error(error);const dot=document.getElementById("statusDot"),label=document.getElementById("statusLabel");
