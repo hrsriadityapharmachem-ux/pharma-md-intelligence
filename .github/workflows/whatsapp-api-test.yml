@@ -1,5 +1,7 @@
 name: WhatsApp Briefing Test
 on:
+  schedule:
+    - cron: "30 1 * * *" # 07:00 Asia/Kolkata
   workflow_dispatch:
     inputs:
       confirm_send:
@@ -8,7 +10,7 @@ on:
         type: string
 jobs:
   send-briefing:
-    if: ${{ inputs.confirm_send == 'YES' }}
+    if: ${{ (github.event_name == 'workflow_dispatch' && inputs.confirm_send == 'YES') || (github.event_name == 'schedule' && vars.WHATSAPP_AUTOMATION_ENABLED == 'true') }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
