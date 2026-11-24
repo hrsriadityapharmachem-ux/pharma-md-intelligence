@@ -928,7 +928,7 @@ def detect_companies(title, description):
         ):
             continue
         words = low.split()
-        if words and words[0] in {"with", "after", "amid", "following", "as", "the", "a", "an", "from", "while"}:
+        if words and words[0] in {"with", "after", "amid", "following", "as", "the", "a", "an", "from", "while", "inspection", "usfda", "fda", "gets", "receives", "issues", "form"}:
             continue
         if cleaned not in output:
             output.append(cleaned)
