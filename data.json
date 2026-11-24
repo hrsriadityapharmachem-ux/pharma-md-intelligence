@@ -1,13 +1,56 @@
 {
-  "updated": "2026-11-24T11:41:10.945661+00:00",
-  "engine_version": "3.8.0",
-  "article_count": 6,
+  "updated": "2026-11-24T16:12:56.601005+00:00",
+  "engine_version": "3.9.0",
+  "article_count": 5,
   "opportunity_count": 0,
-  "risk_count": 2,
-  "watch_count": 2,
-  "high_priority_count": 3,
+  "risk_count": 0,
+  "watch_count": 4,
+  "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
+    {
+      "category": "India",
+      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
+      "published": "2026-11-24T03:52:57+00:00",
+      "source": "BusinessLine",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Anuh Pharma"
+      ],
+      "project_signals": [
+        "manufacturing facility"
+      ],
+      "numbers": [
+        "₹73 crore",
+        "73 crore"
+      ],
+      "source_name": "BusinessLine",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 50,
+      "importance_score": 16,
+      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
+        }
+      ]
+    },
     {
       "category": "Hyderabad",
       "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
@@ -15,12 +58,12 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5",
       "published": "2026-11-23T03:27:05+00:00",
       "source": "indica News",
-      "signal": "Risk",
+      "signal": "Watch",
       "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Inspection Of Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
       "companies": [
         "Inspection Of Natco Pharma"
       ],
@@ -29,14 +72,14 @@
       "source_name": "indica News",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Industry Development",
+      "event_type": "Regulatory Inspection / Observations",
       "what_happened": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
       "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
+      "confidence": 45,
+      "importance_score": 11,
       "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
@@ -52,83 +95,43 @@
     },
     {
       "category": "India",
-      "title": "Marksans Pharma: Regulatory Inspection and What Happens Next",
-      "description": "Marksans Pharma: Regulatory Inspection and What Happens Next",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTNIMFRhcXVhV3ZrbVFEcTZ6Vk81RjZEaUZLMF9KOHFOcDhtY2VzV3doMG4zWEVSNF9oc0g0Y3FVU0RRdFpDWDNaQVI1U1hqaHZFUVZGZTJwellJTnpud3FOaS05Mm9hcE1yalZqVEVZT3JwRlpma0RaS0JWQ05CYkdTSjlMZzBEWnliVm5oeUdSdjdlRnNLdHpSem1FQkVvV2ktZ0hmN2F0WWdoT2ozb3pvRnR2ZlhjNmpZbk1UemRJZllIRktYaUVSVDlLWFk?oc=5",
-      "published": "2026-11-23T15:15:00+00:00",
-      "source": "Kalkine India",
-      "signal": "Risk",
+      "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+      "description": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5",
+      "published": "2026-11-24T13:30:00+00:00",
+      "source": "Fierce Pharma",
+      "signal": "Watch",
       "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Marksans Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
       "companies": [
-        "Marksans Pharma",
-        "Happens Next Marksans Pharma"
+        "Marksans Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Kalkine India",
-      "source_credibility": "Standard",
+      "source_name": "Fierce Pharma",
+      "source_credibility": "Established",
       "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Marksans Pharma: Regulatory Inspection and What Happens Next.",
+      "event_type": "Regulatory Inspection / Observations",
+      "what_happened": "Marksans Pharma flagged for 6 observations in wake of FDA inspection.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
       "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
+        {
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5"
+        },
         {
           "source": "Kalkine India",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTNIMFRhcXVhV3ZrbVFEcTZ6Vk81RjZEaUZLMF9KOHFOcDhtY2VzV3doMG4zWEVSNF9oc0g0Y3FVU0RRdFpDWDNaQVI1U1hqaHZFUVZGZTJwellJTnpud3FOaS05Mm9hcE1yalZqVEVZT3JwRlpma0RaS0JWQ05CYkdTSjlMZzBEWnliVm5oeUdSdjdlRnNLdHpSem1FQkVvV2ktZ0hmN2F0WWdoT2ozb3pvRnR2ZlhjNmpZbk1UemRJZllIRktYaUVSVDlLWFk?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
-      "description": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5",
-      "published": "2026-11-23T08:32:46+00:00",
-      "source": "Express Pharma",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Anuh Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": [
-        "rs 72.90 crore",
-        "72.90 crore"
-      ],
-      "source_name": "Express Pharma",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 70,
-      "importance_score": 16,
-      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Express Pharma",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5"
         }
       ]
     }
@@ -139,7 +142,7 @@
     "Investment / Expansion": 0,
     "Manufacturing / Plants": 0,
     "Supply Chain": 0,
-    "Regulatory": 2,
+    "Regulatory": 0,
     "Exports / Markets": 0,
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
@@ -147,34 +150,76 @@
   "daily_brief": {
     "attention": [
       {
+        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
         "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
-        "signal": "Risk",
-        "why": "Inspection Of Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
       {
-        "title": "Marksans Pharma: Regulatory Inspection and What Happens Next",
-        "signal": "Risk",
-        "why": "Marksans Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified."
-      },
-      {
-        "title": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
+        "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
     ],
     "investigate": [
       {
-        "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
-        "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
+        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       },
       {
-        "title": "Marksans Pharma: Regulatory Inspection and What Happens Next",
-        "question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?"
+        "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
+        "question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+      "description": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5",
+      "published": "2026-11-24T13:30:00+00:00",
+      "source": "Fierce Pharma",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Marksans Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Fierce Pharma",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Regulatory Inspection / Observations",
+      "what_happened": "Marksans Pharma flagged for 6 observations in wake of FDA inspection.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5"
+        },
+        {
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTNIMFRhcXVhV3ZrbVFEcTZ6Vk81RjZEaUZLMF9KOHFOcDhtY2VzV3doMG4zWEVSNF9oc0g0Y3FVU0RRdFpDWDNaQVI1U1hqaHZFUVZGZTJwellJTnpud3FOaS05Mm9hcE1yalZqVEVZT3JwRlpma0RaS0JWQ05CYkdTSjlMZzBEWnliVm5oeUdSdjdlRnNLdHpSem1FQkVvV2ktZ0hmN2F0WWdoT2ozb3pvRnR2ZlhjNmpZbk1UemRJZllIRktYaUVSVDlLWFk?oc=5"
+        }
+      ]
+    },
     {
       "category": "Global",
       "title": "Colombia Milagro Week Attracts Pharma Investment Interest",
@@ -204,7 +249,7 @@
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
-      "confidence": 65,
+      "confidence": 45,
       "importance_score": 9,
       "fact_status": "Reported by Industrial Info Resources; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
@@ -217,89 +262,11 @@
     },
     {
       "category": "India",
-      "title": "Marksans Pharma: Regulatory Inspection and What Happens Next",
-      "description": "Marksans Pharma: Regulatory Inspection and What Happens Next",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTNIMFRhcXVhV3ZrbVFEcTZ6Vk81RjZEaUZLMF9KOHFOcDhtY2VzV3doMG4zWEVSNF9oc0g0Y3FVU0RRdFpDWDNaQVI1U1hqaHZFUVZGZTJwellJTnpud3FOaS05Mm9hcE1yalZqVEVZT3JwRlpma0RaS0JWQ05CYkdTSjlMZzBEWnliVm5oeUdSdjdlRnNLdHpSem1FQkVvV2ktZ0hmN2F0WWdoT2ozb3pvRnR2ZlhjNmpZbk1UemRJZllIRktYaUVSVDlLWFk?oc=5",
-      "published": "2026-11-23T15:15:00+00:00",
-      "source": "Kalkine India",
-      "signal": "Risk",
-      "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Marksans Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
-      "companies": [
-        "Marksans Pharma",
-        "Happens Next Marksans Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Kalkine India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Marksans Pharma: Regulatory Inspection and What Happens Next.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 16,
-      "fact_status": "Reported by Kalkine India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTNIMFRhcXVhV3ZrbVFEcTZ6Vk81RjZEaUZLMF9KOHFOcDhtY2VzV3doMG4zWEVSNF9oc0g0Y3FVU0RRdFpDWDNaQVI1U1hqaHZFUVZGZTJwellJTnpud3FOaS05Mm9hcE1yalZqVEVZT3JwRlpma0RaS0JWQ05CYkdTSjlMZzBEWnliVm5oeUdSdjdlRnNLdHpSem1FQkVvV2ktZ0hmN2F0WWdoT2ozb3pvRnR2ZlhjNmpZbk1UemRJZllIRktYaUVSVDlLWFk?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's pharma exports expected to top $33 bn in FY27: Pharmexcil DG",
-      "description": "India's pharma exports expected to top $33 bn in FY27: Pharmexcil DG",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTVd4LU5scWZCbGtpQzJTQl9jdnh5UVh4ZHpRTWJ3QlEyUGY3dU5JTk91ZjFLNHlETjRMbGlLQ2RuVW9ycnREV2tyLWRHdUR5LTB5dDAtZVViY2F5eWx0OE5hdWEzTXdpcnB6TzFfakhVMkx0SDRkcUc3Zmk5a3hUQzlyall2MldhS2tGOWxkZHFOaHFvSVBtcFBXVXVJYTlMT0preUhlVkRXRkYzbXdaZ1JaUFZTNTZyWmVSSjFvUU9mLV9JRzRrQkhyVEkxLWtReDg3d2p2V2E0VmMwbEHSAeMBQVVfeXFMTl9PYmpTT3FfaURkd05GUEEzZ21TUUt1VjdVWFNXc1hCemMyLThQaTZfdkE1RVk1VHJQMExzcS1peGFzNnhIQS1TZklCNHBaZmljZ09iZVE5VU5mZUdrTDItOU9QbWx6TjNWN1pGTFh1d1F1LU9MaGZ3dlJRYVZqSzBLWnJ1WHVPVnBzOXhhOWJhWTFwUFExTkY1Mnpra1FxUlJVNnozNC1lOEVUMU15RXhiMmpCQ0R0S0RWUDB4bjdCemNoRV9fUnlod1BmTE5pUkdWNGRieEFjOGVmVURzUnJjUDQ?oc=5",
-      "published": "2026-11-23T13:51:03+00:00",
-      "source": "ET Manufacturing",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "33 bn",
-        "$33 bn"
-      ],
-      "source_name": "ET Manufacturing",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India's pharma exports expected to top $33 bn in FY27: Pharmexcil DG.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 65,
-      "importance_score": 3,
-      "fact_status": "Reported by ET Manufacturing; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "ET Manufacturing",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTVd4LU5scWZCbGtpQzJTQl9jdnh5UVh4ZHpRTWJ3QlEyUGY3dU5JTk91ZjFLNHlETjRMbGlLQ2RuVW9ycnREV2tyLWRHdUR5LTB5dDAtZVViY2F5eWx0OE5hdWEzTXdpcnB6TzFfakhVMkx0SDRkcUc3Zmk5a3hUQzlyall2MldhS2tGOWxkZHFOaHFvSVBtcFBXVXVJYTlMT0preUhlVkRXRkYzbXdaZ1JaUFZTNTZyWmVSSjFvUU9mLV9JRzRrQkhyVEkxLWtReDg3d2p2V2E0VmMwbEHSAeMBQVVfeXFMTl9PYmpTT3FfaURkd05GUEEzZ21TUUt1VjdVWFNXc1hCemMyLThQaTZfdkE1RVk1VHJQMExzcS1peGFzNnhIQS1TZklCNHBaZmljZ09iZVE5VU5mZUdrTDItOU9QbWx6TjNWN1pGTFh1d1F1LU9MaGZ3dlJRYVZqSzBLWnJ1WHVPVnBzOXhhOWJhWTFwUFExTkY1Mnpra1FxUlJVNnozNC1lOEVUMU15RXhiMmpCQ0R0S0RWUDB4bjdCemNoRV9fUnlod1BmTE5pUkdWNGRieEFjOGVmVURzUnJjUDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
-      "description": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5",
-      "published": "2026-11-23T08:32:46+00:00",
-      "source": "Express Pharma",
+      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
+      "published": "2026-11-24T03:52:57+00:00",
+      "source": "BusinessLine",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "High",
@@ -313,26 +280,26 @@
         "manufacturing facility"
       ],
       "numbers": [
-        "rs 72.90 crore",
-        "72.90 crore"
+        "₹73 crore",
+        "73 crore"
       ],
-      "source_name": "Express Pharma",
-      "source_credibility": "Standard",
+      "source_name": "BusinessLine",
+      "source_credibility": "Established",
       "location": "India",
       "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility.",
+      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
       "evidence_level": "Medium",
-      "confidence": 70,
+      "confidence": 50,
       "importance_score": 16,
-      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Express Pharma",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5"
+          "source": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
         }
       ]
     },
@@ -361,7 +328,7 @@
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
-      "confidence": 65,
+      "confidence": 45,
       "importance_score": 13,
       "fact_status": "Reported by pharma.economictimes.indiatimes.com; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
@@ -379,12 +346,12 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5",
       "published": "2026-11-23T03:27:05+00:00",
       "source": "indica News",
-      "signal": "Risk",
+      "signal": "Watch",
       "business_area": "Regulatory",
-      "priority": "High",
-      "relevance": "Potential regulatory exposure; affected products, facilities and market access need verification.",
-      "why_it_matters": "Inspection Of Natco Pharma: a regulatory action or compliance issue can affect plant operations, approvals or product availability. The affected company, products and status need to be verified.",
-      "md_action": "Review the regulatory development, check whether any products, customers or export markets could be affected, and assign a compliance follow-up.",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
       "companies": [
         "Inspection Of Natco Pharma"
       ],
@@ -393,14 +360,14 @@
       "source_name": "indica News",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Industry Development",
+      "event_type": "Regulatory Inspection / Observations",
       "what_happened": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "Potential regulatory or compliance exposure exists. Affected companies, products and markets should be verified.",
-      "investigation_question": "What evidence would link this Regulatory development to Sri Aditya's products, customers or suppliers?",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
       "evidence_level": "Medium",
-      "confidence": 75,
-      "importance_score": 18,
+      "confidence": 45,
+      "importance_score": 11,
       "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
