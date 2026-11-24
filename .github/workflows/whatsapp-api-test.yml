@@ -94,7 +94,7 @@ jobs:
               "Wishing you a productive day ahead, Sir."
           ])
 
-          message = "\\n".join(lines)
+          message = "\n".join(lines)
           with open("wa-payload.json", "w", encoding="utf-8") as f:
               json.dump({
                   "messaging_product": "whatsapp",
@@ -121,9 +121,5 @@ jobs:
           with open("wa-payload.json", "w", encoding="utf-8") as f:
               json.dump(payload, f, ensure_ascii=False)
           PY
-          response=$(curl --fail-with-body --silent --show-error \\
-            -X POST "https://graph.facebook.com/v25.0/${WA_PHONE_ID}/messages" \\
-            -H "Authorization: Bearer ${WA_TOKEN}" \\
-            -H "Content-Type: application/json" \\
-            --data-binary @wa-payload.json)
+          response=$(curl --fail-with-body --silent --show-error -X POST "https://graph.facebook.com/v25.0/${WA_PHONE_ID}/messages" -H "Authorization: Bearer ${WA_TOKEN}" -H "Content-Type: application/json" --data-binary @wa-payload.json)
           echo "$response" | jq '{messaging_product, contacts, messages: [.messages[]? | {id, message_status}]}'
