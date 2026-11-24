@@ -917,6 +917,7 @@ def detect_companies(title, description):
     output = []
     for candidate in candidates:
         cleaned = " ".join(candidate.split()).strip(" ,.;:-")
+        cleaned = re.sub(r"^(?:(?:inspection|audit|after|following|of|by|at)\s+)+", "", cleaned, flags=re.IGNORECASE)
         cleaned = re.sub(r"^(?:Hyderabad-Based|Hyderabad based|India-Based|India based|US-Based|UK-Based)\s+", "", cleaned, flags=re.IGNORECASE)
         low = cleaned.lower()
         known_source_names = {name.lower() for name in KNOWN_SOURCES}
