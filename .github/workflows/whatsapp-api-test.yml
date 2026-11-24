@@ -1,17 +1,22 @@
-name: WhatsApp API Test
+name: WhatsApp Briefing Test
 on:
   workflow_dispatch:
     inputs:
       confirm_send:
-        description: "Type YES to send the approved Meta hello_world test template"
+        description: "Type YES to send the live pharma briefing to the configured recipient"
         required: true
         type: string
 jobs:
-  send-test:
+  send-briefing:
     if: ${{ inputs.confirm_send == 'YES' }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Check out intelligence data
+        uses: actions/checkout@v4
+        with:
+          ref: v2-intelligence
+
       - name: Validate required secrets
         env:
           WA_TOKEN: ${{ secrets.WHATSAPP_ACCESS_TOKEN }}
@@ -21,23 +26,96 @@ jobs:
           test -n "$WA_TOKEN" || (echo "Missing WHATSAPP_ACCESS_TOKEN" && exit 1)
           test -n "$WA_PHONE_ID" || (echo "Missing WHATSAPP_PHONE_NUMBER_ID" && exit 1)
           test -n "$WA_TO" || (echo "Missing WHATSAPP_RECIPIENT_NUMBER" && exit 1)
-      - name: Send Meta approved test template
+          test -f data.json || (echo "data.json not found on v2-intelligence" && exit 1)
+
+      - name: Build briefing from dashboard data
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          with open("data.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          now = datetime.now(ZoneInfo("Asia/Kolkata"))
+          date_line = now.strftime("%A, %d %B %Y")
+          must_know = data.get("must_know", [])
+          by_title = {x.get("title"): x for x in must_know}
+          attention = data.get("daily_brief", {}).get("attention", [])
+
+          lines = [
+              "Good morning, Sir! 🙏",
+              "",
+              date_line,
+              "",
+              "PHARMA INDUSTRY INTELLIGENCE",
+              ""
+          ]
+
+          if attention:
+              for i, item in enumerate(attention[:3], 1):
+                  source = by_title.get(item.get("title", ""), {})
+                  title = item.get("title", "Industry development")
+                  priority = source.get("priority", item.get("signal", "Watch"))
+                  why = item.get("why") or source.get("why_it_matters", "")
+                  action = source.get("md_action", "")
+                  link = source.get("link", "")
+                  lines.append(f"{i}. [{priority}] {title}")
+                  if why:
+                      lines.append(f"Why it matters: {why}")
+                  if action:
+                      lines.append(f"Action: {action}")
+                  if link:
+                      lines.append(f"Source: {link}")
+                  lines.append("")
+          else:
+              lines.append("No priority developments are currently listed in the dashboard.")
+              lines.append("")
+
+          question = data.get("daily_brief", {}).get("management_question")
+          if question:
+              lines.extend(["MANAGEMENT QUESTION", question, ""])
+
+          lines.extend([
+              "🔗 Pharma Industry Intelligence Dashboard:",
+              "https://hrsriadityapharmachem-ux.github.io/pharma-md-intelligence/",
+              "",
+              "Sri Aditya Pharmachem | Daily Intelligence Brief"
+          ])
+
+          message = "\n".join(lines)
+          if len(message) > 4000:
+              message = message[:3950] + "\n\n[Brief shortened. Open dashboard for full details.]"
+
+          with open("wa-payload.json", "w", encoding="utf-8") as f:
+              json.dump({
+                  "messaging_product": "whatsapp",
+                  "recipient_type": "individual",
+                  "to": "__RECIPIENT__",
+                  "type": "text",
+                  "text": {"preview_url": True, "body": message}
+              }, f, ensure_ascii=False)
+          PY
+
+      - name: Send WhatsApp briefing
         env:
           WA_TOKEN: ${{ secrets.WHATSAPP_ACCESS_TOKEN }}
           WA_PHONE_ID: ${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
           WA_TO: ${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}
         run: |
           set -euo pipefail
-          payload=$(jq -n --arg to "$WA_TO" '{
-            messaging_product: "whatsapp",
-            recipient_type: "individual",
-            to: $to,
-            type: "template",
-            template: { name: "hello_world", language: { code: "en_US" } }
-          }')
+          python - <<'PY'
+          import json, os
+          with open("wa-payload.json", encoding="utf-8") as f:
+              payload = json.load(f)
+          payload["to"] = os.environ["WA_TO"]
+          with open("wa-payload.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, ensure_ascii=False)
+          PY
           response=$(curl --fail-with-body --silent --show-error \
             -X POST "https://graph.facebook.com/v25.0/${WA_PHONE_ID}/messages" \
             -H "Authorization: Bearer ${WA_TOKEN}" \
             -H "Content-Type: application/json" \
-            --data "$payload")
+            --data-binary @wa-payload.json)
           echo "$response" | jq '{messaging_product, contacts, messages: [.messages[]? | {id, message_status}]}'
