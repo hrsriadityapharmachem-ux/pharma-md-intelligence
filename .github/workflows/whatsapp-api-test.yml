@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       confirm_send:
-        description: "Type YES to send the live pharma briefing to the configured recipient"
+        description: "Type YES to send the approved short morning briefing to the configured recipient"
         required: true
         type: string
 jobs:
@@ -28,7 +28,7 @@ jobs:
           test -n "$WA_TO" || (echo "Missing WHATSAPP_RECIPIENT_NUMBER" && exit 1)
           test -f data.json || (echo "data.json not found on v2-intelligence" && exit 1)
 
-      - name: Build briefing from dashboard data
+      - name: Build concise daily message
         run: |
           python - <<'PY'
           import json
@@ -39,55 +39,62 @@ jobs:
               data = json.load(f)
 
           now = datetime.now(ZoneInfo("Asia/Kolkata"))
-          date_line = now.strftime("%A, %d %B %Y")
-          must_know = data.get("must_know", [])
-          by_title = {x.get("title"): x for x in must_know}
-          attention = data.get("daily_brief", {}).get("attention", [])
+          quotes = [
+              ("Great things are done by a series of small things brought together.", "Vincent van Gogh"),
+              ("Well done is better than well said.", "Benjamin Franklin"),
+              ("It always seems impossible until it's done.", "Nelson Mandela"),
+              ("The secret of getting ahead is getting started.", "Mark Twain"),
+              ("Quality is not an act, it is a habit.", "Aristotle"),
+              ("Success is the sum of small efforts, repeated day in and day out.", "Robert Collier"),
+              ("What we think, we become.", "Buddha"),
+              ("The best way to predict the future is to create it.", "Peter Drucker"),
+              ("Without continual growth and progress, such words as improvement, achievement, and success have no meaning.", "Benjamin Franklin"),
+              ("Great things are not done by impulse, but by a series of small things brought together.", "Vincent van Gogh")
+          ]
+          quote, author = quotes[now.timetuple().tm_yday % len(quotes)]
+
+          candidates = data.get("must_know", [])
+          if not candidates:
+              candidates = data.get("articles", [])
+
+          def score(item):
+              priority = str(item.get("priority", "")).lower()
+              rank = {"critical": 4, "high": 3, "medium": 2, "low": 1}.get(priority, 0)
+              return (rank, item.get("importance_score", 0), item.get("published", ""))
+
+          candidates = sorted(candidates, key=score, reverse=True)
+          highlight = None
+          for item in candidates:
+              title = item.get("title", "").strip()
+              if title:
+                  highlight = title
+                  break
 
           lines = [
               "Good morning, Sir! 🙏",
               "",
-              date_line,
+              now.strftime("%A, %d %B %Y"),
               "",
-              "PHARMA INDUSTRY INTELLIGENCE",
+              "Quote of the Day:",
+              f"“{quote}” — {author}",
               ""
           ]
 
-          if attention:
-              for i, item in enumerate(attention[:3], 1):
-                  source = by_title.get(item.get("title", ""), {})
-                  title = item.get("title", "Industry development")
-                  priority = source.get("priority", item.get("signal", "Watch"))
-                  why = item.get("why") or source.get("why_it_matters", "")
-                  action = source.get("md_action", "")
-                  link = source.get("link", "")
-                  lines.append(f"{i}. [{priority}] {title}")
-                  if why:
-                      lines.append(f"Why it matters: {why}")
-                  if action:
-                      lines.append(f"Action: {action}")
-                  if link:
-                      lines.append(f"Source: {link}")
-                  lines.append("")
-          else:
-              lines.append("No priority developments are currently listed in the dashboard.")
-              lines.append("")
-
-          question = data.get("daily_brief", {}).get("management_question")
-          if question:
-              lines.extend(["MANAGEMENT QUESTION", question, ""])
+          if highlight:
+              lines.extend([
+                  "Today's Key Highlight:",
+                  highlight,
+                  ""
+              ])
 
           lines.extend([
-              "🔗 Pharma Industry Intelligence Dashboard:",
+              "🔗 Pharma Industry Intelligence & Business Developments",
               "https://hrsriadityapharmachem-ux.github.io/pharma-md-intelligence/",
               "",
-              "Sri Aditya Pharmachem | Daily Intelligence Brief"
+              "Wishing you a productive day ahead, Sir."
           ])
 
-          message = "\n".join(lines)
-          if len(message) > 4000:
-              message = message[:3950] + "\n\n[Brief shortened. Open dashboard for full details.]"
-
+          message = "\\n".join(lines)
           with open("wa-payload.json", "w", encoding="utf-8") as f:
               json.dump({
                   "messaging_product": "whatsapp",
@@ -96,6 +103,7 @@ jobs:
                   "type": "text",
                   "text": {"preview_url": True, "body": message}
               }, f, ensure_ascii=False)
+          print(message)
           PY
 
       - name: Send WhatsApp briefing
@@ -113,9 +121,9 @@ jobs:
           with open("wa-payload.json", "w", encoding="utf-8") as f:
               json.dump(payload, f, ensure_ascii=False)
           PY
-          response=$(curl --fail-with-body --silent --show-error \
-            -X POST "https://graph.facebook.com/v25.0/${WA_PHONE_ID}/messages" \
-            -H "Authorization: Bearer ${WA_TOKEN}" \
-            -H "Content-Type: application/json" \
+          response=$(curl --fail-with-body --silent --show-error \\
+            -X POST "https://graph.facebook.com/v25.0/${WA_PHONE_ID}/messages" \\
+            -H "Authorization: Bearer ${WA_TOKEN}" \\
+            -H "Content-Type: application/json" \\
             --data-binary @wa-payload.json)
           echo "$response" | jq '{messaging_product, contacts, messages: [.messages[]? | {id, message_status}]}'
