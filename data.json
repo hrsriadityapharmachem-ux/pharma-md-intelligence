@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-24T16:12:56.601005+00:00",
+  "updated": "2026-11-24T16:14:57.771634+00:00",
   "engine_version": "3.9.0",
-  "article_count": 5,
+  "article_count": 4,
   "opportunity_count": 0,
   "risk_count": 0,
   "watch_count": 4,
@@ -10,11 +10,11 @@
   "must_know": [
     {
       "category": "India",
-      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
-      "published": "2026-11-24T03:52:57+00:00",
-      "source": "BusinessLine",
+      "title": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
+      "description": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5",
+      "published": "2026-11-23T08:32:46+00:00",
+      "source": "Express Pharma",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "High",
@@ -28,26 +28,26 @@
         "manufacturing facility"
       ],
       "numbers": [
-        "₹73 crore",
-        "73 crore"
+        "rs 72.90 crore",
+        "72.90 crore"
       ],
-      "source_name": "BusinessLine",
-      "source_credibility": "Established",
+      "source_name": "Express Pharma",
+      "source_credibility": "Standard",
       "location": "India",
       "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
+      "what_happened": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
       "evidence_level": "Medium",
       "confidence": 50,
       "importance_score": 16,
-      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
+          "source": "Express Pharma",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
       "companies": [
-        "Inspection Of Natco Pharma"
+        "Natco Pharma"
       ],
       "project_signals": [],
       "numbers": [],
@@ -83,6 +83,10 @@
       "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
+        {
+          "source": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5"
+        },
         {
           "source": "Medical Dialogues",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ240MXBqSkpzZWJxUW85NURMeWNnV2JXZzNJWGRVUXJ5aU9URU93bmQ2VHJTU1NJMTJwcmt0c05LSm1XYW16MnR5SVN6Vlk3VGxJaWxieU4yR1pCUDFRLTRIQWxPNW9LcG1IUGJkN2k0cjdvOTdxY2htekFiT2t2aE5lQi12VDF1dTJNUlN3cFg3Yk04N1JzYzB2ZUs3WVZkajJiaFZBNzZMM2dweE1HZmZrdHlkX2dPRkNyUzdUSzE2RFnSAcgBQVVfeXFMUHdpbUl6aElPN2xqYVZqWGNiT3J3YndDcjN3NnFOLVpaVmFnSi0xb0daQlh2clJOOUNtR0dyVEc1a00wamZJc2J4bFkzbjFPM0NMV09GVmZkODVsa1VPSGtzaThHV1htckFNdjBaRGItck1DdGp5WmV2cmtRUW9FSnhlVW40SW9MTEpJTl9zU2xiRG56MG03bEZRcXNjSmdaNDJJWlllcGlUQndhdFllMTUxOUxCdzNpbG53akNmRlBNTDNnSHBhQ2c?oc=5"
@@ -150,7 +154,7 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+        "title": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
@@ -167,7 +171,7 @@
     ],
     "investigate": [
       {
-        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+        "title": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
         "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       },
       {
@@ -262,11 +266,11 @@
     },
     {
       "category": "India",
-      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
-      "published": "2026-11-24T03:52:57+00:00",
-      "source": "BusinessLine",
+      "title": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
+      "description": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5",
+      "published": "2026-11-23T08:32:46+00:00",
+      "source": "Express Pharma",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "High",
@@ -280,62 +284,26 @@
         "manufacturing facility"
       ],
       "numbers": [
-        "₹73 crore",
-        "73 crore"
+        "rs 72.90 crore",
+        "72.90 crore"
       ],
-      "source_name": "BusinessLine",
-      "source_credibility": "Established",
+      "source_name": "Express Pharma",
+      "source_credibility": "Standard",
       "location": "India",
       "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
+      "what_happened": "Anuh Pharma invests Rs 72.90 crore in third Tarapur manufacturing facility.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
       "evidence_level": "Medium",
       "confidence": 50,
       "importance_score": 16,
-      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Express Pharma; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
-      "description": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeS1jTTMyTUV5N21tc29US2Z4Z08xSEJzZXJPYzZmSE5YNDR5bUtiblZLZTE3Mnp3T0ZUbVlKelhScVpWS0JXbTlSeGh6ZlNXRmlONmxLRm8wUVdGcGtBNHUyNnN0YmJFVUFZa3hENDBIaEJ3WnE5UUVaN0Z0T3M4Q2ZlNHh4Y2w1RURWdkJVMU9sdDRrQ1NuZjVZU2FQOTlnZ0Q5enpaeWR2dDNmVFRhYk9CMldoMkloTFdwZ25jVm9KN1FZREU3dEtMWWRIWWNRczN4XzBubHVUT2FRU25aQkRNWG1rNGtyTk1Rc2F0VGx6VERZam9iRFhjZWlGNnhiVlpDOWZB0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5",
-      "published": "2026-11-23T06:23:32+00:00",
-      "source": "pharma.economictimes.indiatimes.com",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "pharma.economictimes.indiatimes.com",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 13,
-      "fact_status": "Reported by pharma.economictimes.indiatimes.com; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "pharma.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeS1jTTMyTUV5N21tc29US2Z4Z08xSEJzZXJPYzZmSE5YNDR5bUtiblZLZTE3Mnp3T0ZUbVlKelhScVpWS0JXbTlSeGh6ZlNXRmlONmxLRm8wUVdGcGtBNHUyNnN0YmJFVUFZa3hENDBIaEJ3WnE5UUVaN0Z0T3M4Q2ZlNHh4Y2w1RURWdkJVMU9sdDRrQ1NuZjVZU2FQOTlnZ0Q5enpaeWR2dDNmVFRhYk9CMldoMkloTFdwZ25jVm9KN1FZREU3dEtMWWRIWWNRczN4XzBubHVUT2FRU25aQkRNWG1rNGtyTk1Rc2F0VGx6VERZam9iRFhjZWlGNnhiVlpDOWZB0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5"
+          "source": "Express Pharma",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbC1sb21qdGQtSmxmVTZ0LXdUVjl3QUpHS2JTTVlLMVNSQ2taSmczVUtJRTRiY1U0b1RjWmJ0WUtWZHVYbEpaaEZ2QkpoLUtqWEJod21wUHpFdGVFV1ZkRk1KOHNBM3pqc1hhVllxbVpzM0VJeTVvdnNmVEhsWUluOUZKRzZyYlFMb1Z2ODZRbkwyU19wamRkVmVKTVhxUUFuWFNHa3JsSEFQMk9J?oc=5"
         }
       ]
     },
@@ -353,7 +321,7 @@
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
       "companies": [
-        "Inspection Of Natco Pharma"
+        "Natco Pharma"
       ],
       "project_signals": [],
       "numbers": [],
@@ -371,6 +339,10 @@
       "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
+        {
+          "source": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5"
+        },
         {
           "source": "Medical Dialogues",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ240MXBqSkpzZWJxUW85NURMeWNnV2JXZzNJWGRVUXJ5aU9URU93bmQ2VHJTU1NJMTJwcmt0c05LSm1XYW16MnR5SVN6Vlk3VGxJaWxieU4yR1pCUDFRLTRIQWxPNW9LcG1IUGJkN2k0cjdvOTdxY2htekFiT2t2aE5lQi12VDF1dTJNUlN3cFg3Yk04N1JzYzB2ZUs3WVZkajJiaFZBNzZMM2dweE1HZmZrdHlkX2dPRkNyUzdUSzE2RFnSAcgBQVVfeXFMUHdpbUl6aElPN2xqYVZqWGNiT3J3YndDcjN3NnFOLVpaVmFnSi0xb0daQlh2clJOOUNtR0dyVEc1a00wamZJc2J4bFkzbjFPM0NMV09GVmZkODVsa1VPSGtzaThHV1htckFNdjBaRGItck1DdGp5WmV2cmtRUW9FSnhlVW40SW9MTEpJTl9zU2xiRG56MG03bEZRcXNjSmdaNDJJWlllcGlUQndhdFllMTUxOUxCdzNpbG53akNmRlBNTDNnSHBhQ2c?oc=5"
