@@ -10,7 +10,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-EXPECTED_ENGINE = "3.11.1"
+EXPECTED_ENGINE = "3.11.2"
 MAX_FUTURE_SKEW = timedelta(minutes=10)
 REQUIRED_TOP_LEVEL = {
     "updated", "engine_version", "article_count", "opportunity_count",
@@ -174,13 +174,13 @@ def main():
         key = {"Watch": "watch", "Opportunity": "opportunities", "Risk": "risks"}[article["signal"]]
         counts[key] += 1
         counts["total"] += 1
-    for area, counts in expected_breakdown.items():
-        if breakdown.get(area) != counts:
+    for area, area_counts in expected_breakdown.items():
+        if breakdown.get(area) != area_counts:
             fail(f"business_signal_breakdown[{area!r}] does not match article-derived signal counts")
-    for area, counts in breakdown.items():
-        if not isinstance(counts, dict) or set(counts) != {"watch", "opportunities", "risks", "total"}:
+    for area, area_counts in breakdown.items():
+        if not isinstance(area_counts, dict) or set(area_counts) != {"watch", "opportunities", "risks", "total"}:
             fail(f"business_signal_breakdown[{area!r}] has an invalid structure")
-        if any(not isinstance(value, int) or isinstance(value, bool) or value < 0 for value in counts.values()):
+        if any(not isinstance(value, int) or isinstance(value, bool) or value < 0 for value in area_counts.values()):
             fail(f"business_signal_breakdown[{area!r}] must contain non-negative integer counts")
 
     brief = data.get("daily_brief")
