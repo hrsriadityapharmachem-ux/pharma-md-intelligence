@@ -10,7 +10,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-EXPECTED_ENGINE = "3.9.0"
+EXPECTED_ENGINE = "3.10.0"
 MAX_FUTURE_SKEW = timedelta(minutes=10)
 REQUIRED_TOP_LEVEL = {
     "updated", "engine_version", "article_count", "opportunity_count",
@@ -64,6 +64,11 @@ def main():
     age = now - updated
     if age < -MAX_FUTURE_SKEW:
         fail(f"updated timestamp is unexpectedly in the future: {updated.isoformat()}")
+    # The collector may retain last-known-good content during a quiet news cycle.
+    # Allow the documented 7-day fallback plus a small scheduling buffer, but
+    # never silently publish an indefinitely old dataset as current.
+    if age > timedelta(days=8):
+        fail(f"data.json is older than the 8-day maximum retention window: age={age}")
 
     articles = data.get("articles")
     if not isinstance(articles, list):
