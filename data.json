@@ -1,122 +1,128 @@
 {
-  "updated": "2026-11-25T18:06:48.693165+00:00",
-  "engine_version": "3.10.0",
-  "article_count": 7,
+  "updated": "2026-11-25T18:14:07.766745+00:00",
+  "engine_version": "3.11.2",
+  "article_count": 9,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 5,
-  "high_priority_count": 0,
-  "successful_feeds": 19,
+  "watch_count": 9,
+  "high_priority_count": 1,
+  "successful_feeds": 20,
+  "failed_feeds": 0,
   "must_know": [
     {
       "category": "India",
-      "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
-      "description": "Cipla Launches First Generic Flovent HFA After FDA Approval",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5",
-      "published": "2026-11-25T11:06:00+00:00",
-      "source": "Voice of Healthcare",
+      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
+      "published": "2026-11-24T03:52:57+00:00",
+      "source": "BusinessLine",
       "signal": "Watch",
-      "business_area": "Regulatory",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Anuh Pharma"
+      ],
+      "project_signals": [
+        "manufacturing facility"
+      ],
+      "numbers": [
+        "₹73 crore",
+        "73 crore"
+      ],
+      "source_name": "BusinessLine",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 50,
+      "importance_score": 16,
+      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+      "description": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWV9wN2JhZ2RyY3I1SVFWRzBkQTNSdmY3aXdHZHlOd09Cbi12NGVHZFBVZVZ6UEdUUGlRTEtGcXh1bEMwUk5zbUtyblFRNC1tZDhBSi1XREZaOWpPRUJtRnRDdnphWjA3c2dFd01NU25PZ2twWnRxUVM0SDZsNGJYcXNlMk55WVpHNVhTUU9XeTlhbFNpc3JhVzVsZFJBZWZaOVlQUjRTWGtlOGlfNHV5eVhKM0k1M3VtYWE0X01EOE81eE9VVUFGMndBLUJ0UndRbW9IbGJtekJCbm9xWjMyOFN6ZGlCODd5R214YXVUZWt4UXFLZ082emhRQ21oWVFn0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5",
+      "published": "2026-11-25T05:30:31+00:00",
+      "source": "ETPharma",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Voice of Healthcare",
-      "source_credibility": "Standard",
+      "source_name": "ETPharma",
+      "source_credibility": "Established",
       "location": "India",
       "event_type": "Regulatory Approval",
-      "what_happened": "Cipla Launches First Generic Flovent HFA After FDA Approval.",
+      "what_happened": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Voice of Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-      "description": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5",
-      "published": "2026-11-25T06:56:15+00:00",
-      "source": "ETPharma",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "ETPharma",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
+      "importance_score": 13,
       "fact_status": "Reported by ETPharma; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
           "source": "ETPharma",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWV9wN2JhZ2RyY3I1SVFWRzBkQTNSdmY3aXdHZHlOd09Cbi12NGVHZFBVZVZ6UEdUUGlRTEtGcXh1bEMwUk5zbUtyblFRNC1tZDhBSi1XREZaOWpPRUJtRnRDdnphWjA3c2dFd01NU25PZ2twWnRxUVM0SDZsNGJYcXNlMk55WVpHNVhTUU9XeTlhbFNpc3JhVzVsZFJBZWZaOVlQUjRTWGtlOGlfNHV5eVhKM0k1M3VtYWE0X01EOE81eE9VVUFGMndBLUJ0UndRbW9IbGJtekJCbm9xWjMyOFN6ZGlCODd5R214YXVUZWt4UXFLZ082emhRQ21oWVFn0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5"
         }
       ]
     },
     {
-      "category": "India",
-      "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-      "description": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5",
-      "published": "2026-11-24T13:30:00+00:00",
-      "source": "Fierce Pharma",
+      "category": "Vizag / AP",
+      "title": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
+      "description": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5",
+      "published": "2026-11-24T08:55:58+00:00",
+      "source": "CNBC TV18",
       "signal": "Watch",
-      "business_area": "Regulatory",
+      "business_area": "Manufacturing / Plants",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Marksans Pharma"
+        "Gland Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Fierce Pharma",
-      "source_credibility": "Established",
+      "source_name": "CNBC TV18",
+      "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Regulatory Inspection / Observations",
-      "what_happened": "Marksans Pharma flagged for 6 observations in wake of FDA inspection.",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Gland Pharma gets USFDA clearance for Visakhapatnam facility.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
+      "importance_score": 13,
+      "fact_status": "Reported by CNBC TV18; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5"
+          "source": "CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5"
         }
       ]
     }
@@ -132,32 +138,88 @@
     "Specialty Chemicals": 0,
     "Pharma Industry": 0
   },
+  "business_signal_breakdown": {
+    "API / Intermediates": {
+      "watch": 0,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 0
+    },
+    "CDMO / Contract Manufacturing": {
+      "watch": 0,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 0
+    },
+    "Exports / Markets": {
+      "watch": 1,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 1
+    },
+    "Investment / Expansion": {
+      "watch": 2,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 2
+    },
+    "Manufacturing / Plants": {
+      "watch": 3,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 3
+    },
+    "Pharma Industry": {
+      "watch": 1,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 1
+    },
+    "Regulatory": {
+      "watch": 2,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 2
+    },
+    "Specialty Chemicals": {
+      "watch": 0,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 0
+    },
+    "Supply Chain": {
+      "watch": 0,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 0
+    }
+  },
   "daily_brief": {
     "attention": [
       {
-        "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
         "signal": "Watch",
         "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       },
       {
-        "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
+        "title": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
         "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
-        "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       }
     ],
     "investigate": [
       {
-        "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
-        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       },
       {
-        "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+        "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
@@ -242,12 +304,12 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3MxWjJqeXdZZUZpQ2xMaFN1ZFYwdHhLUmZKdDU4WjZKbFFPUXN1eVY1NHZPY1E5WDZ1UjhqZTdCRC1GUk9aNWtXYVBabWdsbFpuemtRWFRGRDQ0bzZRdkNPY0JCX1U0WmZRVHo0SHF0NmloZzBrZzhVV0NsM0d2ZQ?oc=5",
       "published": "2026-11-25T10:36:42+00:00",
       "source": "Voice of Healthcare",
-      "signal": "General",
+      "signal": "Watch",
       "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
         "October India Pharma"
       ],
@@ -266,7 +328,7 @@
       "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 3,
+      "importance_score": 9,
       "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
@@ -321,23 +383,23 @@
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWV9wN2JhZ2RyY3I1SVFWRzBkQTNSdmY3aXdHZHlOd09Cbi12NGVHZFBVZVZ6UEdUUGlRTEtGcXh1bEMwUk5zbUtyblFRNC1tZDhBSi1XREZaOWpPRUJtRnRDdnphWjA3c2dFd01NU25PZ2twWnRxUVM0SDZsNGJYcXNlMk55WVpHNVhTUU9XeTlhbFNpc3JhVzVsZFJBZWZaOVlQUjRTWGtlOGlfNHV5eVhKM0k1M3VtYWE0X01EOE81eE9VVUFGMndBLUJ0UndRbW9IbGJtekJCbm9xWjMyOFN6ZGlCODd5R214YXVUZWt4UXFLZ082emhRQ21oWVFn0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5",
       "published": "2026-11-25T05:30:31+00:00",
       "source": "ETPharma",
-      "signal": "General",
+      "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
       "project_signals": [],
       "numbers": [],
       "source_name": "ETPharma",
       "source_credibility": "Established",
       "location": "India",
-      "event_type": "Industry Development",
+      "event_type": "Regulatory Approval",
       "what_happened": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
       "importance_score": 13,
@@ -389,41 +451,123 @@
       ]
     },
     {
-      "category": "Global",
-      "title": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
-      "description": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5",
-      "published": "2026-11-23T22:43:36+00:00",
-      "source": "Science, Public Health Policy and the Law",
+      "category": "Vizag / AP",
+      "title": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
+      "description": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5",
+      "published": "2026-11-24T08:55:58+00:00",
+      "source": "CNBC TV18",
       "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Anthropic Eyes Pharma",
-        "Foundation Anthropic Eyes Pharma"
+        "Gland Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Science, Public Health Policy and the Law",
+      "source_name": "CNBC TV18",
       "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation.",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Gland Pharma gets USFDA clearance for Visakhapatnam facility.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported by Science, Public Health Policy and the Law; primary source or underlying documents not independently verified",
+      "importance_score": 13,
+      "fact_status": "Reported by CNBC TV18; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Science, Public Health Policy and the Law",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5"
+          "source": "CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "Colombia Milagro Week Attracts Pharma Investment Interest",
+      "description": "Colombia Milagro Week Attracts Pharma Investment Interest",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9EQ2NJTkc4QURsOUJpbW1Beno1djgzTmhuR0lMbG9UVEYyQWRYTEd1NzFrOEd2RUVjdlNCaVpzeDk1a19GWjFiWjlRZGJ6eV9QbUJNSTJLTWdWTmozczc0WlI0OUdOM0FFNHRpV1Y3RzFyWEpOMmN0dnFlRDM4WkF3VkxVNjl1UVZpczJwdWFES3pHUURKUlVKRXJhY3ZVMlFKNURBa2F2VFdoT1E?oc=5",
+      "published": "2026-11-24T07:36:53+00:00",
+      "source": "Industrial Info Resources",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Milagro Week Attracts Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "Industrial Info Resources",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "Colombia Milagro Week Attracts Pharma Investment Interest.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by Industrial Info Resources; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Industrial Info Resources",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9EQ2NJTkc4QURsOUJpbW1Beno1djgzTmhuR0lMbG9UVEYyQWRYTEd1NzFrOEd2RUVjdlNCaVpzeDk1a19GWjFiWjlRZGJ6eV9QbUJNSTJLTWdWTmozczc0WlI0OUdOM0FFNHRpV1Y3RzFyWEpOMmN0dnFlRDM4WkF3VkxVNjl1UVZpczJwdWFES3pHUURKUlVKRXJhY3ZVMlFKNURBa2F2VFdoT1E?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
+      "published": "2026-11-24T03:52:57+00:00",
+      "source": "BusinessLine",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "High",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Anuh Pharma"
+      ],
+      "project_signals": [
+        "manufacturing facility"
+      ],
+      "numbers": [
+        "₹73 crore",
+        "73 crore"
+      ],
+      "source_name": "BusinessLine",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Capacity Expansion",
+      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
+      "evidence_level": "Medium",
+      "confidence": 50,
+      "importance_score": 16,
+      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
         }
       ]
     }
