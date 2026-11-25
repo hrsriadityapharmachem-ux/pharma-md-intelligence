@@ -10,12 +10,12 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-EXPECTED_ENGINE = "3.10.0"
+EXPECTED_ENGINE = "3.11.0"
 MAX_FUTURE_SKEW = timedelta(minutes=10)
 REQUIRED_TOP_LEVEL = {
     "updated", "engine_version", "article_count", "opportunity_count",
     "risk_count", "watch_count", "high_priority_count", "successful_feeds",
-    "must_know", "business_signals", "daily_brief", "articles"
+    "must_know", "business_signals", "business_signal_breakdown", "daily_brief", "articles", "failed_feeds"
 }
 REQUIRED_ARTICLE_FIELDS = {
     "title", "link", "signal", "priority", "event_type", "business_area",
@@ -77,6 +77,10 @@ def main():
         fail(f"article_count={data.get('article_count')} but articles contains {len(articles)}")
     if not isinstance(data.get("successful_feeds"), int) or isinstance(data["successful_feeds"], bool) or data["successful_feeds"] < 1:
         fail("successful_feeds must be at least 1; refusing an all-feeds-failed run")
+    if not isinstance(data.get("failed_feeds"), int) or isinstance(data["failed_feeds"], bool) or data["failed_feeds"] < 0:
+        fail("failed_feeds must be a non-negative integer")
+    if data["successful_feeds"] + data["failed_feeds"] != 20:
+        fail("successful_feeds + failed_feeds must equal the configured 20 RSS feeds")
 
     counts = {
         "opportunity_count": sum(a.get("signal") == "Opportunity" for a in articles if isinstance(a, dict)),
@@ -157,6 +161,27 @@ def main():
                 f"business_signals[{area!r}]={actual!r} "
                 f"but article-derived count is {expected}"
             )
+
+    breakdown = data.get("business_signal_breakdown")
+    if not isinstance(breakdown, dict):
+        fail("business_signal_breakdown must be an object")
+    expected_breakdown = {}
+    for article in articles:
+        if article.get("signal") not in {"Watch", "Opportunity", "Risk"}:
+            continue
+        area = article.get("business_area", "Pharma Industry")
+        counts = expected_breakdown.setdefault(area, {"watch": 0, "opportunities": 0, "risks": 0, "total": 0})
+        key = {"Watch": "watch", "Opportunity": "opportunities", "Risk": "risks"}[article["signal"]]
+        counts[key] += 1
+        counts["total"] += 1
+    for area, counts in expected_breakdown.items():
+        if breakdown.get(area) != counts:
+            fail(f"business_signal_breakdown[{area!r}] does not match article-derived signal counts")
+    for area, counts in breakdown.items():
+        if not isinstance(counts, dict) or set(counts) != {"watch", "opportunities", "risks", "total"}:
+            fail(f"business_signal_breakdown[{area!r}] has an invalid structure")
+        if any(not isinstance(value, int) or isinstance(value, bool) or value < 0 for value in counts.values()):
+            fail(f"business_signal_breakdown[{area!r}] must contain non-negative integer counts")
 
     brief = data.get("daily_brief")
     if not isinstance(brief, dict) or not isinstance(brief.get("attention"), list) or not isinstance(brief.get("investigate"), list):
