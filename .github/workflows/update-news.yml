@@ -1,5 +1,5 @@
 name: Update Pharma News
-run-name: "Refresh and validate live pharma intelligence · Engine 3.9"
+run-name: "Refresh and validate live pharma intelligence · Engine 3.11"
 on:
   workflow_dispatch:
   push:
@@ -77,7 +77,7 @@ jobs:
         if: steps.refresh_window.outputs.run_refresh == 'true'
         run: |
           python -m py_compile news.py validate_data.py
-          python -c "import news; assert news.ENGINE_VERSION == '3.10.0', news.ENGINE_VERSION"
+          python -c "import news; assert news.ENGINE_VERSION == '3.11.0', news.ENGINE_VERSION"
 
       - name: Collect latest pharma news
         if: steps.refresh_window.outputs.run_refresh == 'true'
@@ -98,10 +98,14 @@ jobs:
           from pathlib import Path
           log = Path('collector.log').read_text(errors='replace')
           feeds = re.findall(r'Successful feeds: (\d+)', log)
+          failed = re.findall(r'Failed feeds: (\d+)', log)
           eligible = re.findall(r'Eligible articles: (\d+)', log)
           data = json.loads(Path('data.json').read_text())
-          result = {'status':'success','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':datetime.now(timezone.utc).isoformat(),'last_content_update_at':data.get('updated'),'successful_feeds':int(feeds[-1]) if feeds else data.get('successful_feeds',0),'eligible_articles_seen':int(eligible[-1]) if eligible else 0,'published_article_count':data.get('article_count',0),'message':'Collection and validation succeeded.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
-          if 'Keeping the existing data.json unchanged' in log: result['message']='Feeds checked successfully; no new eligible articles. Existing content retained.'
+          successful_count = int(feeds[-1]) if feeds else data.get('successful_feeds',0)
+          failed_count = int(failed[-1]) if failed else data.get('failed_feeds',0)
+          partial = failed_count > 0
+          result = {'status':'partial' if partial else 'success','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':datetime.now(timezone.utc).isoformat(),'last_content_update_at':data.get('updated'),'successful_feeds':successful_count,'failed_feeds':failed_count,'eligible_articles_seen':int(eligible[-1]) if eligible else 0,'published_article_count':data.get('article_count',0),'message':f'Collection and validation passed with {failed_count} failed feed(s).' if partial else 'All feeds collected and validation passed.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
+          if 'Keeping the existing data.json unchanged' in log: result['message']='Feeds checked; no new eligible articles. Existing content retained.'
           Path('pipeline_status.json').write_text(json.dumps(result,indent=2)+'\n')
           PY
 
@@ -123,7 +127,7 @@ jobs:
           from pathlib import Path
           p=Path('pipeline_status.json'); old=json.loads(p.read_text()) if p.exists() else {}
           d=json.loads(Path('data.json').read_text()) if Path('data.json').exists() else {}
-          result={'status':'failure','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':old.get('last_success_at'),'last_content_update_at':d.get('updated') or old.get('last_content_update_at'),'successful_feeds':old.get('successful_feeds',0),'published_article_count':d.get('article_count',0),'message':'Collection or validation failed. Last-known-good content retained where possible.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
+          result={'status':'failure','last_attempt_at':datetime.now(timezone.utc).isoformat(),'last_success_at':old.get('last_success_at'),'last_content_update_at':d.get('updated') or old.get('last_content_update_at'),'successful_feeds':old.get('successful_feeds',0),'failed_feeds':old.get('failed_feeds',0),'published_article_count':d.get('article_count',0),'message':'Collection or validation failed. Last-known-good content retained where possible.','workflow_run':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']}
           p.write_text(json.dumps(result,indent=2)+'\n')
           PY
           git config user.name "Pharma Intelligence Bot"
