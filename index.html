@@ -48,7 +48,7 @@ a{color:inherit}
 .updated strong{display:block;color:var(--ink);font-size:11px}
 
 /* KPI STRIP */
-.kpis{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--ink);border-bottom:1px solid var(--rule);background:var(--white)}
+.kpis{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--ink);border-bottom:1px solid var(--rule);background:var(--white)}
 .kpi{min-height:105px;padding:18px 21px;border-right:1px solid var(--rule)}
 .kpi:last-child{border-right:0}
 .kpi-label{color:var(--muted);font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase}
@@ -71,6 +71,13 @@ a{color:inherit}
 .brief-item:last-child{padding:0;margin:0;border:0}
 .brief-item strong{display:block;margin-bottom:5px;font-size:11px;line-height:1.45}
 .brief-item p{margin:0;color:var(--muted);font-size:10px;line-height:1.55}
+.area-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;margin-top:12px}
+.area-card{background:var(--white);border:1px solid var(--rule);padding:12px 14px}
+.area-name{font-size:10px;font-weight:800;color:var(--ink);margin-bottom:7px}
+.area-metrics{font-size:9px;color:var(--muted);line-height:1.6}
+.area-metrics strong{color:var(--ink)}
+@media(max-width:900px){.area-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.area-grid{grid-template-columns:1fr}}
 .brief-question{margin-top:12px;padding:13px 15px;background:#f5f7f8;border-left:3px solid var(--blue);color:#39434e;font-size:11px;line-height:1.55}
 .brief-empty{color:var(--muted);font-size:11px;line-height:1.6}
 
@@ -122,6 +129,9 @@ a{color:inherit}
  .hero{grid-template-columns:1fr}
  .updated{text-align:left}
  .brief-grid{grid-template-columns:1fr}
+ .kpis{grid-template-columns:repeat(3,minmax(0,1fr))}
+ .kpi:nth-child(3){border-right:0}
+ .kpi:nth-child(-n+3){border-bottom:1px solid var(--rule)}
  .feature{grid-template-columns:1fr}
  .feature-side{border-left:0;border-top:1px solid var(--rule)}
  .intel-row{grid-template-columns:7px 1fr}
@@ -168,6 +178,7 @@ a{color:inherit}
   <div class="kpi"><div class="kpi-label">News detected</div><div class="kpi-value" id="newsCount">0</div><div class="kpi-note">Current intelligence set</div></div>
   <div class="kpi op"><div class="kpi-label">Opportunities</div><div class="kpi-value" id="opportunityCount">0</div><div class="kpi-note">Potential commercial signals</div></div>
   <div class="kpi risk"><div class="kpi-label">Risks</div><div class="kpi-value" id="riskCount">0</div><div class="kpi-note">Signals requiring attention</div></div>
+  <div class="kpi"><div class="kpi-label">Watch signals</div><div class="kpi-value" id="watchCount">0</div><div class="kpi-note">Developments to verify</div></div>
   <div class="kpi high"><div class="kpi-label">High priority</div><div class="kpi-value" id="highPriorityCount">0</div><div class="kpi-note">Management attention</div></div>
 </section>
 
@@ -176,6 +187,9 @@ a{color:inherit}
   <div class="brief-panel"><h3>What deserves attention</h3><div id="briefAttention" class="brief-empty">Loading management insights...</div></div>
   <div class="brief-panel"><h3>What management should verify</h3><div id="briefInvestigate" class="brief-empty">Loading investigation points...</div><div id="briefQuestion" class="brief-question"></div></div>
 </section>
+
+<div class="section-head"><h2>Business Area Signals</h2><span>Watch separated from confirmed risk and opportunity</span></div>
+<section id="businessSignals" class="area-grid"><div class="brief-empty">Loading business-area signals...</div></section>
 
 <div class="section-head"><h2>Must Know</h2><span>Priority-ranked management signal</span></div>
 <section id="mustKnow"></section>
@@ -268,6 +282,12 @@ function renderMustKnow(article){
     </aside>
   </div>`;
 }
+function renderBusinessSignals(breakdown){
+  const box=document.getElementById("businessSignals");
+  const entries=Object.entries(breakdown||{}).filter(([,v])=>v&&Number(v.total)>0).sort((a,b)=>Number(b[1].total)-Number(a[1].total));
+  if(!entries.length){box.innerHTML='<div class="brief-empty">No Watch, Risk or Opportunity signals are currently supported by the collected articles.</div>';return;}
+  box.innerHTML=entries.map(([area,v])=>'<div class="area-card"><div class="area-name">'+escapeHtml(area)+'</div><div class="area-metrics"><strong>'+Number(v.total||0)+'</strong> signals · '+Number(v.watch||0)+' Watch · '+Number(v.opportunities||0)+' Opportunities · '+Number(v.risks||0)+' Risks</div></div>').join("");
+}
 function renderDailyBrief(brief){
   const attention=document.getElementById("briefAttention");
   const investigate=document.getElementById("briefInvestigate");
@@ -322,9 +342,10 @@ async function loadData(){
   document.getElementById("newsCount").textContent=articles.length;
   document.getElementById("opportunityCount").textContent=articles.filter(a=>a.signal==="Opportunity").length;
   document.getElementById("riskCount").textContent=articles.filter(a=>a.signal==="Risk").length;
+  document.getElementById("watchCount").textContent=articles.filter(a=>a.signal==="Watch").length;
   document.getElementById("highPriorityCount").textContent=articles.filter(a=>a.priority==="Critical"||a.priority==="High").length;
   const mustKnow=Array.isArray(data.must_know)&&data.must_know.length?data.must_know[0]:chooseMustKnow(articles);
-  renderMustKnow(mustKnow);renderDailyBrief(data.daily_brief||{});renderArticles(articles,mustKnow);
+  renderMustKnow(mustKnow);renderDailyBrief(data.daily_brief||{});renderBusinessSignals(data.business_signal_breakdown||{});renderArticles(articles,mustKnow);
   document.getElementById("lastUpdated").textContent="Content updated "+formatIndiaTime(data.updated);
   const dot=document.getElementById("statusDot"),label=document.getElementById("statusLabel"),monitorLabel=document.getElementById("pipelineStatus");
   try{
@@ -338,9 +359,12 @@ async function loadData(){
    const stale=!lastSuccess||Number.isNaN(lastSuccess.getTime())||age>(morningWindow()?25:130);
    const contentStale=!Number.isFinite(contentAge)||contentAge>72;
    const contentMismatch=!!contentStamp&&(!Number.isFinite(contentStamp.getTime())||Math.abs(contentStamp.getTime()-dataStamp.getTime())>5*60*1000);
-   const failed=monitor.status==="failure";dot.className="status-dot"+((stale||contentStale||failed||contentMismatch)?" stale":"");
-   label.textContent=failed?"Refresh failed":stale?"Pipeline delayed":contentMismatch?"Data/status mismatch":contentStale?"Intelligence content is over 72 hours old":"Pipeline healthy";
-   monitorLabel.textContent="Last successful collection: "+(lastSuccess?formatIndiaTime(monitor.last_success_at):"Not recorded")+(lastAttempt?" · Last attempt: "+formatIndiaTime(monitor.last_attempt_at):"")+(monitor.message?" · "+monitor.message:"")+(contentMismatch?" · Published data and pipeline timestamps do not match.":"")+(contentStale?" · The latest eligible article dataset is over 72 hours old; feeds may be healthy but there is no sufficiently recent content.":"");
+   const failed=monitor.status==="failure";
+   const partial=monitor.status==="partial"||Number(monitor.failed_feeds||0)>0;
+   dot.className="status-dot"+((stale||contentStale||failed||partial||contentMismatch)?" stale":"");
+   label.textContent=failed?"Refresh failed":partial?"Partial feed coverage":stale?"Pipeline delayed":contentMismatch?"Data/status mismatch":contentStale?"Intelligence content is over 72 hours old":"Pipeline healthy";
+   const feedSummary="RSS feeds: "+Number(monitor.successful_feeds||0)+" successful, "+Number(monitor.failed_feeds||0)+" failed";
+   monitorLabel.textContent="Last successful collection: "+(lastSuccess?formatIndiaTime(monitor.last_success_at):"Not recorded")+(lastAttempt?" · Last attempt: "+formatIndiaTime(monitor.last_attempt_at):"")+" · "+feedSummary+(monitor.message?" · "+monitor.message:"")+(contentMismatch?" · Published data and pipeline timestamps do not match.":"")+(contentStale?" · The latest eligible article dataset is over 72 hours old; feeds may be healthy but there is no sufficiently recent content.":"");
   }catch(e){dot.className="status-dot stale";label.textContent="Monitoring unavailable";monitorLabel.textContent="Pipeline health could not be verified; content timestamp is shown separately.";console.error(e);}
  }catch(error){
   console.error(error);const dot=document.getElementById("statusDot"),label=document.getElementById("statusLabel");
