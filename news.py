@@ -49,7 +49,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.11.1"
+ENGINE_VERSION = "3.11.2"
 LAST_FAILED_FEEDS = 0
 
 KNOWN_SOURCES = [
@@ -1946,7 +1946,7 @@ def deduplicate_articles(articles):
             # capacity and regulatory activity into one record.
             near_identical = ratio >= 0.93 and overlap >= 0.82
             strong_same_company_event = shared_company and len(shared_event_terms) >= 1 and overlap >= 0.50
-            if normalized == existing_normalized or near_identical or strong_same_company_event or same_company_event or (same_specific_event and overlap >= 0.45):
+            if normalized == existing_normalized or near_identical or strong_same_company_event or same_company_event or (same_specific_event and overlap >= 0.30):
                 duplicate_index = i
                 break
 
