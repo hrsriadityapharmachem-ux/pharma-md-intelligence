@@ -1,56 +1,13 @@
 {
-  "updated": "2026-11-25T14:58:31.715188+00:00",
-  "engine_version": "3.9.0",
-  "article_count": 8,
+  "updated": "2026-11-25T18:06:25.771771+00:00",
+  "engine_version": "3.10.0",
+  "article_count": 7,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 6,
-  "high_priority_count": 1,
+  "watch_count": 5,
+  "high_priority_count": 0,
   "successful_feeds": 20,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
-      "published": "2026-11-24T03:52:57+00:00",
-      "source": "BusinessLine",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Anuh Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": [
-        "₹73 crore",
-        "73 crore"
-      ],
-      "source_name": "BusinessLine",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 50,
-      "importance_score": 16,
-      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
-        }
-      ]
-    },
     {
       "category": "India",
       "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
@@ -124,6 +81,44 @@
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5"
         }
       ]
+    },
+    {
+      "category": "India",
+      "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+      "description": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5",
+      "published": "2026-11-24T13:30:00+00:00",
+      "source": "Fierce Pharma",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "Marksans Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Fierce Pharma",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Regulatory Inspection / Observations",
+      "what_happened": "Marksans Pharma flagged for 6 observations in wake of FDA inspection.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5"
+        }
+      ]
     }
   ],
   "business_signals": {
@@ -140,11 +135,6 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
         "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
         "signal": "Watch",
         "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
@@ -153,16 +143,21 @@
         "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
+        "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
     ],
     "investigate": [
       {
-        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
-      },
-      {
         "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
         "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+      },
+      {
+        "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
@@ -173,7 +168,7 @@
       "title": "How partnerships can move Indian pharma from volume to value",
       "description": "How partnerships can move Indian pharma from volume to value",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUVoQTFiY05laXBqS1FqS3BLTENZSXNpX0NGbkpFYVNDZnFpNld0MXkwVjBMcUVpT3BLLWYzSzBBMDZZem9Ud1Iza2JBRFpiMWZjbzRKNGY1LXQtQnhvRkhTVlc5ekVMMS14QmFMVnNsRnpJUUVLTHdaQUJseVZKT0xiQVZicFoybmVkRTlGUDVKX1ViSkVkRE5xOUV0N1pSLVV3?oc=5",
-      "published": "2026-11-25T11:12:52+00:00",
+      "published": "2026-11-25T11:14:04+00:00",
       "source": "EY",
       "signal": "Watch",
       "business_area": "Pharma Industry",
@@ -395,84 +390,40 @@
     },
     {
       "category": "Global",
-      "title": "Colombia Milagro Week Attracts Pharma Investment Interest",
-      "description": "Colombia Milagro Week Attracts Pharma Investment Interest",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9EQ2NJTkc4QURsOUJpbW1Beno1djgzTmhuR0lMbG9UVEYyQWRYTEd1NzFrOEd2RUVjdlNCaVpzeDk1a19GWjFiWjlRZGJ6eV9QbUJNSTJLTWdWTmozczc0WlI0OUdOM0FFNHRpV1Y3RzFyWEpOMmN0dnFlRDM4WkF3VkxVNjl1UVZpczJwdWFES3pHUURKUlVKRXJhY3ZVMlFKNURBa2F2VFdoT1E?oc=5",
-      "published": "2026-11-24T07:36:53+00:00",
-      "source": "Industrial Info Resources",
+      "title": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
+      "description": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5",
+      "published": "2026-11-23T22:43:36+00:00",
+      "source": "Science, Public Health Policy and the Law",
       "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
       "companies": [
-        "Milagro Week Attracts Pharma"
+        "Anthropic Eyes Pharma",
+        "Foundation Anthropic Eyes Pharma"
       ],
-      "project_signals": [
-        "investment"
-      ],
+      "project_signals": [],
       "numbers": [],
-      "source_name": "Industrial Info Resources",
+      "source_name": "Science, Public Health Policy and the Law",
       "source_credibility": "Standard",
       "location": "Global",
-      "event_type": "Industry Development",
-      "what_happened": "Colombia Milagro Week Attracts Pharma Investment Interest.",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Industrial Info Resources; primary source or underlying documents not independently verified",
+      "importance_score": 3,
+      "fact_status": "Reported by Science, Public Health Policy and the Law; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Industrial Info Resources",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9EQ2NJTkc4QURsOUJpbW1Beno1djgzTmhuR0lMbG9UVEYyQWRYTEd1NzFrOEd2RUVjdlNCaVpzeDk1a19GWjFiWjlRZGJ6eV9QbUJNSTJLTWdWTmozczc0WlI0OUdOM0FFNHRpV1Y3RzFyWEpOMmN0dnFlRDM4WkF3VkxVNjl1UVZpczJwdWFES3pHUURKUlVKRXJhY3ZVMlFKNURBa2F2VFdoT1E?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
-      "published": "2026-11-24T03:52:57+00:00",
-      "source": "BusinessLine",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Anuh Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": [
-        "₹73 crore",
-        "73 crore"
-      ],
-      "source_name": "BusinessLine",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 50,
-      "importance_score": 16,
-      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
+          "source": "Science, Public Health Policy and the Law",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5"
         }
       ]
     }
