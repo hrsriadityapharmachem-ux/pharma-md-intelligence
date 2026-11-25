@@ -1,11 +1,11 @@
 {
   "status": "success",
-  "last_attempt_at": "2026-11-25T18:06:25.871911+00:00",
-  "last_success_at": "2026-11-25T18:06:25.871919+00:00",
-  "last_content_update_at": "2026-11-25T18:06:25.771771+00:00",
-  "successful_feeds": 20,
-  "eligible_articles_seen": 10,
+  "last_attempt_at": "2026-11-25T18:06:48.798761+00:00",
+  "last_success_at": "2026-11-25T18:06:48.798771+00:00",
+  "last_content_update_at": "2026-11-25T18:06:48.693165+00:00",
+  "successful_feeds": 19,
+  "eligible_articles_seen": 9,
   "published_article_count": 7,
   "message": "Collection and validation succeeded.",
-  "workflow_run": "https://github.com/hrsriadityapharmachem-ux/pharma-md-intelligence/actions/runs/45671628145"
+  "workflow_run": "https://github.com/hrsriadityapharmachem-ux/pharma-md-intelligence/actions/runs/45671657705"
 }
