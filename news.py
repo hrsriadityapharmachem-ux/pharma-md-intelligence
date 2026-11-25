@@ -48,7 +48,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.9.0"
+ENGINE_VERSION = "3.10.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -1919,7 +1919,17 @@ def deduplicate_articles(articles):
                 "contamination", "acquisition", "agreement", "expansion", "capacity"
             }
             same_company_event = shared_company and len(shared_event_terms) >= 1 and overlap >= 0.18
-            if ratio >= 0.86 or overlap >= 0.72 or same_specific_event or same_company_event:
+            # Be conservative: if both headlines identify different companies,
+            # never merge them merely because they share broad pharma/event words.
+            if left_companies and right_companies and not shared_company:
+                continue
+
+            # Require near-identical headlines, or a strong same-company event match.
+            # This avoids collapsing unrelated stories about investments, inspections,
+            # capacity and regulatory activity into one record.
+            near_identical = ratio >= 0.93 and overlap >= 0.82
+            strong_same_company_event = shared_company and len(shared_event_terms) >= 1 and overlap >= 0.50
+            if normalized == existing_normalized or near_identical or strong_same_company_event:
                 duplicate_index = i
                 break
 
