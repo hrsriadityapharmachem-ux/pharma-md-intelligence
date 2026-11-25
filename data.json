@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T21:32:37.901090+00:00",
+  "updated": "2026-11-25T04:33:42.779226+00:00",
   "engine_version": "3.9.0",
-  "article_count": 5,
+  "article_count": 7,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 4,
+  "watch_count": 5,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
@@ -53,11 +53,11 @@
     },
     {
       "category": "Hyderabad",
-      "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
-      "description": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5",
-      "published": "2026-11-23T03:27:05+00:00",
-      "source": "indica News",
+      "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
+      "description": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5",
+      "published": "2026-11-23T14:36:15+00:00",
+      "source": "Medical Dialogues",
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
@@ -65,22 +65,22 @@
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
       "companies": [
-        "Natco Pharma"
+        "NATCO Pharma"
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "indica News",
+      "source_name": "Medical Dialogues",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Regulatory Inspection / Observations",
-      "what_happened": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant.",
+      "what_happened": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
       "evidence_level": "Medium",
       "confidence": 45,
       "importance_score": 11,
-      "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by Medical Dialogues; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
@@ -90,10 +90,6 @@
         {
           "source": "Medical Dialogues",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ240MXBqSkpzZWJxUW85NURMeWNnV2JXZzNJWGRVUXJ5aU9URU93bmQ2VHJTU1NJMTJwcmt0c05LSm1XYW16MnR5SVN6Vlk3VGxJaWxieU4yR1pCUDFRLTRIQWxPNW9LcG1IUGJkN2k0cjdvOTdxY2htekFiT2t2aE5lQi12VDF1dTJNUlN3cFg3Yk04N1JzYzB2ZUs3WVZkajJiaFZBNzZMM2dweE1HZmZrdHlkX2dPRkNyUzdUSzE2RFnSAcgBQVVfeXFMUHdpbUl6aElPN2xqYVZqWGNiT3J3YndDcjN3NnFOLVpaVmFnSi0xb0daQlh2clJOOUNtR0dyVEc1a00wamZJc2J4bFkzbjFPM0NMV09GVmZkODVsa1VPSGtzaThHV1htckFNdjBaRGItck1DdGp5WmV2cmtRUW9FSnhlVW40SW9MTEpJTl9zU2xiRG56MG03bEZRcXNjSmdaNDJJWlllcGlUQndhdFllMTUxOUxCdzNpbG53akNmRlBNTDNnSHBhQ2c?oc=5"
-        },
-        {
-          "source": "indica News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5"
         }
       ]
     },
@@ -155,7 +151,7 @@
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
       {
-        "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
+        "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
@@ -171,7 +167,7 @@
         "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       },
       {
-        "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
+        "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
         "question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?"
       }
     ],
@@ -300,6 +296,87 @@
       ]
     },
     {
+      "category": "Global",
+      "title": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
+      "description": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5",
+      "published": "2026-11-23T22:43:36+00:00",
+      "source": "Science, Public Health Policy and the Law",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [
+        "Anthropic Eyes Pharma",
+        "Foundation Anthropic Eyes Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Science, Public Health Policy and the Law",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 3,
+      "fact_status": "Reported by Science, Public Health Policy and the Law; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Science, Public Health Policy and the Law",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
+      "description": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5",
+      "published": "2026-11-23T14:36:15+00:00",
+      "source": "Medical Dialogues",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [
+        "NATCO Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Medical Dialogues",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Inspection / Observations",
+      "what_happened": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 11,
+      "fact_status": "Reported by Medical Dialogues; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5"
+        },
+        {
+          "source": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ240MXBqSkpzZWJxUW85NURMeWNnV2JXZzNJWGRVUXJ5aU9URU93bmQ2VHJTU1NJMTJwcmt0c05LSm1XYW16MnR5SVN6Vlk3VGxJaWxieU4yR1pCUDFRLTRIQWxPNW9LcG1IUGJkN2k0cjdvOTdxY2htekFiT2t2aE5lQi12VDF1dTJNUlN3cFg3Yk04N1JzYzB2ZUs3WVZkajJiaFZBNzZMM2dweE1HZmZrdHlkX2dPRkNyUzdUSzE2RFnSAcgBQVVfeXFMUHdpbUl6aElPN2xqYVZqWGNiT3J3YndDcjN3NnFOLVpaVmFnSi0xb0daQlh2clJOOUNtR0dyVEc1a00wamZJc2J4bFkzbjFPM0NMV09GVmZkODVsa1VPSGtzaThHV1htckFNdjBaRGItck1DdGp5WmV2cmtRUW9FSnhlVW40SW9MTEpJTl9zU2xiRG56MG03bEZRcXNjSmdaNDJJWlllcGlUQndhdFllMTUxOUxCdzNpbG53akNmRlBNTDNnSHBhQ2c?oc=5"
+        }
+      ]
+    },
+    {
       "category": "India",
       "title": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil",
       "description": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil",
@@ -339,48 +416,38 @@
       ]
     },
     {
-      "category": "Hyderabad",
-      "title": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
-      "description": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5",
-      "published": "2026-11-23T03:27:05+00:00",
-      "source": "indica News",
-      "signal": "Watch",
-      "business_area": "Regulatory",
+      "category": "Vizag / AP",
+      "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+      "description": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeS1jTTMyTUV5N21tc29US2Z4Z08xSEJzZXJPYzZmSE5YNDR5bUtiblZLZTE3Mnp3T0ZUbVlKelhScVpWS0JXbTlSeGh6ZlNXRmlONmxLRm8wUVdGcGtBNHUyNnN0YmJFVUFZa3hENDBIaEJ3WnE5UUVaN0Z0T3M4Q2ZlNHh4Y2w1RURWdkJVMU9sdDRrQ1NuZjVZU2FQOTlnZ0Q5enpaeWR2dDNmVFRhYk9CMldoMkloTFdwZ25jVm9KN1FZREU3dEtMWWRIWWNRczN4XzBubHVUT2FRU25aQkRNWG1rNGtyTk1Rc2F0VGx6VERZam9iRFhjZWlGNnhiVlpDOWZB0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5",
+      "published": "2026-11-23T06:23:32+00:00",
+      "source": "pharma.economictimes.indiatimes.com",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
       "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Natco Pharma"
-      ],
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "indica News",
+      "source_name": "pharma.economictimes.indiatimes.com",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Regulatory Inspection / Observations",
-      "what_happened": "U.S. FDA Issues 7 Observations After Inspection Of Natco Pharma’s Hyderabad Plant.",
+      "event_type": "Industry Development",
+      "what_happened": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 11,
-      "fact_status": "Reported by indica News; primary source or underlying documents not independently verified",
+      "importance_score": 13,
+      "fact_status": "Reported by pharma.economictimes.indiatimes.com; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5"
-        },
-        {
-          "source": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ240MXBqSkpzZWJxUW85NURMeWNnV2JXZzNJWGRVUXJ5aU9URU93bmQ2VHJTU1NJMTJwcmt0c05LSm1XYW16MnR5SVN6Vlk3VGxJaWxieU4yR1pCUDFRLTRIQWxPNW9LcG1IUGJkN2k0cjdvOTdxY2htekFiT2t2aE5lQi12VDF1dTJNUlN3cFg3Yk04N1JzYzB2ZUs3WVZkajJiaFZBNzZMM2dweE1HZmZrdHlkX2dPRkNyUzdUSzE2RFnSAcgBQVVfeXFMUHdpbUl6aElPN2xqYVZqWGNiT3J3YndDcjN3NnFOLVpaVmFnSi0xb0daQlh2clJOOUNtR0dyVEc1a00wamZJc2J4bFkzbjFPM0NMV09GVmZkODVsa1VPSGtzaThHV1htckFNdjBaRGItck1DdGp5WmV2cmtRUW9FSnhlVW40SW9MTEpJTl9zU2xiRG56MG03bEZRcXNjSmdaNDJJWlllcGlUQndhdFllMTUxOUxCdzNpbG53akNmRlBNTDNnSHBhQ2c?oc=5"
-        },
-        {
-          "source": "indica News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG95SkUtZFNEVThDenlxYzBaT2ZicEtFdjNiZTRXS2ozb2U0d3BrQlJhTVZUZWNucU9RLTZqbXlXSFVXbFVQZS1yNnRGZk5ZU0FDTVljWVlIVkszTW5ZLXVGSXF2VTZ6c203UHNlTVJwOVN0MmRLRm9zOWY1bkprY25sZWhQNWg2TndIem9aNHJFVDdoSnFfSll4UmtyUUIzbmo0MnZB?oc=5"
+          "source": "pharma.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeS1jTTMyTUV5N21tc29US2Z4Z08xSEJzZXJPYzZmSE5YNDR5bUtiblZLZTE3Mnp3T0ZUbVlKelhScVpWS0JXbTlSeGh6ZlNXRmlONmxLRm8wUVdGcGtBNHUyNnN0YmJFVUFZa3hENDBIaEJ3WnE5UUVaN0Z0T3M4Q2ZlNHh4Y2w1RURWdkJVMU9sdDRrQ1NuZjVZU2FQOTlnZ0Q5enpaeWR2dDNmVFRhYk9CMldoMkloTFdwZ25jVm9KN1FZREU3dEtMWWRIWWNRczN4XzBubHVUT2FRU25aQkRNWG1rNGtyTk1Rc2F0VGx6VERZam9iRFhjZWlGNnhiVlpDOWZB0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5"
         }
       ]
     }
