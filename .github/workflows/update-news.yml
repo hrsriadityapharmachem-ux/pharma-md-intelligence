@@ -1,4 +1,5 @@
 name: Update Pharma News
+# Re-trigger after the 3.11.2 validator fix; live branch checkout is v2-intelligence.
 run-name: "Refresh and validate live pharma intelligence · Engine 3.11.2"
 on:
   workflow_dispatch:
