@@ -49,7 +49,7 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.10.0"
+ENGINE_VERSION = "3.11.0"
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -2112,7 +2112,7 @@ def main():
         print("WARNING: No eligible articles in the 48-hour window; retrying with a 7-day window.")
         articles, fallback_successful_feeds, fallback_failed_feeds = collect_news(window_hours=168)
         successful_feeds = max(successful_feeds, fallback_successful_feeds)
-        failed_feeds = min(failed_feeds, fallback_failed_feeds)
+        failed_feeds = fallback_failed_feeds
 
     # --------------------------------------------------------
     # Safety protection
