@@ -1,57 +1,14 @@
 {
-  "updated": "2026-11-25T18:14:07.766745+00:00",
+  "updated": "2026-11-25T23:33:46.582896+00:00",
   "engine_version": "3.11.2",
-  "article_count": 9,
+  "article_count": 8,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 9,
-  "high_priority_count": 1,
+  "watch_count": 8,
+  "high_priority_count": 0,
   "successful_feeds": 20,
   "failed_feeds": 0,
   "must_know": [
-    {
-      "category": "India",
-      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
-      "published": "2026-11-24T03:52:57+00:00",
-      "source": "BusinessLine",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Anuh Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": [
-        "₹73 crore",
-        "73 crore"
-      ],
-      "source_name": "BusinessLine",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 50,
-      "importance_score": 16,
-      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
-        }
-      ]
-    },
     {
       "category": "Hyderabad",
       "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
@@ -90,11 +47,11 @@
     },
     {
       "category": "Vizag / AP",
-      "title": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
-      "description": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5",
-      "published": "2026-11-24T08:55:58+00:00",
-      "source": "CNBC TV18",
+      "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
+      "description": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5",
+      "published": "2026-11-25T00:29:23+00:00",
+      "source": "ad-hoc-news.de",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "Medium",
@@ -106,23 +63,63 @@
       ],
       "project_signals": [],
       "numbers": [],
-      "source_name": "CNBC TV18",
+      "source_name": "ad-hoc-news.de",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Regulatory Approval",
-      "what_happened": "Gland Pharma gets USFDA clearance for Visakhapatnam facility.",
+      "what_happened": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
       "importance_score": 13,
-      "fact_status": "Reported by CNBC TV18; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by ad-hoc-news.de; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
           "source": "CNBC TV18",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5"
+        },
+        {
+          "source": "ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+      "description": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5",
+      "published": "2026-11-25T11:06:00+00:00",
+      "source": "Voice of Healthcare",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Voice of Healthcare",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Cipla Launches First Generic Flovent HFA After FDA Approval.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Voice of Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5"
         }
       ]
     }
@@ -164,10 +161,10 @@
       "total": 2
     },
     "Manufacturing / Plants": {
-      "watch": 3,
+      "watch": 2,
       "opportunities": 0,
       "risks": 0,
-      "total": 3
+      "total": 2
     },
     "Pharma Industry": {
       "watch": 1,
@@ -197,28 +194,28 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
         "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
         "signal": "Watch",
         "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       },
       {
-        "title": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
+        "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
+        "signal": "Watch",
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
+      },
+      {
+        "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
         "signal": "Watch",
         "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       }
     ],
     "investigate": [
       {
-        "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-        "question": "Which products, capacity, location and commissioning timeline are confirmed?"
+        "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
       },
       {
-        "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+        "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
         "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
       }
     ],
@@ -413,6 +410,48 @@
       ]
     },
     {
+      "category": "Vizag / AP",
+      "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
+      "description": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5",
+      "published": "2026-11-25T00:29:23+00:00",
+      "source": "ad-hoc-news.de",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Gland Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "ad-hoc-news.de",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 13,
+      "fact_status": "Reported by ad-hoc-news.de; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5"
+        },
+        {
+          "source": "ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5"
+        }
+      ]
+    },
+    {
       "category": "India",
       "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
       "description": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
@@ -447,44 +486,6 @@
         {
           "source": "Fierce Pharma",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
-      "description": "Gland Pharma gets USFDA clearance for Visakhapatnam facility",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5",
-      "published": "2026-11-24T08:55:58+00:00",
-      "source": "CNBC TV18",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Gland Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "CNBC TV18",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Gland Pharma gets USFDA clearance for Visakhapatnam facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 13,
-      "fact_status": "Reported by CNBC TV18; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5"
         }
       ]
     },
@@ -525,49 +526,6 @@
         {
           "source": "Industrial Info Resources",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9EQ2NJTkc4QURsOUJpbW1Beno1djgzTmhuR0lMbG9UVEYyQWRYTEd1NzFrOEd2RUVjdlNCaVpzeDk1a19GWjFiWjlRZGJ6eV9QbUJNSTJLTWdWTmozczc0WlI0OUdOM0FFNHRpV1Y3RzFyWEpOMmN0dnFlRDM4WkF3VkxVNjl1UVZpczJwdWFES3pHUURKUlVKRXJhY3ZVMlFKNURBa2F2VFdoT1E?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "description": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5",
-      "published": "2026-11-24T03:52:57+00:00",
-      "source": "BusinessLine",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "High",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Anuh Pharma"
-      ],
-      "project_signals": [
-        "manufacturing facility"
-      ],
-      "numbers": [
-        "₹73 crore",
-        "73 crore"
-      ],
-      "source_name": "BusinessLine",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Capacity Expansion",
-      "what_happened": "Anuh Pharma invests ₹73 crore in 3rd bulk drug manufacturing facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, capacity, location and commissioning timeline are confirmed?",
-      "evidence_level": "Medium",
-      "confidence": 50,
-      "importance_score": 16,
-      "fact_status": "Reported by BusinessLine; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
         }
       ]
     }
