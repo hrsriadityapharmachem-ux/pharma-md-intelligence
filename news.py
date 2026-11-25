@@ -1,6 +1,7 @@
 import json
 import sys
 import urllib.request
+import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
@@ -303,47 +304,37 @@ BUSINESS_AREAS = {
 # ============================================================
 
 def get_feed(url):
-
-    for attempt in range(2):
-
+    """Fetch RSS with bounded retries and backoff for transient rate limits."""
+    for attempt in range(3):
         try:
-
             request = urllib.request.Request(
                 url,
                 headers={
-                    "User-Agent": (
-                        "Mozilla/5.0 "
-                        "(Windows NT 10.0; Win64; x64) "
-                        "AppleWebKit/537.36 "
-                        "Chrome/154.0 Safari/537.36"
-                    ),
-                    "Accept": (
-                        "application/rss+xml, "
-                        "application/xml, text/xml, */*"
-                    ),
-                    "Accept-Language": "en-US,en;q=0.9"
+                    "User-Agent": "SriAdityaPharmaIntelligence/1.0 (+RSS reader)",
+                    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+                    "Accept-Language": "en-IN,en;q=0.9"
                 }
             )
-
-            with urllib.request.urlopen(
-                request,
-                timeout=20
-            ) as response:
-
+            with urllib.request.urlopen(request, timeout=25) as response:
                 return response.read()
-
-        except Exception as e:
-
-            print(
-                "Feed attempt",
-                attempt + 1,
-                "failed:",
-                e
-            )
-
-            if attempt < 1:
-                time.sleep(2)
-
+        except urllib.error.HTTPError as exc:
+            retry_after = exc.headers.get("Retry-After", "")
+            try:
+                wait_seconds = min(max(int(retry_after), 2), 30) if retry_after else (5 * (2 ** attempt))
+            except (TypeError, ValueError):
+                wait_seconds = 5 * (2 ** attempt)
+            print(f"Feed attempt {attempt + 1}/3 failed: HTTP {exc.code}; retry in {wait_seconds}s")
+            if attempt < 2:
+                time.sleep(wait_seconds)
+        except (urllib.error.URLError, TimeoutError, OSError) as exc:
+            wait_seconds = 2 * (2 ** attempt)
+            print(f"Feed attempt {attempt + 1}/3 failed: {exc}; retry in {wait_seconds}s")
+            if attempt < 2:
+                time.sleep(wait_seconds)
+        except Exception as exc:
+            print(f"Feed attempt {attempt + 1}/3 failed: {exc}")
+            if attempt < 2:
+                time.sleep(2 * (2 ** attempt))
     return None
 
 
@@ -616,7 +607,10 @@ def determine_event_type(text):
     if any(x in lower for x in [
         "supply agreement", "commercial agreement", "contract manufacturing agreement",
         "signed manufacturing agreement", "long-term supply contract", "wins contract",
-        "won contract", "awarded contract"
+        "won contract", "awarded contract", "wins supply contract",
+        "secures contract", "contract awarded", "manufacturing contract",
+        "commercial supply deal", "supply deal", "purchase agreement",
+        "long-term supply agreement", "selected as supplier", "named supplier"
     ]):
         return "Commercial Agreement"
 
@@ -636,7 +630,7 @@ def determine_event_type(text):
     if any(x in lower for x in ["export", "exports", "market entry", "new market", "international market"]):
         return "Market / Export Move"
 
-    if any(x in lower for x in ["fda approval", "ema approval", "cdsco approval", "approved by", "regulatory approval"]):
+    if any(x in lower for x in ["fda approval", "ema approval", "cdsco approval", "approved by", "regulatory approval", "fda clearance", "fda cleared", "cleared by the fda", "gmp clearance", "gmp certification"]):
         return "Regulatory Approval"
 
     if any(x in lower for x in ["joins", "appointed", "appoints", "chief executive", "chief business officer", "ceo"]):
@@ -800,13 +794,16 @@ def determine_signal(text):
 
     confirmed_risk = [
         "supply disruption", "supply chain disruption", "shortage",
-        "production halt", "plant closure", "recall", "warning letter",
-        "import alert", "export restriction", "failed inspection",
-        "contamination", "regulatory action", "regulatory warning",
-        "sanction", "ban on", "suspended", "suspension of manufacturing",
-        "official action indicated", "oai classification",
-        "manufacturing licence cancelled", "manufacturing license cancelled",
-        "product found adulterated", "critical quality defect"
+        "production halt", "plant closure", "recall", "product recall",
+        "warning letter", "import alert", "export restriction",
+        "failed inspection", "contamination", "regulatory action",
+        "regulatory warning", "sanction", "ban on", "suspended",
+        "suspension of manufacturing", "official action indicated",
+        "oai classification", "manufacturing licence cancelled",
+        "manufacturing license cancelled", "product found adulterated",
+        "critical quality defect", "consent decree", "license revoked",
+        "licence revoked", "license suspended", "licence suspended",
+        "product withdrawn", "market withdrawal", "gmp non-compliance"
     ]
     if any(x in lower for x in confirmed_risk):
         return "Risk"
@@ -818,7 +815,11 @@ def determine_signal(text):
         "cdmo contract", "contract manufacturing agreement",
         "supply agreement", "commercial agreement",
         "signed manufacturing agreement", "awarded contract",
-        "wins contract", "won contract", "long-term supply contract"
+        "wins contract", "won contract", "long-term supply contract",
+        "wins supply contract", "secures contract", "contract awarded",
+        "manufacturing contract", "commercial supply deal", "supply deal",
+        "purchase agreement", "long-term supply agreement",
+        "selected as supplier", "named supplier"
     ]
     if any(x in lower for x in explicit_agreement):
         return "Opportunity"
@@ -830,9 +831,23 @@ def determine_signal(text):
         "production expansion", "acquisition", "acquires", "acquired",
         "investment", "invests", "funding", "merger", "stake",
         "fda approval", "ema approval", "cdsco approval",
-        "approved by", "regulatory approval"
+        "approved by", "regulatory approval", "fda clearance",
+        "fda cleared", "cleared by the fda", "gmp clearance",
+        "gmp certification", "export growth", "pharma exports",
+        "pharmaceutical exports", "exports rise", "exports increase",
+        "market access", "market expansion"
     ]
     if any(x in lower for x in industry_development):
+        return "Watch"
+
+    # Pharma export and positive regulatory clearance are meaningful market
+    # signals, but do not by themselves prove a Sri Aditya sales opportunity.
+    if any(x in lower for x in [
+        "pharma exports", "pharmaceutical exports", "exports rise",
+        "exports increase", "export growth", "market access",
+        "fda clearance", "fda cleared", "cleared by the fda",
+        "gmp clearance", "gmp certification", "passed inspection"
+    ]):
         return "Watch"
 
     if any(term_matches(lower, keyword) for keyword in RISK_KEYWORDS):
@@ -1568,12 +1583,10 @@ def collect_news(window_hours=48):
 
         for url in urls:
 
-            print(
-                "Checking feed:",
-                category
-            )
-
+            print(f"Checking feed: {category} · endpoint {urls.index(url) + 1}/{len(urls)}")
             data = get_feed(url)
+            # A small gap reduces burst pressure on the RSS provider.
+            time.sleep(0.75)
 
             if not data:
 
@@ -1853,7 +1866,8 @@ def collect_news(window_hours=48):
 
     return (
         articles,
-        successful_feeds
+        successful_feeds,
+        failed_feeds
     )
 
 
@@ -2039,51 +2053,48 @@ def select_must_know(articles):
 # BUSINESS SIGNAL SUMMARY
 # ============================================================
 
-def build_signal_summary(
-    articles
-):
-
+def build_signal_summary(articles):
+    """Keep the legacy confirmed-signal totals for backwards compatibility."""
     areas = {
-
         "API / Intermediates": 0,
-
         "CDMO / Contract Manufacturing": 0,
-
         "Investment / Expansion": 0,
-
         "Manufacturing / Plants": 0,
-
         "Supply Chain": 0,
-
         "Regulatory": 0,
-
         "Exports / Markets": 0,
-
         "Specialty Chemicals": 0,
-
-        # Keep generic but legitimate pharma-adjacent developments visible
-        # instead of silently dropping their Risk/Opportunity counts.
         "Pharma Industry": 0
     }
-
-
     for article in articles:
-
-        if article["signal"] in [
-            "Opportunity",
-            "Risk"
-        ]:
-
-            area = article[
-                "business_area"
-            ]
-
+        if article["signal"] in ["Opportunity", "Risk"]:
+            area = article["business_area"]
             if area in areas:
-
                 areas[area] += 1
-
-
     return areas
+
+
+def build_business_signal_breakdown(articles):
+    """Count Watch separately from confirmed Risk and Opportunity signals."""
+    areas = sorted(set([
+        "API / Intermediates", "CDMO / Contract Manufacturing",
+        "Investment / Expansion", "Manufacturing / Plants",
+        "Supply Chain", "Regulatory", "Exports / Markets",
+        "Specialty Chemicals", "Pharma Industry"
+    ]))
+    result = {
+        area: {"watch": 0, "opportunities": 0, "risks": 0, "total": 0}
+        for area in areas
+    }
+    for article in articles:
+        area = article.get("business_area", "Pharma Industry")
+        signal = article.get("signal")
+        if area not in result or signal not in {"Watch", "Opportunity", "Risk"}:
+            continue
+        key = {"Watch": "watch", "Opportunity": "opportunities", "Risk": "risks"}[signal]
+        result[area][key] += 1
+        result[area]["total"] += 1
+    return result
 
 
 # ============================================================
@@ -2092,15 +2103,16 @@ def build_signal_summary(
 
 def main():
 
-    articles, successful_feeds = collect_news()
+    articles, successful_feeds, failed_feeds = collect_news()
 
     # If the normal 48-hour window is empty but feeds are healthy, retry once
     # with a 7-day window. This avoids routine red workflow runs during quiet
     # news periods or when publishers delay RSS timestamps.
     if not articles and successful_feeds > 0:
         print("WARNING: No eligible articles in the 48-hour window; retrying with a 7-day window.")
-        articles, fallback_successful_feeds = collect_news(window_hours=168)
+        articles, fallback_successful_feeds, fallback_failed_feeds = collect_news(window_hours=168)
         successful_feeds = max(successful_feeds, fallback_successful_feeds)
+        failed_feeds = min(failed_feeds, fallback_failed_feeds)
 
     # --------------------------------------------------------
     # Safety protection
@@ -2214,11 +2226,17 @@ def main():
         "successful_feeds":
             successful_feeds,
 
+        "failed_feeds":
+            failed_feeds,
+
         "must_know":
             must_know,
 
         "business_signals":
             signal_summary,
+
+        "business_signal_breakdown":
+            build_business_signal_breakdown(articles),
 
         "daily_brief": {
             "attention": [
