@@ -49,7 +49,8 @@ FEEDS = {
     ]
 }
 
-ENGINE_VERSION = "3.11.0"
+ENGINE_VERSION = "3.11.1"
+LAST_FAILED_FEEDS = 0
 
 KNOWN_SOURCES = [
     "Business Standard", "Economic Times", "The Economic Times",
@@ -1558,6 +1559,8 @@ def should_keep_article(text, category, signal, event_type):
 
 def collect_news(window_hours=48):
 
+    global LAST_FAILED_FEEDS
+    LAST_FAILED_FEEDS = 0
     now = datetime.now(timezone.utc)
 
     # Default editorial window is 48 hours. A controlled 7-day fallback is
@@ -1864,10 +1867,10 @@ def collect_news(window_hours=48):
     )
 
 
+    LAST_FAILED_FEEDS = failed_feeds
     return (
         articles,
-        successful_feeds,
-        failed_feeds
+        successful_feeds
     )
 
 
@@ -1943,7 +1946,7 @@ def deduplicate_articles(articles):
             # capacity and regulatory activity into one record.
             near_identical = ratio >= 0.93 and overlap >= 0.82
             strong_same_company_event = shared_company and len(shared_event_terms) >= 1 and overlap >= 0.50
-            if normalized == existing_normalized or near_identical or strong_same_company_event:
+            if normalized == existing_normalized or near_identical or strong_same_company_event or same_company_event or (same_specific_event and overlap >= 0.45):
                 duplicate_index = i
                 break
 
@@ -2103,16 +2106,19 @@ def build_business_signal_breakdown(articles):
 
 def main():
 
-    articles, successful_feeds, failed_feeds = collect_news()
+    global LAST_FAILED_FEEDS
+    LAST_FAILED_FEEDS = 0
+    articles, successful_feeds = collect_news()
+    failed_feeds = LAST_FAILED_FEEDS
 
     # If the normal 48-hour window is empty but feeds are healthy, retry once
     # with a 7-day window. This avoids routine red workflow runs during quiet
     # news periods or when publishers delay RSS timestamps.
     if not articles and successful_feeds > 0:
         print("WARNING: No eligible articles in the 48-hour window; retrying with a 7-day window.")
-        articles, fallback_successful_feeds, fallback_failed_feeds = collect_news(window_hours=168)
+        articles, fallback_successful_feeds = collect_news(window_hours=168)
         successful_feeds = max(successful_feeds, fallback_successful_feeds)
-        failed_feeds = fallback_failed_feeds
+        failed_feeds = LAST_FAILED_FEEDS
 
     # --------------------------------------------------------
     # Safety protection
