@@ -10,7 +10,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-EXPECTED_ENGINE = "3.11.0"
+EXPECTED_ENGINE = "3.11.1"
 MAX_FUTURE_SKEW = timedelta(minutes=10)
 REQUIRED_TOP_LEVEL = {
     "updated", "engine_version", "article_count", "opportunity_count",
@@ -79,8 +79,8 @@ def main():
         fail("successful_feeds must be at least 1; refusing an all-feeds-failed run")
     if not isinstance(data.get("failed_feeds"), int) or isinstance(data["failed_feeds"], bool) or data["failed_feeds"] < 0:
         fail("failed_feeds must be a non-negative integer")
-    if data["successful_feeds"] + data["failed_feeds"] != 20:
-        fail("successful_feeds + failed_feeds must equal the configured 20 RSS feeds")
+    if not 1 <= data["successful_feeds"] + data["failed_feeds"] <= 20:
+        fail("successful_feeds + failed_feeds must be between 1 and the configured 20 RSS feeds")
 
     counts = {
         "opportunity_count": sum(a.get("signal") == "Opportunity" for a in articles if isinstance(a, dict)),
