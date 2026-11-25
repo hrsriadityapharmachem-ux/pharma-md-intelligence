@@ -1995,6 +1995,9 @@ def select_must_know(articles):
 
         score = priority_rank.get(article["priority"], 0) * 10
 
+        # Give explicit, evidence-backed management signals precedence over
+        # broad industry commentary. Preserve the distinction between Watch
+        # items and confirmed Risk/Opportunity classifications.
         if signal == "Risk":
             score += 30
         elif signal == "Opportunity":
@@ -2014,6 +2017,11 @@ def select_must_know(articles):
             "Regulatory"
         ]:
             score += 10
+
+        # Use the engine's article-level importance and evidence fields.
+        score += min(int(article.get("importance_score", 0) or 0), 20)
+        score += 5 if article.get("evidence_level") == "High" else 2 if article.get("evidence_level") == "Medium" else 0
+        score += 5 if article.get("opportunity_status", "").startswith("Sri Aditya referenced") else 0
 
         title = article["title"].lower()
         for keyword in HIGH_PRIORITY_KEYWORDS:
