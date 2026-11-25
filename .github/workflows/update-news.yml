@@ -1,5 +1,5 @@
 name: Update Pharma News
-run-name: "Refresh and validate live pharma intelligence · Engine 3.11"
+run-name: "Refresh and validate live pharma intelligence · Engine 3.11.1"
 on:
   workflow_dispatch:
   push:
@@ -77,7 +77,7 @@ jobs:
         if: steps.refresh_window.outputs.run_refresh == 'true'
         run: |
           python -m py_compile news.py validate_data.py
-          python -c "import news; assert news.ENGINE_VERSION == '3.11.0', news.ENGINE_VERSION"
+          python -c "import news; assert news.ENGINE_VERSION == '3.11.1', news.ENGINE_VERSION"
 
       - name: Collect latest pharma news
         if: steps.refresh_window.outputs.run_refresh == 'true'
