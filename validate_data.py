@@ -170,10 +170,10 @@ def main():
         if article.get("signal") not in {"Watch", "Opportunity", "Risk"}:
             continue
         area = article.get("business_area", "Pharma Industry")
-        counts = expected_breakdown.setdefault(area, {"watch": 0, "opportunities": 0, "risks": 0, "total": 0})
+        area_counts = expected_breakdown.setdefault(area, {"watch": 0, "opportunities": 0, "risks": 0, "total": 0})
         key = {"Watch": "watch", "Opportunity": "opportunities", "Risk": "risks"}[article["signal"]]
-        counts[key] += 1
-        counts["total"] += 1
+        area_counts[key] += 1
+        area_counts["total"] += 1
     for area, area_counts in expected_breakdown.items():
         if breakdown.get(area) != area_counts:
             fail(f"business_signal_breakdown[{area!r}] does not match article-derived signal counts")
