@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T04:33:42.779226+00:00",
+  "updated": "2026-11-25T14:58:31.715188+00:00",
   "engine_version": "3.9.0",
-  "article_count": 7,
+  "article_count": 8,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 5,
+  "watch_count": 6,
   "high_priority_count": 1,
   "successful_feeds": 20,
   "must_know": [
@@ -52,82 +52,76 @@
       ]
     },
     {
-      "category": "Hyderabad",
-      "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
-      "description": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5",
-      "published": "2026-11-23T14:36:15+00:00",
-      "source": "Medical Dialogues",
+      "category": "India",
+      "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+      "description": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5",
+      "published": "2026-11-25T11:06:00+00:00",
+      "source": "Voice of Healthcare",
       "signal": "Watch",
       "business_area": "Regulatory",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
       "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "NATCO Pharma"
-      ],
+      "companies": [],
       "project_signals": [],
       "numbers": [],
-      "source_name": "Medical Dialogues",
+      "source_name": "Voice of Healthcare",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Regulatory Inspection / Observations",
-      "what_happened": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection.",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Cipla Launches First Generic Flovent HFA After FDA Approval.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 11,
-      "fact_status": "Reported by Medical Dialogues; primary source or underlying documents not independently verified",
+      "importance_score": 9,
+      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5"
-        },
-        {
-          "source": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ240MXBqSkpzZWJxUW85NURMeWNnV2JXZzNJWGRVUXJ5aU9URU93bmQ2VHJTU1NJMTJwcmt0c05LSm1XYW16MnR5SVN6Vlk3VGxJaWxieU4yR1pCUDFRLTRIQWxPNW9LcG1IUGJkN2k0cjdvOTdxY2htekFiT2t2aE5lQi12VDF1dTJNUlN3cFg3Yk04N1JzYzB2ZUs3WVZkajJiaFZBNzZMM2dweE1HZmZrdHlkX2dPRkNyUzdUSzE2RFnSAcgBQVVfeXFMUHdpbUl6aElPN2xqYVZqWGNiT3J3YndDcjN3NnFOLVpaVmFnSi0xb0daQlh2clJOOUNtR0dyVEc1a00wamZJc2J4bFkzbjFPM0NMV09GVmZkODVsa1VPSGtzaThHV1htckFNdjBaRGItck1DdGp5WmV2cmtRUW9FSnhlVW40SW9MTEpJTl9zU2xiRG56MG03bEZRcXNjSmdaNDJJWlllcGlUQndhdFllMTUxOUxCdzNpbG53akNmRlBNTDNnSHBhQ2c?oc=5"
+          "source": "Voice of Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5"
         }
       ]
     },
     {
       "category": "India",
-      "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-      "description": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5",
-      "published": "2026-11-24T13:30:00+00:00",
-      "source": "Fierce Pharma",
+      "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
+      "description": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5",
+      "published": "2026-11-25T06:56:15+00:00",
+      "source": "ETPharma",
       "signal": "Watch",
-      "business_area": "Regulatory",
+      "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Marksans Pharma"
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
       ],
-      "project_signals": [],
       "numbers": [],
-      "source_name": "Fierce Pharma",
+      "source_name": "ETPharma",
       "source_credibility": "Established",
       "location": "India",
-      "event_type": "Regulatory Inspection / Observations",
-      "what_happened": "Marksans Pharma flagged for 6 observations in wake of FDA inspection.",
+      "event_type": "Industry Development",
+      "what_happened": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 45,
       "importance_score": 9,
-      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
+      "fact_status": "Reported by ETPharma; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5"
+          "source": "ETPharma",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5"
         }
       ]
     }
@@ -151,12 +145,12 @@
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
       {
-        "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
+        "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
         "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       },
       {
-        "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+        "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
@@ -167,13 +161,200 @@
         "question": "Which products, capacity, location and commissioning timeline are confirmed?"
       },
       {
-        "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
-        "question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?"
+        "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "India",
+      "title": "How partnerships can move Indian pharma from volume to value",
+      "description": "How partnerships can move Indian pharma from volume to value",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUVoQTFiY05laXBqS1FqS3BLTENZSXNpX0NGbkpFYVNDZnFpNld0MXkwVjBMcUVpT3BLLWYzSzBBMDZZem9Ud1Iza2JBRFpiMWZjbzRKNGY1LXQtQnhvRkhTVlc5ekVMMS14QmFMVnNsRnpJUUVLTHdaQUJseVZKT0xiQVZicFoybmVkRTlGUDVKX1ViSkVkRE5xOUV0N1pSLVV3?oc=5",
+      "published": "2026-11-25T11:12:52+00:00",
+      "source": "EY",
+      "signal": "Watch",
+      "business_area": "Pharma Industry",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
+      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "EY",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Partnership / Collaboration",
+      "what_happened": "How partnerships can move Indian pharma from volume to value.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 3,
+      "fact_status": "Reported by EY; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "EY",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUVoQTFiY05laXBqS1FqS3BLTENZSXNpX0NGbkpFYVNDZnFpNld0MXkwVjBMcUVpT3BLLWYzSzBBMDZZem9Ud1Iza2JBRFpiMWZjbzRKNGY1LXQtQnhvRkhTVlc5ekVMMS14QmFMVnNsRnpJUUVLTHdaQUJseVZKT0xiQVZicFoybmVkRTlGUDVKX1ViSkVkRE5xOUV0N1pSLVV3?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+      "description": "Cipla Launches First Generic Flovent HFA After FDA Approval",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5",
+      "published": "2026-11-25T11:06:00+00:00",
+      "source": "Voice of Healthcare",
+      "signal": "Watch",
+      "business_area": "Regulatory",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Voice of Healthcare",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Approval",
+      "what_happened": "Cipla Launches First Generic Flovent HFA After FDA Approval.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Voice of Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "India Pharma Exports Rise 10.5% to $2.75 Billion in October",
+      "description": "India Pharma Exports Rise 10.5% to $2.75 Billion in October",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3MxWjJqeXdZZUZpQ2xMaFN1ZFYwdHhLUmZKdDU4WjZKbFFPUXN1eVY1NHZPY1E5WDZ1UjhqZTdCRC1GUk9aNWtXYVBabWdsbFpuemtRWFRGRDQ0bzZRdkNPY0JCX1U0WmZRVHo0SHF0NmloZzBrZzhVV0NsM0d2ZQ?oc=5",
+      "published": "2026-11-25T10:36:42+00:00",
+      "source": "Voice of Healthcare",
+      "signal": "General",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [
+        "October India Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [
+        "2.75 billion",
+        "$2.75 billion"
+      ],
+      "source_name": "Voice of Healthcare",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Market / Export Move",
+      "what_happened": "India Pharma Exports Rise 10.5% to $2.75 Billion in October.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 3,
+      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Voice of Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3MxWjJqeXdZZUZpQ2xMaFN1ZFYwdHhLUmZKdDU4WjZKbFFPUXN1eVY1NHZPY1E5WDZ1UjhqZTdCRC1GUk9aNWtXYVBabWdsbFpuemtRWFRGRDQ0bzZRdkNPY0JCX1U0WmZRVHo0SHF0NmloZzBrZzhVV0NsM0d2ZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
+      "description": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5",
+      "published": "2026-11-25T06:56:15+00:00",
+      "source": "ETPharma",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "ETPharma",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by ETPharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "ETPharma",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Hyderabad",
+      "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+      "description": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWV9wN2JhZ2RyY3I1SVFWRzBkQTNSdmY3aXdHZHlOd09Cbi12NGVHZFBVZVZ6UEdUUGlRTEtGcXh1bEMwUk5zbUtyblFRNC1tZDhBSi1XREZaOWpPRUJtRnRDdnphWjA3c2dFd01NU25PZ2twWnRxUVM0SDZsNGJYcXNlMk55WVpHNVhTUU9XeTlhbFNpc3JhVzVsZFJBZWZaOVlQUjRTWGtlOGlfNHV5eVhKM0k1M3VtYWE0X01EOE81eE9VVUFGMndBLUJ0UndRbW9IbGJtekJCbm9xWjMyOFN6ZGlCODd5R214YXVUZWt4UXFLZ082emhRQ21oWVFn0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5",
+      "published": "2026-11-25T05:30:31+00:00",
+      "source": "ETPharma",
+      "signal": "General",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "No specific management signal established from the available report.",
+      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
+      "md_action": "Monitor for further developments and assess possible business relevance.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "ETPharma",
+      "source_credibility": "Established",
+      "location": "India",
+      "event_type": "Industry Development",
+      "what_happened": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 13,
+      "fact_status": "Reported by ETPharma; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "ETPharma",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWV9wN2JhZ2RyY3I1SVFWRzBkQTNSdmY3aXdHZHlOd09Cbi12NGVHZFBVZVZ6UEdUUGlRTEtGcXh1bEMwUk5zbUtyblFRNC1tZDhBSi1XREZaOWpPRUJtRnRDdnphWjA3c2dFd01NU25PZ2twWnRxUVM0SDZsNGJYcXNlMk55WVpHNVhTUU9XeTlhbFNpc3JhVzVsZFJBZWZaOVlQUjRTWGtlOGlfNHV5eVhKM0k1M3VtYWE0X01EOE81eE9VVUFGMndBLUJ0UndRbW9IbGJtekJCbm9xWjMyOFN6ZGlCODd5R214YXVUZWt4UXFLZ082emhRQ21oWVFn0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
@@ -292,162 +473,6 @@
         {
           "source": "BusinessLine",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWNmeUxmdkZPTlh4bjlhWldpRHU4OXdIcVRWRFlUYk1IbXhJY0ZEdlpULXlBU1BoSmswQUdmdlhLelN1aVpPNWZVa25LNnBTWjVTU29tdTZmMnc4Zjk1VkRCY2stOTNORklCNTUtd0ZSYWVRYWItQUg5N2RZRTB6T2l2NmpIVHFBUzJqTWNoWFIyd2VLcWRRZmU0blF6TmNIOG94czluR0hCVlRMN1NTWThTQWZqcHZxbVIzanZOM2xaUWJLMV9DMlVZVjVKSmxJ0gHXAUFVX3lxTE1FWUcxekVCbmF3RzhaRTlnR0FxTzAwdWFLbXA3LUlPcFFEZDZHVGN4UWJaMkt2UnNscXNpSHd5aVNBRU1fOExBSDFTbktkc1pRQmwyNWVmU1lWeXktUzFhTXoxS2NleTdMQV91VzBxdlZUU185Q2dGaXUxanRXM1BFX0pNMlcyU1pHYWtKVW04cWRrWHphcTk2UkRpWGRUNzBrOWljUVU3ZWFMdm9aVnVDNnlPZDFyNzZDWV9QaDNFS3JCUkt3Nk1fcVVPOTVqWXBaM284Tjd3?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
-      "description": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5",
-      "published": "2026-11-23T22:43:36+00:00",
-      "source": "Science, Public Health Policy and the Law",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [
-        "Anthropic Eyes Pharma",
-        "Foundation Anthropic Eyes Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Science, Public Health Policy and the Law",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "Anthropic Eyes Pharma, Vaccines, Digital ID — Through Partnership with Gates Foundation.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported by Science, Public Health Policy and the Law; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Science, Public Health Policy and the Law",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEstN1J0UEZfdHYzamxyMDZhX1Jvc0MxYWVodEhrazlZSTRwVEJueDh4bnZ2TjNSLXE1aS1BcEt2R3d2b0lRdkZsanFMbkVMUU9Sam5UcjY2cXJKNXBiSEZvSVFNeXF0TDhHM0czUVMtd0dwcDNjVmNNYkl3WkFvcThtbk5yUmxZbURQYk9EZm9KWjlLRng1Qm5fb2w5Mk9wbmJkWUl4aDI3Yzl2eVJUOEp1bXZYMGIxU2pjQmViUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Hyderabad",
-      "title": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
-      "description": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5",
-      "published": "2026-11-23T14:36:15+00:00",
-      "source": "Medical Dialogues",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "NATCO Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Medical Dialogues",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Inspection / Observations",
-      "what_happened": "NATCO Pharma's Hyderabad Plant Gets 7 Observations in USFDA Inspection.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 11,
-      "fact_status": "Reported by Medical Dialogues; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZ9IByAFBVV95cUxQd2ltSXpoSU83bGphVmpYY2JPcndid0NyM3c2cU4tWlpWYWdKLTFvR1pCWHZyUk45Q21HR3JURzVrTTBqZklzYnhsWTNuMU8zQ0xXT0ZWZmQ4NWxrVU9Ia3NpOEdXWG1yQU12MFpEYi1yTUN0anlaZXZya1FRb0VKeGVVbjRJb0xMSklOX3NTbGJEbnowbTdsRlFxc2NKZ1o0MklaWWVwaVRCd2F0WWUxNTE5TEJ3M2lsbndqQ2ZGUE1MM2dIcGFDZw?oc=5"
-        },
-        {
-          "source": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ240MXBqSkpzZWJxUW85NURMeWNnV2JXZzNJWGRVUXJ5aU9URU93bmQ2VHJTU1NJMTJwcmt0c05LSm1XYW16MnR5SVN6Vlk3VGxJaWxieU4yR1pCUDFRLTRIQWxPNW9LcG1IUGJkN2k0cjdvOTdxY2htekFiT2t2aE5lQi12VDF1dTJNUlN3cFg3Yk04N1JzYzB2ZUs3WVZkajJiaFZBNzZMM2dweE1HZmZrdHlkX2dPRkNyUzdUSzE2RFnSAcgBQVVfeXFMUHdpbUl6aElPN2xqYVZqWGNiT3J3YndDcjN3NnFOLVpaVmFnSi0xb0daQlh2clJOOUNtR0dyVEc1a00wamZJc2J4bFkzbjFPM0NMV09GVmZkODVsa1VPSGtzaThHV1htckFNdjBaRGItck1DdGp5WmV2cmtRUW9FSnhlVW40SW9MTEpJTl9zU2xiRG56MG03bEZRcXNjSmdaNDJJWlllcGlUQndhdFllMTUxOUxCdzNpbG53akNmRlBNTDNnSHBhQ2c?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil",
-      "description": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObnRWRHRseGpZU1QzUVpqUmVNRGFSaHk1VUlqX01Ya0djbV9rU2dIV0VleWktLTFTY0JRc0RzeXpBckJqczlHTnlmVTlCMDVrdmFzVDBQNUtaX2ZqT1NRTFc1ZlM2NDluWGxoMzFrYjg1RkMxa0ptdnlCc210b1BGNXB1VFdKQVhMOWdyVlpCelR5UC1EZXlKX1EwVjFScGxxclBzdWxIVlV1UF9Ud0tJcml6djhRZVl0T2w0aXJ3QnhqN3Y2MEtaS0dIbDFMcHFYU25TUkhCWFNtc0xaT29SOWZ5RVpSOUpkSWhNS0FfNDNTSWZLUlRjMkNqbE9raExkaGhuOFdScG1IZ9IBjwJBVV95cUxQLWc3V3dVNG5xalp6VkxiSDNzSFg5OUpHRjJDdXcyQkZBVDdzanZYSUdMQWJjdG9Dbkh3U2JnekhlSUlSNUFxS0phUENaOUNJUEFneWhPTnhTNVV6eFBhYllWWFFaY3ZTZm84V0pOcHJDbkc1VkZkQlRUejFjY2Mwb2dpVmlUcGNRS0Z0YjZYcDVRZU1kZU1Vd3VQU1pnRnBfQmNvN0pxbVhxWE0zN1MxLTZ2dG5FdmYxeFZtT3VTdVlKZTI0aGdCcmpXUEJ5bGxfaUhHZjdjdlltXy1BY3NPaXN3RjJHVmZZRm9tRDJjY1oxTnFHc3JxVnJvTV9ueVh5NE9rNVd4Qm5xWWRBeUZz?oc=5",
-      "published": "2026-11-23T13:25:23+00:00",
-      "source": "The Economic Times",
-      "signal": "General",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The development is relevant to the monitored pharma/chemical landscape, but its direct business impact is not yet established.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [
-        "33 billion",
-        "$33 billion"
-      ],
-      "source_name": "The Economic Times",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India's pharma exports may touch $33 billion in FY27, growth seen at 5-6%: Pharmexcil.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObnRWRHRseGpZU1QzUVpqUmVNRGFSaHk1VUlqX01Ya0djbV9rU2dIV0VleWktLTFTY0JRc0RzeXpBckJqczlHTnlmVTlCMDVrdmFzVDBQNUtaX2ZqT1NRTFc1ZlM2NDluWGxoMzFrYjg1RkMxa0ptdnlCc210b1BGNXB1VFdKQVhMOWdyVlpCelR5UC1EZXlKX1EwVjFScGxxclBzdWxIVlV1UF9Ud0tJcml6djhRZVl0T2w0aXJ3QnhqN3Y2MEtaS0dIbDFMcHFYU25TUkhCWFNtc0xaT29SOWZ5RVpSOUpkSWhNS0FfNDNTSWZLUlRjMkNqbE9raExkaGhuOFdScG1IZ9IBjwJBVV95cUxQLWc3V3dVNG5xalp6VkxiSDNzSFg5OUpHRjJDdXcyQkZBVDdzanZYSUdMQWJjdG9Dbkh3U2JnekhlSUlSNUFxS0phUENaOUNJUEFneWhPTnhTNVV6eFBhYllWWFFaY3ZTZm84V0pOcHJDbkc1VkZkQlRUejFjY2Mwb2dpVmlUcGNRS0Z0YjZYcDVRZU1kZU1Vd3VQU1pnRnBfQmNvN0pxbVhxWE0zN1MxLTZ2dG5FdmYxeFZtT3VTdVlKZTI0aGdCcmpXUEJ5bGxfaUhHZjdjdlltXy1BY3NPaXN3RjJHVmZZRm9tRDJjY1oxTnFHc3JxVnJvTV9ueVh5NE9rNVd4Qm5xWWRBeUZz?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
-      "description": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeS1jTTMyTUV5N21tc29US2Z4Z08xSEJzZXJPYzZmSE5YNDR5bUtiblZLZTE3Mnp3T0ZUbVlKelhScVpWS0JXbTlSeGh6ZlNXRmlONmxLRm8wUVdGcGtBNHUyNnN0YmJFVUFZa3hENDBIaEJ3WnE5UUVaN0Z0T3M4Q2ZlNHh4Y2w1RURWdkJVMU9sdDRrQ1NuZjVZU2FQOTlnZ0Q5enpaeWR2dDNmVFRhYk9CMldoMkloTFdwZ25jVm9KN1FZREU3dEtMWWRIWWNRczN4XzBubHVUT2FRU25aQkRNWG1rNGtyTk1Rc2F0VGx6VERZam9iRFhjZWlGNnhiVlpDOWZB0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5",
-      "published": "2026-11-23T06:23:32+00:00",
-      "source": "pharma.economictimes.indiatimes.com",
-      "signal": "General",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "No specific management signal established from the available report.",
-      "why_it_matters": "The article does not yet contain a sufficiently specific commercial signal for management action.",
-      "md_action": "Monitor for further developments and assess possible business relevance.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "pharma.economictimes.indiatimes.com",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "100% US FDA Clearance Across All Six Manufacturing Sites of Matrix Pharmacorp Following Vizag EIR.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Manufacturing / Plants development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 13,
-      "fact_status": "Reported by pharma.economictimes.indiatimes.com; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "pharma.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeS1jTTMyTUV5N21tc29US2Z4Z08xSEJzZXJPYzZmSE5YNDR5bUtiblZLZTE3Mnp3T0ZUbVlKelhScVpWS0JXbTlSeGh6ZlNXRmlONmxLRm8wUVdGcGtBNHUyNnN0YmJFVUFZa3hENDBIaEJ3WnE5UUVaN0Z0T3M4Q2ZlNHh4Y2w1RURWdkJVMU9sdDRrQ1NuZjVZU2FQOTlnZ0Q5enpaeWR2dDNmVFRhYk9CMldoMkloTFdwZ25jVm9KN1FZREU3dEtMWWRIWWNRczN4XzBubHVUT2FRU25aQkRNWG1rNGtyTk1Rc2F0VGx6VERZam9iRFhjZWlGNnhiVlpDOWZB0gGGAkFVX3lxTE95LWNNMzJNRXk3bW1zb1RLZnhnTzFIQnNlck9jNmZITlg0NHltS2JuVktlMTcyendPRlRtWUp6WFJxWlZLQldtOVJ4aHpmU1dGaU42bEtGbzBRV0Zwa0E0dTI2c3RiYkVVQVlreEQ0MEhoQndacTlRRVo3RnRPczhDZmU0eHhjbDVFRFZ2QlUxT2x0NGtDU25mNVlTYVA5OWdnRDl6elp5ZHZ0M2ZUVGFiT0IyV2gySWhMV3BnbmNWb0o3UVlERTd0S0xZZEhZY1FzM3hfMG5sdVRPYVFTblpCRE1YbWs0a3JOTVFzYXRUbHpURFlqb2JEWGNlaUY2eGJWWkM5ZkE?oc=5"
         }
       ]
     }
