@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-26T05:28:48.952685+00:00",
+  "updated": "2026-11-26T15:41:38.123894+00:00",
   "engine_version": "3.11.2",
-  "article_count": 7,
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 7,
+  "watch_count": 6,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "failed_feeds": 0,
   "must_know": [
     {
-      "category": "India",
+      "category": "Vizag / AP",
       "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
       "description": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5",
@@ -37,17 +37,54 @@
       "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 11,
+      "importance_score": 13,
       "fact_status": "Reported by ad-hoc-news.de; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5"
-        },
-        {
           "source": "ad-hoc-news.de",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5"
+        }
+      ]
+    },
+    {
+      "category": "Global",
+      "title": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
+      "description": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5",
+      "published": "2026-11-26T03:05:00+00:00",
+      "source": "BigGo Finance",
+      "signal": "Watch",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Recommends Regulating Chinese Biotech",
+        "Big Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
+      "numbers": [],
+      "source_name": "BigGo Finance",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 9,
+      "fact_status": "Reported by BigGo Finance; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5"
         }
       ]
     },
@@ -86,44 +123,6 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5"
         }
       ]
-    },
-    {
-      "category": "India",
-      "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-      "description": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5",
-      "published": "2026-11-25T07:05:04+00:00",
-      "source": "ETPharma",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "ETPharma",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by ETPharma; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "ETPharma",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5"
-        }
-      ]
     }
   ],
   "business_signals": {
@@ -151,16 +150,16 @@
       "total": 0
     },
     "Exports / Markets": {
-      "watch": 2,
-      "opportunities": 0,
-      "risks": 0,
-      "total": 2
-    },
-    "Investment / Expansion": {
       "watch": 1,
       "opportunities": 0,
       "risks": 0,
       "total": 1
+    },
+    "Investment / Expansion": {
+      "watch": 2,
+      "opportunities": 0,
+      "risks": 0,
+      "total": 2
     },
     "Manufacturing / Plants": {
       "watch": 1,
@@ -175,10 +174,10 @@
       "total": 1
     },
     "Regulatory": {
-      "watch": 2,
+      "watch": 1,
       "opportunities": 0,
       "risks": 0,
-      "total": 2
+      "total": 1
     },
     "Specialty Chemicals": {
       "watch": 0,
@@ -201,14 +200,14 @@
         "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
       },
       {
+        "title": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
+        "signal": "Watch",
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
+      },
+      {
         "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
         "signal": "Watch",
         "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
-      },
-      {
-        "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
     ],
     "investigate": [
@@ -217,46 +216,51 @@
         "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
       },
       {
-        "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
-        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+        "title": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
+        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
     {
-      "category": "India",
-      "title": "Drug formulations, biologicals drive pharma exports up 5.7%",
-      "description": "Drug formulations, biologicals drive pharma exports up 5.7%",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUVBDUENVNVVSOVJfT0V6TkQyQi1Za3hieUJXZUdER2k5ZkpuMWlrRWhTd181WEgtUl9FaE00TVZSOC1VRVBrVjRDejlVT2RnV1h0Q1hoRml3NFhsZ09uUjVqRTctalZWRUp2TldtOE1fRlhMU19HQksteDVpMmtVdEFlVUhVc3BiQUxLYkdXRmJ5VlVCMW1sVkEwSXNqYm82NzFpd2U4STNZOFRVNzhWVHpuQjFlWUpXRmxQT0VLbnlqYS0zYmRIYlVCcWEwUlVneE94NVlQbDJoY2I1emFLcGE2dXZmalZDMEo00gHwAUFVX3lxTE1HT05yeXFINHIyVVBHbVFIM0ZmWE9GZExHVjBJQzFWc3VoaVREVDQxc3ZFUC1sZHNQR1dfQTNKNC0yU0dhUDNVc2N3Y3ktb1d0WWtLeWFKTDhpS0xCSUFJOWRGWEZ4RUdPZzhVOHU2R19vUC1mQnhpSWk0cVEzSUxqbGpDdGVCU19HYkRSbkk3S0pqNEV4M2NRX1laMlQyeDVMSWEtaUd6cTlncDNfWmZ0SXBZSkF2ZzJ0bERzTC1tNGotc1JlLVUyVjdWX3JIemtWU05WdGFsTFVaSHdNSl8wQ0pCZGpMWmVOX214UXdKdw?oc=5",
-      "published": "2026-11-25T19:28:26+00:00",
-      "source": "The Economic Times",
+      "category": "Global",
+      "title": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
+      "description": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5",
+      "published": "2026-11-26T03:05:00+00:00",
+      "source": "BigGo Finance",
       "signal": "Watch",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
+      "business_area": "Investment / Expansion",
+      "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [],
+      "companies": [
+        "Recommends Regulating Chinese Biotech",
+        "Big Pharma"
+      ],
+      "project_signals": [
+        "investment"
+      ],
       "numbers": [],
-      "source_name": "The Economic Times",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "Drug formulations, biologicals drive pharma exports up 5.7%.",
+      "source_name": "BigGo Finance",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Industry Development",
+      "what_happened": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported by The Economic Times; primary source or underlying documents not independently verified",
+      "importance_score": 9,
+      "fact_status": "Reported by BigGo Finance; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUVBDUENVNVVSOVJfT0V6TkQyQi1Za3hieUJXZUdER2k5ZkpuMWlrRWhTd181WEgtUl9FaE00TVZSOC1VRVBrVjRDejlVT2RnV1h0Q1hoRml3NFhsZ09uUjVqRTctalZWRUp2TldtOE1fRlhMU19HQksteDVpMmtVdEFlVUhVc3BiQUxLYkdXRmJ5VlVCMW1sVkEwSXNqYm82NzFpd2U4STNZOFRVNzhWVHpuQjFlWUpXRmxQT0VLbnlqYS0zYmRIYlVCcWEwUlVneE94NVlQbDJoY2I1emFLcGE2dXZmalZDMEo00gHwAUFVX3lxTE1HT05yeXFINHIyVVBHbVFIM0ZmWE9GZExHVjBJQzFWc3VoaVREVDQxc3ZFUC1sZHNQR1dfQTNKNC0yU0dhUDNVc2N3Y3ktb1d0WWtLeWFKTDhpS0xCSUFJOWRGWEZ4RUdPZzhVOHU2R19vUC1mQnhpSWk0cVEzSUxqbGpDdGVCU19HYkRSbkk3S0pqNEV4M2NRX1laMlQyeDVMSWEtaUd6cTlncDNfWmZ0SXBZSkF2ZzJ0bERzTC1tNGotc1JlLVUyVjdWX3JIemtWU05WdGFsTFVaSHdNSl8wQ0pCZGpMWmVOX214UXdKdw?oc=5"
+          "source": "BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5"
         }
       ]
     },
@@ -412,7 +416,7 @@
       ]
     },
     {
-      "category": "India",
+      "category": "Vizag / AP",
       "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
       "description": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5",
@@ -439,55 +443,13 @@
       "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 11,
+      "importance_score": 13,
       "fact_status": "Reported by ad-hoc-news.de; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGpEZUg4bV84TEw5UTE0TjdfejNLOWFTeVFyMTEzaXhqSHVxN3hmUGY2amQ4amxOUmhFOWxtTy1GTXJWT3I3Smsyc1M4c1ZGaS1mczd1ZTROMkU2R1BPTDhfU3ZnS1hBR0ZRYnE0bHR5YXA0R2pXVThubFpiQldIbFdsYU9xTkN5US1Sdm96UGlmRkJvUmpERUttc3oteUFHVjY0VjhaNXfSAa4BQVVfeXFMTmpxem1fUmxaM3YxVW9zZ0swZnZiZzRpQTlJN0VFU2FNangwYi1UM0Y0bHEtbXh2WGhGT3l3WVhhbXZreHp6aW05M0U5eGtJanVGSko5Z0xRdkxLeFZBanJRTE5LQlUwWTNtQnJTVnQ0eGpjTzdBVE0wbTU4OHpzTVd5c3ZHNkRTM3ZyNTRzT1UyR0o4ODhDNzFRSVpjWTIzel9ySGFCcHgxUklkQmln?oc=5"
-        },
-        {
           "source": "ad-hoc-news.de",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-      "description": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5",
-      "published": "2026-11-24T13:30:00+00:00",
-      "source": "Fierce Pharma",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [
-        "Marksans Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Fierce Pharma",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Regulatory Inspection / Observations",
-      "what_happened": "Marksans Pharma flagged for 6 observations in wake of FDA inspection.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Fierce Pharma; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5"
         }
       ]
     }
