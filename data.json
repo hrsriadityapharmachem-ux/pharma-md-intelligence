@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T08:13:31.284095+00:00",
+  "updated": "2026-11-27T18:15:52.017341+00:00",
   "engine_version": "3.11.2",
-  "article_count": 6,
+  "article_count": 3,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 6,
+  "watch_count": 3,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "failed_feeds": 0,
@@ -152,10 +152,10 @@
       "total": 0
     },
     "Exports / Markets": {
-      "watch": 2,
+      "watch": 0,
       "opportunities": 0,
       "risks": 0,
-      "total": 2
+      "total": 0
     },
     "Investment / Expansion": {
       "watch": 2,
@@ -170,10 +170,10 @@
       "total": 1
     },
     "Pharma Industry": {
-      "watch": 1,
+      "watch": 0,
       "opportunities": 0,
       "risks": 0,
-      "total": 1
+      "total": 0
     },
     "Regulatory": {
       "watch": 0,
@@ -264,45 +264,6 @@
       ]
     },
     {
-      "category": "India",
-      "title": "Madhya Pradesh Pharma Exports Set to Rise 10% on FTA-Driven Demand",
-      "description": "Madhya Pradesh Pharma Exports Set to Rise 10% on FTA-Driven Demand",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmkxZDZONDhiaDhTWFJvbnNyY0VNOEJKblBwTmxPVW1hTm5vb2pJQlZpdTdmaEVLd05lWnlsN1ZGUGlWTkhmLXRZY3ZSbGxITVUxd2N5ZHVQWXVBRVZlRWEwVlJtRkxJSGFYenY3VzBFQ2l3eW5kQ1pUYmdKWkdIelJOYlFxZUFkeEJzY05YaTUzZ1hHanBFVzFtMkNUa2Z1cFppTzRwLWFuV090X1dCOWp6VlNPODIyM3o5WkZNSmFibTRlWDZKU0VleUlHNno2R0EyRGln0gHbAUFVX3lxTFBESEZwX0hjcWVlVVRSMFNuTVZnQ05ndk1pVFFWVEhDZTgyRzFud2JYY1BfYmNnX0VSSWNjMW54WjNKTXJDYjRaUlFHaXVWdUs5a1hQWGFVRmtFaDIxNlRnS1UxVUhsbTRuQUVlZVFOckxaS1A0c2F4YkIwYnJMUVBKODA2NUJENGRDS1pwOTNaTmpBNURONkZNalh6NVJEVGx2UkNfQlNDaHlZQmdkSzhwbXl3aGZFVV9RMkV6cC1sMzdiendSaFpDVTN5MzdncUFyZXZrNjc2c183OA?oc=5",
-      "published": "2026-11-26T23:11:00+00:00",
-      "source": "The Times of India",
-      "signal": "Watch",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Madhya Pradesh Pharma",
-        "Demand Madhya Pradesh Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "The Times of India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "Madhya Pradesh Pharma Exports Set to Rise 10% on FTA-Driven Demand.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported by The Times of India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmkxZDZONDhiaDhTWFJvbnNyY0VNOEJKblBwTmxPVW1hTm5vb2pJQlZpdTdmaEVLd05lWnlsN1ZGUGlWTkhmLXRZY3ZSbGxITVUxd2N5ZHVQWXVBRVZlRWEwVlJtRkxJSGFYenY3VzBFQ2l3eW5kQ1pUYmdKWkdIelJOYlFxZUFkeEJzY05YaTUzZ1hHanBFVzFtMkNUa2Z1cFppTzRwLWFuV090X1dCOWp6VlNPODIyM3o5WkZNSmFibTRlWDZKU0VleUlHNno2R0EyRGln0gHbAUFVX3lxTFBESEZwX0hjcWVlVVRSMFNuTVZnQ05ndk1pVFFWVEhDZTgyRzFud2JYY1BfYmNnX0VSSWNjMW54WjNKTXJDYjRaUlFHaXVWdUs5a1hQWGFVRmtFaDIxNlRnS1UxVUhsbTRuQUVlZVFOckxaS1A0c2F4YkIwYnJMUVBKODA2NUJENGRDS1pwOTNaTmpBNURONkZNalh6NVJEVGx2UkNfQlNDaHlZQmdkSzhwbXl3aGZFVV9RMkV6cC1sMzdiendSaFpDVTN5MzdncUFyZXZrNjc2c183OA?oc=5"
-        }
-      ]
-    },
-    {
       "category": "Vizag / AP",
       "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
       "description": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
@@ -378,83 +339,6 @@
         {
           "source": "BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "How partnerships can move Indian pharma from volume to value",
-      "description": "How partnerships can move Indian pharma from volume to value",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUVoQTFiY05laXBqS1FqS3BLTENZSXNpX0NGbkpFYVNDZnFpNld0MXkwVjBMcUVpT3BLLWYzSzBBMDZZem9Ud1Iza2JBRFpiMWZjbzRKNGY1LXQtQnhvRkhTVlc5ekVMMS14QmFMVnNsRnpJUUVLTHdaQUJseVZKT0xiQVZicFoybmVkRTlGUDVKX1ViSkVkRE5xOUV0N1pSLVV3?oc=5",
-      "published": "2026-11-25T11:14:04+00:00",
-      "source": "EY",
-      "signal": "Watch",
-      "business_area": "Pharma Industry",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The headline indicates a partnership or collaboration direction, not an acquisition. Its relevance to Sri Aditya depends on the named counterparties, product scope, geography and whether APIs, intermediates or contract manufacturing are involved; no direct commercial opportunity is established.",
-      "md_action": "Identify the organisations, technology or product scope, geography and whether the arrangement covers APIs, intermediates or contract manufacturing. Keep it as market context unless a direct customer, supplier or product link is evidenced.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "EY",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Partnership / Collaboration",
-      "what_happened": "How partnerships can move Indian pharma from volume to value.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which counterparties, products, geographies and manufacturing activities are covered by the partnership?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported by EY; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "EY",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUVoQTFiY05laXBqS1FqS3BLTENZSXNpX0NGbkpFYVNDZnFpNld0MXkwVjBMcUVpT3BLLWYzSzBBMDZZem9Ud1Iza2JBRFpiMWZjbzRKNGY1LXQtQnhvRkhTVlc5ekVMMS14QmFMVnNsRnpJUUVLTHdaQUJseVZKT0xiQVZicFoybmVkRTlGUDVKX1ViSkVkRE5xOUV0N1pSLVV3?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India Pharma Exports Rise 10.5% to $2.75 Billion in October",
-      "description": "India Pharma Exports Rise 10.5% to $2.75 Billion in October",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3MxWjJqeXdZZUZpQ2xMaFN1ZFYwdHhLUmZKdDU4WjZKbFFPUXN1eVY1NHZPY1E5WDZ1UjhqZTdCRC1GUk9aNWtXYVBabWdsbFpuemtRWFRGRDQ0bzZRdkNPY0JCX1U0WmZRVHo0SHF0NmloZzBrZzhVV0NsM0d2ZQ?oc=5",
-      "published": "2026-11-25T10:36:42+00:00",
-      "source": "Voice of Healthcare",
-      "signal": "Watch",
-      "business_area": "Exports / Markets",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "October India Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [
-        "2.75 billion",
-        "$2.75 billion"
-      ],
-      "source_name": "Voice of Healthcare",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "India Pharma Exports Rise 10.5% to $2.75 Billion in October.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Voice of Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3MxWjJqeXdZZUZpQ2xMaFN1ZFYwdHhLUmZKdDU4WjZKbFFPUXN1eVY1NHZPY1E5WDZ1UjhqZTdCRC1GUk9aNWtXYVBabWdsbFpuemtRWFRGRDQ0bzZRdkNPY0JCX1U0WmZRVHo0SHF0NmloZzBrZzhVV0NsM0d2ZQ?oc=5"
         }
       ]
     }
