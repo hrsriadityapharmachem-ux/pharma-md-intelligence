@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-27T00:02:26.935191+00:00",
+  "updated": "2026-11-27T08:13:31.284095+00:00",
   "engine_version": "3.11.2",
-  "article_count": 8,
+  "article_count": 6,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 8,
+  "watch_count": 6,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "failed_feeds": 0,
   "must_know": [
     {
-      "category": "Vizag / AP",
-      "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
-      "description": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5",
-      "published": "2026-11-25T00:29:23+00:00",
+      "category": "Hyderabad",
+      "title": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant",
+      "description": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2otcTlVaFlnckw5Y2lQa2pQbzFtQXFaSEIzRVFpcHRJekRJREl1M0dPTFlSZ2c3Vlp0cUx0WThvTjRUZkxNRTdaVlhNNkFOOTJtZ1U4T0NlRGV5ZVFrR2hFWUxEQ1ZlTEMtTVFJalpSZXNqb2ZDVzZUUDJHMzdzQVVvc3NwcDItWDZKd1hwVE5xVW1nVmZGbXFDbG9kaVN6dEdXUlppdHNPcUxKUFJMQTdWM2gzWXZOTngxTFlMVDlYYmNJX2c?oc=5",
+      "published": "2026-11-27T01:33:32+00:00",
       "source": "ad-hoc-news.de",
       "signal": "Watch",
       "business_area": "Manufacturing / Plants",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [
-        "Gland Pharma"
+        "Natco Pharma"
       ],
       "project_signals": [],
       "numbers": [],
       "source_name": "ad-hoc-news.de",
       "source_credibility": "Standard",
       "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility.",
+      "event_type": "Regulatory Inspection / Observations",
+      "what_happened": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
       "evidence_level": "Medium",
       "confidence": 45,
       "importance_score": 13,
@@ -43,53 +43,45 @@
       "related_sources": [
         {
           "source": "ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2otcTlVaFlnckw5Y2lQa2pQbzFtQXFaSEIzRVFpcHRJekRJREl1M0dPTFlSZ2c3Vlp0cUx0WThvTjRUZkxNRTdaVlhNNkFOOTJtZ1U4T0NlRGV5ZVFrR2hFWUxEQ1ZlTEMtTVFJalpSZXNqb2ZDVzZUUDJHMzdzQVVvc3NwcDItWDZKd1hwVE5xVW1nVmZGbXFDbG9kaVN6dEdXUlppdHNPcUxKUFJMQTdWM2gzWXZOTngxTFlMVDlYYmNJX2c?oc=5"
         }
       ]
     },
     {
-      "category": "India",
-      "title": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details",
-      "description": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFVCc1NKQVdjSzQtZkFGNUVWVTJZcnY0NHRJdEtsVjZJNktkYWx1QWtiX3FfQXFHWS1WZ0UtZlFjUEhIM3dvSlRibXFVZEQ1UmVzRGNzcEljQjlkRDQyR2xTVXhUOG1LN0dQZURDZWhmRDRpYlpzNm9XcFJDRGxhX1dRUXd0eEVvdV9fMWtkbk1zMjdoODY1MU00cU1ZTjZJampiM2NwZV8wWEV4OFJDZ21venNWRElweWFreTFzdTRxV1RZYmRfa2pR?oc=5",
-      "published": "2026-11-26T09:11:51+00:00",
-      "source": "Trade Brains",
+      "category": "Vizag / AP",
+      "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
+      "description": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5",
+      "published": "2026-11-26T09:08:35+00:00",
+      "source": "Invest India",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "HDFC Pharma",
-        "Check Details HDFC Pharma"
-      ],
+      "companies": [],
       "project_signals": [
         "investment"
       ],
-      "numbers": [
-        "₹1 lakh",
-        "₹2.22 lakh",
-        "1 lakh",
-        "2.22 lakh"
-      ],
-      "source_name": "Trade Brains",
+      "numbers": [],
+      "source_name": "Invest India",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details.",
+      "what_happened": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "importance_score": 11,
+      "fact_status": "Reported by Invest India; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFVCc1NKQVdjSzQtZkFGNUVWVTJZcnY0NHRJdEtsVjZJNktkYWx1QWtiX3FfQXFHWS1WZ0UtZlFjUEhIM3dvSlRibXFVZEQ1UmVzRGNzcEljQjlkRDQyR2xTVXhUOG1LN0dQZURDZWhmRDRpYlpzNm9XcFJDRGxhX1dRUXd0eEVvdV9fMWtkbk1zMjdoODY1MU00cU1ZTjZJampiM2NwZV8wWEV4OFJDZ21venNWRElweWFreTFzdTRxV1RZYmRfa2pR?oc=5"
+          "source": "Invest India",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5"
         }
       ]
     },
@@ -166,10 +158,10 @@
       "total": 2
     },
     "Investment / Expansion": {
-      "watch": 3,
+      "watch": 2,
       "opportunities": 0,
       "risks": 0,
-      "total": 3
+      "total": 2
     },
     "Manufacturing / Plants": {
       "watch": 1,
@@ -184,10 +176,10 @@
       "total": 1
     },
     "Regulatory": {
-      "watch": 1,
+      "watch": 0,
       "opportunities": 0,
       "risks": 0,
-      "total": 1
+      "total": 0
     },
     "Specialty Chemicals": {
       "watch": 0,
@@ -205,12 +197,12 @@
   "daily_brief": {
     "attention": [
       {
-        "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
+        "title": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant",
         "signal": "Watch",
-        "why": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified."
+        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
       {
-        "title": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details",
+        "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
@@ -222,17 +214,55 @@
     ],
     "investigate": [
       {
-        "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
-        "question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?"
+        "title": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant",
+        "question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?"
       },
       {
-        "title": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details",
+        "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
         "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Hyderabad",
+      "title": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant",
+      "description": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2otcTlVaFlnckw5Y2lQa2pQbzFtQXFaSEIzRVFpcHRJekRJREl1M0dPTFlSZ2c3Vlp0cUx0WThvTjRUZkxNRTdaVlhNNkFOOTJtZ1U4T0NlRGV5ZVFrR2hFWUxEQ1ZlTEMtTVFJalpSZXNqb2ZDVzZUUDJHMzdzQVVvc3NwcDItWDZKd1hwVE5xVW1nVmZGbXFDbG9kaVN6dEdXUlppdHNPcUxKUFJMQTdWM2gzWXZOTngxTFlMVDlYYmNJX2c?oc=5",
+      "published": "2026-11-27T01:33:32+00:00",
+      "source": "ad-hoc-news.de",
+      "signal": "Watch",
+      "business_area": "Manufacturing / Plants",
+      "priority": "Medium",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [
+        "Natco Pharma"
+      ],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "ad-hoc-news.de",
+      "source_credibility": "Standard",
+      "location": "India",
+      "event_type": "Regulatory Inspection / Observations",
+      "what_happened": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 13,
+      "fact_status": "Reported by ad-hoc-news.de; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2otcTlVaFlnckw5Y2lQa2pQbzFtQXFaSEIzRVFpcHRJekRJREl1M0dPTFlSZ2c3Vlp0cUx0WThvTjRUZkxNRTdaVlhNNkFOOTJtZ1U4T0NlRGV5ZVFrR2hFWUxEQ1ZlTEMtTVFJalpSZXNqb2ZDVzZUUDJHMzdzQVVvc3NwcDItWDZKd1hwVE5xVW1nVmZGbXFDbG9kaVN6dEdXUlppdHNPcUxKUFJMQTdWM2gzWXZOTngxTFlMVDlYYmNJX2c?oc=5"
+        }
+      ]
+    },
     {
       "category": "India",
       "title": "Madhya Pradesh Pharma Exports Set to Rise 10% on FTA-Driven Demand",
@@ -273,48 +303,40 @@
       ]
     },
     {
-      "category": "India",
-      "title": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details",
-      "description": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFVCc1NKQVdjSzQtZkFGNUVWVTJZcnY0NHRJdEtsVjZJNktkYWx1QWtiX3FfQXFHWS1WZ0UtZlFjUEhIM3dvSlRibXFVZEQ1UmVzRGNzcEljQjlkRDQyR2xTVXhUOG1LN0dQZURDZWhmRDRpYlpzNm9XcFJDRGxhX1dRUXd0eEVvdV9fMWtkbk1zMjdoODY1MU00cU1ZTjZJampiM2NwZV8wWEV4OFJDZ21venNWRElweWFreTFzdTRxV1RZYmRfa2pR?oc=5",
-      "published": "2026-11-26T09:11:51+00:00",
-      "source": "Trade Brains",
+      "category": "Vizag / AP",
+      "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
+      "description": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5",
+      "published": "2026-11-26T09:08:35+00:00",
+      "source": "Invest India",
       "signal": "Watch",
       "business_area": "Investment / Expansion",
       "priority": "Medium",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "HDFC Pharma",
-        "Check Details HDFC Pharma"
-      ],
+      "companies": [],
       "project_signals": [
         "investment"
       ],
-      "numbers": [
-        "₹1 lakh",
-        "₹2.22 lakh",
-        "1 lakh",
-        "2.22 lakh"
-      ],
-      "source_name": "Trade Brains",
+      "numbers": [],
+      "source_name": "Invest India",
       "source_credibility": "Standard",
       "location": "India",
       "event_type": "Industry Development",
-      "what_happened": "HDFC Pharma and Healthcare Fund: ₹1 Lakh Investment Grows to ₹2.22 Lakh in 3 Years - Check Details.",
+      "what_happened": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
       "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Trade Brains; primary source or underlying documents not independently verified",
+      "importance_score": 11,
+      "fact_status": "Reported by Invest India; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "Trade Brains",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFVCc1NKQVdjSzQtZkFGNUVWVTJZcnY0NHRJdEtsVjZJNktkYWx1QWtiX3FfQXFHWS1WZ0UtZlFjUEhIM3dvSlRibXFVZEQ1UmVzRGNzcEljQjlkRDQyR2xTVXhUOG1LN0dQZURDZWhmRDRpYlpzNm9XcFJDRGxhX1dRUXd0eEVvdV9fMWtkbk1zMjdoODY1MU00cU1ZTjZJampiM2NwZV8wWEV4OFJDZ21venNWRElweWFreTFzdTRxV1RZYmRfa2pR?oc=5"
+          "source": "Invest India",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5"
         }
       ]
     },
@@ -397,42 +419,6 @@
     },
     {
       "category": "India",
-      "title": "Cipla Launches First Generic Flovent HFA After FDA Approval",
-      "description": "Cipla Launches First Generic Flovent HFA After FDA Approval",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5",
-      "published": "2026-11-25T11:06:00+00:00",
-      "source": "Voice of Healthcare",
-      "signal": "Watch",
-      "business_area": "Regulatory",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the regulatory development and check for implications to products, approvals or export markets.",
-      "companies": [],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "Voice of Healthcare",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Cipla Launches First Generic Flovent HFA After FDA Approval.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Voice of Healthcare; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Voice of Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtnRTlZN09QRU0wZ3VVU19nMjlzVDRkdlNmLURmVFZtMjNMa3dVSGVOc05ZRmRPNDJxR0VzVW5vQ2VOaWtqd29kampVdlpJNjJael9zVEs4N0ZoeG1JWUROWnVPaFN0SzFnYjgtdGJtZTBpM1E0b0xhOS1YSW5KQmhXQmFjQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
       "title": "India Pharma Exports Rise 10.5% to $2.75 Billion in October",
       "description": "India Pharma Exports Rise 10.5% to $2.75 Billion in October",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3MxWjJqeXdZZUZpQ2xMaFN1ZFYwdHhLUmZKdDU4WjZKbFFPUXN1eVY1NHZPY1E5WDZ1UjhqZTdCRC1GUk9aNWtXYVBabWdsbFpuemtRWFRGRDQ0bzZRdkNPY0JCX1U0WmZRVHo0SHF0NmloZzBrZzhVV0NsM0d2ZQ?oc=5",
@@ -469,82 +455,6 @@
         {
           "source": "Voice of Healthcare",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3MxWjJqeXdZZUZpQ2xMaFN1ZFYwdHhLUmZKdDU4WjZKbFFPUXN1eVY1NHZPY1E5WDZ1UjhqZTdCRC1GUk9aNWtXYVBabWdsbFpuemtRWFRGRDQ0bzZRdkNPY0JCX1U0WmZRVHo0SHF0NmloZzBrZzhVV0NsM0d2ZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-      "description": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5",
-      "published": "2026-11-25T07:05:04+00:00",
-      "source": "ETPharma",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "ETPharma",
-      "source_credibility": "Established",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "Investment in advanced tech key to sustain India’s Pharma leadership: Joint secy.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by ETPharma; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "ETPharma",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzRQMktDcUpwTVNuYnNBcUV6Q0xqSWhKaXdEYkpBRDJ2b2dnS3pWdFE3OEpkQ3hhODlTZGN1WW9FUWpDd04xbk82Ty1hOWFIMHpqbmpmeC1ncGp3VWxGYURzTXZFMGRUTjVTVmU1ajZFVVdBRzFxeGNHVWpTRUF6My0xRkNuQTFPZk9iU0NZd2JEUmxuVERUNDhZdHI2LW5VM20tNFI4YUZFSkgyWlZmRUZsUURmWjJrMW01RnpHcW5fUWpxRlJ6TlhLTFRSbjJ2SlJMakZMMUxTRG5uOEV4QWlB0gHnAUFVX3lxTFBPclgzckd2VTVkQURBdHUyakF2VGpSYnJzQzNvX3NsRmZMNmplUVNVbjZ1XzJUYkZ2RnFrSUVNSldKbjFjakdDZG5MakFxbFJvakIxTWNGM0FfcnVOa2tVWDhJV0NObi15NVpacllJd2xnbElJbG9RN2pWMXlJZzRCanVtRUhZSS1wUFhBRUNYOGpRY0tjS05LTHBmdmlMTzEwTFo3V0VvMGM0TkthVXgzVi1rZkg2WkdOaXhrMVk4dGN2cVZucURIbUItNi1NTTdjc0EyQ3RGMjBSbzdvX2w3U0VtWVpjMA?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Vizag / AP",
-      "title": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
-      "description": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5",
-      "published": "2026-11-25T00:29:23+00:00",
-      "source": "ad-hoc-news.de",
-      "signal": "Watch",
-      "business_area": "Manufacturing / Plants",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "A regulatory approval can change competitive supply or market access; the approved product, manufacturer and market should be verified.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Gland Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "ad-hoc-news.de",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Regulatory Approval",
-      "what_happened": "Gland Pharma stock gets USFDA clearance for Visakhapatnam facility.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which products, facilities, jurisdictions and compliance obligations are explicitly affected?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 13,
-      "fact_status": "Reported by ad-hoc-news.de; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEtBVDN4OC1fTS0zbEk1Vzk0SUJRNXVRdUxnUjZoc0Y4MW51TjBxaWJVY2d6RUg2MFFUWGtjRE1wU1FaRlZvQU9fVE5PY2QxSWFKSE5MRTQ2YVVPS1FBX19TSW1Ob3o3Z1pSYmN4NFFpUU9vMGVqV3Nienhud0xGV29PWnFzVDNDWnJGOEtlLUVvdkp0VDVzWVl1RHIzb0VKODdKUnU0OXFndjdEV1ZickNhMUNwUkN4d0Faa3JRbVMwaTg?oc=5"
         }
       ]
     }
