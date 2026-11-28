@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T01:31:54.360020+00:00",
+  "updated": "2026-11-28T09:24:56.980809+00:00",
   "engine_version": "3.11.2",
-  "article_count": 4,
+  "article_count": 2,
   "opportunity_count": 0,
   "risk_count": 0,
-  "watch_count": 4,
+  "watch_count": 2,
   "high_priority_count": 0,
   "successful_feeds": 20,
   "failed_feeds": 0,
@@ -48,81 +48,38 @@
       ]
     },
     {
-      "category": "India",
-      "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
-      "description": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5",
-      "published": "2026-11-26T09:08:35+00:00",
-      "source": "Invest India",
+      "category": "Global",
+      "title": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry",
+      "description": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWNvcmF3SG1ScWV0ZFc4WmMwM0t5a0ZOTWtiUFlKU0VjY2ZDTERRNE80LV94aGp4aW4wRHA5UUhSbUpwUG1WSjB1OXVtOU9MREFUUnE1OEFhYjA1cjNCRldSSDROMGptWVp3a2Rfdnd6R1A2QWJrcDJPSHJDaDFYOEhpOER4MkVPZlVzNVVrT3p6MDJLbXFYUDVxNnBWVEFQLWd0RlZLUTFFdVI1WHJwajlTSGVXVnc2cmhadFdQbXF3T3FJV2hQOGZR?oc=5",
+      "published": "2026-11-27T09:16:37+00:00",
+      "source": "Business News This Week",
       "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
       "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
       "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
       "md_action": "Monitor the development for further commercial or operational implications.",
       "companies": [],
-      "project_signals": [
-        "investment"
-      ],
+      "project_signals": [],
       "numbers": [],
-      "source_name": "Invest India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Invest India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Invest India",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
-      "description": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5",
-      "published": "2026-11-26T03:05:00+00:00",
-      "source": "BigGo Finance",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Recommends Regulating Chinese Biotech",
-        "Big Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "BigGo Finance",
+      "source_name": "Business News This Week",
       "source_credibility": "Standard",
       "location": "Global",
-      "event_type": "Industry Development",
-      "what_happened": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump.",
+      "event_type": "Market / Export Move",
+      "what_happened": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry.",
       "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
       "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
       "evidence_level": "Medium",
       "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by BigGo Finance; primary source or underlying documents not independently verified",
+      "importance_score": 3,
+      "fact_status": "Reported by Business News This Week; primary source or underlying documents not independently verified",
       "opportunity_status": "Not applicable",
       "related_sources": [
         {
-          "source": "BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5"
+          "source": "Business News This Week",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWNvcmF3SG1ScWV0ZFc4WmMwM0t5a0ZOTWtiUFlKU0VjY2ZDTERRNE80LV94aGp4aW4wRHA5UUhSbUpwUG1WSjB1OXVtOU9MREFUUnE1OEFhYjA1cjNCRldSSDROMGptWVp3a2Rfdnd6R1A2QWJrcDJPSHJDaDFYOEhpOER4MkVPZlVzNVVrT3p6MDJLbXFYUDVxNnBWVEFQLWd0RlZLUTFFdVI1WHJwajlTSGVXVnc2cmhadFdQbXF3T3FJV2hQOGZR?oc=5"
         }
       ]
     }
@@ -158,10 +115,10 @@
       "total": 1
     },
     "Investment / Expansion": {
-      "watch": 2,
+      "watch": 0,
       "opportunities": 0,
       "risks": 0,
-      "total": 2
+      "total": 0
     },
     "Manufacturing / Plants": {
       "watch": 1,
@@ -202,12 +159,7 @@
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       },
       {
-        "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
-        "signal": "Watch",
-        "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
-      },
-      {
-        "title": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
+        "title": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry",
         "signal": "Watch",
         "why": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity."
       }
@@ -218,13 +170,49 @@
         "question": "What observations were recorded, what is the company's response, and has the regulator issued any subsequent enforcement action?"
       },
       {
-        "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
-        "question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?"
+        "title": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry",
+        "question": "Which target market and product categories are involved, and what access requirements apply?"
       }
     ],
     "management_question": "Which development has the clearest link to our products, customers, suppliers or planned capacity - and what evidence do we need before acting?"
   },
   "articles": [
+    {
+      "category": "Global",
+      "title": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry",
+      "description": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWNvcmF3SG1ScWV0ZFc4WmMwM0t5a0ZOTWtiUFlKU0VjY2ZDTERRNE80LV94aGp4aW4wRHA5UUhSbUpwUG1WSjB1OXVtOU9MREFUUnE1OEFhYjA1cjNCRldSSDROMGptWVp3a2Rfdnd6R1A2QWJrcDJPSHJDaDFYOEhpOER4MkVPZlVzNVVrT3p6MDJLbXFYUDVxNnBWVEFQLWd0RlZLUTFFdVI1WHJwajlTSGVXVnc2cmhadFdQbXF3T3FJV2hQOGZR?oc=5",
+      "published": "2026-11-27T09:16:37+00:00",
+      "source": "Business News This Week",
+      "signal": "Watch",
+      "business_area": "Exports / Markets",
+      "priority": "Low",
+      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
+      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
+      "md_action": "Monitor the development for further commercial or operational implications.",
+      "companies": [],
+      "project_signals": [],
+      "numbers": [],
+      "source_name": "Business News This Week",
+      "source_credibility": "Standard",
+      "location": "Global",
+      "event_type": "Market / Export Move",
+      "what_happened": "Ireland Pharmaceutical Exports: How US Tariff Policies Could Reshape the Pharma Industry.",
+      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
+      "risk": "No specific material risk identified from the available evidence.",
+      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
+      "evidence_level": "Medium",
+      "confidence": 45,
+      "importance_score": 3,
+      "fact_status": "Reported by Business News This Week; primary source or underlying documents not independently verified",
+      "opportunity_status": "Not applicable",
+      "related_sources": [
+        {
+          "source": "Business News This Week",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWNvcmF3SG1ScWV0ZFc4WmMwM0t5a0ZOTWtiUFlKU0VjY2ZDTERRNE80LV94aGp4aW4wRHA5UUhSbUpwUG1WSjB1OXVtOU9MREFUUnE1OEFhYjA1cjNCRldSSDROMGptWVp3a2Rfdnd6R1A2QWJrcDJPSHJDaDFYOEhpOER4MkVPZlVzNVVrT3p6MDJLbXFYUDVxNnBWVEFQLWd0RlZLUTFFdVI1WHJwajlTSGVXVnc2cmhadFdQbXF3T3FJV2hQOGZR?oc=5"
+        }
+      ]
+    },
     {
       "category": "Hyderabad",
       "title": "Natco Pharma stock: USFDA cites seven observations at Hyderabad plant",
@@ -260,124 +248,6 @@
         {
           "source": "ad-hoc-news.de",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2otcTlVaFlnckw5Y2lQa2pQbzFtQXFaSEIzRVFpcHRJekRJREl1M0dPTFlSZ2c3Vlp0cUx0WThvTjRUZkxNRTdaVlhNNkFOOTJtZ1U4T0NlRGV5ZVFrR2hFWUxEQ1ZlTEMtTVFJalpSZXNqb2ZDVzZUUDJHMzdzQVVvc3NwcDItWDZKd1hwVE5xVW1nVmZGbXFDbG9kaVN6dEdXUlppdHNPcUxKUFJMQTdWM2gzWXZOTngxTFlMVDlYYmNJX2c?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "Madhya Pradesh Pharma Exports Set to Rise 10% on FTA-Driven Demand",
-      "description": "Madhya Pradesh Pharma Exports Set to Rise 10% on FTA-Driven Demand",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmkxZDZONDhiaDhTWFJvbnNyY0VNOEJKblBwTmxPVW1hTm5vb2pJQlZpdTdmaEVLd05lWnlsN1ZGUGlWTkhmLXRZY3ZSbGxITVUxd2N5ZHVQWXVBRVZlRWEwVlJtRkxJSGFYenY3VzBFQ2l3eW5kQ1pUYmdKWkdIelJOYlFxZUFkeEJzY05YaTUzZ1hHanBFVzFtMkNUa2Z1cFppTzRwLWFuV090X1dCOWp6VlNPODIyM3o5WkZNSmFibTRlWDZKU0VleUlHNno2R0EyRGln0gHbAUFVX3lxTFBESEZwX0hjcWVlVVRSMFNuTVZnQ05ndk1pVFFWVEhDZTgyRzFud2JYY1BfYmNnX0VSSWNjMW54WjNKTXJDYjRaUlFHaXVWdUs5a1hQWGFVRmtFaDIxNlRnS1UxVUhsbTRuQUVlZVFOckxaS1A0c2F4YkIwYnJMUVBKODA2NUJENGRDS1pwOTNaTmpBNURONkZNalh6NVJEVGx2UkNfQlNDaHlZQmdkSzhwbXl3aGZFVV9RMkV6cC1sMzdiendSaFpDVTN5MzdncUFyZXZrNjc2c183OA?oc=5",
-      "published": "2026-11-26T23:11:00+00:00",
-      "source": "The Times of India",
-      "signal": "Watch",
-      "business_area": "Exports / Markets",
-      "priority": "Low",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Madhya Pradesh Pharma",
-        "Demand Madhya Pradesh Pharma"
-      ],
-      "project_signals": [],
-      "numbers": [],
-      "source_name": "The Times of India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Market / Export Move",
-      "what_happened": "Madhya Pradesh Pharma Exports Set to Rise 10% on FTA-Driven Demand.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "Which target market and product categories are involved, and what access requirements apply?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 3,
-      "fact_status": "Reported by The Times of India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmkxZDZONDhiaDhTWFJvbnNyY0VNOEJKblBwTmxPVW1hTm5vb2pJQlZpdTdmaEVLd05lWnlsN1ZGUGlWTkhmLXRZY3ZSbGxITVUxd2N5ZHVQWXVBRVZlRWEwVlJtRkxJSGFYenY3VzBFQ2l3eW5kQ1pUYmdKWkdIelJOYlFxZUFkeEJzY05YaTUzZ1hHanBFVzFtMkNUa2Z1cFppTzRwLWFuV090X1dCOWp6VlNPODIyM3o5WkZNSmFibTRlWDZKU0VleUlHNno2R0EyRGln0gHbAUFVX3lxTFBESEZwX0hjcWVlVVRSMFNuTVZnQ05ndk1pVFFWVEhDZTgyRzFud2JYY1BfYmNnX0VSSWNjMW54WjNKTXJDYjRaUlFHaXVWdUs5a1hQWGFVRmtFaDIxNlRnS1UxVUhsbTRuQUVlZVFOckxaS1A0c2F4YkIwYnJMUVBKODA2NUJENGRDS1pwOTNaTmpBNURONkZNalh6NVJEVGx2UkNfQlNDaHlZQmdkSzhwbXl3aGZFVV9RMkV6cC1sMzdiendSaFpDVTN5MzdncUFyZXZrNjc2c183OA?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "title": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
-      "description": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo...",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5",
-      "published": "2026-11-26T09:08:35+00:00",
-      "source": "Invest India",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "Invest India",
-      "source_credibility": "Standard",
-      "location": "India",
-      "event_type": "Industry Development",
-      "what_happened": "India’s Critical Drug Manufacturing Ecosystem: Investment Oppo.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by Invest India; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "Invest India",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVlTVkE2cFM0eGc4XzM2b01SbnBQY3VUZFhoNjU2Sm51OHg2MWVRdmVmSk5KMjNZd0hvMGlnbW5lR2hwTFhVRG5KYzlpZDlEbDVTalFmd0dPcUZVSTdTYjM3SklCYlVfWC1QWVo0TzlUY2tYOGxMd1g5NUl5b3owZEtXZHMwU1ZOcUVtU2RR?oc=5"
-        }
-      ]
-    },
-    {
-      "category": "Global",
-      "title": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
-      "description": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5",
-      "published": "2026-11-26T03:05:00+00:00",
-      "source": "BigGo Finance",
-      "signal": "Watch",
-      "business_area": "Investment / Expansion",
-      "priority": "Medium",
-      "relevance": "Early signal requiring additional evidence before a commercial or risk conclusion.",
-      "why_it_matters": "The development is not yet a confirmed commercial or risk signal. Monitor for evidence that links it to products, customers, suppliers or capacity.",
-      "md_action": "Monitor the development for further commercial or operational implications.",
-      "companies": [
-        "Recommends Regulating Chinese Biotech",
-        "Big Pharma"
-      ],
-      "project_signals": [
-        "investment"
-      ],
-      "numbers": [],
-      "source_name": "BigGo Finance",
-      "source_credibility": "Standard",
-      "location": "Global",
-      "event_type": "Industry Development",
-      "what_happened": "U.S. House Select Committee Recommends Regulating Chinese Biotech Beyond Investment to 'Technology Licensing'… Big Pharma's China Courtship Hits a Speed Bump.",
-      "business_opportunity": "No confirmed commercial opportunity identified from the available evidence.",
-      "risk": "No specific material risk identified from the available evidence.",
-      "investigation_question": "What evidence would link this Investment / Expansion development to Sri Aditya's products, customers or suppliers?",
-      "evidence_level": "Medium",
-      "confidence": 45,
-      "importance_score": 9,
-      "fact_status": "Reported by BigGo Finance; primary source or underlying documents not independently verified",
-      "opportunity_status": "Not applicable",
-      "related_sources": [
-        {
-          "source": "BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2V6NDRiNlBQVEpSTFl6VXo3RTVGbUI1VEFXNjdCb2pvSnh3cVItdGNFci1oM2tRUENZMENoSm5RUzBsb1VQX3hLblNjbFJiZGJUSlQwSW1ZclotR20wdmtYZ0tXTDN2U3NfSDNHTmpnazdsb0E?oc=5"
         }
       ]
     }
